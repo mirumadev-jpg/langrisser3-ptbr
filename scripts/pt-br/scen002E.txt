@@ -1,0 +1,137 @@
+Tiaris<$FFFF>
+Rifani<$FFFF>
+Runa<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, mestre espadachim<$FFFF>
+Pieru<$FFFF>
+Fáberu, o sábio<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói Do Kahni<$FFFF>
+Artemiura<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+Marquês Uíliam<$FFFF>
+Cavaleiro Jerioru<$FFFF>
+Comandante de Larcassu<$FFFF>
+Marquês Uíliam<$FFFF>
+Comandante de Riguéria<$FFFF>
+General Fana<$FFFF>
+Marechal Artemiura<$FFFF>
+<$0000>・Derrote todos os inimigos<$FFFE>
+<$0000>・Morte de <$F600><$0000><$FFFE>
+Castelo Flutuante<$FFFF>
+Ah, não!<$FFFC>Por que isso tinha que acontecer<$FFFC>logo agora?<$FFFE>
+Eles aproveitaram a tempestade.<$FFFC>Ficaram escondidos acima das<$FFFC>nuvens de chuva para se aproximar<$FFFC>do castelo.<$FFFE>
+E tinha que ser logo no dia<$FFFC>da sua cerimônia de investidura...<$FFFC>né?<$FFFE>
+Pois é.<$FFFC>Para o inimigo, foi uma ótima<$FFFC>oportunidade.<$FFFD>Mas não adianta reclamar.<$FFFC>Vamos, Tiaris! Temos que proteger<$FFFC>o castelo e o canhão mágico!<$FFFE>
+Chegamos a tempo. Parece que<$FFFC>o inimigo ainda não apareceu.<$FFFE>
+Vamos nos preparar<$FFFC>para interceptar os inimigos<$FFFC>que aparecerem.<$FFFE>
+Estamos a postos, senhor!<$FFFE>
+Lorde Uíliam!<$FFFC>O inimigo apareceu!<$FFFE>
+Muito bem! Preparem-se para<$FFFC>interceptá-los!<$FFFE>
+Eles estão em pânico.<$FFFE>
+Exatamente como o senhor planejou,<$FFFC>excelência.<$FFFE>
+Heh.<$FFFC>Mas não é qualquer um que prevê<$FFFC>que nossa força principal viria<$FFFC>pelo leste. Eles sabem o que fazem.<$FFFE>
+Mas sem resistência não teria<$FFFC>graça.<$FFFC>Muito bem! Destruam o cristal<$FFFC>central a qualquer custo!<$FFFE>
+Então o alvo do Império era<$FFFC>mesmo o cristal.<$FFFE>
+O quê?!<$FFFC>Se destruírem o cristal...<$FFFC>nem o canhão mágico nem o<$FFFC>castelo vão se salvar!<$FFFE>
+Se isso acontecer, Larcassu<$FFFC>estará perdida.<$FFFC>Não podemos perder... de jeito<$FFFC>nenhum!<$FFFE>
+P-papai...<$FFFE>
+Nunca pensei que o Lorde Uíliam<$FFFC>fosse perder...<$FFFC>O marechal imperial Artemiura...<$FFFC>Que homem assustador!<$FFFE>
+Avante!<$FFFC>Vamos derrubar o canhão mágico!<$FFFE>
+Todos às posições!<$FFFE>
+Sim, senhor!<$FFFE>
+<$F600><$0000>,<$FFFC>cuide da minha filha.<$FFFC>Conto com você.<$FFFE>
+Pode deixar!<$FFFE>
+Ah, para de me tratar<$FFFC>como criança!<$FFFE>
+Vamos, pessoal!<$FFFC>Temos que defender este lugar<$FFFC>a qualquer custo!<$FFFE>
+Entendido!<$FFFE>
+Vou mostrar que o Castelo<$FFFC>Flutuante é muito mais<$FFFC>do que só o canhão<$FFFC>mágico!<$FFFE>
+Pelo bem do marquês,<$FFFC>não podemos perder!<$FFFE>
+Cavaleiro Jerioru.<$FFFC>Desta vez, eu enfrento você.<$FFFE>
+…<$FFFE>
+Agora só falta<$FFFC>destruir aquele<$FFFC>cristal...<$FFFE>
+N-não!<$FFFE>
+Droga!<$FFFC>Preciso proteger o cristal...<$FFFE>
+Quem diria que você conseguiria<$FFFC>me ferir desse jeito...<$FFFC>Mas você já não tem forças para<$FFFC>continuar.<$FFFD>...Jerioru. Que desperdício<$FFFC>de homem.<$FFFE>
+Com isso, o destino de Larcassu<$FFFC>está selado.<$FFFE>
+Quem diria que este lugar<$FFFC>acabaria caindo...<$FFFE>
+Não é à toa que ele virou marechal<$FFFC>do Império tão jovem...<$FFFC>A-acabou para nós...?<$FFFE>
+<$F600><$0000>...<$FFFE>
+Vá para a capital de Rafél e<$FFFC>procure nossa aliada Báral.<$FFFC>Reúna tropas lá e prepare o<$FFFC>contra-ataque...<$FFFE>
+Jerioru... e minha filha...<$FFFC>cuide bem<$FFFC>deles... por favor...<$FFFE>
+Papai!<$FFFE>
+Lorde Uíliam... Droga!<$FFFE>
+Então aquele cristal é a fonte<$FFFC>de energia do castelo e<$FFFC>do canhão mágico!<$FFFC>Humpf!<$FFFE>
+Muito bem! A operação foi um<$FFFC>sucesso! Vamos recuar por<$FFFC>enquanto, antes que o castelo<$FFFC>nos arraste junto!<$FFFE>
+O castelo flutuante está<$FFFC>afundando!?<$FFFE>
+Não pode ser!<$FFFC>Temos que sair daqui, rápido!<$FFFE>
+Não!<$FFFC>Abra os olhos, papai!<$FFFE>
+Vamos atacar<$FFFC>o cristal agora!<$FFFE>
+Não dá! Não vai quebrar!<$FFFE>
+Entendi.<$FFFC>Deixem o cristal comigo!<$FFFE>
+Sim, senhor!<$FFFC>Vamos atacar os defensores<$FFFC>do castelo!<$FFFE>
+Vamos atacar<$FFFC>o cristal agora!<$FFFE>
+Não dá! Não vai quebrar!<$FFFE>
+Entendi.<$FFFC>Deixem o cristal comigo!<$FFFE>
+Sim, senhor!<$FFFC>Vamos atacar os defensores<$FFFC>do castelo!<$FFFE>
+Ataquem o cristal!<$FFFE>
+Não adianta, senhor!<$FFFC>Não conseguimos nem arranhá-lo!<$FFFE>
+Entendi.<$FFFC>Deixem o cristal comigo!<$FFFE>
+Sim, senhor!<$FFFC>Vamos atacar os defensores<$FFFC>do castelo!<$FFFE>
+Há uma erva mágica crescendo<$FFFC>à sombra do pilar.<$FFFE>
+Você encontrou uma erva mágica!<$FFFE>
+Há uma erva mágica<$FFFC>crescendo num cantinho<$FFFC>do patamar da escada.<$FFFE>
+Você encontrou uma erva mágica!<$FFFE>
+Não acredito...<$FFFC>Uma batalha de verdade é assim...?<$FFFE>
+Não vou deixar você passar<$FFFC>daqui!<$FFFE>
+Aaah!<$FFFE>
+Tiaris, fique para trás!<$FFFC>Deixa o resto comigo!<$FFFE>
+Desculpa...<$FFFC>Só atrapalhei...<$FFFE>
+Vocês aí, vão embora!<$FFFE>
+Guh!<$FFFE>
+Ah! P-papai!<$FFFE>
+Lorde Uíliam!<$FFFE>
+Marquês!<$FFFE>
+Droga! Que técnica de espada!<$FFFC>Nem nossos melhores soldados<$FFFC>conseguem chegar perto dele!<$FFFE>
+É claro!<$FFFC>Acha mesmo que uma tropa tão<$FFFC>pequena seria capaz de tomar<$FFFC>este castelo?<$FFFE>
+Você deve ser o famoso marechal<$FFFC>imperial Artemiura, do Império<$FFFC>de Riguéria.<$FFFD>Não pense que vai sair vivo<$FFFC>deste castelo!<$FFFE>
+Este castelo flutuante atrapalha<$FFFC>os planos de expansão do Império<$FFFC>de Riguéria. É uma pena derrubá-lo,<$FFFC>mas não temos escolha.<$FFFE>
+Que desaforo!<$FFFC>Prepare-se!<$FFFE>
+Droga... Você é mesmo tudo isso,<$FFFC>Artemiura...<$FFFC>Nunca ninguém tinha me<$FFFC>derrotado antes...<$FFFE>
+Jerioru também!?<$FFFE>
+Heh, isso foi fácil.<$FFFE>
+Então aquele é o cristal.<$FFFE>
+Venham!<$FFFC>Quem não tem amor à própria vida<$FFFC>pode vir!<$FFFE>
+Está cheio de coragem, hein...<$FFFC>Qual é o seu nome?<$FFFE>
+Jerioru, cavaleiro do Reino<$FFFC>de Larcassu.<$FFFE>
+Você é o Jerioru?<$FFFC>Vai ser um adversário à altura.<$FFFC>Eu sou Fana, uma dos Quatro<$FFFC>Generais do Império!<$FFFE>
+Não vou tirar sua vida.<$FFFC>Mas você vai pagar<$FFFC>por ter invadido<$FFFC>este castelo!<$FFFE>
+Com Lorde Uíliam ferido,<$FFFC>só me resta lutar com todas<$FFFC>as minhas forças.<$FFFD>Vamos!<$FFFE>
+Ora, ora...<$FFFC>Então você é Jerioru, o orgulho<$FFFC>de Larcassu.<$FFFD>Eu também comando o exército<$FFFC>imperial. Espero ser um adversário<$FFFC>à sua altura.<$FFFC>Que tal cruzarmos as espadas?<$FFFE>
+Você derrotou Fana...<$FFFC>É mesmo o herói de quem Larcassu<$FFFC>tanto se orgulha.<$FFFD>Eu também comando o exército<$FFFC>imperial. Espero ser um adversário<$FFFC>à sua altura.<$FFFC>Que tal cruzarmos as espadas?<$FFFE>
+Marechal imperial Artemiura...<$FFFC>Eu sempre quis ter<$FFFC>a chance de enfrentá-lo<$FFFC>pessoalmente.<$FFFE>
+Marechal imperial<$FFFC>Artemiura! Você vai pagar<$FFFC>com a própria vida<$FFFC>por ferir o marquês!<$FFFE>
+Guh!<$FFFE>
+É o meu fim!<$FFFE>
+Guh!<$FFFE>
+Baixei a guarda!<$FFFE>
+N-não acredito!<$FFFE>
+Saia da frente!<$FFFC>Deixe-nos passar!<$FFFE>
+O quê?! I-impossível...<$FFFD>Apelando, é?<$FFFC>Quem não luta limpo<$FFFC>acaba pagando<$FFFC>por isso!<$FFFE>
+O quê?! Nem eu consigo<$FFFC>enfrentá-lo...<$FFFC>Maldito!<$FFFE>
+Chega, Fana. Recuar<$FFFC>por enquanto!<$FFFE>
+M-mas, excelência...<$FFFE>
+Deixe o resto comigo.<$FFFE>
+Entendido.<$FFFE>
+Pensei que todos fossem covardes<$FFFC>escondidos atrás do canhão mágico...<$FFFC>Mas até que tem gente<$FFFC>de fibra por aqui.<$FFFE>
+Droga... Que espadachim<$FFFC>impressionante...<$FFFE>
+Guh!<$FFFE>
+Guh!<$FFFE>
+Guh!<$FFFE>

@@ -1,0 +1,169 @@
+Tiaris<$FFFF>
+Rifani<$FFFF>
+Runa<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, mestre espadachim<$FFFF>
+Pieru<$FFFF>
+Fáberu, o sábio<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói Do Kahni<$FFFF>
+Artemiura<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+…Jovem que sonha ser cavaleiro,<$FFFC>…jovem que tece a história,<$FFFC>desperte!<$FFFE>
+Meu nome é Ruxíris.<$FFFC>No mundo dos mortais,  me chamam de<$FFFC>Deusa da Luz.<$FFFE>
+Sob minha proteção, o reino de<$FFFC>Larcassu viveu longos anos em paz<$FFFC>e prosperidade.<$FFFE>
+Mas presságios de uma sombra<$FFFC>sombria já surgem sobre Larcassu.<$FFFE>
+Em breve, a paz chegará ao fim<$FFFC>e começará uma era de conflitos.<$FFFE>
+Mas proteger o mundo dos mortais<$FFFC>é dever de vocês, não meu.<$FFFC>Só posso ajudá-los.<$FFFE>
+Se você deseja a paz, o seu desejo<$FFFC>tocará o coração das pessoas<$FFFC>e trará a paz de volta<$FFFC>a este mundo.<$FFFE>
+Para saber se você pode salvar<$FFFC>este mundo, farei algumas<$FFFC>perguntas.<$FFFE>
+Primeiro, diga-me seu nome.<$FFFE>
+Quer que eu explique tudo outra<$FFFC>vez, desde o começo?<$FFFE>
+Minha explicação termina aqui.<$FFFC>Não se esqueça de contratar<$FFFC>mercenários. Espero grandes feitos<$FFFC>de você.<$FFFE>
+Espero grandes feitos de você.<$FFFE>
+Agora, responda às minhas<$FFFC>perguntas.<$FFFE>
+Antes da batalha, quero lhe dar<$FFFC>um presente. Aperte o botão C.<$FFFE>
+O que é mais importante para<$FFFC>formar uma tropa invencível?<$FFFE>
+Liderança<$FFFE>
+Mobilidade<$FFFE>
+Poder de destruição<$FFFE>
+O que é necessário para se<$FFFC>tornar um herói?<$FFFE>
+Coragem<$FFFE>
+Carisma<$FFFE>
+Espírito indomável<$FFFE>
+O que é necessário para se<$FFFC>tornar um herói?<$FFFE>
+Bondade<$FFFE>
+Coragem<$FFFE>
+Espírito indomável<$FFFE>
+O que é necessário para se<$FFFC>tornar um herói?<$FFFE>
+Bondade<$FFFE>
+Carisma<$FFFE>
+Espírito indomável<$FFFE>
+Qual destas coisas você mais<$FFFC>aprecia?<$FFFE>
+A calmaria antes da tempestade<$FFFE>
+A brisa com cheiro de mar<$FFFE>
+O vento de outono entre as folhas<$FFFE>
+Qual destas coisas você mais<$FFFC>aprecia?<$FFFE>
+A brisa com cheiro de mar<$FFFE>
+O vento de outono entre as folhas<$FFFE>
+A brisa de verão na pradaria<$FFFE>
+Qual destas coisas você mais<$FFFC>aprecia?<$FFFE>
+Uma brisa refrescante<$FFFE>
+O vento de outono entre as folhas<$FFFE>
+A brisa com cheiro de mar<$FFFE>
+Qual destas coisas você mais<$FFFC>aprecia?<$FFFE>
+A calmaria antes da tempestade<$FFFE>
+A brisa de verão na pradaria<$FFFE>
+A brisa com cheiro de mar<$FFFE>
+Qual destas coisas você mais<$FFFC>aprecia?<$FFFE>
+A brisa de verão na pradaria<$FFFE>
+Uma brisa refrescante<$FFFE>
+A brisa com cheiro de mar<$FFFE>
+Qual destas coisas você mais<$FFFC>aprecia?<$FFFE>
+A calmaria antes da tempestade<$FFFE>
+Uma brisa refrescante<$FFFE>
+A brisa com cheiro de mar<$FFFE>
+Onde você acredita que Deus está?<$FFFE>
+Nos céus<$FFFE>
+Deus não existe<$FFFE>
+Em tudo o que existe<$FFFE>
+Se o mundo estiver à beira da<$FFFC>destruição, o que nos salvará?<$FFFE>
+Os grandes deuses<$FFFE>
+Conhecimento abundante<$FFFE>
+Minha própria força<$FFFE>
+O que você espera das tropas<$FFFC>sob seu comando?<$FFFE>
+Um contingente numeroso<$FFFE>
+Moral elevado<$FFFE>
+Disciplina absoluta<$FFFE>
+Que qualidade você mais valoriza<$FFFC>em uma tropa ideal?<$FFFE>
+Minha própria força é mais<$FFFC>importante que a do exército<$FFFE>
+Defesa impenetrável<$FFFE>
+Poder para esmagar o inimigo<$FFFE>
+O que você mais busca na vida?<$FFFE>
+Poder<$FFFE>
+Riqueza<$FFFE>
+Conhecimento<$FFFE>
+Por que você pretende viver<$FFFC>neste mundo?<$FFFE>
+Para proteger quem amo<$FFFE>
+Para me aperfeiçoar<$FFFE>
+Para realizar meus sonhos<$FFFE>
+Durante o reabastecimento, o<$FFFC>inimigo lança um ataque surpresa.<$FFFC>O que você faria?<$FFFE>
+Ordenaria a retirada<$FFFE>
+Contra-atacaria<$FFFE>
+Defenderia a posição<$FFFE>
+Uma unidade aliada está cercada,<$FFFC>mas a sua também corre perigo.<$FFFE>
+Que ordem você daria?<$FFFE>
+Ordenaria a retirada<$FFFE>
+Chamaria reforços e resistiria<$FFFE>
+Iria socorrer a unidade aliada<$FFFE>
+Se obtivesse um poder imenso,<$FFFC>para que o usaria?<$FFFE>
+Para proteger as pessoas<$FFFE>
+Para dominar tudo<$FFFE>
+Para defender a justiça<$FFFE>
+O que é o amor para você?<$FFFE>
+Algo que se dá e se recebe<$FFFE>
+Algo que se recebe<$FFFE>
+Uma fonte de poder infinito<$FFFE>
+O que você deseja para este mundo?<$FFFE>
+Amor, coragem e esperança<$FFFE>
+Liberdade para viver como quiser<$FFFE>
+Ordem e unidade<$FFFE>
+Que capacidade um governante<$FFFC>deve ter?<$FFFE>
+Carisma<$FFFE>
+Capacidade de decidir<$FFFE>
+Capacidade de agir<$FFFE>
+Na véspera da batalha, você se<$FFFC>despede da pessoa amada. O que faz?<$FFFE>
+Diz palavras para tranquilizá-la<$FFFE>
+Abraça-a com carinho<$FFFE>
+Sorri em silêncio e vai embora<$FFFE>
+O que é ser homem?<$FFFE>
+Um amor que acolhe a todos<$FFFE>
+Uma alma ardente<$FFFE>
+Um corpo de aço<$FFFE>
+Quando a batalha começa, que<$FFFC>qualidade você exige de si mesmo?<$FFFE>
+Amplo conhecimento tático<$FFFE>
+Discernimento e serenidade<$FFFE>
+Poder imenso<$FFFE>
+Como seria a tropa ideal para você?<$FFFE>
+Poucos soldados de elite<$FFFE>
+Uma grande tropa, mesmo que cada<$FFFC>soldado seja menos capaz<$FFFE>
+Eu sozinho sou suficiente<$FFFE>
+Por fim, por que você luta?<$FFFE>
+Para conquistar fama e honra<$FFFE>
+Para proteger minha pátria<$FFFE>
+Para proteger quem amo<$FFFE>
+Se quiser, posso explicar as<$FFFC>táticas próprias deste mundo.<$FFFE>
+Quer que eu explique o básico<$FFFC>sobre como as fases funcionam?<$FFFE>
+Cada fase começa com um prólogo.<$FFFC>Em seguida, você vai à preparação<$FFFC>para o combate.<$FFFD>Nessa tela, pode contratar<$FFFC>mercenários, comprar e vender<$FFFC>itens, equipar seus comandantes<$FFFC>e também trocar de classe.<$FFFD>Depois de posicionar todos os<$FFFC>comandantes no mapa, escolha<$FFFC>【Partir】 para iniciar a batalha.<$FFFD>Em algumas fases, porém, as<$FFFC>posições iniciais já são definidas.<$FFFD>A simulação tem dois modos:<$FFFC>o modo de mapa e o de batalha.<$FFFD>Neste jogo, ambos são novos.<$FFFD>Para concluir cada cenário,<$FFFC>cumpra sua condição de vitória.<$FFFC>Se a condição de derrota ocorrer,<$FFFC>será fim de jogo.<$FFFD>As condições de vitória e derrota<$FFFC>aparecem no prólogo de cada fase,<$FFFC>mas podem mudar durante o cenário.<$FFFD>Fique atento a essas mudanças.<$FFFD>Você pode consultar a condição<$FFFC>de vitória no menu durante o jogo.<$FFFE>
+Quer uma explicação mais detalhada<$FFFC>da preparação para o combate?<$FFFE>
+Na preparação, você pode contratar<$FFFC>mercenários e comprar itens.<$FFFD>Use os botões L e R para alternar<$FFFC>entre os comandantes que contratam<$FFFC>mercenários.<$FFFD>Pressione Start para ver as<$FFFC>descrições de itens e mercenários.<$FFFE>
+Quer que eu explique melhor o<$FFFC>combate semirrealista (S.S.)?<$FFFE>
+Neste jogo, cada unidade age como<$FFFC>um grupo em torno do comandante.<$FFFD>Por isso, você só dá ordens aos<$FFFC>comandantes, não aos mercenários<$FFFC>individualmente.<$FFFD>Os comandantes não agem assim<$FFFC>que recebem uma ordem.<$FFFD>Depois de dar ordens a todos,<$FFFC>escolha 【Iniciar Operação】 no<$FFFC>menu de configurações para que<$FFFC>todas as unidades ajam juntas.<$FFFE>
+Quer que eu explique os comandos?<$FFFE>
+【Destino】 define para onde a<$FFFC>unidade vai se deslocar.<$FFFC>Você pode definir até quatro<$FFFC>pontos do trajeto, dentro do<$FFFC>alcance máximo de movimento.<$FFFD>【Tratamento】 recupera HP da<$FFFC>unidade, mas impede que ela se<$FFFC>mova ou ataque neste turno.<$FFFD>【Magia】 consome MP para lançar<$FFFC>feitiços. Depois disso, não é<$FFFC>possível realizar outra ação.<$FFFD>As magias têm tempo de conjuração;<$FFFC>as mais poderosas demoram mais<$FFFC>para serem lançadas.<$FFFD>【Item】 permite equipar ou usar<$FFFC>itens que a unidade possui.<$FFFD>O equipamento e o uso ocorrem<$FFFC>após o movimento dos dois lados.<$FFFC>Até lá, a unidade fica esperando.<$FFFD>Itens próprios para 【Uso】 são<$FFFC>consumidos e desaparecem.<$FFFC>Itens com efeitos especiais também<$FFFC>podem quebrar quando usados.<$FFFD>【Invocação】 consome MP para<$FFFC>invocar monstros ou criaturas.<$FFFC>Eles passam a agir como uma<$FFFC>unidade sob seu comando.<$FFFE>
+【Habilidade】 é um poder especial<$FFFC>de cada comandante. Algumas<$FFFC>habilidades são automáticas;<$FFFC>outras são ativadas por você.<$FFFD>Durante a batalha, só é possível<$FFFC>escolher as habilidades manuais.<$FFFD>Os efeitos variam, mas usá-las<$FFFC>bem pode levar você à vitória.<$FFFD>Em geral, escolher um comando<$FFFC>impede usar os demais no turno.<$FFFC>【Modo】 e 【Formação】 são<$FFFC>as únicas exceções: combinam<$FFFC>com outros comandos.<$FFFD>Até escolher 【Iniciar Operação】,<$FFFC>você pode alterar as ordens<$FFFC>quantas vezes quiser.<$FFFE>
+Quer que eu explique o comando<$FFFC>【Modo】?<$FFFE>
+Há três modos de movimento:<$FFFC>【Normal】, 【Alta Velocidade】 e<$FFFC>【Defesa】.<$FFFD>【Normal】 equilibra todos os<$FFFC>aspectos da unidade.<$FFFC>【Alta Velocidade】 aumenta o<$FFFC>movimento, mas reduz o ataque<$FFFC>e a defesa.<$FFFD>Em 【Defesa】, a unidade não se<$FFFC>move, mas sua defesa aumenta.<$FFFC>Os mercenários também ficam no<$FFFC>lugar, mantendo a formação e<$FFFC>criando uma linha defensiva.<$FFFE>
+Quer dicas sobre o comando<$FFFC>【Formação】?<$FFFE>
+A formação determina como os<$FFFC>mercenários se posicionam após<$FFFC>o movimento do comandante.<$FFFD>Em 【Defesa】, a formação não muda.<$FFFC>Para alterá-la, primeiro desative<$FFFC>o modo de defesa.<$FFFD>【囗】 é a formação básica e<$FFFC>serve para avançar em qualquer direção.<$FFFD>【｜】 contém inimigos que vêm<$FFFC>pelos lados e ajuda no avanço vertical.<$FFFD>【―】 contém inimigos que vêm<$FFFC>de cima ou de baixo e ajuda no<$FFFC>avanço horizontal.<$FFFD>【＼】 e 【／】 contêm ataques<$FFFC>diagonais e ajudam no avanço<$FFFC>nessas direções.<$FFFD>O importante no combate é entrar<$FFFC>em contato com o inimigo. Use<$FFFC>bem as formações para levar<$FFFC>vantagem na batalha.<$FFFE>
+Quer que eu explique o modo<$FFFC>de batalha?<$FFFE>
+Quando o movimento termina e sua<$FFFC>unidade toca um inimigo no mapa,<$FFFC>começa o modo de batalha.<$FFFC>Toda a unidade luta, incluindo<$FFFC>os mercenários.<$FFFD>A posição no mapa é reproduzida<$FFFC>no combate. Pense bem na<$FFFC>【Formação】 antes de agir.<$FFFD>Na tela anterior à batalha, você<$FFFC>pode definir 【Alvo de Ataque】,<$FFFC>【Alvo de Proteção】 e outras ordens.<$FFFC>Selecione a unidade que deseja<$FFFC>comandar nessa tela.<$FFFE>
+Quando terminar de dar ordens,<$FFFC>escolha 【Iniciar Batalha】 no menu<$FFFC>ou pressione Start para começar.<$FFFD>Sem ordens, a unidade agirá no<$FFFC>modo 【Automático】.<$FFFD>A batalha seguirá as ordens<$FFFC>definidas na tela anterior.<$FFFC>Se o comandante for derrotado,<$FFFC>toda a unidade será eliminada.<$FFFE>
+Quer que eu explique as relações<$FFFC>de vantagem entre atributos?<$FFFE>
+Cada atributo tem vantagens de<$FFFC>combate específicas.<$FFFD>Infantaria vence lanceiros, mas<$FFFC>perde para a cavalaria.<$FFFC>Lanceiros vencem a cavalaria,<$FFFC>mas perdem para a infantaria.<$FFFC>Cavalaria vence a infantaria,<$FFFC>mas perde para os lanceiros.<$FFFD>Arqueiros são fortes contra tropas<$FFFC>voadoras. Sacerdotes são fortes<$FFFC>contra mortos-vivos, demônios e<$FFFC>géis.<$FFFD>Entre os voadores, há unidades<$FFFC>especializadas em atacar alvos no<$FFFC>solo e outras em alvos no ar.<$FFFD>Alguns aquáticos têm vantagem<$FFFC>especial na água; outros apenas<$FFFC>se deslocam mais rápido nela.<$FFFD>Na loja de mercenários, pressione<$FFFC>Start ao escolher uma unidade<$FFFC>para consultar essas características.<$FFFE>
+Quer que eu explique a troca<$FFFC>flexível de classes?<$FFFE>
+Quer saber mais sobre a troca<$FFFC>de classe?<$FFFE>
+Trocar de classe altera o atributo<$FFFC>do comandante e também muda<$FFFC>quais mercenários ele pode contratar.<$FFFD>A troca é feita no comando<$FFFC>【Templo de Mudança de Classe】<$FFFC>da tela de preparação.<$FFFD>No início, cada personagem tem<$FFFC>uma classe disponível. Ao chegar<$FFFC>ao nível 10, 30 e 50, uma nova<$FFFC>classe pode ser liberada.<$FFFD>Alguns personagens não recebem<$FFFC>uma nova classe no nível 50.<$FFFD>Ao mudar de classe, você começa<$FFFC>no estágio mais básico daquela<$FFFC>classe, ainda pouco poderosa.<$FFFD>O progresso nas classes anteriores<$FFFC>fica salvo, mesmo que você troque<$FFFC>de classe no meio do caminho.<$FFFD>Assim, se voltar a uma classe<$FFFC>anterior, continuará avançando<$FFFC>do ponto em que parou.<$FFFE>
+Quer que eu explique como<$FFFC>evoluir uma classe?<$FFFE>
+【Evolução de Classe】 é mudar<$FFFC>para uma classe mais avançada<$FFFC>do mesmo atributo.<$FFFD>Isso acontece ao usar o item<$FFFC>【Bênção dos Deuses】 ou ao<$FFFC>ganhar 15 níveis em uma classe.<$FFFD>【Exemplo】<$FFFC>Ao subir 15 níveis como Lorde,<$FFFC>você se torna Lorde Supremo.<$FFFE>
+Quer saber como se ganha<$FFFC>experiência?<$FFFE>
+Se derrotar o comandante inimigo<$FFFC>enquanto ainda há mercenários,<$FFFC>você também recebe a experiência<$FFFC>dos mercenários eliminados junto dele.<$FFFD>Por isso, o ideal é derrotar<$FFFC>o comandante com eficiência.<$FFFC>Mesmo derrotando apenas os<$FFFC>mercenários, você ganha um pouco<$FFFC>de experiência.<$FFFE>
+Quer conhecer os controles<$FFFC>especiais do jogo?<$FFFE>
+Quando há muitos personagens<$FFFC>sob seu comando, é difícil achar<$FFFC>um comandante.<$FFFC>Pressione Y para mover o cursor<$FFFC>automaticamente até o próximo.<$FFFD>Quando uma área de alcance for<$FFFC>exibida, pressione A para manter<$FFFC>o cursor dentro dela.<$FFFD>B e X movem o cursor rapidamente.<$FFFC>Mas X é mais seguro: ao contrário<$FFFC>de B, não tem função de cancelar.<$FFFE>
