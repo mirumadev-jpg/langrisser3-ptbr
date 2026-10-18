@@ -6,7 +6,7 @@ Projeto de fã para traduzir *Langrisser III* (Sega Saturn, Japão) para portugu
 
 **[Abrir a página do projeto](https://mirumadev-jpg.github.io/langrisser3-ptbr/)** · **[Ver os créditos](CREDITS.md)** · **[Ver os roteiros](scripts/pt-br/)**
 
-## Sobre Miruma
+## Sobre Mim
 
 Sou Miruma: dev solo, artista, compositor e escritor. Estou trabalhando em jogos comerciais e gratuitos. Resolvi traduzir *Langrisser III* porque amo a franquia e quero aproximar essa obra do público brasileiro.
 
