@@ -24,7 +24,8 @@ Este documento registra o fluxo de trabalho para continuar o projeto com consist
 - Cenário 1: revisado, aprovado e publicado.
 - Cenário 2: revisado, aprovado e publicado.
 - Cenário 3: revisado, aprovado e publicado.
-- Cenário 4: rascunho enviado à revisão de Miruma; não publicar nem considerar aprovado sem confirmação explícita.
+- Cenário 4: revisado e aprovado por Miruma; arquivo final ainda não está publicado no repositório.
+- Cenário 5: em produção; manter como rascunho até revisão e aprovação explícita de Miruma.
 
 ## Regras técnicas e de qualidade
 
@@ -53,4 +54,4 @@ Este documento registra o fluxo de trabalho para continuar o projeto com consist
 
 ## Próximo passo de tradução
 
-Retomar o próximo cenário na ordem, preparar um rascunho para revisão de Miruma e aguardar aprovação antes de publicar qualquer arquivo ou atualizar o status como aprovado.
+Retomar o cenário 5 na ordem, preparar um rascunho para revisão de Miruma e aguardar aprovação antes de publicar qualquer arquivo ou atualizar seu status como aprovado.
