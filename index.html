@@ -89,6 +89,11 @@
     .button.primary { color: #211b19; background: linear-gradient(135deg, #f0d797, #d3ab68); border-color: transparent; }
     .statusline { display: flex; flex-wrap: wrap; gap: 10px 24px; margin-top: 42px; color: var(--muted); font-size: .9rem; }
     .statusline span::before { display: inline-block; width: 7px; height: 7px; margin: 0 9px 1px 0; border-radius: 50%; background: var(--rose); content: ""; }
+    .progress-overview { display: flex; align-items: center; gap: 16px; margin: 0 0 28px; }
+    .progress-ring { --progress: 8.3%; display: grid; flex: 0 0 76px; width: 76px; height: 76px; place-items: center; border-radius: 50%; background: conic-gradient(var(--gold) 0 var(--progress), rgba(239,218,178,.13) var(--progress) 100%); }
+    .progress-ring span { display: grid; width: 60px; height: 60px; place-items: center; border: 1px solid var(--line); border-radius: 50%; background: var(--night-2); color: var(--gold); font-size: .94rem; font-weight: 750; }
+    .progress-copy strong { display: block; color: var(--ink); font-size: 1rem; }
+    .progress-copy span { display: block; color: var(--muted); font-size: .88rem; }
     section { padding: 74px 0; border-top: 1px solid var(--line); }
     .section-head { max-width: 680px; margin-bottom: 30px; }
     h2 { margin-bottom: 10px; font: 500 clamp(2rem, 4vw, 3.1rem)/1.08 Georgia, "Times New Roman", serif; letter-spacing: -.035em; }
@@ -204,6 +209,10 @@
           <div class="eyebrow">Andamento</div>
           <h2>Passo a passo, com revisão.</h2>
           <p class="section-intro">Os textos são traduzidos em ordem e revisados antes de avançar. A página vai mostrar apenas material aprovado.</p>
+        </div>
+        <div class="progress-overview" role="group" aria-label="Progresso publicado da tradução">
+          <div class="progress-ring" role="img" aria-label="8,3 por cento: 3 de 36 cenários aprovados e publicados"><span aria-hidden="true">8,3%</span></div>
+          <div class="progress-copy"><strong>3 de 36 cenários aprovados</strong><span>Roteiros revisados e publicados. O cenário 4 está em revisão.</span></div>
         </div>
         <div class="grid">
           <article class="card">
