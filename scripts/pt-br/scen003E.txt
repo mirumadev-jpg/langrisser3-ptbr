@@ -1,0 +1,226 @@
+Tiaris<$FFFF>
+Rifani<$FFFF>
+Runa<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, mestre espadachim<$FFFF>
+Pieru<$FFFF>
+Fáberu, o sábio<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói Do Kahni<$FFFF>
+Artemiura<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+General Diós<$FFFF>
+Rudo<$FFFF>
+Reila<$FFFF>
+Cidadão<$FFFF>
+Comandante de Báral<$FFFF>
+Rei Uílder<$FFFF>
+Lobo<$FFFF>
+Uílder<$FFFF>
+Ladrão<$FFFF>
+Soldado de Báral<$FFFF>
+Comandante Supremo de Báral<$FFFF>
+<$0000>・Derrote todos os inimigos.<$FFFC><$0000>・Leve Reila e Tiaris até <$FFFC><$0000><$0000>a borda sul com <$FFFC><$0000><$0000><$F600><$0000>.<$FFFE>
+<$0000>・Morte de <$F600><$0000>.<$FFFC><$0000>・Morte de Reila.<$FFFE>
+Capital secundária: Rafél<$FFFF>
+Escutem! Não encostem<$FFFC>em quem não estiver resistindo!<$FFFE>
+Prendam todo mundo. Só usem<$FFFC>a força se não houver outro jeito!<$FFFE>
+Como quiser, senhor!<$FFFE>
+Hã!?<$FFFE>
+<$F600><$0000>…<$FFFC>O que foi?<$FFFE>
+Esperem… Aqueles homens não<$FFFC>são do exército imperial.<$FFFE>
+O quê? Então quem são eles?<$FFFC>O que está acontecendo?<$FFFE>
+Não pode ser!<$FFFC>São soldados do Reino de Báral!<$FFFE>
+Do Reino de Báral!?<$FFFC>Mas eles são nossos aliados!<$FFFE>
+O que será que aconteceu?<$FFFC>Por que estão fazendo isso?<$FFFE>
+Por enquanto, temos que tirar<$FFFC>os cidadãos daqui<$FFFC>nós mesmos…<$FFFE>
+Aaah!<$FFFE>
+Não encostem nos cidadãos!<$FFFC>Isso é uma ordem!<$FFFE>
+Mas, se fizermos isso, eles<$FFFC>vão escapar…<$FFFE>
+Mas, se fizermos isso, eles<$FFFC>vão escapar…<$FFFE>
+E eu ia fazer o quê?!<$FFFC>Não posso ser tão cruel assim!<$FFFC>Droga!<$FFFE>
+É perigoso aí!<$FFFC>Fujam pelo portão sul!<$FFFE>
+S-sim!<$FFFE>
+Não deixem ninguém escapar!<$FFFC>Matem quem ficar no caminho!<$FFFC>Não poupem ninguém!<$FFFE>
+Rei Uílder!<$FFFC>Esqueceu quem eu sou!?<$FFFC>Sou filho da família Cláus!<$FFFE>
+Cláus?<$FFFC>Ah, sim… o moleque<$FFFC>da família Cláus.<$FFFE>
+<$F600><$0000>, você<$FFFC>conhece aquele homem?<$FFFE>
+<$F600><$0000>, você<$FFFC>conhece aquele homem?<$FFFE>
+Conheço.<$FFFD>O Reino de Báral e a minha<$FFFC>família, os Cláus, sempre<$FFFC>foram muito próximos.<$FFFD>Mas por que o bondoso Rei<$FFFC>Uílder faria uma coisa dessas…?<$FFFC>Por que se voltou contra nós?<$FFFE>
+Ontem amigo, hoje inimigo, né?<$FFFC>É, as pessoas mudam.<$FFFC>Fazer o quê?<$FFFE>
+Chega de conversa fiada!<$FFFC>Agora morram!<$FFFC>Acabem com eles!<$FFFC>Não deixem ninguém escapar!<$FFFE>
+Senhorita Reila! Fuja<$FFFC>pelo portão sul!<$FFFC>Depressa!<$FFFE>
+…Jerioru.<$FFFE>
+Senhorita Reila!<$FFFE>
+S-sim!<$FFFE>
+Vá para o portão sul! Depressa!<$FFFE>
+Está bem…<$FFFE>
+Quem são vocês, seus desgraçados?<$FFFC>O que estão fazendo aqui?<$FFFE>
+Q-quem é você!?<$FFFE>
+Não me conhece? Báral é mesmo<$FFFC>um fim de mundo!<$FFFE>
+Preste atenção e não esqueça!<$FFFC>Eu sou o maior ladrão justiceiro<$FFFC>que existe: o próprio Lobo<$FFFC>Prateado!<$FFFE>
+Esta cidade é nossa!<$FFFC>Se continuarem com essa bagunça,<$FFFC>vão atrapalhar o nosso trabalho!<$FFFE>
+O que um ladrãozinho como você<$FFFC>poderia fazer?<$FFFE>
+Se tivessem ficado quietos,<$FFFC>não precisariam se machucar…<$FFFE>
+Humpf!<$FFFC>Fala como se fosse capaz!<$FFFE>
+Lobo Prateado?<$FFFC>O famoso ladrão justiceiro…<$FFFE>
+Matem todos! Não deixem ninguém escapar!<$FFFE>
+Quem é aquele?<$FFFC>Não parece ser cavaleiro.<$FFFE>
+E você, quem é?<$FFFC>Veio morrer aqui de propósito,<$FFFC>seu idiota?<$FFFE>
+Ha!<$FFFC>Acha mesmo que vai matar o<$FFFC>grande Lobo Prateado?<$FFFC>Volte para Báral, caipira!<$FFFE>
+Vai falando!<$FFFC>Você vai ver só, seu idiota!<$FFFE>
+General! Olhe ali!<$FFFC>Um cavaleiro de Larcassu está<$FFFC>ajudando os cidadãos a fugir!<$FFFE>
+O quê!?<$FFFE>
+Ei, você aí!<$FFFC>Se levantar a espada contra nós,<$FFFC>vai se arrepender!<$FFFE>
+Deixa comigo, mocinha.<$FFFC>Fuja daqui e vá para um lugar<$FFFC>seguro!<$FFFE>
+Não! Eu não vou!<$FFFC>Se eu for, vão pegar o senhor<$FFFC>Lobo!<$FFFE>
+…Está bem.<$FFFC>Obrigada, senhor Lobo.<$FFFE>
+Ei, cavaleiro!<$FFFC>Deixa essa parte comigo. Fuja<$FFFC>daqui enquanto pode!<$FFFE>
+Não se arrisque, Lobo!<$FFFC>Você também pode ser capturado!<$FFFE>
+Obrigado, Lobo.<$FFFE>
+Só mais um pouco!<$FFFC>Continuem firmes, pessoal!<$FFFE>
+Isso!<$FFFC>Corram, não parem!<$FFFE>
+Adeus, Rafél…<$FFFE>
+Ufa! Conseguimos escapar!<$FFFE>
+Muito obrigada, cavaleiro.<$FFFC>Você nos salvou.<$FFFE>
+Agora fujam, depressa!<$FFFE>
+Certo, vamos sair daqui<$FFFC>de uma vez.<$FFFE>
+Jerioru…<$FFFE>
+Senhorita Reila!<$FFFC>Logo vamos chegar aí.<$FFFC>Espere só mais um pouco!<$FFFE>
+Está bem.<$FFFE>
+Há uma erva mágica<$FFFC>num cantinho escuro<$FFFC>do patamar da escada.<$FFFE>
+Você encontrou uma erva mágica!<$FFFE>
+Uma fruta de formato estranho<$FFFC>está caída no meio<$FFFC>da clareira.<$FFFE>
+Quer pegá-la?<$FFFE>
+Você encontrou Ambrosia!<$FFFE>
+De repente, uma rajada de vento<$FFFC>leva a fruta estranha<$FFFC>para longe…<$FFFC>e ela desaparece no horizonte…<$FFFE>
+Não acredito… Nem consigo<$FFFC>me proteger direito…<$FFFE>
+Droga! Por que Báral está<$FFFC>atacando a gente!?<$FFFE>
+Isso é ruim.<$FFFC>Vão nos cercar se continuarmos<$FFFC>aqui. Temos que fugir, depressa…<$FFFE>
+Ai!<$FFFC>Está doendo…<$FFFE>
+Não force, Tiaris.<$FFFC>Volte para trás!<$FFFE>
+S-sim. Desculpa,<$FFFC><$F600><$0000>…<$FFFE>
+Não se meta!<$FFFE>
+Droga!<$FFFC>Você sabe lutar mesmo!<$FFFE>
+Desculpa, Lobo!<$FFFC>A gente consegue se virar.<$FFFD>Fuja daqui antes que<$FFFC>eles peguem você!<$FFFE>
+Heh… Está bem.<$FFFC>Então vou dar o fora!<$FFFE>
+<$F702><$FFFE>
+<$F703><$FFFE>
+Desculpa, chefe…<$FFFC>Fizemos besteira…<$FFFE>
+Malditos soldados de Báral!<$FFFE>
+Droga! Não vou morrer<$FFFC>num lugar como este…<$FFFE>
+Ah… meu bem…<$FFFE>
+Senhorita Reila!<$FFFD>Jerioru… Me perdoe…<$FFFC>Não consegui protegê-la…<$FFFD>Não tenho força suficiente<$FFFC>para vencer essa batalha…<$FFFE>
+Ah, não!<$FFFE>
+Ugh…<$FFFE>
+Senhorita Reila!<$FFFE>
+Vamos, Tiaris!<$FFFC>A senhorita Reila está em perigo!<$FFFE>
+Droga! Temos que correr!<$FFFE>
+Nããão!<$FFFE>
+Não quero morrer…<$FFFC>Não quero…<$FFFE>
+S-socorro…<$FFFE>
+Impossível…<$FFFC>Se eu fosse mais forte…<$FFFE>
+I-impossível!<$FFFC>Perdi para um bando de moleques!<$FFFE>
+General Diós, recue!<$FFFC>Deixe o resto conosco!<$FFFE>
+Obrigado…<$FFFD>Conto com vocês!<$FFFE>
+Entendido, senhor!<$FFFE>
+General Diós! Recuem!<$FFFC>Nós vamos segurá-los aqui!<$FFFE>
+Obrigado…<$FFFD>Conto com vocês!<$FFFE>
+Sim, senhor!<$FFFE>
+Não leve para o lado pessoal.<$FFFC>É a guerra, afinal.<$FFFE>
+Se desistirem agora,<$FFFC>não precisarão morrer<$FFFC>à toa!<$FFFE>
+Um ladrãozinho enfrentando<$FFFC>soldados de verdade? Que piada!<$FFFE>
+…Guh! N-não… ainda<$FFFC>não acabou!<$FFFE>
+Rudo, recue! Com esse ferimento,<$FFFC>não dá mais para continuar<$FFFC>lutando!<$FFFE>
+Mas, senhor Diós…<$FFFE>
+Rudo! Está desobedecendo<$FFFC>às minhas ordens!?<$FFFE>
+D-desculpe, senhor…<$FFFE>
+Guh!<$FFFD>Com esse ferimento, não<$FFFC>consigo continuar lutando…<$FFFC>Não temos escolha. Recuar!<$FFFE>
+Eu não queria atacar mulheres<$FFFC>nem quem não está resistindo,<$FFFC>mas não temos escolha…<$FFFE>
+Droga…<$FFFE>
+O quê!?<$FFFE>
+Maldição…<$FFFE>
+Não vão escapar<$FFFC>de jeito nenhum!<$FFFE>
+Eu…<$FFFC>vou morrer num lugar como este…<$FFFE>
+Nada mal!<$FFFE>
+Guh!<$FFFE>
+Mais uma vez…<$FFFC>Não posso morrer<$FFFC>antes de voltar à minha terra…<$FFFE>
+Droga… Que vergonha…<$FFFE>
+Droga… Como pude perder<$FFFC>para vocês?!<$FFFC>Não vou morrer aqui,<$FFFC>num lugar desses!<$FFFE>
+E-eu vou morrer?<$FFFE>
+…<$FFFE>
+Maldito…<$FFFC>Acha que isso acaba aqui?<$FFFD>Vou tomar Rafél para mim<$FFFC>com o dobro das tropas!<$FFFE>
+Falhei!<$FFFE>
+Fui derrotado…<$FFFE>
+Malditos habitantes de Larcassu!<$FFFE>
+Ah…<$FFFC>Não dá mais…<$FFFE>
+E logo agora<$FFFC>que estava começando…<$FFFE>
+A tropa inteira de Diós<$FFFC>foi aniquilada!<$FFFC>Aquele incompetente não<$FFFC>consegue cumprir nem uma missão!<$FFFD>Ouçam todos!<$FFFC>Não deixem ninguém de Larcassu<$FFFC>escapar vivo! Matem todos!<$FFFC>Acabem com eles!<$FFFE>
+Mas, senhor! Os cidadãos também<$FFFC>vão acabar feridos!<$FFFE>
+Está questionando minhas ordens!?<$FFFE>
+S-sim, senhor! Peço desculpas!<$FFFE>
+Sim, senhor!<$FFFE>
+Não vou deixar!<$FFFE>
+Ufa… Parece que acabamos<$FFFC>com todos eles.<$FFFE>
+É.<$FFFC>Mas não podemos baixar a guarda.<$FFFD>O Rei Uílder deve chegar<$FFFC>a qualquer momento com reforços.<$FFFC>Vamos sair daqui depressa!<$FFFE>
+Está bem.<$FFFE>
+Parece que acabamos<$FFFC>com todos os inimigos.<$FFFD>Mas o Rei Uílder logo virá<$FFFC>com reforços.<$FFFC>Vamos fugir daqui, depressa!<$FFFC>Não podemos ficar!<$FFFE>
+Ei, cavaleiro!<$FFFC>Vou ajudar vocês.<$FFFC>Enquanto isso, tire os<$FFFC>cidadãos daqui!<$FFFE>
+Obrigado, Lobo Prateado.<$FFFE>
+Pode me chamar só de Lobo!<$FFFC>É mais simples.<$FFFE>
+Muito bem, seus malandros!<$FFFC>Vamos mostrar àquele rei<$FFFC>caipira que não somos ladrões<$FFFC>qualquer!<$FFFE>
+Pode me chamar só de Lobo!<$FFFC>É mais simples.<$FFFE>
+Muito bem, seus malandros!<$FFFC>Vamos mostrar àquele general<$FFFC>caipira que não somos ladrões<$FFFC>qualquer!<$FFFE>
+Pode me chamar só de Lobo!<$FFFC>É mais simples.<$FFFE>
+Muito bem, seus malandros!<$FFFC>Vamos mostrar a esses soldados<$FFFC>caipiras que não somos ladrões<$FFFC>de rua!<$FFFE>
+Pode deixar, chefe!<$FFFE>
+Seus canalhas!<$FFFC>Preparem-se!<$FFFE>
+Ei, ei!<$FFFC>Quem vocês pensam que eu sou?<$FFFD>Pode me cercar à vontade.<$FFFC>Soldado de Báral nenhum vai<$FFFC>conseguir me capturar!<$FFFC>Não se preocupem!<$FFFE>
+Parece que as tropas do Diós<$FFFC>estão em apuros.<$FFFE>
+Diós!<$FFFC>O que está fazendo?!<$FFFE>
+Perdoe-nos, Rei Uílder!<$FFFC>Os cidadãos bloquearam nosso<$FFFC>caminho e não conseguimos<$FFFC>avançar como planejado…<$FFFE>
+Aquele idiota do Diós!<$FFFC>Não consegue cumprir nem<$FFFC>uma tarefa tão simples!<$FFFE>
+Perdoe-nos, Rei Uílder.<$FFFC>Os cidadãos bloquearam nosso<$FFFC>avanço e não conseguimos<$FFFC>prosseguir…<$FFFE>
+Perdoe-nos, Rei Uílder.<$FFFC>Os cidadãos ficaram no caminho<$FFFC>e não pudemos avançar…<$FFFC>senhor.<$FFFE>
+Não me importo com a vida<$FFFC>dos cidadãos!<$FFFC>Matem todos que atrapalharem!<$FFFE>
+Em todo o Reino de Larcassu,<$FFFC>só a capital, Larcássia,<$FFFC>é mais rica que Rafél.<$FFFE>
+Façam o que for preciso!<$FFFC>Esta é a chance de tomar<$FFFC>a cidade de uma vez<$FFFC>por todas!<$FFFE>
+Droga… Entendido…<$FFFE>
+General, vamos mesmo<$FFFC>atacar os cidadãos?<$FFFE>
+É ordem do rei.<$FFFC>Não temos escolha: vamos<$FFFC>cumprir a missão, mesmo que<$FFFC>os cidadãos morram.<$FFFE>
+Mas…<$FFFE>
+Não diga mais nada.<$FFFC>Eu também não quero fazer isso!<$FFFE>
+…<$FFFE>
+A-aquele é o Rei Uílder!?<$FFFE>
+Ei, parem aí!<$FFFC>Não deixaremos que façam<$FFFC>o que quiserem na nossa cidade!<$FFFE>
+Obrigado, Lobo.<$FFFE>
+Eu juro que<$FFFC>vou voltar!<$FFFE>
+Fique vivo até lá!<$FFFE>
+Droga! Eles conseguiram<$FFFC>escapar…<$FFFE>
+Maldição! Estavam quase<$FFFC>na nossa mão!<$FFFC>Que sorte a deles!<$FFFE>
+Parece que vou conseguir<$FFFC>escapar daqui<$FFFC>sem problemas.<$FFFE>
+Obrigado, Lobo.<$FFFE>
+Imagina!<$FFFE>
+Jerioru…<$FFFE>
+Senhorita Reila, eu prometo<$FFFC>que vou voltar para te salvar!<$FFFE>
+…Me desculpe,<$FFFC><$F600><$0000>.<$FFFC>Eu deixei você preocupado.<$FFFD>Mas já estou bem.<$FFFC>Vamos fugir daqui<$FFFC>depressa!<$FFFE>
+…<$FFFE>
+Ah, é mesmo!<$FFFC>Quando os moradores fugiram,<$FFFC>me deram isto para agradecer.<$FFFD>Querem que o cavaleiro use.<$FFFC>Fique com ele!<$FFFE>
+Você encontrou o Anel Angelical!<$FFFE>
+Obrigado.<$FFFC>Vou cuidar bem dele.<$FFFE>
+Ei, <$F600><$0000>…<$FFFC>O que vamos fazer agora?<$FFFE>
+Deixa eu pensar…<$FFFC>Acho que podemos procurar meu tio,<$FFFC>o Visconde Raimundo.<$FFFD>As terras dele ficam nos confins<$FFFC>de Larcassu, cercadas por montanhas.<$FFFC>Acho que o Império ainda não<$FFFC>chegou até lá.<$FFFE>
+E vamos reunir um exército lá?<$FFFE>
+Isso. Depois, vamos contra-atacar.<$FFFC>Vamos!<$FFFE>
+Bom, acho que vou<$FFFC>indo também…<$FFFE>
+<$F702><$FFFE>
+<$F703><$FFFE>
+Claro que vou!<$FFFC>Não é tão fácil assim<$FFFC>se livrar de mim!<$FFFE>
+Até mais, cavaleiro!<$FFFC>Se a gente continuar vivo,<$FFFC>vai se encontrar de novo!<$FFFE>

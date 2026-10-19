@@ -23,7 +23,8 @@ Este documento registra o fluxo de trabalho para continuar o projeto com consist
 
 - Cenário 1: revisado, aprovado e publicado.
 - Cenário 2: revisado, aprovado e publicado.
-- Rascunhos posteriores, incluindo qualquer rascunho do cenário 3: não publicar nem considerar aprovados sem confirmação de Miruma.
+- Cenário 3: revisado, aprovado e publicado.
+- Cenário 4: rascunho enviado à revisão de Miruma; não publicar nem considerar aprovado sem confirmação explícita.
 
 ## Regras técnicas e de qualidade
 
