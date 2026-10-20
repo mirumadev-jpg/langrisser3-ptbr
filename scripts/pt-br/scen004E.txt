@@ -1,0 +1,179 @@
+Tiaris<$FFFF>
+Rifani<$FFFF>
+Runa<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, mestre espadachim<$FFFF>
+Pieru<$FFFF>
+Fáberu, o sábio<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói de Kahni<$FFFF>
+Artemiura<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+Morador<$FFFF>
+Gilberto<$FFFF>
+Grobu, o Necromante<$FFFF>
+Koti<$FFFF>
+Monstro<$FFFF>
+<$0000>・Derrote o necromante Grobu<$FFFE>
+<$0000>・Morte de <$F600><$0000><$FFFC><$0000>・Morte de todos os moradores<$FFFE>
+Aldeia de Ranshu<$FFFF>
+Desculpe. Fiz vocês<$FFFC>virem de tão longe<$FFFC>e, no fim, não deu em nada...<$FFFE>
+É assim mesmo,<$FFFC>meu amigo. Não se preocupe<$FFFC>com isso.<$FFFE>
+Hã?!<$FFFD>Há uma confusão<$FFFC>nos arredores da aldeia!<$FFFE>
+S-socorro!<$FFFE>
+Que horror!<$FFFE>
+O que está acontecendo?!<$FFFE>
+É terrível! Os mortos<$FFFC>se levantaram do cemitério<$FFFC>e estão vindo pra cá!<$FFFE>
+Credo! Que coisa é essa!?<$FFFE>
+São... zumbis?<$FFFE>
+Ainda tem gente<$FFFC>no cemitério!<$FFFC>Precisamos avisar<$FFFC>o resto da aldeia!<$FFFE>
+Ruin, Tiaris,<$FFFC>vamos impedir que eles avancem!<$FFFE>
+Sim!<$FFFE>
+O quê?! Eu também?<$FFFE>
+Hehehe!<$FFFC>Que bela turma para massacrar!<$FFFE>
+Quem é aquele homem?<$FFFC>É ele quem controla os zumbis?<$FFFE>
+Parece que sim. Se<$FFFC>derrotarmos aquele homem,<$FFFC>os mortos poderão descansar em paz.<$FFFE>
+Exato. De qualquer forma,<$FFFC>não nos resta outra opção.<$FFFC>Vamos lutar.<$FFFD>Vamos, Tiaris!<$FFFE>
+Siiim! A Tia vai lutar<$FFFC>com tudo o que tem!<$FFFE>
+Infame, que ousa<$FFFC>perturbar o descanso<$FFFC>dos mortos!<$FFFE>
+Sinta a fúria<$FFFC>da minha espada!<$FFFE>
+Hehehe! Se conseguirem chegar<$FFFC>até mim, eu mesmo vou<$FFFC>enfrentá-los!<$FFFE>
+<$F600><$0000>,<$FFFC>eu também vou lutar.<$FFFC>Estou à disposição<$FFFC>para receber suas ordens!<$FFFE>
+Gilberto se juntou ao grupo!<$FFFE>
+Gilberto!<$FFFC>... Certo, vamos derrotar<$FFFC>aquele necromante<$FFFC>a qualquer custo!<$FFFE>
+Hehehe!<$FFFD>Meu poder está longe<$FFFC>de se limitar a isso!<$FFFE>
+Maldição!<$FFFB><$FFFC>Já chega de desaforo!<$FFFE>
+Ora essa! Por que estão demorando tanto?<$FFFD>Se eu gastar magia aqui,<$FFFC>vou ficar sem energia...<$FFFC>sem magia para derrotar aquela feiticeira!<$FFFE>
+Feiticeira?<$FFFD>... De quem você<$FFFC>está falando?<$FFFE>
+Muito bem, meus servos! Mostrem<$FFFC>a eles do que são capazes!<$FFFE>
+Ué?<$FFFE>
+Olha, tem um túmulo ali também!<$FFFC>Que sorte!<$FFFE>
+Mihari Kushizekiki<$FFFC>Hagujisoramu!<$FFFE>
+K-Koti!?<$FFFE>
+...<$FFFE>
+Hehehe!<$FFFC>Façam o que quiserem,<$FFFC>meus servos!<$FFFE>
+Quem é aquele sujeito?<$FFFE>
+Ele não parece ser<$FFFC>do Império de Riguéria<$FFFC>nem do Reino de Báral.<$FFFE>
+Não sei o que ele quer,<$FFFC>mas é evidente que está<$FFFC>tramando algo maligno.<$FFFE>
+Que nojo!<$FFFC>Vamos acabar logo<$FFFC>com isso!<$FFFE>
+Entre as oferendas, há<$FFFC>uma poção bem esquisita.<$FFFE>
+Quer pegá-la?<$FFFE>
+Tem um bilhete preso<$FFFC>à poção: <$FFFC>"Por favor, aceite."<$FFFE>
+Quer aceitar?<$FFFE>
+Você recebeu Néctar!<$FFFE>
+A poção estragou e<$FFFC>começou a feder...<$FFFE>
+Dentro da construção, há<$FFFC>um elmo bem sinistro.<$FFFE>
+Quer pegá-lo?<$FFFE>
+Você recebeu o Elmo de Egil!<$FFFE>
+Há uma estátua em homenagem<$FFFC>ao herói da aldeia.<$FFFE>
+O que você faz?<$FFFE>
+Oferecer flores<$FFFE>
+Oferecer 100 P<$FFFE>
+Fazer uma oração<$FFFE>
+Ao oferecer as flores,<$FFFC>a lança que a estátua segurava<$FFFC>escorrega e cai em suas mãos.<$FFFE>
+Você recebeu a Lança<$FFFC>Sangrenta!<$FFFE>
+Nada aconteceu...<$FFFE>
+Nada aconteceu...<$FFFE>
+Droga!<$FFFC>Se eu fosse mais forte...<$FFFE>
+Ai!<$FFFC>Por que você fez isso?!<$FFFE>
+Não chegue perto de mim!<$FFFE>
+Não chegue perto de mim!<$FFFE>
+Desculpe...<$FFFC>Não consigo mais lutar...<$FFFE>
+Não suporto quem<$FFFC>profana os mortos<$FFFC>desse jeito!<$FFFE>
+O que está dizendo?<$FFFC>Logo vou transformar você<$FFFC>em um deles também!<$FFFE>
+Pare! Koti, pare!<$FFFE>
+Hehehe!<$FFFD>Pode chamar quanto quiser.<$FFFC>Ela já não ouve mais nada<$FFFC>do que você fala.<$FFFE>
+Droga...<$FFFE>
+K-Koti...<$FFFE>
+<$F600><$0000>...<$FFFC>Coitado do senhor Gilberto!<$FFFE>
+Pare, Koti! Sou eu!<$FFFC>Não me reconhece?<$FFFE>
+...<$FFFE>
+P-papai...<$FFFE>
+Koti!<$FFFE>
+O quê? Vai ignorar<$FFFC>minhas ordens, sua insolente?<$FFFC>Vou dar um jeito em você!<$FFFE>
+Aaah!<$FFFE>
+Adeus, Koti...<$FFFE>
+Uu...<$FFFE>
+S-socorro!<$FFFE>
+Já estamos indo!<$FFFC>Aguentem firme<$FFFC>até chegarmos aí!<$FFFE>
+Todos, corram para a casa<$FFFC>do Gilberto! Vamos<$FFFC>segurar os monstros!<$FFFE>
+S-sim!<$FFFE>
+Socorro...<$FFFE>
+P-pare!<$FFFE>
+Aaah!<$FFFE>
+Alguém, por favor, me ajude!<$FFFE>
+Droga!<$FFFC>Não conseguimos proteger os moradores...<$FFFE>
+Iiii!<$FFFC>Eu, derrotado aqui?!<$FFFD>Assim, não vou conseguir<$FFFC>eliminar a feiticeira...<$FFFC>Vocês vão pagar por isso!<$FFFE>
+Acabou...<$FFFC>Mas aquele homem ainda<$FFFC>me preocupa...<$FFFE>
+<$F702><$FFFE>
+<$F702><$FFFE>
+Obrigado, senhor Gilberto.<$FFFE>
+Pode me chamar só de Gilberto.<$FFFE>
+Pode me chamar só de Gilberto.<$FFFE>
+Muito obrigado! Graças a vocês,<$FFFC>todos na aldeia estão salvos!<$FFFC>Como agradecimento,<$FFFD>aceitem este tesouro<$FFFC>da nossa aldeia.<$FFFE>
+Você recebeu a Bênção<$FFFC>Divina!<$FFFE>
+Dizem que ela dá ainda<$FFFC>mais força a quem tem<$FFFC>coragem de lutar.<$FFFE>
+Obrigado, pessoal!<$FFFE>
+Ouvi dizer que vocês lutam<$FFFC>para reconstruir Larcassu.<$FFFD>Estamos torcendo por vocês!<$FFFC>Deem o seu melhor!<$FFFE>
+<$F703><$FFFE>
+<$F703><$FFFE>
+Pare, por favor!<$FFFC>Não machuque minha filha!<$FFFE>
+Senhor Gilberto...<$FFFE>
+Koti, pare!<$FFFD>Se precisa odiar alguém,<$FFFC>odeie a mim... a mim!<$FFFE>
+Não acredito!<$FFFC>O que foi que você fez...?<$FFFE>
+...papai...<$FFFE>
+Muito obrigada, pessoal...<$FFFC>Vocês me salvaram, mesmo<$FFFC>sendo quem eu sou...<$FFFD>E, por favor, cuidem<$FFFC>do meu pai.<$FFFE>
+Adeus, Koti...<$FFFE>
+Guuuu...<$FFFE>
+Guuuu...<$FFFE>
+Guuuu...<$FFFE>
+Guuuu...<$FFFE>
+Zapp...<$FFFE>
+Guuuu...<$FFFE>
+Guuuu...<$FFFE>
+Guuuu...<$FFFE>
+Zapp...<$FFFE>
+Zapp...<$FFFE>
+Guuuu...<$FFFE>
+Guuuu...<$FFFE>
+Guuuu...<$FFFE>
+Zapp...<$FFFE>
+Zapp...<$FFFE>
+Guuuu...<$FFFE>
+Guuuu...<$FFFE>
+Guuuu...<$FFFE>
+Zapp...<$FFFE>
+Zapp...<$FFFE>
+Derrotaram meus peões? Nada<$FFFC>mal, para meros humanos.<$FFFD>Muito bem. Eu mesmo vou<$FFFC>enfrentá-los! Hehehe!<$FFFE>
+Para meros humanos, vocês<$FFFC>até que são bons.<$FFFD>Mas quero ver como lidam<$FFFC>com isso!<$FFFE>
+Aaah!<$FFFC>Apareceram mais deles!<$FFFE>
+São muitos demais...<$FFFC>Não existe um jeito melhor<$FFFC>de enfrentá-los?<$FFFE>
+Os mortos-vivos são fracos<$FFFC>contra o poder sagrado<$FFFC>dos sacerdotes. Enfrente-os<$FFFC>com as tropas certas.<$FFFE>
+Senhor <$F600><$0000>,<$FFFC>eles apareceram de novo!<$FFFE>
+Ah, chega!<$FFFE>
+Ele vai nos atacar<$FFFC>com uma horda inteira?!<$FFFE>
+Hehehe!<$FFFD>E então? Estão com<$FFFC>mais medo agora?<$FFFE>
+Droga, de novo!<$FFFE>
+Já está se rendendo?<$FFFC>Hehehe!<$FFFE>
+Jamais vou perdoar<$FFFC>quem perturba o descanso<$FFFC>dos mortos! Em nome de Lushiris!<$FFFE>
+Seu desgraçado!<$FFFC>O que você fez com Koti?!<$FFFE>
+Hehehe! Então você era<$FFFC>o pai daquela garota?<$FFFD>Devia me agradecer!<$FFFC>Eu permiti que você revisse<$FFFC>sua filha morta!<$FFFE>
+Droga! Não vou perdoá-lo!<$FFFE>
+K-Koti!<$FFFE>
+...por favor, papai...<$FFFE>
+Papai, dê uma força<$FFFC>a essas pessoas. Elas precisam<$FFFC>do senhor agora.<$FFFE>
+Vivi pela espada...<$FFFC>e acabei ferindo você.<$FFFE>
+Não quero sentir<$FFFC>essa dor nunca mais...<$FFFE>
+Muita gente está sofrendo<$FFFC>agora. Não quero que mais<$FFFC>ninguém passe por isso.<$FFFE>
+Essa dor tem que acabar<$FFFC>com nós dois, papai...<$FFFC>Por favor, poupe os outros<$FFFC>desse sofrimento...<$FFFE>
+Você tem razão, minha filha.<$FFFC>Por que hesitei tanto?<$FFFC>Obrigado, minha filha.<$FFFE>
+Papai...<$FFFE>
+Olhe por mim, Koti.<$FFFD>Agora, vou usar esta espada<$FFFC>pelo bem do povo<$FFFC>e devolver a paz<$FFFC>a Larcassu.<$FFFE>
+Meu senhor <$F600><$0000>.<$FFFC>Já não tenho dúvidas.<$FFFD>Pelo povo oprimido<$FFFC>de Larcassu, vou lutar<$FFFC>ao seu lado.<$FFFC>Conte comigo.<$FFFE><$FFFF>
