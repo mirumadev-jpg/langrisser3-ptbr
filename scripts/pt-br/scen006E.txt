@@ -1,0 +1,206 @@
+Tiaris<$FFFF>
+Rifani<$FFFF>
+Runa<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, mestre espadachim<$FFFF>
+Pieru<$FFFF>
+Fáberu, o sábio<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói de Kahni<$FFFF>
+Artemiura<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+General Emarinku<$FFFF>
+Subordinado do Barão<$FFFF>
+Barão Torrand<$FFFF>
+Cabo Imperial<$FFFF>
+Cidadão<$FFFF>
+Comandante de Riguéria<$FFFF>
+Soldado Imperial<$FFFF>
+Comandante de Riguéria<$FFFF>
+<$0000>・Derrote Emarinku<$FFFC><$0000>・Elimine a força de interceptação inimiga<$FFFC><$0000>・Chegue à mansão<$FFFE>
+<$0000>・Morte de <$F600><$0000><$FFFC><$0000>・Morte do Barão Torrand<$FFFE>
+Mansão do Barão Torrand<$FFFF>
+Ah, então é assim que luta<$FFFC>o famoso estrategista genial<$FFFC>de quem todos falam no continente?<$FFFE>
+A resistência está fraca<$FFFC>demais...<$FFFC>Será que é uma armadilha?<$FFFE>
+Barão!<$FFFE>
+Parece que estamos cercados.<$FFFC>Primeiro, precisamos deixar<$FFFC>os civis escaparem...<$FFFE>
+Se deixarem os civis fugirem,<$FFFC>não vamos interferir.<$FFFC>Enquanto isso, suspenderemos os ataques.<$FFFE>
+Você não parece do tipo<$FFFC>que arma um ataque pelas costas.<$FFFC>Agradeço por isso.<$FFFE>
+Não pretendo derramar<$FFFC>sangue à toa.<$FFFE>
+É um homem admirável,<$FFFC>apesar de tão jovem.<$FFFE>
+Tirem os civis da mansão<$FFFC>agora mesmo!<$FFFE>
+Sim, senhor!<$FFFE>
+Atenção, todas as tropas!<$FFFC>Enquanto os civis evacuam,<$FFFC>estão proibidas quaisquer<$FFFD>ações! Não façam nada que<$FFFC>manche a honra de vocês<$FFFC>como soldados do Império!<$FFFE>
+General Emarinku!<$FFFE>
+O que foi?<$FFFE>
+Os remanescentes de Larcassu<$FFFC>estão avançando pela floresta<$FFFC>vindos do sul.<$FFFE>
+É a unidade que enfrentou<$FFFC>Geier? Lidere as reservas<$FFFD>e acabe com eles! Preciso<$FFFC>tomar a mansão do Barão<$FFFC>Torrand.<$FFFE>
+Entendido!<$FFFE>
+Por aqui, por favor. A<$FFFC>mansão fica logo adiante,<$FFFC>no fim desta estrada.<$FFFE>
+Chegamos bem mais cedo<$FFFC>do que eu esperava.<$FFFE>
+Precisamos nos apressar,<$FFFC>encontrar o Barão e contar<$FFFC>a ele sobre o Visconde Raymond.<$FFFE>
+...Parece que não vai ser tão fácil.<$FFFE>
+Ah! Soldados imperiais!<$FFFE>
+Credo, que horror!<$FFFE>
+Temos que nos apressar!<$FFFE>
+Esperem um momento,<$FFFC>senhor <$F600><$0000>.<$FFFC>O número deles é<$FFFC>pequeno demais para invadir nossa mansão.<$FFFE>
+Eles podem ter chamado<$FFFC>reforços e preparado<$FFFC>uma emboscada. Esta floresta<$FFFC>é perfeita para isso.<$FFFE>
+...Tudo bem. Vou<$FFFC>seguir o conselho da Runa.<$FFFE>
+Pessoal, cuidado!<$FFFC>Nunca se sabe onde os soldados<$FFFC>imperiais podem estar escondidos!<$FFFC>Avancem com cautela!<$FFFE>
+Muito obrigada, senhor<$FFFC><$F600><$0000>.<$FFFE>
+A propósito, pode me chamar<$FFFC>simplesmente de Runa.<$FFFE>
+Tudo bem, Runa.<$FFFC>Vamos, temos que salvar<$FFFC>o Barão!<$FFFE>
+Agora, vão depressa.<$FFFC>Fujam enquanto<$FFFC>ainda podem.<$FFFE>
+M-mas...<$FFFE>
+Vai ficar tudo bem.<$FFFC>Aquele general imperial<$FFFC>é um homem de honra.<$FFFE>
+Enquanto vocês fogem,<$FFFC>não vamos arredar pé.<$FFFC>Fiquem tranquilos.<$FFFE>
+Entendido. Barão,<$FFFC>boa sorte!<$FFFE>
+Sim.<$FFFE>
+General Emarinku.<$FFFC>Os civis já<$FFFC>foram todos evacuados.<$FFFE>
+Muito bem, continuem o<$FFFC>ataque!<$FFFE>
+Sim, senhor!<$FFFE>
+Precisamos pensar numa<$FFFC>forma de reagir... Se continuarmos<$FFFC>assim, vão nos massacrar.<$FFFE>
+Isso! Assim que entrarmos,<$FFFC>ataquem a mansão!<$FFFE>
+Entendido!<$FFFE>
+Agora vamos retribuir tudo<$FFFC>o que vocês fizeram conosco!<$FFFE>
+A água começou a entrar...<$FFFE>
+Fechem a comporta, elevem o<$FFFC>nível da água e aproveitem a força<$FFFC>da água para passar por cima do portão...<$FFFE>
+Aquele homem sabe o que faz.<$FFFE>
+Logo vamos passar por cima<$FFFC>deste portão. A batalha<$FFFC>será decidida neste momento.<$FFFE>
+Isso!<$FFFE>
+Droga! Por mais que<$FFFC>esperemos, ninguém aparece.<$FFFD>Não adianta continuar escondidos.<$FFFC>Não temos escolha: vamos atacar!<$FFFE>
+Sim, senhor! Entendido!<$FFFE>
+Então havia uma emboscada<$FFFC>à espreita ali. Ainda bem que seguimos<$FFFC>o conselho da Runa e não nos lançamos<$FFFC>às cegas...<$FFFE>
+Obrigado, Runa.<$FFFC>Você nos salvou.<$FFFE>
+Não... Não foi<$FFFC>nada demais...<$FFFE>
+Parece que o inimigo tem muita cavalaria.<$FFFE>
+Enfrentar a cavalaria<$FFFC>com infantaria é imprudente.<$FFFC>O certo é enfrentá-la com lanceiros.<$FFFE>
+Estratégia? É que eu sou<$FFFC>só um aprendiz, então não<$FFFC>entendo muito disso...<$FFFE>
+Cada unidade tem seus<$FFFC>pontos fortes e fracos.<$FFFD>A cavalaria leva vantagem<$FFFC>contra a infantaria.<$FFFC>Mas, contra os lanceiros,<$FFFC>não pode investir<$FFFD>e fica em desvantagem.<$FFFC>Já a infantaria, mais ágil,<$FFFC>leva vantagem contra os lanceiros.<$FFFE>
+Como se espera da filha<$FFFC>de um estrategista genial!<$FFFC>A senhorita conhece bem<$FFFC>a arte da guerra.<$FFFE>
+Entendi. Então devemos<$FFFC>planejar de acordo com<$FFFC>as vantagens de cada tropa...<$FFFE>
+Chegou a hora. Lutem<$FFFC>com todas as forças!<$FFFE>
+Sim, senhor!<$FFFE>
+Interessante. Quero ver<$FFFC>do que o senhor é capaz, Barão.<$FFFE>
+Tropas do lado de fora! Fechem<$FFFC>a comporta e interrompam<$FFFC>o fluxo do rio!<$FFFE>
+Sim, senhor! Entendido!<$FFFE>
+Então chegou a hora...<$FFFC>Não baixem a guarda: será<$FFFC>uma batalha total.<$FFFE>
+Sim, senhor!<$FFFE>
+Ataquem! Depressa, ou<$FFFC>os reforços inimigos<$FFFC>vão chegar!<$FFFE>
+Entendido, senhor!<$FFFE>
+Hahahahaha! Caíram<$FFFC>direitinho! Homens, avancem!<$FFFC>Ao ataque!<$FFFE>
+Sim, senhor! Como desejar!<$FFFE>
+Droga! Devia ter<$FFFC>escutado o aviso da<$FFFC>Runa...<$FFFD>Agora não há o que fazer.<$FFFC>Vamos precisar improvisar.<$FFFE>
+A-ainda bem...<$FFFE>
+Barão, a evacuação<$FFFC>de todos os civis<$FFFC>foi concluída sem problemas.<$FFFE>
+Muito bem. O exército imperial<$FFFC>logo vai avançar.<$FFFC>Precisamos nos preparar<$FFFC>para a batalha.<$FFFD>Evitem contato com o inimigo<$FFFC>e reúnam-se comigo.<$FFFC>Vocês estarão em desvantagem<$FFFC>contra a infantaria deles.<$FFFE>
+Sim, senhor!<$FFFE>
+Ufa... Que susto!<$FFFE>
+Barão Torrand... Por favor,<$FFFC>fique em segurança...<$FFFE>
+Barão, a evacuação<$FFFC>de todos os civis foi<$FFFC>concluída sem problemas.<$FFFE>
+Muito bem. O exército imperial<$FFFC>deve começar a se mover em breve.<$FFFC>Precisamos nos preparar<$FFFC>para a batalha.<$FFFD>Não entrem em contato<$FFFC>com o inimigo. Reúnam-se comigo.<$FFFC>Vocês estarão em desvantagem<$FFFC>contra a infantaria deles.<$FFFE>
+Sim, senhor!<$FFFE>
+Quê!? O que é isso!?<$FFFE>
+O plano deu certo!<$FFFC>Eles estão encurralados,<$FFFC>sem ter para onde fugir.<$FFFE>
+Tudo está saindo<$FFFC>como planejado.<$FFFC>Agora, ataquem o general inimigo!<$FFFE>
+Sim, senhor!<$FFFE>
+...Tsc! Então havia<$FFFC>um mecanismo escondido na mansão.<$FFFE>
+O que faremos, general?<$FFFE>
+Calma. Deve haver<$FFFC>um jeito de contornar<$FFFC>essa situação.<$FFFE>
+Fechamos a comporta!<$FFFE>
+Muito bem! Você aí, ataque<$FFFC>a mansão também!<$FFFE>
+Sim, senhor!<$FFFE>
+O fosso ao redor da mansão<$FFFC>é alimentado pelo rio.<$FFFC>Tomara que dê certo...<$FFFE>
+?! Os reforços inimigos<$FFFC>conseguiram romper nossas linhas?<$FFFC>Se continuar assim,<$FFFC>podem nos cercar pelos<$FFFD>dois lados...<$FFFC>Você aí, cavaleiro!<$FFFC>Deve ser o comandante deles. Qual é o seu nome?<$FFFE>
+Os civis conseguiram<$FFFC>fugir. Eu cuido da<$FFFC>infantaria inimiga.<$FFFD>Vocês derrotem o general<$FFFC>enquanto ele foge!<$FFFE>
+Deixe conosco!<$FFFE>
+Muito bem. Agora é só<$FFFC>resistir até as garotas chegarem.<$FFFE>
+Uma muda cresce<$FFFC>no centro de uma clareira<$FFFC>cercada por árvores altas.<$FFFD>Um pequeno espírito atrevido<$FFFC>observa da raiz.<$FFFE>
+Tentar falar com ele?<$FFFE>
+Sorrir<$FFFE>
+Fazer uma pose<$FFFE>
+Não falar com ele<$FFFE>
+O espírito bocejou, entediado,<$FFFC>e desapareceu...<$FFFE>
+O espírito riu<$FFFC>e disse, todo contente:<$FFFD>"Você é bem<$FFFC>interessante.<$FFFC>Muito bem, <$FE3C>tome isto!"<$FFFE>
+Você obteve o Anel de Laurin!<$FFFE>
+O espírito bocejou, entediado,<$FFFC>e desapareceu...<$FFFE>
+De repente, uma voz ecoou<$FFFC>de algum lugar...<$FFFD>"O que trouxe você até aqui?<$FFFC>O que está procurando?"<$FFFE>
+O que você responde?<$FFFE>
+Fiquei curioso<$FFFE>
+Sei lá<$FFFE>
+Não preciso responder<$FFFE>
+A voz tornou a falar.<$FFFD>"Nunca imaginei que<$FFFC>você fosse me notar. Tome,<$FFFC>fique com isto de presente."<$FFFE>
+Você obteve o Machado Demoníaco!<$FFFE>
+Uma risada debochada ecoou,<$FFFC>e então tudo ficou em silêncio.<$FFFE>
+Talvez minha resposta o tenha<$FFFC>irritado, pois ele não disse mais nada...<$FFFE>
+Ao examinar a comporta,<$FFFC>encontramos um talismã estranho.<$FFFE>
+Você obteve o Talismã<$FFFC>do Rei Sagrado!<$FFFE>
+Às portas da mansão do Barão...<$FFFE>
+Ai! Isso doeu!<$FFFE>
+Ugh... Que vexame. Ainda<$FFFC>tenho muito<$FFFC>a aprender...<$FFFE>
+Perdoe-me...<$FFFC>Não consigo mais<$FFFC>empunhar a espada...<$FFFE>
+Ai, ai, ai...<$FFFE>
+Ora? Estou perdendo<$FFFC>as forças...<$FFFE>
+Tsc... Baixei a guarda...<$FFFE>
+Papai!<$FFFE>
+Runa...<$FFFE>
+Droga! Cheguei<$FFFC>um instante tarde demais...<$FFFE>
+Aaah!<$FFFE>
+Dali você não pode<$FFFC>contra-atacar. Toma esta!<$FFFE>
+Tsc... Essa foi<$FFFC>uma jogada esperta...<$FFFE>
+Ugh!<$FFFE>
+V-vou vingar você!<$FFFE>
+S-senhor Torrand!<$FFFE>
+Perdão...<$FFFE>
+Me... ajude...<$FFFE>
+Aaaah!<$FFFE>
+Você faz jus ao título<$FFFC>de estrategista genial.<$FFFC>Continuar lutando só<$FFFC>nos levaria à derrota.<$FFFD>Nem minha retaguarda<$FFFC>conseguiu detê-lo.<$FFFC>Qual é o seu nome?<$FFFE>
+M-malditos remanescentes de Larcassu!<$FFFE>
+Senhor Emarinku, me perdoe...<$FFFC>Eu...<$FFFE>
+Tsc! Isso é ruim... Se<$FFFC>isso continuar...<$FFFE>
+Impossível!<$FFFE>
+Ugh!<$FFFE>
+Aaah!<$FFFE>
+N-não dá...<$FFFE>
+A-ainda não... Não vou<$FFFC>perder para alguém como<$FFFC>você...<$FFFE>
+Gah!<$FFFE>
+N-não vou morrer<$FFFC>por um ferimento desses...<$FFFE>
+V-você luta bem...<$FFFE>
+Ugh... Minha visão está<$FFFC>ficando embaçada...<$FFFE>
+Droga!<$FFFE>
+Gah!<$FFFE>
+Por que logo eu<$FFFC>tinha que perder?!<$FFFE>
+Será que chegou a hora...<$FFFE>
+I-impossível!<$FFFE>
+Uoooooh!<$FFFE>
+Viva o Império de<$FFFC>Riguéria...<$FFFE>
+?! Minha tropa de<$FFFC>interceptação foi derrotada?!<$FFFC>Tsc... E estávamos<$FFFD>tão perto...<$FFFC>Você aí, cavaleiro!<$FFFC>Você é o comandante, não é? Qual é o seu nome?<$FFFE>
+Droga! Por mais que<$FFFC>esperemos, eles não<$FFFC>vão aparecer.<$FFFD>Não adianta continuar<$FFFC>escondidos. Não temos<$FFFC>escolha: ao ataque!<$FFFE>
+Sim, senhor! Entendido!<$FFFE>
+Então havia uma emboscada<$FFFC>armada ali. Ainda bem<$FFFC>que seguimos o conselho<$FFFC>da Runa e não avançamos...<$FFFE>
+Obrigado, Runa.<$FFFC>Você nos salvou.<$FFFE>
+Não... Não foi nada<$FFFC>demais, de verdade...<$FFFE>
+Seu destino acaba aqui também!<$FFFE>
+Hum... Como ousam me desprezar,<$FFFC>logo eu, um dos Quatro Generais<$FFFC>do Império?!<$FFFD>Acha que alguém como você<$FFFC>poderia me derrotar?<$FFFE>
+O pelotão de lanceiros<$FFFC>foi aniquilado...<$FFFE>
+A luta acabou,<$FFFC>Barão Torrand.<$FFFC>Seu destino chegou ao fim.<$FFFD>Prepare-se!<$FFFE>
+Ainda não. Eu ainda não<$FFFC>perdi toda a esperança.<$FFFD>Vou lutar até o fim<$FFFC>com todas as minhas forças!<$FFFE>
+Sou <$F600><$0000>,<$FFFC>cavaleiro de Larcassu.<$FFFE>
+Vou me lembrar desse nome.<$FFFC>Sou Emarinku, um dos<$FFFC>Quatro Generais do Império.<$FFFD>Por hoje, vou me retirar.<$FFFC>Se nossos caminhos se cruzarem,<$FFFC>nos veremos novamente.<$FFFE>
+Senhor <$F600><$0000>...<$FFFC>A esse ritmo, vai demorar<$FFFC>demais...<$FFFE>
+Desculpe. A propósito,<$FFFC>o Barão Torrand está<$FFFC>bem?<$FFFE>
+Que estratégia brilhante, senhor<$FFFC><$F600><$0000>.<$FFFE>
+Ufa, parece que vencemos.<$FFFC>O Barão Torrand está<$FFFC>bem?<$FFFE>
+Ufa, parece que vencemos.<$FFFC>O Barão Torrand está<$FFFC>bem?<$FFFE>
+Pai, o senhor está bem?<$FFFE>
+Pai, o senhor está bem?<$FFFE>
+Ah, Runa.<$FFFC>Estou bem. Quem são<$FFFC>essas pessoas?<$FFFE>
+Somos do exército do<$FFFC>Visconde Raymond.<$FFFC>Lutamos para recuperar<$FFFC>o reino.<$FFFD>Viemos pedir ajuda ao<$FFFC>Barão Torrand, o famoso<$FFFC>estrategista.<$FFFE>
+Ah, vieram da parte do Visconde Raymond.<$FFFD>A viagem foi longa.<$FFFC>Muito bem. Quero ouvir<$FFFC>todos os detalhes na<$FFFC>mansão.<$FFFE><$FFFF>
