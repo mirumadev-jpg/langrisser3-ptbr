@@ -8,6 +8,9 @@ Este documento registra o fluxo de trabalho para continuar o projeto com consist
 - Preservar sentido, tom, voz dos personagens e naturalidade em português brasileiro.
 - Manter nomes e termos consistentes com um glossário compartilhado, a ser ampliado durante a tradução.
 - Para poderes sobrenaturais, usar “magia/magias”, “conjurar magia” ou “fazer magia”; reservar “mágica” para truques de palco/ilusionismo.
+- Preferir formulações idiomáticas do português brasileiro, como “fazer bico” e “não tenho noção de direção”; respeitar a voz e a nuance emocional de cada personagem (por exemplo, “bobo” na fala afetuosa e levemente ciumenta de Tiaris).
+- Priorizar termos diegéticos em objetivos e avisos: usar “civis” quando se trata de civis, em vez do rótulo técnico “NPCs”, para preservar a imersão.
+- Em diários, escolher termos naturais e precisos para o contexto, como “cavaleiro recém-nomeado”; preservar a voz cansada e determinada da Runa em “as coisas não têm sido fáceis”.
 - Trabalhar os cenários em ordem. O roteiro seguinte é sempre um rascunho até ser revisado e aprovado por Miruma.
 
 ## Ciclo de trabalho de cada cenário
@@ -26,7 +29,7 @@ Este documento registra o fluxo de trabalho para continuar o projeto com consist
 - Cenário 2: revisado, aprovado e publicado.
 - Cenário 3: revisado, aprovado e publicado.
 - Cenário 4: revisado, aprovado e publicado.
-- Cenário 5: revisado, aprovado e publicado.
+- Cenário 5: revisado, aprovado e publicado; texto atualizado conforme nova revisão de Miruma.
 - Cenário 6: próximo da fila; manter como rascunho até revisão e aprovação explícita de Miruma.
 
 ## Regras técnicas e de qualidade

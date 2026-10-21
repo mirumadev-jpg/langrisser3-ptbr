@@ -27,6 +27,8 @@ Os arquivos publicados ficam em [`scripts/pt-br/`](scripts/pt-br/). Eles preserv
 
 Em PT-BR, usamos **magia/magias**, **conjurar magia** ou **fazer magia** para poderes sobrenaturais. **Mágica** fica para truques de palco e ilusionismo, a menos que o contexto peça outra coisa.
 
+Também priorizamos expressões que soem naturais no Brasil e preservem a voz de cada personagem: por exemplo, “fazer bico” em vez de “fazer beiço” e “não tenho noção de direção” em vez de uma construção literal. Em objetivos com peso narrativo, preferimos “civis” a rótulos técnicos como “NPCs”, para não quebrar a imersão. No cenário 5, a fala afetuosa e levemente ciumenta de Tiaris usa “bobo”; nos diários, usamos “recém-nomeado” para o cavaleiro e “as coisas não têm sido fáceis” para o relato da Runa.
+
 ## Notas técnicas
 
 A base técnica é o release [v0.8.0 do Langrisser III English Patch](https://github.com/hexerkat/langrisser3-english/releases/tag/v0.8.0). O repositório original descreve o pipeline como reutilizável para outras línguas. Este repositório ainda é um projeto de tradução textual, não um patch PT-BR pronto para aplicar.

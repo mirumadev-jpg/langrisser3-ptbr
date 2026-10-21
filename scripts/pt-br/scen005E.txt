@@ -23,14 +23,14 @@ Gilberto<$FFFF>
 Comandante de Riguéria<$FFFF>
 Comandante de Larcassu<$FFFF>
 <$0000>・Derrote todos, menos Geier<$FFFE>
-<$0000>・Morte de <$F600><$0000><$FFFC><$0000>・Morte de todos os NPCs<$FFFE>
+<$0000>・Morte de <$F600><$0000><$FFFC><$0000>・Morte de todos os civis<$FFFE>
 Estrada da Montanha até a Mansão de Torrand<$FFFF>
 Pessoal, não parem!<$FFFE>
 Vou segurá-los aqui!<$FFFC>O resto de vocês, sigam em frente!<$FFFE>
 S-sim!<$FFFE>
 Com licença, Pieru...<$FFFE>
 Ué? O que foi,<$FFFC>senhorita Rifani?<$FFFE>
-Eu também ficarei feliz em ajudar.<$FFFC>Consigo conjurar algumas<$FFFC>magias, sabe?<$FFFE>
+Eu também fico feliz em ajudar.<$FFFC>Sei fazer algumas<$FFFC>magias, sabe?<$FFFE>
 ...Ah!<$FFFE>
 Hehehe... Acham mesmo<$FFFC>que vão escapar de mim?<$FFFC>Homens, aproveitem a caçada!<$FFFE>
 Sim, senhor!<$FFFE>
@@ -61,7 +61,7 @@ Sim, é claro.<$FFFC>Farei como mandar.<$FFFE>
 General Geier! Surgiram<$FFFC>sobreviventes de Larcassu,<$FFFC>e estão armados!<$FFFE>
 Até aqui há remanescentes<$FFFC>do Reino de Larcassu?<$FFFE>
 O que será que estão tramando?<$FFFE>
-O senhor destas terras<$FFFC>é o Barão Torrand, se não me engano...<$FFFD>O que querem<$FFFC>com aquele estrategista?<$FFFC>Seja como for, não parece que estejam tramando nada bom.<$FFFC>Enviem um mensageiro ao acampamento agora!<$FFFE>
+O senhor destas terras<$FFFC>é o Barão Torrand, se não me engano...<$FFFD>O que querem<$FFFC>com aquele estrategista?<$FFFC>Seja como for, não me parece que estejam tramando nada de bom.<$FFFC>Enviem um mensageiro ao acampamento agora!<$FFFE>
 Sim, senhor!<$FFFE>
 Muito bem, pessoal. A caçada<$FFFC>começa.<$FFFD>Unidades voadoras, bloqueiem<$FFFC>a rota de fuga deles. Não deixem<$FFFC>ninguém escapar!<$FFFE>
 Pode deixar!<$FFFE>
@@ -97,17 +97,17 @@ Está bem?<$FFFE>
 Obrigado, você nos ajudou muito.<$FFFD>A propósito, por que você<$FFFC>mandou os cidadãos irem<$FFFC>para o oeste agora há pouco?<$FFFE>
 O que você responde?<$FFFE>
 Foi só uma brincadeira<$FFFE>
-Não tenho senso de direção<$FFFE>
+Não tenho noção de direção<$FFFE>
 Foi um teste<$FFFE>
 Foi só uma brincadeira.<$FFFE>
 Ah, então era isso.<$FFFC>Você me assustou<$FFFC>no começo.<$FFFE>
 Hahaha... Me desculpe<$FFFC>por isso.<$FFFE>
-Foi mal. A verdade é<$FFFC>que sou péssimo<$FFFC>com senso de direção.<$FFFE>
+Foi mal. A verdade é<$FFFC>que não tenho noção de direção.<$FFFE>
 Ah, era isso!<$FFFC>Você me deu um susto.<$FFFD><$F600><$0000>,<$FFFC>da próxima vez, deixe<$FFFC>outra pessoa ir na frente, tá?<$FFFE>
 É. De agora em diante,<$FFFC>vou me controlar um pouco.<$FFFE>
-<$F600><$0000>,<$FFFC>que cafona!<$FFFE>
+<$F600><$0000>,<$FFFC>que bobo!<$FFFE>
 Ora! Um homem assim<$FFFC>é tão adorável...<$FFFC>Eu gosto dele.<$FFFE>
-Testei o senso de<$FFFC>direção dos meus companheiros.<$FFFC>Um líder precisa conhecer<$FFFC>bem as habilidades deles!<$FFFE>
+Testei a noção de<$FFFC>direção dos meus companheiros.<$FFFC>Um líder precisa conhecer<$FFFC>bem as habilidades deles!<$FFFE>
 Hmm... Acho que é<$FFFC>assim mesmo, então...<$FFFE>
 Se eu digo que é assim,<$FFFC>então é assim!<$FFFE>
 Tá bom, tá bom.<$FFFC>Não precisa ficar tão brava.<$FFFE>
@@ -122,7 +122,7 @@ O que vai fazer?<$FFFE>
 Cobrir com terra<$FFFE>
 Deixar pra lá<$FFFE>
 Bater os pés no chão<$FFFE>
-Você cobre o buraco com terra, e<$FFFC>um espírito da terra aparece.<$FFFD>O que pensa que está fazendo!?<$FFFC>Está bem, pode levar! Só<$FFFC>me deixe em paz!<$FFFE>
+Você cobre o buraco com terra, e<$FFFC>um espírito da terra aparece.<$FFFD>O que pensa que está fazendo!?<$FFFC>Está bem, pode ficar com isso! Só<$FFFC>me deixe em paz!<$FFFE>
 Você recebeu 500 P!<$FFFE>
 Nada aconteceu...<$FFFE>
 Enquanto você bate os pés no chão,<$FFFC>um espírito da terra aparece.<$FFFD>Pare com esse barulho infernal!<$FFFC>Não atrapalhe minha soneca,<$FFFC>mortal!<$FFFD>Hum?<$FE3C>Que cara é essa?<$FFFC>Quer alguma coisa<$FFFC>de mim, é?<$FFFE>
@@ -173,13 +173,13 @@ Pois é...<$FFFC>Quando <$F600><$0000><$FFFC>mandou eles fugirem para o oeste,<$
 Como você reage?<$FFFE>
 Ficar irritado<$FFFE>
 Pedir desculpas com sinceridade<$FFFE>
-Fazer beiço<$FFFE>
+Fazer bico<$FFFE>
 Não foi desculpa<$FFFC>nenhuma! Era verdade!<$FFFE>
 Ai... Que teimoso...<$FFFC>Bem a sua cara.<$FFFE>
 Desculpe. Acabei inventando<$FFFC>uma desculpa esquisita.<$FFFE>
 Hmmm... Você está<$FFFC>meio estranho hoje.<$FFFC><$F600><$0000>.<$FFFE>
 ...<$FFFE>
-<$F600><$0000> ,<$FFFC>por que está fazendo bico?<$FFFC>Credo, que criança!<$FFFE>
+<$F600><$0000>,<$FFFC>por que está fazendo bico?<$FFFC>Credo, que criança!<$FFFE>
 <$F702><$FFFE>
 <$F703><$FFFE>
 <$F702><$FFFE>
@@ -197,7 +197,7 @@ Pieru e Rifani<$FFFC>se juntaram ao grupo!<$FFFE>
 ...<$FFFE>
 O que você quer dizer?<$FFFE>
 Dar as boas-vindas<$FFFE>
-Deixar mulheres lutarem...<$FFFE>
+Ver mulheres lutando...<$FFFE>
 Não dizer nada<$FFFE>
 Que bom ter vocês aqui.<$FFFC>Conto com vocês!<$FFFE>
 Ver uma mulher ir à luta<$FFFC>me deixa aflito...<$FFFC>mas sua ajuda é muito bem-vinda.<$FFFD>Por favor, senhorita Rifani,<$FFFC>tome muito cuidado.<$FFFE>
@@ -230,7 +230,7 @@ Então, fiquem por aí.<$FFFE>
 Então, ataquem o inimigo.<$FFFE>
 Então, fujam para o leste!<$FFFE>
 Ah, é verdade! Aquelas pessoas que<$FFFC>conseguiram escapar me deram um objeto<$FFFC>estranho como agradecimento.<$FFFD>Toma, isso é pra você,<$FFFC><$F600><$0000>.<$FFFE>
-Você obteve uma<$FFFC>Bênção Divina!<$FFFE>
+Você recebeu uma<$FFFC>Bênção Divina!<$FFFE>
 Obrigado, Pieru.<$FFFE>
 Hã?! O exército imperial<$FFFC>está aqui?!<$FFFE>
 O quê? São reforços<$FFFC>inimigos?!<$FFFE>
@@ -246,5 +246,5 @@ Então vocês estão<$FFFC>lutando para recuperar<$FFFC>o Reino...<$FFFC>Certo! 
 Também quero ajudar.<$FFFC>Estou preocupada com meus pais,<$FFFC>que estão presos em Larcassu.<$FFFE>
 Diário de Tiaris<$FFFD>15º dia do 5º mês.<$FFFC>O tempo está lindo<$FFFC>hoje também.<$FFFD>O sol está quentinho,<$FFFC>e é tão<$FFFC>agradável.<$FFFD>Ao meu lado, meu<$FFFC>irmão mais velho está<$FFFC>de olho, com todo<$FFFC>cuidado, para ver se há inimigos.<$FFFD>Ah, se fosse<$FFFC>tempo de paz, e eu<$FFFC>pudesse fazer um<$FFFC>piquenique com meu irmão...<$FFFC>Seria tão divertido!<$FFFD>Aí a Tia arregaçaria<$FFFC>as mangas e faria<$FFFC>um almoço bem gostoso<$FFFC>para o meu irmão!<$FFFD>Pode não parecer,<$FFFC>mas a Tia cozinha<$FFFC>muito bem!<$FFFE>
 Bom, não cozinho tão<$FFFC>bem quanto a senhorita Layla,<$FFFC>é claro,<$FFFD>e de vez em quando<$FFFC>(só de vez em quando,<$FFFC>tá?!) acabo trocando<$FFFC>o sal pelo açúcar.<$FFFD>Ah, tomara que a paz<$FFFC>chegue logo.<$FFFD>Tenho fugido um pouco<$FFFC>da realidade, mas<$FFFC>hoje fizemos alguns<$FFFC>novos amigos.<$FFFD>Pieru e a senhorita Rifani.<$FFFD>Pieru é aprendiz de<$FFFC>cavaleiro e, em vez<$FFFC>de bonito, acho que ele<$FFFC>é mais fofo.<$FFFD>A senhorita Rifani é<$FFFC>gentil e divertida, mas<$FFFC>é tão bonita que fico<$FFFC>um pouco preocupada.<$FFFD>É que, quando meu<$FFFC>irmão a cumprimentou,<$FFFC>ficou todo<$FFFC>bobo!<$FFFD>Então dei um belo<$FFFC>beliscão na perna dele!<$FFFD>Ela também diz que cozinha<$FFFC>bem, então é uma<$FFFC>rival e tanto. Mas a Tia<$FFFC>não vai perder!<$FFFE>
-Diário de Rifani<$FFFD>15º dia do 5º mês,<$FFFC>céu limpo. Nem uma<$FFFC>nuvem no céu.<$FFFD>Num dia como este,<$FFFC>eu deveria estar feliz,<$FFFC>mas...<$FFFD>Nunca desejei tanto<$FFFC>que chovesse<$FFFC>como hoje.<$FFFD>Com certeza, a chuva<$FFFC>nos esconderia dos<$FFFC>olhos dos soldados<$FFFC>imperiais.<$FFFD>Faz pouco mais de<$FFFC>dois dias que<$FFFC>fugimos de Larcassu.<$FFFD>Todos parecem estar<$FFFC>no limite agora, e<$FFFC>muitos parecem se arrepender<$FFFC>de ter fugido.<$FFFD>Até Pieru, que<$FFFC>mantém todos unidos,<$FFFC>parece exausto.<$FFFD>E então, por fim,<$FFFC>os perseguidores do<$FFFC>Império nos alcançaram.<$FFFD>Foi então que vieram<$FFFC>em nosso socorro<$FFFC>os membros do Exército<$FFFC>de Libertação, liderado por<$FFFC><$F600><$0000>.<$FFFD><$F600><$0000> é um<$FFFC>cavaleiro recém-<$FFFC>ordenado, mas muito<$FFFC>confiável.<$FFFD>Ele nos salvou como<$FFFC>um príncipe montado<$FFFC>num cavalo branco.<$FFFD>Havia uma menina cheia<$FFFC>de energia e adorável,<$FFFC>chamada Tiaris.<$FFFD>Ela chamava<$FFFC><$F600><$0000> de irmão mais velho...<$FFFC>mas será que são<$FFFC>irmãos mesmo?<$FFFD>Sem ter para onde ir,<$FFFC>decidimos<$FFFC>viajar junto<$FFFC>com <$F600><$0000>...<$FFFC>Mas o que nos espera agora?<$FFFD>Por enquanto, mais do que<$FFFC>qualquer coisa, estou<$FFFC>feliz por poder descansar<$FFFC>numa cama esta noite.<$FFFE>
-Diário de Runa<$FFFD>15º dia do 5º mês.<$FFFC>Céu limpo.<$FFFD>Hoje, pouco depois do meio-dia,<$FFFC>avistei civis<$FFFC>na estrada da montanha<$FFFC>para Larcassu, fugindo<$FFFC>do exército imperial.<$FFFD>O enviado do visconde<$FFFC>Raymond, que vinha para cá,<$FFFC>já lutava contra<$FFFC>os imperiais, então<$FFFC>prestei apoio e<$FFFC>os derrotei.<$FFFD>Acompanhei os refugiados<$FFFC>e o enviado de volta<$FFFC>à mansão.<$FFFD>Desde a queda do Castelo<$FFFC>Flutuante,<$FFFC>o exército imperial só<$FFFC>ganha força.<$FFFD>Quero entrar em contato<$FFFC>com nossos aliados<$FFFC>espalhados e lutar como um só,<$FFFC>mas não está dando<$FFFC>certo.<$FFFD>Não é de admirar:<$FFFC>o marechal de campo do Império<$FFFC>está no comando.<$FFFE>
+Diário de Rifani<$FFFD>15º dia do 5º mês,<$FFFC>céu limpo. Nem uma<$FFFC>nuvem no céu.<$FFFD>Num dia como este,<$FFFC>eu deveria estar feliz,<$FFFC>mas...<$FFFD>Nunca desejei tanto<$FFFC>que chovesse<$FFFC>como hoje.<$FFFD>Com certeza, a chuva<$FFFC>nos esconderia dos<$FFFC>olhos dos soldados<$FFFC>imperiais.<$FFFD>Faz pouco mais de<$FFFC>dois dias que<$FFFC>fugimos de Larcassu.<$FFFD>Todos parecem estar<$FFFC>no limite agora, e<$FFFC>muitos parecem se arrepender<$FFFC>de ter fugido.<$FFFD>Até Pieru, que<$FFFC>mantém todos unidos,<$FFFC>parece exausto.<$FFFD>E então, por fim,<$FFFC>os perseguidores do<$FFFC>Império nos alcançaram.<$FFFD>Foi então que vieram<$FFFC>em nosso socorro<$FFFC>os membros do Exército<$FFFC>de Libertação, liderado por<$FFFC><$F600><$0000>.<$FFFD><$F600><$0000> é um<$FFFC>cavaleiro recém-<$FFFC>nomeado, mas muito<$FFFC>confiável.<$FFFD>Ele nos salvou como<$FFFC>um príncipe montado<$FFFC>num cavalo branco.<$FFFD>Havia uma menina cheia<$FFFC>de energia e adorável,<$FFFC>chamada Tiaris.<$FFFD>Ela chamava<$FFFC><$F600><$0000> de irmão mais velho...<$FFFC>mas será que são<$FFFC>irmãos mesmo?<$FFFD>Sem ter para onde ir,<$FFFC>decidimos<$FFFC>viajar junto<$FFFC>com <$F600><$0000>...<$FFFC>Mas o que nos espera agora?<$FFFD>Por enquanto, mais do que<$FFFC>qualquer coisa, estou<$FFFC>feliz por poder descansar<$FFFC>numa cama esta noite.<$FFFE>
+Diário de Runa<$FFFD>15º dia do 5º mês.<$FFFC>Céu limpo.<$FFFD>Hoje, pouco depois do meio-dia,<$FFFC>avistei civis<$FFFC>na estrada da montanha<$FFFC>para Larcassu, fugindo<$FFFC>do exército imperial.<$FFFD>O enviado do visconde<$FFFC>Raymond, que vinha para cá,<$FFFC>já lutava contra<$FFFC>os imperiais, então<$FFFC>prestei apoio e<$FFFC>os derrotei.<$FFFD>Acompanhei os refugiados<$FFFC>e o enviado de volta<$FFFC>à mansão.<$FFFD>Desde a queda do Castelo<$FFFC>Flutuante,<$FFFC>o exército imperial só<$FFFC>ganha força.<$FFFD>Quero entrar em contato<$FFFC>com nossos aliados<$FFFC>espalhados e lutar como um só,<$FFFC>mas as coisas não têm sido fáceis.<$FFFD>Não é de admirar:<$FFFC>o marechal de campo do Império<$FFFC>está no comando.<$FFFE>
