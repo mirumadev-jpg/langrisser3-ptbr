@@ -11,6 +11,7 @@ Este documento registra o fluxo de trabalho para continuar o projeto com consist
 - Preferir formulações idiomáticas do português brasileiro, como “fazer bico” e “não tenho noção de direção”; respeitar a voz e a nuance emocional de cada personagem (por exemplo, “bobo” na fala afetuosa e levemente ciumenta de Tiaris).
 - Priorizar termos diegéticos em objetivos e avisos: usar “civis” quando se trata de civis, em vez do rótulo técnico “NPCs”, para preservar a imersão.
 - Em diários, escolher termos naturais e precisos para o contexto, como “cavaleiro recém-nomeado”; preservar a voz cansada e determinada da Runa em “as coisas não têm sido fáceis”.
+- Adaptar interjeições e onomatopeias à fala brasileira: não manter transliterações mecânicas como “Kuh”; escolher “Urgh!”, “Ugh!” ou outra forma natural conforme a emoção e a voz do personagem.
 - Trabalhar os cenários em ordem. O roteiro seguinte é sempre um rascunho até ser revisado e aprovado por Miruma.
 
 ## Ciclo de trabalho de cada cenário
@@ -31,7 +32,8 @@ Este documento registra o fluxo de trabalho para continuar o projeto com consist
 - Cenário 4: revisado, aprovado e publicado.
 - Cenário 5: revisado, aprovado e publicado; texto atualizado conforme nova revisão de Miruma.
 - Cenário 6: revisado, aprovado e publicado.
-- Cenário 7: próximo da fila; manter como rascunho até revisão e aprovação explícita de Miruma.
+- Cenário 7: revisado, aprovado e publicado.
+- Cenário 8: próximo da fila; manter como rascunho até revisão e aprovação explícita de Miruma.
 
 ## Regras técnicas e de qualidade
 
@@ -60,4 +62,4 @@ Este documento registra o fluxo de trabalho para continuar o projeto com consist
 
 ## Próximo passo de tradução
 
-Retomar o cenário 7 na ordem, preparar um rascunho para revisão de Miruma e aguardar aprovação antes de publicar qualquer arquivo ou atualizar seu status como aprovado.
+Retomar o cenário 8 na ordem, preparar um rascunho para revisão de Miruma e aguardar aprovação antes de publicar qualquer arquivo ou atualizar seu status como aprovado.

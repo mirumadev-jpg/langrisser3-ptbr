@@ -1,0 +1,207 @@
+Tiaris<$FFFF>
+Rifani<$FFFF>
+Runa<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, mestre espadachim<$FFFF>
+Pieru<$FFFF>
+Fáberu, o sábio<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói de Kahni<$FFFF>
+Altemüller<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+Comandante de Riguéria<$FFFF>
+Comandante de Barral<$FFFF>
+Capitão de Barral<$FFFF>
+General Fana<$FFFF>
+Cavaleiro das Trevas<$FFFF>
+Comandante de Riguéria<$FFFF>
+General de Barral<$FFFF>
+Gilberto<$FFFF>
+Comandante de Barral<$FFFF>
+<$0000>・Derrote todos os inimigos<$FFFC><$0000>・Faça o Império e Barral<$FFFC><$0000><$0000>entrarem em guerra e recue<$FFFC><$0000><$0000>todos os aliados para a outra margem<$FFFE>
+<$0000>・Morte de <$F600><$0000><$FFFE>
+Fronteira entre o Império de Riguéria e o Reino de Barral<$FFFF>
+Vamos atacar o Império e o Reino de Barral<$FFFC>ao mesmo tempo.<$FFFE>
+Nosso objetivo é atrair os dois<$FFFC>exércitos e fazê-los<$FFFC>se enfrentarem.<$FFFE>
+Se a batalha se prolongar<$FFFC>e os exércitos principais<$FFFC>dos dois países chegarem,<$FFFC>ficaremos em desvantagem.<$FFFE>
+Precisamos resolver isso rápido.<$FFFE>
+Então é só dar umas cutucadas<$FFFC>neles e fugir de volta<$FFFC>pra cá, certo?<$FFFE>
+Moleza, moleza!<$FFFE>
+Falar é fácil. Se der<$FFFC>errado, não vou perdoar<$FFFC>vocês!<$FFFE>
+Vai dar tudo certo!<$FFFE>
+Muito bem, vamos começar<$FFFC>a operação!<$FFFE>
+Ousam atacar o Império?<$FFFC>Estão nos<$FFFC>subestimando!<$FFFE>
+Ousam atacar o Império?<$FFFC>Acham que somos<$FFFC>fracos?<$FFFE>
+Não podemos perder<$FFFC>para eles!<$FFFE>
+Capitão! Conseguimos<$FFFC>contato com a força principal!<$FFFC>O próprio Cavaleiro das Trevas<$FFFC>está vindo para cá!<$FFFE>
+Capitão! Conseguimos<$FFFC>contato com a força principal!<$FFFC>O próprio Cavaleiro das Trevas<$FFFC>está vindo para cá!<$FFFE>
+O Cavaleiro das Trevas?!<$FFFC>Não podem vacilar!<$FFFD>Se ele chegar e nos encontrar<$FFFC>em desvantagem, serei responsabilizado...<$FFFC>Posso até morrer!<$FFFC>Derrotem o inimigo a qualquer custo!<$FFFE>
+General Fana!<$FFFE>
+Que história é essa?<$FFFC>Explique-se!<$FFFC>Agora!<$FFFE>
+Na verdade, os soldados<$FFFC>de Barral...<$FFFE>
+Ainda estão tendo trabalho<$FFFC>com Barral? Revidem!<$FFFE>
+Cadê<$FFFC>os reforços?!<$FFFE>
+Assim que avistamos o inimigo, mandei<$FFFC>um mensageiro. A inspeção do<$FFFC>quartel-general já deve estar perto.<$FFFC>Com a força principal, vamos vencer!<$FFFE>
+Que jeito vergonhoso<$FFFC>de lutar!<$FFFE>
+Cavaleiro das Trevas!<$FFFC>As tropas do Império<$FFFC>cruzaram a fronteira!<$FFFE>
+Aquele homem é o<$FFFC>famoso Cavaleiro das Trevas?<$FFFE>
+E ainda levam todo esse<$FFFC>tempo contra um inimigo desses? Inúteis!<$FFFE>
+Senhor <$F600><$0000>!<$FFFC>O Cavaleiro das Trevas apareceu.<$FFFC>É perigoso demais<$FFFC>continuarmos aqui.<$FFFD>Por favor, ordene a retirada<$FFFC>imediatamente! Eu imploro!<$FFFE>
+Entendido. Pessoal,<$FFFC>vamos recuar!<$FFFE>
+Aquele é o Cavaleiro das<$FFFC>Trevas de Barral?!<$FFFD>Não temos como enfrentá-lo.<$FFFC>Precisamos recuar<$FFFC>depressa!<$FFFE>
+Expulsem-nos e, depois,<$FFFC>acabem com todo o exército<$FFFC>de Barral!<$FFFE>
+Contra-ataquem! Depois, varram<$FFFC>o exército de Barral<$FFFC>de uma vez por todas!<$FFFE>
+Vamos! Defendam esta<$FFFC>fronteira até a morte!<$FFFE>
+Não precisamos esperar<$FFFC>pelo marechal! Ao ataque,<$FFFC>sigam-me!<$FFFE>
+Vamos! Acabem com todos!<$FFFE>
+Contra-ataquem! Se expulsarem<$FFFC>o Império, ganharão<$FFFC>uma medalha!<$FFFE>
+Ótimo, o plano deu certo!<$FFFC>Pessoal, vamos recuar!<$FFFE>
+Todos conseguiram escapar<$FFFC>em segurança?<$FFFE>
+Que comando admirável,<$FFFC>senhor <$F600><$0000>.<$FFFE>
+Senhor <$F600><$0000>...<$FFFC>Não podemos deixar uma<$FFFC>batalha se arrastar demais.<$FFFD>Isso pode afetar nossos<$FFFC>próximos passos...<$FFFE>
+Muito bem. Isso deve nos<$FFFC>dar algum tempo.<$FFFD>Vamos depressa ao<$FFFC>Portão de Lushiris!<$FFFE>
+Muito bem. Agora é só<$FFFC>esperar todo mundo.<$FFFE>
+Eu já cheguei, viu?<$FFFC>Venham logo,<$FFFC>vocês também!<$FFFE>
+Ufa... A operação está<$FFFC>quase no fim.<$FFFE>
+Espero que todos voltem<$FFFC>em segurança...<$FFFE>
+Certo, perfeito!<$FFFE>
+Parece que cheguei<$FFFC>em segurança. Venham logo,<$FFFC>pessoal!<$FFFE>
+Quando todos tiverem<$FFFC>escapado, a operação<$FFFC>será um sucesso. Depressa,<$FFFC>por favor!<$FFFE>
+Ao espiar dentro da tenda,<$FFFC>vi uma trompa sobre a mesa.<$FFFE>
+Pegar a trompa?<$FFFE>
+Você obteve o Gjallarhorn!<$FFFE>
+Uwaaah!!<$FFFE>
+Ousam atacar o Império?<$FFFC>Saibam o seu lugar!<$FFFE>
+Não subestimem o Reino<$FFFC>de Barral!<$FFFE>
+Parece que tudo correu<$FFFC>bem, senhor<$FFFC><$F600><$0000>.<$FFFE>
+Ótimo, agora só precisamos<$FFFC>escapar depressa.<$FFFC>Aproveitem uma brecha e recuem<$FFFC>para a outra margem!<$FFFE>
+<$F702><$FFFE>
+Toma essa!<$FFFE>
+<$F702><$FFFE>
+<$F702><$FFFE>
+Toma essa!<$FFFE>
+<$F702><$FFFE>
+<$F703><$FFFE>
+Toma essa!<$FFFE>
+<$F703><$FFFE>
+<$F703><$FFFE>
+Toma essa!<$FFFE>
+Prepare-se!<$FFFE>
+Ai!<$FFFE>
+Droga!<$FFFE>
+Argh! Não consigo mais...<$FFFC>Ugh...<$FFFE>
+Ai! Eu não aguento mais...<$FFFE>
+Ora, parece que fui<$FFFC>derrotada...<$FFFE>
+Isso não era pra acontecer...<$FFFC>Perdão.<$FFFC>Vou recuar!<$FFFE>
+Gah!<$FFFE>
+<$F704><$FFFE>
+<$F704><$FFFE>
+<$F704><$FFFE>
+<$F704><$FFFE>
+<$F704><$FFFE>
+<$F704><$FFFE>
+<$F704><$FFFE>
+<$F704><$FFFE>
+<$F704><$FFFE>
+<$F704><$FFFE>
+M-meu braço...<$FFFE>
+Perder para Barral...<$FFFE>
+Q-que vergonha...<$FFFE>
+I-impossível!<$FFFE>
+Ugh!<$FFFE>
+Ngh!<$FFFE>
+Que azar o seu ter que<$FFFC>lutar comigo!<$FFFE>
+Guaaah!<$FFFE>
+Nosso Império é a nação<$FFFC>militar mais forte deste<$FFFC>continente. Não vamos<$FFFC>perder para a escória de Barral!<$FFFE>
+I-isso não pode ser...<$FFFE>
+Não!<$FFFE>
+Morra!<$FFFE>
+Cheguei ao meu limite...<$FFFC>Não tem jeito.<$FFFC>Vou ter que esperar<$FFFC>o marechal chegar...<$FFFE>
+Cheguei ao meu limite...<$FFFC>Não tem jeito.<$FFFC>Até o marechal chegar,<$FFFC>todas as tropas vão recuar!<$FFFE>
+Sigam-me! Vamos dispersar<$FFFC>o inimigo!<$FFFE>
+Então você é o famoso<$FFFC>Cavaleiro das Trevas! Deixe-me<$FFFC>testar sua força!<$FFFE>
+Valente, hein, garota?<$FFFC>Mas só com palavras<$FFFC>não se vence uma batalha!<$FFFE>
+Como ousa dizer isso!<$FFFE>
+Argh... Nunca imaginei<$FFFC>que fosse tão forte...<$FFFE>
+Até os Quatro Generais<$FFFC>do Império são só isso?<$FFFC>No fim, não passam de um bando desorganizado.<$FFFE>
+Maldito...<$FFFE>
+Gah!<$FFFE>
+Guh!<$FFFE>
+Droga! Cheguei ao meu<$FFFC>limite...<$FFFE>
+M-me derrotaram...<$FFFE>
+Que desgraça...<$FFFE>
+E-eu ainda não vou morrer...<$FFFE>
+<$F705><$FFFE>
+<$F705><$FFFE>
+<$F705><$FFFE>
+<$F705><$FFFE>
+<$F705><$FFFE>
+<$F705><$FFFE>
+<$F705><$FFFE>
+<$F705><$FFFE>
+Malditos soldados imperiais!<$FFFE>
+Malditos soldados imperiais!<$FFFE>
+Se eu perder feio aqui,<$FFFC>o Cavaleiro das Trevas<$FFFC>vai me matar.<$FFFD>E eu ainda não quero morrer!<$FFFE>
+M-mãe...<$FFFE>
+Toma!<$FFFE>
+Guh!<$FFFE>
+Morra! Morra! Morra!<$FFFE>
+O sangue não para!<$FFFE>
+A-ajude-me...<$FFFE>
+Droga!<$FFFE>
+O-o quê?!<$FFFE>
+N-não quero morrer...<$FFFE>
+Não dá mais...<$FFFE>
+N-não era pra terminar<$FFFC>assim...<$FFFE>
+Argh!<$FFFD>Como posso ter sido<$FFFC>derrotada...<$FFFD>Não tem jeito. Vamos recuar<$FFFC>e reorganizar as tropas.<$FFFE>
+Argh!<$FFFD>Como posso ter sido<$FFFC>derrotada...<$FFFD>Não tem jeito. Vamos recuar<$FFFC>e reorganizar as tropas!<$FFFD>Todas as tropas, retirada!<$FFFE>
+Saia da frente. Morra!<$FFFE>
+Urgh!<$FFFE>
+Estou perdendo as forças...<$FFFE>
+Acabou para mim...<$FFFE>
+Só mais um pouco...!<$FFFE>
+F-forte demais...<$FFFE>
+O que está acontecendo?<$FFFC>Foram todos<$FFFC>derrotados!<$FFFE>
+Não importa.<$FFFC>Nós mesmos vamos derrotar<$FFFC>o inimigo.<$FFFE>
+Sim, senhor! Darei<$FFFC>tudo de mim!<$FFFE>
+Senhor <$F600><$0000>.<$FFFC>O Cavaleiro das Trevas de Barral!<$FFFC>Precisamos recuar agora!<$FFFE>
+...É verdade. Mesmo assim,<$FFFC>se eu puder, quero testar<$FFFC>minhas forças contra ele.<$FFFD>Sinto que, com a minha força,<$FFFC>posso derrotá-lo!<$FFFE>
+Senhor <$F600><$0000>...<$FFFC>Por favor,<$FFFC>não se arrisque.<$FFFE>
+Eu sei. Se ficar<$FFFC>perigoso, vou fugir<$FFFC>imediatamente.<$FFFE>
+Aquele é o Cavaleiro das<$FFFC>Trevas de Barral?!<$FFFD>Não temos como enfrentá-lo.<$FFFC>Pessoal, vamos recuar<$FFFC>agora!<$FFFE>
+Q-que é isso!?<$FFFE>
+A linha de frente foi derrotada...<$FFFC>Isso não pode ser! O exército<$FFFC>de Barral não chega<$FFFC>aos nossos pés!<$FFFE>
+Mas o fato é que<$FFFC>todos foram<$FFFC>aniquilados.<$FFFD>Até a chegada do marechal<$FFFC>teremos que contê-los<$FFFC>por conta própria.<$FFFE>
+Todos foram derrotados?!<$FFFC>Impossível!<$FFFC>Barral ficou tão forte<$FFFC>assim?!<$FFFE>
+Ora...<$FFFC>Parece que esse adversário<$FFFC>vai ser interessante.<$FFFE>
+Inimigo! Estão atacando!<$FFFC>Preparem-se para revidar!<$FFFE>
+De que exército são?<$FFFC>De Barral?!<$FFFE>
+Esses caipiras apareceram<$FFFC>aproveitando nosso avanço...<$FFFC>Vamos acabar com eles!<$FFFE>
+Os inimigos estão vindo<$FFFC>do outro lado!<$FFFE>
+Os inimigos estão vindo<$FFFC>do outro lado!<$FFFE>
+Maldito Império de Riguéria!<$FFFC>Enfim resolveu atacar!<$FFFE>
+Senhor <$F600><$0000>,<$FFFC>temos um problema!<$FFFC>Chegaram reforços da<$FFFC>força principal do Império!<$FFFD>Com nossas forças,<$FFFC>não temos chance.<$FFFC>Retire-se agora!<$FFFE>
+Entendido! Todos,<$FFFC>recuem depressa<$FFFC>para a outra margem!<$FFFE>
+Reforços da<$FFFC>força principal do Império?!<$FFFC>Isso é ruim.<$FFFD>Vamos depressa para a outra margem!<$FFFE>
+Heh... Parece que acabamos<$FFFC>com todos eles.<$FFFE>
+Que comando admirável,<$FFFC>senhor <$F600><$0000>.<$FFFE>
+Senhor <$F600><$0000>...<$FFFC>Não podemos deixar uma<$FFFC>batalha se arrastar demais.<$FFFD>Isso pode afetar nossos<$FFFC>próximos passos...<$FFFE>
+Eu não disse que seria<$FFFC>moleza?<$FFFE>
+Ah, para! Está se achando!<$FFFE>
+<$F706><$FFFE>
+<$F706><$FFFE>
+Então vamos sair daqui<$FFFC>depressa.<$FFFE>
+É, isso deve nos dar<$FFFC>algum tempo.<$FFFC>Vamos seguir para o<$FFFC>Portão de Lushiris!<$FFFE>
+É, isso deve nos dar<$FFFC>algum tempo.<$FFFC>Vamos depressa ao<$FFFC>Portão de Lushiris!<$FFFE>
+Avancem! Ao ataque!<$FFFE>
+Vão! Ataquem!<$FFFE>
+Ousam se meter com a gente?<$FFFC>Soldados de Barral, estão<$FFFC>se achando demais!<$FFFE>
+Malditos soldados do Império!<$FFFC>Não se metam conosco!<$FFFE>
+A operação foi um sucesso.<$FFFC>O Império de Riguéria<$FFFC>e o Reino de Barral<$FFFC>vão entrar em guerra.<$FFFD>Jamais imaginei que fôssemos<$FFFC>romper a linha de frente sozinhos.<$FFFC>Os dois exércitos certamente<$FFFC>vão se reorganizar e voltar para cá.<$FFFD>Vamos fugir antes que retornem!<$FFFE>
