@@ -7,6 +7,7 @@ Este documento registra o fluxo de trabalho para continuar o projeto com consist
 - Traduzir do japonês. Usar a tradução inglesa como apoio de contexto e referência de layout, nunca como molde literal.
 - Preservar sentido, tom, voz dos personagens e naturalidade em português brasileiro.
 - Manter nomes e termos consistentes com um glossário compartilhado, a ser ampliado durante a tradução.
+- Para poderes sobrenaturais, usar “magia/magias”, “conjurar magia” ou “fazer magia”; reservar “mágica” para truques de palco/ilusionismo.
 - Trabalhar os cenários em ordem. O roteiro seguinte é sempre um rascunho até ser revisado e aprovado por Miruma.
 
 ## Ciclo de trabalho de cada cenário
@@ -24,8 +25,9 @@ Este documento registra o fluxo de trabalho para continuar o projeto com consist
 - Cenário 1: revisado, aprovado e publicado.
 - Cenário 2: revisado, aprovado e publicado.
 - Cenário 3: revisado, aprovado e publicado.
-- Cenário 4: revisado e aprovado por Miruma; arquivo final ainda não está publicado no repositório.
-- Cenário 5: em produção; manter como rascunho até revisão e aprovação explícita de Miruma.
+- Cenário 4: revisado, aprovado e publicado.
+- Cenário 5: revisado, aprovado e publicado.
+- Cenário 6: próximo da fila; manter como rascunho até revisão e aprovação explícita de Miruma.
 
 ## Regras técnicas e de qualidade
 
@@ -54,4 +56,4 @@ Este documento registra o fluxo de trabalho para continuar o projeto com consist
 
 ## Próximo passo de tradução
 
-Retomar o cenário 5 na ordem, preparar um rascunho para revisão de Miruma e aguardar aprovação antes de publicar qualquer arquivo ou atualizar seu status como aprovado.
+Retomar o cenário 6 na ordem, preparar um rascunho para revisão de Miruma e aguardar aprovação antes de publicar qualquer arquivo ou atualizar seu status como aprovado.

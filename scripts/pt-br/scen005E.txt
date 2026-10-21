@@ -1,0 +1,250 @@
+Tiaris<$FFFF>
+Rifani<$FFFF>
+Runa<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, mestre espadachim<$FFFF>
+Pieru<$FFFF>
+Fáberu, o sábio<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói de Kahni<$FFFF>
+Artemiura<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+Cidadão<$FFFF>
+General Geier<$FFFF>
+Comandante do Império<$FFFF>
+Gilberto<$FFFF>
+Comandante de Riguéria<$FFFF>
+Comandante de Larcassu<$FFFF>
+<$0000>・Derrote todos, menos Geier<$FFFE>
+<$0000>・Morte de <$F600><$0000><$FFFC><$0000>・Morte de todos os NPCs<$FFFE>
+Estrada da Montanha até a Mansão de Torrand<$FFFF>
+Pessoal, não parem!<$FFFE>
+Vou segurá-los aqui!<$FFFC>O resto de vocês, sigam em frente!<$FFFE>
+S-sim!<$FFFE>
+Com licença, Pieru...<$FFFE>
+Ué? O que foi,<$FFFC>senhorita Rifani?<$FFFE>
+Eu também ficarei feliz em ajudar.<$FFFC>Consigo conjurar algumas<$FFFC>magias, sabe?<$FFFE>
+...Ah!<$FFFE>
+Hehehe... Acham mesmo<$FFFC>que vão escapar de mim?<$FFFC>Homens, aproveitem a caçada!<$FFFE>
+Sim, senhor!<$FFFE>
+Por favor, Rifani!<$FFFC>Mas, se ficar perigoso,<$FFFC>fuja imediatamente!<$FFFE>
+Como desejar.<$FFFE>
+A mansão do Barão Torrand<$FFFC>fica logo depois desta<$FFFC>montanha.<$FFFE>
+Então ainda falta<$FFFC>um bom pedaço.<$FFFE>
+Ah! <$F600><$0000>,<$FFFC>olha pra frente, ali!<$FFFE>
+Os habitantes de Larcassu estão sendo<$FFFC>perseguidos pelo exército<$FFFC>do Império!<$FFFE>
+Não podemos abandoná-los!<$FFFC>Vamos ajudá-los!<$FFFE>
+Entendido.<$FFFE>
+Pieru, tem soldados<$FFFC>mais adiante também.<$FFFE>
+Que sorte! Parece que<$FFFC>eles vão nos ajudar!<$FFFD>Ei! O exército de Riguéria<$FFFC>está nos perseguindo!<$FFFC>Por favor, nos ajudem!<$FFFE>
+Claro! Vamos ajudá-los<$FFFC>agora mesmo!<$FFFE>
+Obrigado! E então, o que<$FFFC>a gente deve fazer?<$FFFE>
+Entendido. Vamos<$FFFC>fazer isso agora mesmo!<$FFFE>
+Ora! Há inimigos<$FFFC>mais adiante também.<$FFFE>
+Não somos inimigos.<$FFFC>Viemos ajudar vocês!<$FFFE>
+Perdoe-me, agora entendi.<$FFFC>Então, o que devo fazer?<$FFFE>
+Entendido.<$FFFE>
+Senhorita Rifani! Vamos<$FFFC>impedir o inimigo de avançar aqui!<$FFFE>
+Entendido.<$FFFE>
+Ora, por que perder tempo<$FFFC>com esses remanescentes de Larcassu?<$FFFC>Não vou sujar minhas mãos<$FFFC>com uns fracos desses!<$FFFE>
+Hmm, será que já está na hora<$FFFC>de a gente também entrar<$FFFC>na luta?<$FFFE>
+Está bem! Pode deixar.<$FFFE>
+Com licença... Há algo<$FFFC>em que eu possa ajudar?<$FFFE>
+Sim, é claro.<$FFFC>Farei como mandar.<$FFFE>
+General Geier! Surgiram<$FFFC>sobreviventes de Larcassu,<$FFFC>e estão armados!<$FFFE>
+Até aqui há remanescentes<$FFFC>do Reino de Larcassu?<$FFFE>
+O que será que estão tramando?<$FFFE>
+O senhor destas terras<$FFFC>é o Barão Torrand, se não me engano...<$FFFD>O que querem<$FFFC>com aquele estrategista?<$FFFC>Seja como for, não parece que estejam tramando nada bom.<$FFFC>Enviem um mensageiro ao acampamento agora!<$FFFE>
+Sim, senhor!<$FFFE>
+Muito bem, pessoal. A caçada<$FFFC>começa.<$FFFD>Unidades voadoras, bloqueiem<$FFFC>a rota de fuga deles. Não deixem<$FFFC>ninguém escapar!<$FFFE>
+Pode deixar!<$FFFE>
+General Geier! Chegamos<$FFFC>ao local indicado!<$FFFE>
+Bloqueiem a rota de fuga deles,<$FFFC>como planejado! Cerquem-nos<$FFFC>e matem todos!<$FFFE>
+Sim, senhor!<$FFFE>
+Droga, vão atacar<$FFFC>os cidadãos!<$FFFE>
+Hehehe... Acha mesmo que<$FFFC>um pirralho como você vai me derrotar?<$FFFC>Já sobrevivi a inúmeras<$FFFC>batalhas de verdade.<$FFFD>No fim, vocês não passam de<$FFFC>presas à espera do caçador.<$FFFE>
+<$F600><$0000>,<$FFFC>você também tem ordens<$FFFC>para os cidadãos?<$FFFE>
+Deixe-me pensar...<$FFFE>
+Vai dar ordens?<$FFFE>
+Para que lado os cidadãos<$FFFC>devem fugir?<$FFFE>
+Fugir para o leste<$FFFE>
+Fugir para o oeste<$FFFE>
+Atenção, pessoal! Todos<$FFFC>os cidadãos devem fugir<$FFFC>para o leste!<$FFFE>
+S-sim!<$FFFE>
+Atenção, pessoal! Todos<$FFFC>os cidadãos devem fugir<$FFFC>para o oeste!<$FFFE>
+O quêêê?!<$FFFE>
+O que está dizendo?!<$FFFC>Os soldados imperiais vão<$FFFC>capturar todo mundo!<$FFFE>
+Ah, é... Você tem razão.<$FFFD>Desculpem, pessoal! Venham,<$FFFC>fujam por aqui!<$FFFE>
+Sim!<$FFFE>
+Não. Eles vão fugir<$FFFC>para cá por conta própria.<$FFFE>
+Vou levar a mensagem<$FFFC>ao acampamento, agora mesmo!<$FFFE>
+Muito bem.<$FFFE>
+Preciso avisar o senhor<$FFFC>Artemiura sobre eles!<$FFFE>
+Vocês estão bem?<$FFFE>
+Sim. Mas, e os cidadãos...<$FFFC>Estão todos bem?<$FFFE>
+Estão todos a salvo,<$FFFC>graças a vocês.<$FFFE>
+Ah, que bom saber.<$FFFE>
+...Entendi. Deixe o resto<$FFFC>por nossa conta.<$FFFE>
+Ah... Se ao menos eu tivesse<$FFFC>um pouco mais de força...<$FFFE>
+Está bem?<$FFFE>
+Obrigado, você nos ajudou muito.<$FFFD>A propósito, por que você<$FFFC>mandou os cidadãos irem<$FFFC>para o oeste agora há pouco?<$FFFE>
+O que você responde?<$FFFE>
+Foi só uma brincadeira<$FFFE>
+Não tenho senso de direção<$FFFE>
+Foi um teste<$FFFE>
+Foi só uma brincadeira.<$FFFE>
+Ah, então era isso.<$FFFC>Você me assustou<$FFFC>no começo.<$FFFE>
+Hahaha... Me desculpe<$FFFC>por isso.<$FFFE>
+Foi mal. A verdade é<$FFFC>que sou péssimo<$FFFC>com senso de direção.<$FFFE>
+Ah, era isso!<$FFFC>Você me deu um susto.<$FFFD><$F600><$0000>,<$FFFC>da próxima vez, deixe<$FFFC>outra pessoa ir na frente, tá?<$FFFE>
+É. De agora em diante,<$FFFC>vou me controlar um pouco.<$FFFE>
+<$F600><$0000>,<$FFFC>que cafona!<$FFFE>
+Ora! Um homem assim<$FFFC>é tão adorável...<$FFFC>Eu gosto dele.<$FFFE>
+Testei o senso de<$FFFC>direção dos meus companheiros.<$FFFC>Um líder precisa conhecer<$FFFC>bem as habilidades deles!<$FFFE>
+Hmm... Acho que é<$FFFC>assim mesmo, então...<$FFFE>
+Se eu digo que é assim,<$FFFC>então é assim!<$FFFE>
+Tá bom, tá bom.<$FFFC>Não precisa ficar tão brava.<$FFFE>
+Obrigado, você me ajudou muito.<$FFFE>
+Ainda bem...<$FFFE>
+Ufa, estou salvo...<$FFFE>
+Conseguiram resistir por tanto tempo...<$FFFC>Vejo que subestimei<$FFFC>vocês um pouco.<$FFFD>Mas a brincadeira acaba aqui.<$FFFC>Acho que agora vou<$FFFC>levar as coisas um pouco a sério.<$FFFE>
+Geier! Não vou perdoar<$FFFC>alguém como você, que brinca<$FFFC>com a vida das pessoas!<$FFFD>Prepare-se!<$FFFE>
+Cale a boca! Não me compare<$FFFC>a plebeus tolos<$FFFC>como você!<$FFFE>
+Há um buraco grande o bastante<$FFFC>para uma fada<$FFFC>passar por ele.<$FFFE>
+O que vai fazer?<$FFFE>
+Cobrir com terra<$FFFE>
+Deixar pra lá<$FFFE>
+Bater os pés no chão<$FFFE>
+Você cobre o buraco com terra, e<$FFFC>um espírito da terra aparece.<$FFFD>O que pensa que está fazendo!?<$FFFC>Está bem, pode levar! Só<$FFFC>me deixe em paz!<$FFFE>
+Você recebeu 500 P!<$FFFE>
+Nada aconteceu...<$FFFE>
+Enquanto você bate os pés no chão,<$FFFC>um espírito da terra aparece.<$FFFD>Pare com esse barulho infernal!<$FFFC>Não atrapalhe minha soneca,<$FFFC>mortal!<$FFFD>Hum?<$FE3C>Que cara é essa?<$FFFC>Quer alguma coisa<$FFFC>de mim, é?<$FFFE>
+Quer alguma coisa, é?<$FFFE>
+Está bem, está bem. Pegue isto<$FFFC>e pare de atrapalhar<$FFFC>meu sono.<$FFFE>
+Você recebeu uma Erva Mágica!<$FFFE>
+...Tome isto. Valorize<$FFFC>esse coração altruísta<$FFFC>que você tem. Agora vou dormir<$FFFC>mais um pouco...<$FFFE>
+Você recebeu o Elmo de Egil!<$FFFE>
+Droga!<$FFFE>
+Ugh... Não adianta...<$FFFE>
+Me perdoe... Não consigo<$FFFC>mais continuar lutando...<$FFFE>
+Desculpe... Não consegui<$FFFC>ajudar muito...<$FFFE>
+Uaaah!<$FFFE>
+Vou proteger todo mundo!<$FFFC>Não vou deixar ninguém<$FFFC>passar daqui!<$FFFE>
+Ora? Meu corpo está<$FFFC>sem forças...<$FFFE>
+Lá vou eu!<$FFFE>
+Senhorita Rifani, você está<$FFFC>bem?<$FFFE>
+Não precisa se preocupar.<$FFFC>Ainda consigo<$FFFC>lutar muito bem.<$FFFE>
+Se eu soubesse que isso aconteceria,<$FFFC>não deveria ter fugido<$FFFC>daquele jeito...<$FFFE>
+Aaaah!!<$FFFE>
+Droga... Se ao menos eu tivesse<$FFFC>um pouco mais de força...<$FFFE>
+N-não pode ser...<$FFFE>
+Prepare-se!<$FFFE>
+Maldito!<$FFFE>
+Soldados do Império, tomem esta!<$FFFE>
+Então é aqui que acaba...<$FFFE>
+N-não pode ser! Eu,<$FFFC>derrotado por soldados comuns?<$FFFD>Foi porque vim<$FFFC>com pouca armadura,<$FFFC>achando que era só uma caçada?<$FFFD>Vou recuar por enquanto.<$FFFC>O resto fica com vocês!<$FFFE>
+N-não...! O general?!<$FFFC>Não pode ser!?<$FFFE>
+Muito bem, vamos nos<$FFFC>divertir um pouco!<$FFFE>
+Ora, ora... Uma presa<$FFFC>ousa apontar a espada pra mim?<$FFFE>
+Guaaar!<$FFFE>
+Ugh...!<$FFFE>
+P-por quê?!<$FFFE>
+Malditos... Como ousam...!<$FFFE>
+S-senhor Geier!<$FFFE>
+Então é aqui que acaba...<$FFFE>
+Guwaa!<$FFFE>
+U-uwaa!<$FFFE>
+Não tem como escapar agora!<$FFFC>Morra sem fazer escândalo!<$FFFE>
+O quê?!<$FFFE>
+Aaah! Alguém, me ajude!<$FFFE>
+Gritar não vai adiantar!<$FFFC>Ninguém virá te salvar!<$FFFE>
+E-esse arranhão não é nada...<$FFFD>Guaaarr!<$FFFE>
+Hmph, você até que luta bem...<$FFFE>
+Tch! Que soldados inúteis.<$FFFD>Ter trazido tão poucos<$FFFC>soldados acabou sendo um erro.<$FFFC>Não tem jeito. Parece que<$FFFC>só me resta recuar.<$FFFE>
+Ufa, acabou.<$FFFE>
+Pois é...<$FFFC>Quando <$F600><$0000><$FFFC>mandou eles fugirem para o oeste,<$FFFC>fiquei sem saber o que fazer!<$FFFD>E ainda inventou uma desculpa<$FFFC>esquisita pro Pieru...<$FFFE>
+Como você reage?<$FFFE>
+Ficar irritado<$FFFE>
+Pedir desculpas com sinceridade<$FFFE>
+Fazer beiço<$FFFE>
+Não foi desculpa<$FFFC>nenhuma! Era verdade!<$FFFE>
+Ai... Que teimoso...<$FFFC>Bem a sua cara.<$FFFE>
+Desculpe. Acabei inventando<$FFFC>uma desculpa esquisita.<$FFFE>
+Hmmm... Você está<$FFFC>meio estranho hoje.<$FFFC><$F600><$0000>.<$FFFE>
+...<$FFFE>
+<$F600><$0000> ,<$FFFC>por que está fazendo bico?<$FFFC>Credo, que criança!<$FFFE>
+<$F702><$FFFE>
+<$F703><$FFFE>
+<$F702><$FFFE>
+<$F703><$FFFE>
+<$F704><$FFFE>
+<$F704><$FFFE>
+Eu sou <$F600><$0000>.<$FFFC>Luto para recuperar o<$FFFC>reino das mãos<$FFFC>dos invasores.<$FFFE>
+<$F705><$FFFE>
+<$F705><$FFFE>
+<$F706><$FFFE>
+<$F706><$FFFE>
+<$F707><$FFFE>
+<$F707><$FFFE>
+Pieru e Rifani<$FFFC>se juntaram ao grupo!<$FFFE>
+...<$FFFE>
+O que você quer dizer?<$FFFE>
+Dar as boas-vindas<$FFFE>
+Deixar mulheres lutarem...<$FFFE>
+Não dizer nada<$FFFE>
+Que bom ter vocês aqui.<$FFFC>Conto com vocês!<$FFFE>
+Ver uma mulher ir à luta<$FFFC>me deixa aflito...<$FFFC>mas sua ajuda é muito bem-vinda.<$FFFD>Por favor, senhorita Rifani,<$FFFC>tome muito cuidado.<$FFFE>
+Muito obrigada. Agradeço<$FFFC>por sua preocupação.<$FFFE>
+Muito obrigada. Agradeço<$FFFC>por sua preocupação.<$FFFE>
+Todos estão bem?<$FFFE>
+Todos estão bem?<$FFFE>
+Muito obrigada.<$FFFC>Vocês salvaram todos nós.<$FFFE>
+Muito obrigada.<$FFFC>Vocês salvaram todos nós.<$FFFE>
+Estamos aqui a mando<$FFFC>do visconde Raymond. Gostaria<$FFFC>de pedir uma audiência<$FFFC>com o barão Torrand.<$FFFE>
+Claro. Vou levá-los<$FFFC>até lá.<$FFFE>
+Claro. Vou levá-los<$FFFC>até lá.<$FFFE>
+Espere! Deixe que eu<$FFFC>os guie até lá!<$FFFE>
+Deixe-me pensar...<$FFFE>
+Quais são suas ordens?<$FFFE>
+Fiquem por aí<$FFFE>
+Ataquem o inimigo<$FFFE>
+Fujam por aqui<$FFFE>
+Então, esperem por aí<$FFFC>por enquanto. Já vamos ajudar!<$FFFE>
+Então, ataquem o<$FFFC>inimigo! Nós também já<$FFFC>vamos dar cobertura!<$FFFE>
+Então, fujam por aqui!<$FFFE>
+Quer mudar as ordens<$FFFC>do Pieru e<$FFFC>da Rifani?<$FFFE>
+Quer mudar as ordens<$FFFC>de Pieru?<$FFFE>
+Quer mudar as ordens de Rifani?<$FFFE>
+Quais são suas ordens?<$FFFE>
+Fiquem por aí<$FFFE>
+Ataquem o inimigo<$FFFE>
+Fujam para o leste<$FFFE>
+Então, fiquem por aí.<$FFFE>
+Então, ataquem o inimigo.<$FFFE>
+Então, fujam para o leste!<$FFFE>
+Ah, é verdade! Aquelas pessoas que<$FFFC>conseguiram escapar me deram um objeto<$FFFC>estranho como agradecimento.<$FFFD>Toma, isso é pra você,<$FFFC><$F600><$0000>.<$FFFE>
+Você obteve uma<$FFFC>Bênção Divina!<$FFFE>
+Obrigado, Pieru.<$FFFE>
+Hã?! O exército imperial<$FFFC>está aqui?!<$FFFE>
+O quê? São reforços<$FFFC>inimigos?!<$FFFE>
+Sou Runa, filha do<$FFFC>barão Torrand!<$FFFC>Não vou permitir que<$FFFC>continuem devastando nossas terras!<$FFFE>
+Aquela é a filha do<$FFFC>barão Torrand!<$FFFE>
+Entendi. Ela chegou<$FFFC>na hora certa.<$FFFE>
+A filha do barão Torrand...<$FFFC>Ela chegou bem<$FFFC>na hora certa.<$FFFE>
+Obrigado, vocês nos salvaram!<$FFFC>Sou Pieru, aprendiz de<$FFFC>cavaleiro da capital<$FFFC>real de Larcassu.<$FFFE>
+Então o Império invadiu<$FFFC>e ocupou Larcassu, e<$FFFC>todos nós tivemos que fugir.<$FFFE>
+Meu nome é Rifani. Eu<$FFFC>estudei magia com<$FFFC>meus pais.<$FFFE>
+Meu pai, o visconde<$FFFC>Raymond, reuniu tropas<$FFFC>para lutar contra<$FFFC>o exército de Colcia.<$FFFD>Estávamos a caminho<$FFFC>para encontrar o Barão Torrand,<$FFFC>o famoso estrategista genial.<$FFFE>
+Então vocês estão<$FFFC>lutando para recuperar<$FFFC>o Reino...<$FFFC>Certo! Também vou ajudar!<$FFFE>
+Também quero ajudar.<$FFFC>Estou preocupada com meus pais,<$FFFC>que estão presos em Larcassu.<$FFFE>
+Diário de Tiaris<$FFFD>15º dia do 5º mês.<$FFFC>O tempo está lindo<$FFFC>hoje também.<$FFFD>O sol está quentinho,<$FFFC>e é tão<$FFFC>agradável.<$FFFD>Ao meu lado, meu<$FFFC>irmão mais velho está<$FFFC>de olho, com todo<$FFFC>cuidado, para ver se há inimigos.<$FFFD>Ah, se fosse<$FFFC>tempo de paz, e eu<$FFFC>pudesse fazer um<$FFFC>piquenique com meu irmão...<$FFFC>Seria tão divertido!<$FFFD>Aí a Tia arregaçaria<$FFFC>as mangas e faria<$FFFC>um almoço bem gostoso<$FFFC>para o meu irmão!<$FFFD>Pode não parecer,<$FFFC>mas a Tia cozinha<$FFFC>muito bem!<$FFFE>
+Bom, não cozinho tão<$FFFC>bem quanto a senhorita Layla,<$FFFC>é claro,<$FFFD>e de vez em quando<$FFFC>(só de vez em quando,<$FFFC>tá?!) acabo trocando<$FFFC>o sal pelo açúcar.<$FFFD>Ah, tomara que a paz<$FFFC>chegue logo.<$FFFD>Tenho fugido um pouco<$FFFC>da realidade, mas<$FFFC>hoje fizemos alguns<$FFFC>novos amigos.<$FFFD>Pieru e a senhorita Rifani.<$FFFD>Pieru é aprendiz de<$FFFC>cavaleiro e, em vez<$FFFC>de bonito, acho que ele<$FFFC>é mais fofo.<$FFFD>A senhorita Rifani é<$FFFC>gentil e divertida, mas<$FFFC>é tão bonita que fico<$FFFC>um pouco preocupada.<$FFFD>É que, quando meu<$FFFC>irmão a cumprimentou,<$FFFC>ficou todo<$FFFC>bobo!<$FFFD>Então dei um belo<$FFFC>beliscão na perna dele!<$FFFD>Ela também diz que cozinha<$FFFC>bem, então é uma<$FFFC>rival e tanto. Mas a Tia<$FFFC>não vai perder!<$FFFE>
+Diário de Rifani<$FFFD>15º dia do 5º mês,<$FFFC>céu limpo. Nem uma<$FFFC>nuvem no céu.<$FFFD>Num dia como este,<$FFFC>eu deveria estar feliz,<$FFFC>mas...<$FFFD>Nunca desejei tanto<$FFFC>que chovesse<$FFFC>como hoje.<$FFFD>Com certeza, a chuva<$FFFC>nos esconderia dos<$FFFC>olhos dos soldados<$FFFC>imperiais.<$FFFD>Faz pouco mais de<$FFFC>dois dias que<$FFFC>fugimos de Larcassu.<$FFFD>Todos parecem estar<$FFFC>no limite agora, e<$FFFC>muitos parecem se arrepender<$FFFC>de ter fugido.<$FFFD>Até Pieru, que<$FFFC>mantém todos unidos,<$FFFC>parece exausto.<$FFFD>E então, por fim,<$FFFC>os perseguidores do<$FFFC>Império nos alcançaram.<$FFFD>Foi então que vieram<$FFFC>em nosso socorro<$FFFC>os membros do Exército<$FFFC>de Libertação, liderado por<$FFFC><$F600><$0000>.<$FFFD><$F600><$0000> é um<$FFFC>cavaleiro recém-<$FFFC>ordenado, mas muito<$FFFC>confiável.<$FFFD>Ele nos salvou como<$FFFC>um príncipe montado<$FFFC>num cavalo branco.<$FFFD>Havia uma menina cheia<$FFFC>de energia e adorável,<$FFFC>chamada Tiaris.<$FFFD>Ela chamava<$FFFC><$F600><$0000> de irmão mais velho...<$FFFC>mas será que são<$FFFC>irmãos mesmo?<$FFFD>Sem ter para onde ir,<$FFFC>decidimos<$FFFC>viajar junto<$FFFC>com <$F600><$0000>...<$FFFC>Mas o que nos espera agora?<$FFFD>Por enquanto, mais do que<$FFFC>qualquer coisa, estou<$FFFC>feliz por poder descansar<$FFFC>numa cama esta noite.<$FFFE>
+Diário de Runa<$FFFD>15º dia do 5º mês.<$FFFC>Céu limpo.<$FFFD>Hoje, pouco depois do meio-dia,<$FFFC>avistei civis<$FFFC>na estrada da montanha<$FFFC>para Larcassu, fugindo<$FFFC>do exército imperial.<$FFFD>O enviado do visconde<$FFFC>Raymond, que vinha para cá,<$FFFC>já lutava contra<$FFFC>os imperiais, então<$FFFC>prestei apoio e<$FFFC>os derrotei.<$FFFD>Acompanhei os refugiados<$FFFC>e o enviado de volta<$FFFC>à mansão.<$FFFD>Desde a queda do Castelo<$FFFC>Flutuante,<$FFFC>o exército imperial só<$FFFC>ganha força.<$FFFD>Quero entrar em contato<$FFFC>com nossos aliados<$FFFC>espalhados e lutar como um só,<$FFFC>mas não está dando<$FFFC>certo.<$FFFD>Não é de admirar:<$FFFC>o marechal de campo do Império<$FFFC>está no comando.<$FFFE>
