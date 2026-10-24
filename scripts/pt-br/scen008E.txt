@@ -1,0 +1,155 @@
+Tiaris<$FFFF>
+Rifani<$FFFF>
+Luna<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto<$FFFF>
+Pieru<$FFFF>
+Fáberu<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói de Kahni<$FFFF>
+Altemüller<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+Comandante de Barral<$FFFF>
+Princesa Furea<$FFFF>
+<$0000>・Derrote Furea<$FFFE>
+<$0000>・Morte de <$F600><$0000><$FFFE>
+Passagem de Rairim, agora no território de Barral<$FFFF>
+Se passarmos por aqui,<$FFFC>já estaremos perto do portão<$FFFC>sul de Lushiris.<$FFFE>
+Esperem! Há tropas<$FFFC>estacionadas<$FFFC>na cidade!<$FFFE>
+M-mas o que é isso?!<$FFFE>
+Soldados do Reino de Barral...<$FFFE>
+Mas o que é isso?!<$FFFC>O que está acontecendo?<$FFFE>
+Esse é o único caminho<$FFFC>até o portão sul, e agora<$FFFC>eles ocuparam a cidade!<$FFFE>
+Opa?! Princesa, parece<$FFFC>que o inimigo chegou!<$FFFE>
+Será que são remanescentes<$FFFC>de Lacus?<$FFFE>
+Ouvi dizer que o lorde<$FFFC>Raymond reuniu um exército.<$FFFC>Será que são mesmo<$FFFC>os soldados dele?<$FFFE>
+Talvez... Eles devem querer<$FFFC>atravessar as montanhas<$FFFC>pela Passagem de Rairim.<$FFFE>
+Pelo futuro do nosso reino,<$FFFC>não podemos perder esta terra.<$FFFC>Preparem-se para repelir o ataque!<$FFFE>
+A comandante inimiga<$FFFC>parece ser uma mulher.<$FFFE>
+Aquela é... será que é a<$FFFC>princesa Furea?!<$FFFE>
+Não temos tempo de<$FFFC>dar a volta por aqui.<$FFFE>
+Parece que não temos escolha: vamos ter de lutar.<$FFFE>
+...<$FFFE>
+Anda logo,<$FFFC><$F600><$0000>! Não fica<$FFFC>aí parado,<$FFFC>viajando!<$FFFE>
+S-sim...<$FFFE>
+Segunda divisão, avançando<$FFFC>para ocupar o portão<$FFFC>sudoeste.<$FFFE>
+Primeira divisão, avançando<$FFFC>para ocupar o portão<$FFFC>oeste.<$FFFE>
+Terceira divisão, avançando<$FFFC>para ocupar o portão<$FFFC>noroeste.<$FFFE>
+Arqueiros, avancem!<$FFFD>Deem cobertura à<$FFFC>tropa de bloqueio!<$FFFE>
+Sim, senhor!<$FFFE>
+O inimigo conseguiu<$FFFC>invadir a cidade...<$FFFD>Não importa. Todas as tropas,<$FFFC>iniciem o ataque geral!<$FFFC>Eliminem todos<$FFFC>os invasores!<$FFFE>
+Furea...<$FFFE>
+Meus guardas não conseguem<$FFFC>nem enfrentá-la... Você é<$FFFC>impressionante mesmo.<$FFFD>Mas, mesmo sozinha,<$FFFC>vou lutar<$FFFC>até o fim!<$FFFE>
+Senhor <$F600><$0000>.<$FFFC>O inimigo tem arqueiros<$FFFC>em suas fileiras.<$FFFD>Tenha muito cuidado.<$FFFE>
+Os arqueiros atacam de longe,<$FFFC>antes que possamos revidar.<$FFFD>E os ataques deles acertam<$FFFC>com facilidade unidades voadoras.<$FFFE>
+Isso mesmo. Mas, se<$FFFC>conseguirem forçá-los<$FFFC>a lutar corpo a corpo,<$FFFC>até unidades voadoras podem vencê-los.<$FFFE>
+Entendi.<$FFFD>Então o melhor é ficar<$FFFC>fora do alcance e avançar<$FFFC>de uma vez para encurtar<$FFFC>a distância.<$FFFE>
+Exatamente.<$FFFE>
+Vamos! Não podemos deixar<$FFFC>que tomem este lugar<$FFFC>da gente!<$FFFE>
+Pela prosperidade do Reino<$FFFC>de Barral, precisamos acabar<$FFFC>com os remanescentes de Lacus<$FFFC>aqui. Conto com vocês!<$FFFE>
+...Não tenho dúvida.<$FFFC>É mesmo a Furea!<$FFFE>
+O que houve, <$FFFC><$F600><$0000>?<$FFFE>
+A comandante inimiga é a<$FFFC>princesa Furea, do Reino<$FFFC>de Barral.<$FFFE>
+O quê?!<$FFFC>A princesa que é amiga<$FFFC>de infância de <$FFFC><$F600><$0000>?<$FFFE>
+Princesa Furea!<$FFFE>
+Quem está me chamando?!<$FFFE>
+Sou eu, Diehärte!<$FFFC>Você não se lembra<$FFFC>de mim?<$FFFE>
+Diehärte...?<$FFFC>...Não conheço nenhum<$FFFC>homem com esse nome!<$FFFE>
+Furea?!<$FFFE>
+Não me lembro de ter dado<$FFFC>permissão a um inimigo<$FFFC>para me chamar pelo nome!<$FFFD>Minha missão é derrotar vocês.<$FFFC>Sinto muito, mas terão<$FFFC>que morrer!<$FFFE>
+Bloqueiem todas<$FFFC>as entradas<$FFFC>da cidade!<$FFFE>
+Sim, senhora!<$FFFE>
+Infantaria, avancem!<$FFFE>
+Muito bem... Qual é<$FFFC>a melhor maneira de<$FFFC>invadir a cidade?<$FFFE>
+Senhor <$F600><$0000>.<$FFFC>Não tentem passar por todos<$FFFC>os portões. Concentrem<$FFFC>as forças em um só e rompam a defesa.<$FFFE>
+O que acha<$FFFC>dessa ideia?<$FFFE>
+Não precisa<$FFFE>
+Era o que eu pretendia<$FFFE>
+Entendi<$FFFE>
+Não é bem assim. Mesmo<$FFFC>com as forças divididas,<$FFFC>ainda podemos romper a defesa.<$FFFE>
+Até podemos conseguir, mas<$FFFC>isso vai nos custar muitas baixas.<$FFFC>Por favor, concentre as tropas<$FFFC>em um só portão.<$FFFE>
+Vou pensar a respeito.<$FFFE>
+Não se preocupe. Era isso<$FFFC>mesmo que eu tinha em mente.<$FFFE>
+Desculpe, senhor. Falei<$FFFC>mais do que devia.<$FFFE>
+Que isso, que isso.<$FFFC>Fale o que pensa<$FFFC>sempre que quiser.<$FFFE>
+S-sim...<$FFFE>
+É... faz sentido. Não devemos<$FFFC>espalhar nossas tropas<$FFFC>entre todos os portões.<$FFFE>
+Sim.<$FFFE>
+Furea, sou eu!<$FFFC>É o Diehärte!<$FFFE>
+...Faz tanto tempo que<$FFFC>não nos vemos, Diehärte.<$FFFE>
+E aí, conseguiu se tornar<$FFFC>cavaleiro?<$FFFE>
+Consegui.<$FFFE>
+Consegui. Ganhei o nome de<$FFFC><$F600><$0000>.<$FFFE>
+Entendi. Parabéns!<$FFFC>Você se esforçou bastante.<$FFFE>
+Mas quem diria que a gente<$FFFC>ia se reencontrar assim...<$FFFE>
+Por que Barral... por que o<$FFFC>rei Wilder rompeu nossa<$FFFC>aliança e invadiu<$FFFC>Lacus?<$FFFE>
+Há seis meses, encontrei o<$FFFC>rei Wilder em Lafel. Ele não<$FFFC>parecia nem de longe o rei<$FFFC>bondoso que eu conhecia!<$FFFE>
+As pessoas mudam...<$FFFC>e nem precisam de muito tempo.<$FFFE>
+Não me diga que você também<$FFFC>mudou!?<$FFFE>
+E pensar que até você<$FFFC>acabaria lutando...<$FFFE>
+Não pegue leve comigo<$FFFC>só porque sou mulher!<$FFFE>
+Agora que chegamos a esse ponto,<$FFFC>você e eu somos inimigos.<$FFFC>Não vou pegar leve!<$FFFE>
+O cabo de uma espada<$FFFC>aparece por trás da cachoeira.<$FFFE>
+Quer tentar puxá-la<$FFFC>para fora?<$FFFE>
+Você conseguiu a espada Kusanagi!<$FFFE>
+A espada foi levada pela correnteza<$FFFC>para dentro do canal...<$FFFE>
+Aaaah!!<$FFFE>
+Me perdoa por isso,<$FFFC><$F600><$0000>.<$FFFC>Não tenho outra<$FFFC>saída...<$FFFE>
+Ai!<$FFFE>
+Urgh!<$FFFE>
+Ah!<$FFFE>
+Ai...<$FFFE>
+Ora, ora... parece que<$FFFC>fui derrotada...<$FFFE>
+Me perdoe, senhor<$FFFC><$F600><$0000>!<$FFFC>Vou recuar por enquanto!<$FFFE>
+Ah! N-não pode<$FFFC>ser...<$FFFE>
+Que comando admirável!<$FFFC>Senhor <$F600><$0000>.<$FFFE>
+Senhor <$F600><$0000>...<$FFFC>Uma batalha não pode se arrastar<$FFFC>por muito tempo.<$FFFD>Isso pode afetar<$FFFC>o que faremos depois...<$FFFE>
+A culpa é sua,<$FFFC><$F600><$0000>!<$FFFC>Você que se meteu na minha frente...<$FFFE>
+Não entendo. Nada disso faz<$FFFC>sentido, Furea.<$FFFC><$FFFD>Por que Barral invadiu<$FFFC>Lacus, afinal?<$FFFC>Nunca tivemos motivo<$FFFC>para lutar!<$FFFE>
+Eu sou a princesa de Barral!<$FFFC>Se o rei invadir Lacus,<$FFFC>não me resta escolha: só me<$FFFC>resta obedecer e lutar!<$FFFD>Agora você e eu somos inimigos.<$FFFC>Não podemos voltar ao que éramos.<$FFFC>Só nos resta lutar!<$FFFE>
+Furea... Eu não queria<$FFFC>machucar você, mas não tenho<$FFFC>escolha.<$FFFD>Prepare-se.<$FFFE>
+Não precisa pegar leve.<$FFFC>Eu também vou lutar<$FFFC>com tudo que tenho!<$FFFE>
+Grrraaa!<$FFFE>
+Argh!<$FFFE>
+Ah!<$FFFE>
+Ugh!<$FFFE>
+P-pelo menos preciso<$FFFC>proteger a princesa...<$FFFD>Ugh!<$FFFE>
+Guh!<$FFFE>
+Adeus, princesa...<$FFFE>
+Não vou deixar vocês passarem<$FFFC>por este portão! Este portão...<$FFFE>
+C-como eu pude...<$FFFE>
+O resto é com você...<$FFFD>Argh!<$FFFE>
+Desgraçado!<$FFFE>
+Por que justo eu<$FFFC>tinha que perder?!<$FFFE>
+Ugh!<$FFFE>
+Parece que baixei demais a guarda...<$FFFE>
+Perdão, princesa...<$FFFE>
+Não era pra isso acontecer...<$FFFE>
+Impossível!?<$FFFE>
+Graaah!<$FFFE>
+N-não dá pra vencer...<$FFFE>
+N-não pode ser...<$FFFE>
+Ugh...<$FFFE>
+Droga! Fiz besteira...<$FFFE>
+P-princesa...<$FFFE>
+Argh!<$FFFE>
+Não foram só os arqueiros:<$FFFC>a tropa de bloqueio também foi<$FFFC>aniquilada!?<$FFFD>Os remanescentes de Lacus<$FFFC>são tão fortes assim?<$FFFE>
+Então a tropa de bloqueio<$FFFC>foi eliminada... Quanto tempo<$FFFC>os arqueiros e a infantaria<$FFFC>vão conseguir resistir?<$FFFE>
+Depois da tropa de bloqueio,<$FFFC>até os arqueiros foram<$FFFC>derrotados...<$FFFE>
+Os arqueiros foram derrotados<$FFFC>antes da tropa de bloqueio!?<$FFFE>
+Malditos remanescentes de Lacus!<$FFFC>Era melhor terem ficado na<$FFFC>fronteira, em vez de virem<$FFFC>morrer aqui!<$FFFE>
+Se quiser passar por este<$FFFC>portão, vai ter que me<$FFFC>derrotar primeiro!<$FFFE>
+Daqui você não passa!<$FFFE>
+Quem diria que chegaríamos<$FFFC>a esse ponto...<$FFFD>Mas não vou deixar<$FFFC>que encostem um dedo na princesa!<$FFFE>
+Não temos mais para onde recuar!<$FFFC>Não posso perder aqui!<$FFFE>
+Vou responder pela morte<$FFFC>de cada soldado!<$FFFE>
+Vamos partir agora!<$FFFE>
+Cuidado!<$FFFE>
+Sim!<$FFFE><$FFFF>

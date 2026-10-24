@@ -33,7 +33,8 @@ Este documento registra o fluxo de trabalho para continuar o projeto com consist
 - Cenário 5: revisado, aprovado e publicado; texto atualizado conforme nova revisão de Miruma.
 - Cenário 6: revisado, aprovado e publicado.
 - Cenário 7: revisado, aprovado e publicado.
-- Cenário 8: próximo da fila; manter como rascunho até revisão e aprovação explícita de Miruma.
+- Cenário 8: revisado, aprovado e publicado após aprovação explícita de Miruma.
+- Cenário 9: próximo da fila; manter como rascunho até revisão e aprovação explícita de Miruma.
 
 ## Regras técnicas e de qualidade
 
