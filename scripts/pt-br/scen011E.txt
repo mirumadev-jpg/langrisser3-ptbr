@@ -1,0 +1,249 @@
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, o Espadachim<$FFFF>
+Pieru<$FFFF>
+Sábio Fáberu<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+Keh Shikairo<$FFFF>
+Comandante da tribo Shika<$FFFF>
+Mestre dos Vermes Rag<$FFFF>
+Ká Shindo<$FFFF>
+Monstro<$FFFF>
+<$0000>・Em até 19 turnos,<$FFFC><$0000><$0000>derrote Keh Shikairo<$FFFE>
+<$0000>・Morte de <$F600><$0000><$FFFC><$0000><$0000>Morte de Sofia<$FFFE>
+Refúgio da tribo Shika<$FFFF>
+Shika, shika, shiiiika!<$FFFC>Abaixem o sacrifício!<$FFFD>A glória da tribo Shika<$FFFC>está garantida para sempre!<$FFFC>Shiiiika!<$FFFE>
+Shiiika!<$FFFE>
+Este deve ser o esconderijo<$FFFC>da tribo Shika?<$FFFE>
+A lua cheia é hoje à noite!<$FFFC>Será que vai dar tudo certo?<$FFFE>
+<$F600><$0000>, senhor!<$FFFC>É a Sofia!<$FFFE>
+...Ah, alguém...<$FFFE>
+Mas que coisa terrível!<$FFFC>O que aconteceu aqui!<$FFFE>
+Se a soltarem agora,<$FFFC>ela vai virar cinzas!<$FFFE>
+Isso é péssimo! Vamos<$FFFC>salvá-la, depressa!<$FFFE>
+Se derrotarmos o chefe dos<$FFFC>Shika, eles vão se acalmar.<$FFFE>
+Entendido! Vamos nos apressar<$FFFC>e resgatar a Sofia!<$FFFE>
+Shika, shika! Sacrifício!<$FFFC>Sacrifício!<$FFFE>
+Aaaah!<$FFFE>
+!? A corda está descendo<$FFFC>cada vez mais!?<$FFFE>
+É melhor nos apressarmos!<$FFFE>
+Aguente firme! Estamos<$FFFC>aqui para ajudar!<$FFFE>
+Shika! Shikaká!<$FFFE>
+Aaa, alguém...<$FFFE>
+Não se preocupe! Vamos<$FFFC>salvá-la agora!<$FFFE>
+Ah, que calor...<$FFFC>Lushiris, minha deusa...<$FFFE>
+<$F600><$0000>!<$FFFC>Depressa, depressa!<$FFFE>
+Eu sei!<$FFFE>
+Urgh, temos que nos apressar!<$FFFE>
+Aaaah!<$FFFE>
+Não adianta! Não vamos<$FFFC>chegar a tempo!<$FFFE>
+Não dá mais tempo!<$FFFE>
+Depressa! Derrubem o<$FFFC>chefe!<$FFFE>
+Concentrem nossas forças<$FFFC>nas tropas do chefe!<$FFFD>É nossa única chance<$FFFC>de salvar a Sofia!<$FFFE>
+Aaaaaah!<$FFFE>
+C-como isso foi acontecer?<$FFFC>Chegamos tarde demais...<$FFFE>
+Vocês aí! Matem<$FFFC>todos eles!<$FFFE>
+Ká!<$FFFE>
+Muito bem, vamos nos divertir,<$FFFC>não é mesmo!?<$FFFE>
+Senhorita Sofia, deixe<$FFFC>essa luta conosco e assista<$FFFC>em segurança daqui.<$FFFE>
+Não, <$F600><$0000>.<$FFFC>Não posso deixar os demônios<$FFFC>de Velzeria à solta.<$FFFD>Vou lutar ao seu lado.<$FFFE>
+Muito bem.<$FFFE>
+Vou seguir seu plano,<$FFFC>então me dê suas ordens.<$FFFD>E pode me chamar só de Sofia,<$FFFC>sem formalidades.<$FFFE>
+Sofia entrou para o grupo!<$FFFE>
+Chefe Keh Shikairo. Está<$FFFC>bem?<$FFFE>
+Que bom que chegou, Do Kahni!<$FFFC>Companheiros controlados!<$FFFC>Derrube aquele homem!<$FFFE>
+Entendido! Do Kahni<$FFFC>luta!<$FFFE>
+Conto com você!<$FFFE>
+...Já fui derrotado?<$FFFD>!? Sinto presença maligna.<$FFFE>
+Outro sujeito estranho<$FFFC>apareceu. Acabem com ele<$FFFC>junto com os outros!<$FFFE>
+Shikaa!<$FFFE>
+Você enfureceu Ká Shindo,<$FFFC>homem mau!<$FFFD>Do Kahni, o Herói! Não<$FFFC>perdoar malfeitores!<$FFFC>Derrotar você!<$FFFE>
+Ninguém atrapalhar!<$FFFD>Levantem-se, tribo Shika!<$FFFC>Fortes demaaaais!<$FFFE>
+Shikaaaaa!<$FFFE>
+Não lutar mais com vocês.<$FFFC>Do Kahni obedecer chefe.<$FFFE>
+O que você responde?<$FFFE>
+Vamos lutar juntos!<$FFFE>
+Suas feridas já sararam?<$FFFE>
+Não se esforce demais.<$FFFE>
+Entendido. Vamos lutar<$FFFC>juntos!<$FFFE>
+Do Kahni, herói.<$FFFD>Da última vez, perdi para vocês.<$FFFC>Mas desta vez, Do Kahni<$FFFC>se esforçar mais que vocês!<$FFFE>
+As feridas daquela vez<$FFFC>já sararam?<$FFFE>
+Ferida sarou faz tempo.<$FFFD>Acabei de voltar com<$FFFC>uma pedra estranha.<$FFFE>
+Uma pedra misteriosa?<$FFFE>
+Tempo atravessar.<$FFFC>Tempo distorcer.<$FFFD>Fui buscar pedra<$FFFC>a mando do chefe.<$FFFE>
+Não se esforce demais.<$FFFE>
+Do Kahni é herói.<$FFFC>Estou bem, não se preocupe!<$FFFE>
+Vocês agora são amigos.<$FFFE>
+Quer perguntar<$FFFC>sobre a pedra que Do Kahni<$FFFC>mencionou?<$FFFE>
+Não foi nada demais.<$FFFD>...A propósito, aquela pedra<$FFFC>que mandei Do Kahni buscar.<$FFFC>Afinal, o que é exatamente?<$FFFE>
+Aquela pedra atravessa o tempo.<$FFFC>Dá pra espiar o passado ou o futuro,<$FFFC>uma única vez.<$FFFE>
+O que vai responder?<$FFFE>
+Entendi<$FFFE>
+Dizer que quer<$FFFE>
+Desconfiar<$FFFE>
+Entendi. Isso certamente<$FFFC>parece algo milagroso...<$FFFE>
+Que pedra curiosa.<$FFFC>Não poderia me dar ela?<$FFFE>
+Mesmo você pedir, não poder.<$FFFC>Procurei esse tesouro por<$FFFC>muito tempo. Muito precioso.<$FFFE>
+Não existe uma coisa tão estranha<$FFFC>assim. Isso é só uma<$FFFC>superstição boba.<$FFFE>
+Não zombar da palavra<$FFFC>do deus Shika! Deus Shika<$FFFC>estar certo. Pedra atravessar o tempo!<$FFFE>
+Não foi nada.<$FFFC>Afinal, nem era tão urgente assim.<$FFFE>
+Aconteceu alguma coisa,<$FFFC>senhor <$F600><$0000>?<$FFFE>
+O que vai responder?<$FFFE>
+Fique com a pedra<$FFFE>
+Vim proteger você <$FFFE>
+Não é nada<$FFFE>
+Sofia, na verdade,<$FFFC>queria lhe pedir<$FFFC>um favor...<$FFFE>
+Ora, o que seria?<$FFFE>
+Você poderia pedir ao<$FFFC>chefe dos Shika que me desse<$FFFC>aquela pedra misteriosa<$FFFC>de que falei?<$FFFE>
+Você precisa daquela pedra?<$FFFD>...Entendi. Por enquanto,<$FFFC>vou tentar pedir a ele.<$FFFE>
+Vim proteger<$FFFC>você, Sofia.<$FFFE>
+Muito obrigada,<$FFFC>senhor <$F600><$0000>.<$FFFE>
+Ah, não é nada.<$FFFE>
+Entendo.<$FFFE>
+Ó... deusa.<$FFFE>
+Com licença, grande chefe.<$FFFC>Na verdade, queria lhe pedir um favor...<$FFFE>
+O que deusa pedir,<$FFFC>eu fazer.<$FFFE>
+Será que poderia me dar<$FFFC>aquela pedra misteriosa<$FFFC>de que falamos há pouco?<$FFFE>
+Está bem. Aquela pedra,<$FFFC>eu dar para deusa.<$FFFE>
+Muito obrigada,<$FFFC>grande chefe.<$FFFE>
+Não é nada demais. Deusa<$FFFC>ficar feliz. Tribo Shika mais<$FFFC>feliz ainda.<$FFFE>
+...No chão tem um<$FFFC>rosto.<$FFFE>
+O que você quer fazer?<$FFFE>
+Rezar diante dele<$FFFE>
+Rabiscar nele<$FFFE>
+Pisar nele <$FFFE>
+Quando você reza, o rosto<$FFFC>abre um sorriso largo.<$FFFD>A boca se escancara,<$FFFC>e uma armadura aparece...<$FFFE>
+Você conseguiu a Armadura<$FFFC>de Aeneas!<$FFFE>
+Enquanto você rabisca,<$FFFC>o rosto abre um<$FFFC>sorriso e diz:<$FFFD>"Que bom gosto! Aqui está o<$FFFC>presente perfeito pra você!"<$FFFE>
+Você conseguiu o Biquíni<$FFFC>Mágico!<$FFFE>
+Enquanto você pisa com força,<$FFFC>o rosto faz um sorriso<$FFFC>sinistro...<$FFFD>Então fica imóvel,<$FFFC>sem expressão outra vez...<$FFFE>
+Hehehe... Com aquele sujeito<$FFFC>fora do caminho, nossa vitória<$FFFC>já está praticamente garantida.<$FFFE>
+I-impossível... Não vou<$FFFC>morrer num lugar<$FFFC>desses...<$FFFE>
+Preciso salvar a Sofia...<$FFFE>
+Ai! Dói... DÓI<$FFFC>DEMAIS...<$FFFE>
+Droga!<$FFFE>
+Meu braço da espada ficou<$FFFC>completamente enferrujado...<$FFFE>
+Uaaah!<$FFFE>
+Ora? Tudo diante dos meus<$FFFC>olhos está ficando<$FFFC>escuro aos poucos...<$FFFE>
+Perdão...<$FFFE>
+N-não era pra ser assim...<$FFFE>
+Se ao menos eu pudesse<$FFFC>ajudar todos vocês<$FFFE>um pouquinho...
+Uu... Keh Shikairo acabado...<$FFFC>Não poder mais...<$FFFD>Deusa... adeus...<$FFFE>
+Shika!<$FFFE>
+Muito bem, vou levar a Sofia de volta!<$FFFE>
+Como puderam fazer ela<$FFFC>passar por uma coisa<$FFFC>dessas!<$FFFE>
+U-urgh...<$FFFD>Está bem. Keh Shikairo<$FFFC>admitir derrota.<$FFFC>Sacrifício, devolver.<$FFFE>
+Isso é um problema.<$FFFE>
+Quem está aí?!<$FFFE>
+Se aquela mulher virasse<$FFFC>o sacrifício, eu não<$FFFC>precisaria agir<$FFFC>pessoalmente.<$FFFD>Não posso deixar que abram<$FFFC>o Portão de Lushiris,<$FFFC>entende.<$FFFE>
+Um demônio de Velzeria?!<$FFFE>
+Um demônio de Velzeria?!<$FFFE>
+Apareçam, meus servos!<$FFFE>
+Shika!<$FFFE>
+Mas eles não estavam<$FFFC>mortos?! Aquele monstro também é<$FFFC>um necromante?!<$FFFE>
+Mas eles não estavam mortos?!<$FFFC>Aquele monstro também é<$FFFC>um necromante?<$FFFE>
+<$F702><$FFFE>
+<$F702><$FFFE>
+Ká Shindo, o que houve!<$FFFC>Por que apontar a lança<$FFFC>pra mim?<$FFFE>
+Ha!<$FFFE>
+É inútil.<$FFFD>Agora ele é meu servo<$FFFC>e vai obedecer.<$FFFD>Vamos, acabem com eles.<$FFFC>Mate aquela garota e o<$FFFC>posto de grande chefe será<$FFFE>seu.
+Matar<$FFFC>a garota! Matar Keh Shikairo!<$FFFC>Ká Shindo virar grande<$FFFC>chefe!<$FFFE>
+Lá vêm eles!<$FFFE>
+Keh Shikairo vai lutar!<$FFFC>Não vou perder pra Ká Shindo!<$FFFE>
+Espere, por favor.<$FFFD>Com esses ferimentos, você não<$FFFC>pode lutar. Aguarde<$FFFC>um instante, vou curar você.<$FFFE>
+Milagre!<$FFFE>
+Ah, deusa...<$FFFE>
+Ora... Eles acharam<$FFFC>que a magia de cura era um milagre.<$FFFE>
+Senhorita Sofia...<$FFFE>
+O que vai dizer?<$FFFE>
+Ainda bem que está bem.<$FFFE>
+Não devemos ter piedade dos inimigos.<$FFFE>
+Como você é gentil.<$FFFE>
+Que alívio saber que<$FFFC>está bem.<$FFFE>
+Muito obrigada<$FFFC>por me ajudar.<$FFFE>
+Não acho que precise<$FFFC>fazer tanto assim por um<$FFFC>inimigo...<$FFFE>
+...É mesmo? Mas, como<$FFFC>sacerdotisa, não posso<$FFFC>ignorar o sofrimento de ninguém,<$FFFC>seja quem for.<$FFFE>
+Você é muito gentil,<$FFFC>senhorita Sofia.<$FFFE>
+Isso...<$FFFC>Eu só fiz o que é<$FFFC>natural para uma sacerdotisa.<$FFFE>
+A propósito, senhorita Sofia.<$FFFD>Precisamos pôr o Portão de Lushiris<$FFFC>em funcionamento para impedir que<$FFFC>os demônios entrem nesta terra.<$FFFD>Para isso, precisamos<$FFFC>abrir aquele portão...<$FFFE>
+Entendo. Primeiro, precisamos<$FFFC>derrotar esses demônios<$FFFC>de Velzeria que se infiltraram aqui.<$FFFE>
+Nós proteger deusa!<$FFFC>Vocês lutar com<$FFFC>toda força!<$FFFE>
+Shika!<$FFFE>
+Proteger deusa. Keh<$FFFC>Shikairo e tribo Shika<$FFFC>lutar por vocês!<$FFFE>
+<$0000>・Derrote Ká Shindo ou<$FFFC><$0000><$0000>Mestre dos Vermes Rag<$FFFE>
+<$0000>・Morte de<$FFFC><$0000><$0000><$F600><$0000><$FFFE>
+Não entregar sacrifício!<$FFFC>Deus Shika, ficar bravo!<$FFFE>
+Vocês, acordar! Obedecer<$FFFC>ordens de Keh Shikairo!<$FFFE>
+Não adianta, não importa<$FFFC>quantas vezes tente.<$FFFC>Eles não vão ouvir<$FFFC>suas ordens.<$FFFE>
+Devolva nossos companheiros!<$FFFE>
+Agora é tarde!<$FFFC>Não há como trazê-los<$FFFC>de volta!<$FFFE>
+Vou vingar meus companheiros!<$FFFC>Keh Shikairo não<$FFFC>vai te perdoar!<$FFFC>Eu matar você!<$FFFE>
+Shurghikaa!<$FFFE>
+Com material tão ruim,<$FFFC>não dá nem pra competir...<$FFFC>Seu imprestável!<$FFFE>
+Por hoje, vamos nos retirar.<$FFFE>
+Shikaaa!<$FFFE>
+Ká Shindo ser grande!<$FFFC>Ser chefe! Ká Shindo ser<$FFFC>Ké Shindo!<$FFFE>
+Ká Shindo não ter direito<$FFFC>de ser chefe!<$FFFE>
+O-o quê?! Quem diria que<$FFFC>eu seria derrotado...<$FFFC>Seu imprestável!<$FFFE>
+Shiurgha!<$FFFE>
+Talvez eu tenha de rever<$FFFC>um pouco minha opinião sobre vocês.<$FFFC>Na próxima vez, não será<$FFFC>tão fácil!<$FFFE>
+Não tenho nada com você.<$FFFC>Saia da minha frente!<$FFFE>
+Pela glória de Velzeria,<$FFFC>não vou deixar que abram<$FFFC>o Portão de Lushiris!<$FFFE>
+Não vou permitir!<$FFFC>Não entregaremos este<$FFFC>mundo às forças das trevas!<$FFFE>
+Shiika!<$FFFE>
+Shishika!<$FFFE>
+Shikaka!<$FFFE>
+Shika...<$FFFE>
+Shi...<$FFFE>
+Shika...<$FFFE>
+Shikashiaktsuu!<$FFFE>
+Shika!<$FFFE>
+Shikaaaa!<$FFFE>
+...Shi...ka...<$FFFE>
+Shikuuuarghgh!<$FFFE>
+Shikashikatsuu!<$FFFE>
+GYYYAAA...<$FFFE>
+Shika...<$FFFE>
+Shi...<$FFFE>
+PUSYU!<$FFFE>
+PUSYU!<$FFFE>
+Gah!<$FFFE>
+Shikaaaa!<$FFFE>
+S-Shika!<$FFFE>
+Você não ter coração.<$FFFC>Não ser Shika de verdade!<$FFFE>
+Você ter coração mau.<$FFFC>Gente má, eu matar!<$FFFE>
+Por que eles estão<$FFFC>mais fortes que de costume?<$FFFE>
+Hehehe...<$FFFC>Claro. Se quiser,<$FFFC>posso deixar você mais forte<$FFFC>também.<$FFFE>
+Do Kahni ser campeão.<$FFFC>Não precisar disso.<$FFFE>
+Espere!<$FFFE>
+...Parece que ele foi embora.<$FFFE>
+Acabou mesmo?<$FFFC>Já estou tão cansada...<$FFFE>
+Seu comando foi brilhante,<$FFFC>senhor <$F600><$0000>.<$FFFE>
+Senhor <$F600><$0000>...<$FFFC>Uma batalha não deve<$FFFC>se prolongar demais.<$FFFD>Isso afeta o que faremos<$FFFC>em seguida...<$FFFE>
+<$F705><$FFFE>
+E aqui está a pedra prometida.<$FFFE>
+Você conseguiu a Pedra<$FFFC>do Espaço-Tempo!<$FFFE>
+Obrigado, grande chefe.<$FFFE>
+Senhor <$F600><$0000>.<$FFFC>A pedra prometida.<$FFFE>
+Desculpe, Sofia. Vou usá-la<$FFFC>agora mesmo.<$FFFD>Pronto, nossa luta com a<$FFFC>tribo Shika chegou ao fim.<$FFFC>Agora, vamos abrir logo<$FFFC>o portão!<$FFFE>
+Sim.<$FFFE>
+<$F705><$FFFE>
+Obrigado, grande chefe.<$FFFE>
+Ótimo. Nossa batalha com<$FFFC>a tribo Shika terminou.<$FFFD>Vamos, Sofia. Abra<$FFFC>o portão depressa.<$FFFE>
+<$F706><$FFFE>
+<$F706><$FFFE>
+Quem diria que gente de Velzeria<$FFFC>já estaria aqui! Precisamos<$FFFC>abrir logo o Portão de Lushiris.<$FFFD>Agora, vamos voltar ao<$FFFC>santuário e abri-lo.<$FFFD>Grande chefe, preciso<$FFFC> ir.<$FFFD>Se tiver algum problema,<$FFFC>venha ao portão quando quiser.<$FFFC>Os sacerdotes de lá<$FFFC>terão prazer em ajudar.<$FFFE>
+Não, ele não é morto-vivo.<$FFFC>Sinto uma aura de vida...<$FFFD>Com certeza, aquele sujeito<$FFFC>está controlando-o...<$FFFE>
+Nós dever muito à deusa.<$FFFC>Jurar pelo deus Shika<$FFFC>que não causar problema<$FFFC>nem lutar contra vocês.<$FFFE>
