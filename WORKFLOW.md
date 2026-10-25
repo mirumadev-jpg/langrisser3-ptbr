@@ -12,6 +12,7 @@ Este documento registra o fluxo de trabalho para continuar o projeto com consist
 - Priorizar termos diegéticos em objetivos e avisos: usar “civis” quando se trata de civis, em vez do rótulo técnico “NPCs”, para preservar a imersão.
 - Em diários, escolher termos naturais e precisos para o contexto, como “cavaleiro recém-nomeado”; preservar a voz cansada e determinada da Runa em “as coisas não têm sido fáceis”.
 - Adaptar interjeições e onomatopeias à fala brasileira: não manter transliterações mecânicas como “Kuh”; escolher “Urgh!”, “Ugh!” ou outra forma natural conforme a emoção e a voz do personagem.
+- Nas falas da tribo Shika, preservar a sintaxe tribal marcada e direta (por exemplo, “Esta ser terra sagrada dos Shika” e “Vocês profanar nossa terra sagrada”), sem normalizar para o português padrão. Em outras vozes, priorizar formulações naturais e concisas.
 - Trabalhar os cenários em ordem. O roteiro seguinte é sempre um rascunho até ser revisado e aprovado por Miruma.
 
 ## Ciclo de trabalho de cada cenário
@@ -34,7 +35,8 @@ Este documento registra o fluxo de trabalho para continuar o projeto com consist
 - Cenário 6: revisado, aprovado e publicado.
 - Cenário 7: revisado, aprovado e publicado.
 - Cenário 8: revisado, aprovado e publicado após aprovação explícita de Miruma.
-- Cenário 9: próximo da fila; manter como rascunho até revisão e aprovação explícita de Miruma.
+- Cenário 9: revisado, aprovado e publicado após aprovação explícita de Miruma.
+- Cenário 10: próximo da fila; manter como rascunho até revisão e aprovação explícita de Miruma.
 
 ## Regras técnicas e de qualidade
 
@@ -63,4 +65,4 @@ Este documento registra o fluxo de trabalho para continuar o projeto com consist
 
 ## Próximo passo de tradução
 
-Retomar o cenário 8 na ordem, preparar um rascunho para revisão de Miruma e aguardar aprovação antes de publicar qualquer arquivo ou atualizar seu status como aprovado.
+Retomar o cenário 10 na ordem, preparar um rascunho para revisão de Miruma e aguardar aprovação antes de publicar qualquer arquivo ou atualizar seu status como aprovado.

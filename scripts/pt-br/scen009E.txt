@@ -1,0 +1,112 @@
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto<$FFFF>
+Pieru<$FFFF>
+Fáberu<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói de Kahni<$FFFF>
+Altemüller<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+Comandante da tribo Shika<$FFFF>
+<$0000>・Derrote Do Kahni <$FFFE>
+<$0000>・Morte de <$F600><$0000><$FFFE>
+Portão de Lushiris — portão sul<$FFFF>
+Shika! Shika!<$FFFE>
+Herói Do Kahni! Alguém<$FFFC>está chegando!<$FFFE>
+Shika! Quem<$FFFC>são vocês?! O que vieram<$FFFC>fazer aqui?!<$FFFE>
+O quê? Quem são eles?!<$FFFE>
+São os Shika, um povo<$FFFC>nativo que vive nas terras<$FFFC>do sul há gerações.<$FFFC><$FFFE>
+Que estranho. Eles nunca<$FFFC>vêm tão longe.<$FFFE>
+Então ocuparam o portão sul.<$FFFC><$FFFE>
+Shika! Esta ser terra sagrada dos Shika!<$FFFC>Vocês profanar nossa<$FFFC>terra sagrada!<$FFFE>
+Que história é essa de terra sagrada?<$FFFE>
+Os Shika caçam nessas terras;<$FFFC>para eles, esse lugar é<$FFFC>uma terra sagrada.<$FFFD>Por isso, os conflitos<$FFFC>com Lacus nunca cessaram<$FFFC>ao longo dos anos.<$FFFD>As guerras do Império e de Barral<$FFFC>deixaram o portão desprotegido,<$FFFC>então eles o ocuparam.<$FFFE>
+Matem todos os intrusos!<$FFFE>
+Shikaaa!<$FFFE>
+Acho que eles não gostam<$FFFC>nem um pouco da gente.<$FFFE>
+Ouvi dizer que Sophia, a<$FFFC>sacerdotisa, era a guardiã<$FFFC>deste portão. Onde será<$FFFC>que ela está?<$FFFE>
+Ugh! Será que<$FFFC>eles a capturaram?<$FFFE>
+Não dá para voltar de mãos vazias.<$FFFC>Vamos expulsá-los daqui!<$FFFC><$FFFE>
+Ateiem fogo! Matem<$FFFC>todos eles!<$FFFE>
+Shikaaa!<$FFFE>
+Fogo, agora?!<$FFFE>
+Vocês enlouqueceram?! Vão<$FFFC>queimar junto com a gente!<$FFFE>
+Do Kahni é valente! Do Kahni<$FFFC>não tem medo do fogo!<$FFFE>
+Isso já é muito mais que assustador!<$FFFE>
+Senhor <$F600><$0000>,<$FFFC>vamos abrir caminho pelo<$FFFC>centro.<$FFFE>
+O santuário central é<$FFFC>cercado por um fosso. Se<$FFFC>entrarmos na água, as<$FFFC>chamas não nos alcançarão.<$FFFE>
+Ou derrotamos todos os<$FFFC>inimigos e apagamos o fogo,<$FFFC>ou seguimos até o fosso.<$FFFE>
+De um jeito ou de outro,<$FFFC>uma coisa é certa: estamos<$FFFC>sem tempo.<$FFFE>
+O fogo está se espalhando<$FFFC>mais rápido do que pensei.<$FFFC>Todos, apressem-se e<$FFFC>derrotem-nos!<$FFFE>
+Entendido.<$FFFE>
+As chamas estão aumentando.<$FFFC>Atacar agora seria<$FFFC>perigoso demais.<$FFFE>
+Entendido.<$FFFD>Todos, avancem até<$FFFC>o portão! As chamas<$FFFC>não devem chegar<$FFFC>até lá!<$FFFE>
+Shika, Shika! Que terríveis!<$FFFC>Que terríveis!<$FFFE>
+Eles são fortes! Do Kahni<$FFFC>é mais forte! Do Kahni não<$FFFC>vai perder!<$FFFE>
+Ele não tem a menor chance,<$FFFC>mas não desiste nunca...<$FFFC><$FFFE>
+Matem todos, Shika!<$FFFE>
+Shika shika!<$FFFD>Ó, deus dos Shika!<$FFFC>Lançar maldição sobre<$FFFC>os invasores! Shika shika!<$FFFE>
+Shika shika!<$FFFE>
+Ao observar a lua refletida<$FFFC>na água, você vê algo<$FFFC>brilhando lá embaixo.<$FFFE>
+O que você vai fazer?<$FFFE>
+Estender a mão<$FFFE>
+Mergulhar na água<$FFFE>
+Jogar 10 P<$FFFE>
+Não encontrou nada de especial.<$FFFE>
+Não encontrou nada de especial.<$FFFE>
+Você estava sem dinheiro...<$FFFE>
+Uma fada da água apareceu<$FFFC>e fez uma pergunta.<$FFFD>“Foi você que jogou estas<$FFFC>joias no meu lago?”<$FFFE>
+Você jogou joias?<$FFFE>
+“Ah, entendi.<$FFFC>Então fique com isto.”<$FFFE>
+Você conseguiu as Joias<$FFFC>Brilhantes!<$FFFD>Mas, na sua mão, elas<$FFFC>viraram simples pedrinhas...<$FFFC><$FFFE>
+“Você é muito honesto.<$FFFC>Por favor, fique com isto.”<$FFFE>
+Você conseguiu o Manto<$FFFC>Celestial!<$FFFE>
+Droga! O fogo...<$FFFE>
+Será que este é... um lugar<$FFFC>digno para um cavaleiro<$FFFC>morrer...?<$FFFE>
+Está quente, quente demais!<$FFFE>
+Que choque! Perder para<$FFFC>gente como eles...<$FFFE>
+Não era pra ser assim...<$FFFE>
+Ah, não!<$FFFE>
+Caí na armadilha deles...<$FFFE>
+Perder para inimigos tão fracos...<$FFFC>Minhas habilidades enferrujaram<$FFFC>por completo...<$FFFE>
+Aaaah! Não consigo lutar<$FFFC>nesse estado!<$FFFE>
+Guaa!<$FFFE>
+Ora... Está ficando<$FFFC>cada vez mais quente...<$FFFE>
+Ora... Minha visão está<$FFFC>escurecendo...<$FFFE>
+N-não acredito que...<$FFFE>
+Perdão...<$FFFE>
+Guuuaaarrgg!<$FFFE>
+Shika shika!<$FFFE>
+Que comando admirável, senhor<$FFFC><$F600><$0000>.<$FFFE>
+Senhor <$F600><$0000>...<$FFFC>Uma batalha não pode<$FFFC>se prolongar demais.<$FFFD>Isso vai afetar nosso próximo<$FFFC>movimento...<$FFFE>
+Pronto, a batalha acabou!<$FFFC>Quando apagarmos o fogo,<$FFFC>vamos fazê-lo contar<$FFFC>onde está a Sophia.<$FFFE>
+Do Kahni, campeão dos Shika!<$FFFC>Do Kahni nunca perde!<$FFFC><$FFFE>
+Shika...<$FFFE>
+Shikaaa!<$FFFE>
+Shi-shika!<$FFFE>
+Sh-shika...<$FFFE>
+Shi...<$FFFE>
+Shikashikashikaa!<$FFFE>
+Shishishi...<$FFFE>
+Shikashika!<$FFFE>
+Shikaareyashina!<$FFFE>
+Shikashikaa!<$FFFE>
+Sh, shika!<$FFFE>
+Shshika!<$FFFE>
+Shikaaaa!<$FFFE>
+Shikashikaaa<$FFFE>
+Shikashika!<$FFFE>
+Shikaaaaa!<$FFFE>
+Shiiiikaaaaa!<$FFFE>
+Shika!<$FFFE>
+Shika shika!<$FFFE>
+Shikaaah!<$FFFE>
