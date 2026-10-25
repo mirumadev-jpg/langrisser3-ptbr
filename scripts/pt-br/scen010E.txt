@@ -1,0 +1,159 @@
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, o Espadachim<$FFFF>
+Pieru<$FFFF>
+Sábio Fáberu<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+Ká Shindo<$FFFF>
+General Emarinku<$FFFF>
+Comandante da tribo Shika<$FFFF>
+Comandante de Rigüler<$FFFF>
+<$0000>・Derrote todos os inimigos<$FFFE>
+<$0000>・Morte de <$F600><$0000><$FFFE>
+Floresta da tribo Shika<$FFFF>
+Tenham cuidado. Estamos<$FFFC>no território dos Shika.<$FFFE>
+Hm? Alguma coisa acabou<$FFFC>de se mexer ali!<$FFFE>
+Shikaaa!<$FFFE>
+Iáááá!<$FFFE>
+Estou preocupado com<$FFFC>a Sofia. Vamos abrir<$FFFC>caminho depressa.<$FFFE>
+É péssimo não poder usar<$FFFC>magia numa emergência.<$FFFE>
+Hum. Parece que vocês<$FFFC>estão com dificuldades.<$FFFE>
+Você é... Emarinku?<$FFFE>
+Essa névoa deve estar<$FFFC>bloqueando a magia. Assim,<$FFFC>fica difícil para nós dois lutarmos.<$FFFE>
+Primeiro, vamos<$FFFC>derrotar aquele xamã.<$FFFE>
+Aqui, nosso terreno de caça!<$FFFC>Ninguém pode entrar!<$FFFE>
+Shika shika! Acabar com eles!<$FFFE>
+Senhor <$F600><$0000>.<$FFFC>Parece que só nos resta<$FFFC>forçar passagem.<$FFFE>
+É o jeito.<$FFFE>
+Com esta névoa, Ká Shindo<$FFFC>ser invencível!<$FFFC>Ninguém vencer Ká Shindo!<$FFFE>
+Então vou pôr isso à prova!<$FFFE>
+Todos, tenham cuidado.<$FFFC>Os Shika são xamãs.<$FFFE>
+Xamãs são pessoas que<$FFFC>usam magia com a ajuda<$FFFC>dos espíritos. É algo<$FFFC>bem diferente da nossa magia.<$FFFE>
+Então eles conseguem usar magia<$FFFC>mesmo nesta névoa?<$FFFE>
+É que a própria névoa<$FFFC>foi conjurada pelos<$FFFC>espíritos.<$FFFE>
+Droga! Que injusto!<$FFFE>
+Vão! Vão! Derrotar inimigos!<$FFFE>
+Shikaaa!<$FFFE>
+Ó, deus dos Shika! Conceda-nos<$FFFC>força para lutar,<$FFFC>nós imploramos!<$FFFE>
+Ká Shindo ser esperto!<$FFFC>Mesmo sozinho, Ká Shindo<$FFFC>derrotar vocês!<$FFFE>
+Você encontra um círculo de pedras<$FFFC>onde os Shika cultuam<$FFFC>um deus desconhecido.<$FFFD>No centro há uma marca<$FFFC>de algo que foi colocado ali.<$FFFE>
+Cavar aqui?<$FFFE>
+Você encontrou uma caixa branca<$FFFC>e uma caixa preta.<$FFFE>
+O que vai fazer?<$FFFE>
+Abrir a caixa branca<$FFFE>
+Abrir a caixa preta<$FFFE>
+Abrir as duas ao mesmo tempo<$FFFE>
+Você conseguiu o Amuleto!<$FFFE>
+Ao abrir a caixa branca,<$FFFC>a preta se trancou...<$FFFE>
+Você conseguiu as Vestes<$FFFC>das Trevas!<$FFFE>
+Ao abrir a caixa preta,<$FFFC>a branca se trancou...<$FFFE>
+A caixa estava bem fechada<$FFFC>e não foi possível abri-la...<$FFFE>
+Em pouco tempo, a marca de<$FFFC>algo enterrado vai sumir...<$FFFE>
+Impossível!? Não era para<$FFFC>eu cair num lugar<$FFFC>desses...<$FFFE>
+Agora, faça a névoa sumir!<$FFFE>
+Que choque!<$FFFE>
+Droga!<$FFFE>
+Parece que meu braço da espada<$FFFC>enferrujou por completo...<$FFFE>
+Uaaah! Está doendo...<$FFFE>
+Ora? Aos poucos,<$FFFC>tudo diante dos meus<$FFFC>olhos está escurecendo...<$FFFE>
+Perdão...<$FFFE>
+S-Shikaaa!<$FFFE>
+A névoa se dissipou! Agora<$FFFC>vamos lutar com toda a força!<$FFFC>Enfrente-me, <$FFFC><$F600><$0000>!<$FFFE>
+Como quiser!<$FFFE>
+A névoa se dissipou.<$FFFD>Quando acabarmos com os intrusos,<$FFFC>será a nossa vez de duelar,<$FFFC><$F600><$0000>!<$FFFE>
+Pode deixar!<$FFFE>
+Sinta a ira de Deus!<$FFFE>
+Shikaaa!<$FFFE>
+Shikaa...!<$FFFE>
+Shi-shikaa!<$FFFE>
+Shika...<$FFFE>
+Shika...<$FFFE>
+Shika shika!<$FFFE>
+Shika!<$FFFE>
+Shika shika!<$FFFE>
+Shika! Vocês também são inimigos!<$FFFC>Ká Shindo ser estrategista!<$FFFC>Ká Shindo ser esperto! Não<$FFFC>vou perder!<$FFFE>
+Bloquear a magia e se chamar de estrategista? Ridículo!<$FFFC>Um verdadeiro estrategista prevê tudo<$FFFC>e se prepara.<$FFFD>Você não<$FFFC>previu que eu apareceria<$FFFC>por aqui!<$FFFC>Agora vai descobrir!<$FFFE>
+Sh-shi-shikaaa!<$FFFE>
+Por mais habilidoso que seja,<$FFFC>acha mesmo que pode<$FFFC>me vencer?<$FFFE>
+Só vamos saber<$FFFC>se tentarmos!<$FFFE>
+Então venha!<$FFFE>
+Para uma mulher, você chegou<$FFFC>longe. Mas nós temos<$FFFC>nossos motivos. Não terei<$FFFC>piedade!<$FFFE>
+Não vou perder pra você!<$FFFE>
+Para uma mulher, você chegou<$FFFC>longe. Mas nós temos<$FFFC>nossos motivos. Não terei<$FFFC>piedade!<$FFFE>
+Vou mostrar<$FFFC>que, no campo de batalha,<$FFFC>ser homem ou mulher<$FFFC>não faz diferença!<$FFFE>
+Para uma mulher, você chegou<$FFFC>longe. Mas nós temos<$FFFC>nossos motivos. Não terei<$FFFC>piedade!<$FFFE>
+Digo o mesmo! Não vou<$FFFC>pegar leve!<$FFFE>
+Mostre-me do que são capazes<$FFFC>os remanescentes<$FFFC>de Larcuss!<$FFFE>
+Você luta muito bem! Mas<$FFFC>não vou recuar por causa<$FFFC>de um ferimento desses!<$FFFE>
+Deixe conosco daqui<$FFFC>em diante. General, por favor<$FFFC> recue!<$FFFE>
+Mas...<$FFFE>
+Se continuar forçando, pode<$FFFC>perder a vida. Por favor,<$FFFC>recuem!<$FFFE>
+Perdoem-me, todos...<$FFFE>
+Nada mal... Nunca imaginei<$FFFC>que seria derrotado de uma<$FFFC>forma tão completa...<$FFFD>Na próxima vez, irei<$FFFC>derrotá-lo com todas<$FFFC>as minhas forças! Adeus!<$FFFE>
+Então é o fim...?<$FFFE>
+Toma essa!<$FFFE>
+Ugh...!<$FFFE>
+O quê?!<$FFFE>
+N-não, minha lança...<$FFFE>
+Eu perdi...<$FFFE>
+Grrr... Ainda n-não...<$FFFC>vou<$FFFC>cair...<$FFFE>
+Toma essa!<$FFFE>
+Não quero morrer...<$FFFE>
+Gah!<$FFFE>
+Minhas forças... estão...<$FFFC>se esvaindo...<$FFFE>
+Malditos...<$FFFE>
+Os intrusos foram derrotados!<$FFFC>Agora podemos lutar com<$FFFC>toda a força! Enfrente-me,<$FFFC><$F600><$0000>!<$FFFE>
+Aceito o desafio!<$FFFE>
+Então você estava por aqui,<$FFFC><$F600><$0000>.<$FFFC>Finalmente encontrei você!<$FFFE>
+Emarinku!<$FFFE>
+Enfrente-me,<$FFFC><$F600><$0000>!<$FFFE>
+Finalmente acabou!<$FFFE>
+Que comando brilhante, senhor<$FFFC><$F600><$0000>.<$FFFE>
+Senhor <$F600><$0000>...<$FFFC>Uma batalha não deve<$FFFC>se prolongar demais.<$FFFD>Isso pode afetar nosso<$FFFC>próximo movimento...<$FFFE>
+Levou mais tempo do que eu esperava.<$FFFC>Emarinku, um dos quatro<$FFFC>generais do Império. Um<$FFFC>adversário temível...<$FFFE>
+Então ainda há mais três<$FFFC>generais como ele? Devem<$FFFC>ser todos muito fortes...<$FFFE>
+O que você vai responder?<$FFFE>
+Será que podemos vencer?<$FFFE>
+Mas não podemos perder.<$FFFE>
+Vamos vencer!<$FFFE>
+É. Será que a gente<$FFFC>consegue mesmo vencer?<$FFFE>
+Se até você está em dúvida,<$FFFC>isso me preocupa muito.<$FFFE>
+É. Mas não podemos<$FFFC>perder de jeito nenhum!<$FFFE>
+É verdade.<$FFFE>
+Não se preocupe, vai ser<$FFFC>fácil!<$FFFE>
+Ah, <$F600><$0000>,<$FFFC>que coisa!<$FFFE>
+Vamos nos apressar.<$FFFC>A vida da senhora Sofia<$FFFC>está em jogo.<$FFFE>
+Muito bem, vamos à base da<$FFFC>tribo Shika!<$FFFE>
+Shika shika... Ó,<$FFFC>filhos dos incontáveis espíritos<$FFFC>do deus Shika, nossa mãe,<$FFFC>ouçam-me.<$FFFD>Chamem a névoa e<$FFFC>bloqueiem o poder daqueles<$FFFC>que querem me ferir. Shika<$FFFC>shika, Areyashina!<$FFFE>
+Hã?! Que névoa é<$FFFC>essa?<$FFFE>
+Ora?<$FFFC>Que situação terrível,<$FFFC>senhor <$F600><$0000>.<$FFFE>
+O que houve, Liffany?<$FFFE>
+Parece que não consigo mais<$FFFC>usar magia alguma.<$FFFE>
+Que estranho. Estava<$FFFC>tudo bem até chegarmos<$FFFC>aqui.<$FFFE>
+É verdade. Desde que a<$FFFC>névoa nos tocou, sinto meu<$FFFC>poder se esvaindo.<$FFFE>
+Ah!<$FFFE>
+O que houve, Tiaris?<$FFFE>
+Que horror, <$FFFC><$F600><$0000>!<$FFFC>Não consigo mais usar<$FFFC>magia!<$FFFE>
+Esta névoa ser sagrada!<$FFFC>Vocês não poder usar<$FFFC>poder demoníaco!<$FFFC>Shika!<$FFFE>
+Parece que a névoa<$FFFC>se dissipou.<$FFFD>Agora só precisamos<$FFFC>acabar com os inimigos!<$FFFC>Todos, vamos!<$FFFE>
+O quê?! O que quer dizer<$FFFC>com isso?<$FFFE>
+Esta névoa... Luna, será<$FFFC>que isso...<$FFFE>
+Talvez esta névoa tenha<$FFFC>o poder de anular a magia<$FFFC>por completo.<$FFFE>
+Será que esta névoa está<$FFFC>afetando nossa magia?<$FFFE>
+...Então precisamos<$FFFC>pensar numa estratégia que<$FFFC>não dependa de magia.<$FFFE>
+Shikaaa!<$FFFE>
+O quê? Uma<$FFFC>emboscada?!<$FFFE>
+Vocês tolos! Ká Shindo<$FFFC>ser esperto!<$FFFD>Avançar!<$FFFC>Matem todos!<$FFFE>
+Shikaaa!<$FFFE>
