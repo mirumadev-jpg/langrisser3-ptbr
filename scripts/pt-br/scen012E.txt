@@ -1,0 +1,148 @@
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, o Espadachim<$FFFF>
+Pieru<$FFFF>
+Sábio Fáberu<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+Garota<$FFFF>
+Monstro<$FFFF>
+Feraquea<$FFFF>
+Comandante das forças de Velzeria<$FFFF>
+<$0000>・Resgate da garota<$FFFE>
+<$0000>・Morte de <$F600><$0000><$FFFC><$0000>・Morte da garota<$FFFE>
+Estrada montanhosa entre o Portão Central e o Portão Leste<$FFFF>
+Ei, falta muito!?<$FFFC>Estou exausta!<$FFFE>
+Depois que cruzarmos esta<$FFFC>montanha, já devemos<$FFFC>estar quase chegando.<$FFFE>
+Precisamos ativar o Portão<$FFFC>de Lushiris antes que os monstros<$FFFC>ataquem. Senão, nem poderemos<$FFFC>enfrentar o Império e Barral.<$FFFE>
+Todos, aguentem firme.<$FFFE>
+!? Senhor<$FFFC><$F600><$0000>,<$FFFC>sinto uma presença estranha!<$FFFE>
+Não é humana. Sinto uma<$FFFC>aura maligna. Todos,<$FFFC>tomem cuidado!<$FFFE>
+Aaaah! A-alguém, socorro!<$FFFE>
+Grrrr!<$FFFE>
+Foi o grito de uma garota!<$FFFC>Também ouvi<$FFFC>monstros!<$FFFE>
+Os monstros conseguiram<$FFFC>entrar!?<$FFFE>
+Depressa, vamos salvá-la!<$FFFE>
+Senhor <$F600><$0000>.<$FFFC>Esta mata é perfeita para<$FFFC>uma emboscada. Fique<$FFFC>atento, por favor.<$FFFE>
+É verdade. Não dá pra saber<$FFFC>onde o inimigo pode estar<$FFFC>à espreita.<$FFFE>
+Monstros, então, conseguem<$FFFC>se esconder melhor que humanos.<$FFFE>
+Escutem bem, todos!<$FFFC>Fiquem alertas para estarmos<$FFFC>prontos pra qualquer coisa.<$FFFE>
+Eu sei, tá bom!<$FFFE>
+Me encurralar até aqui…<$FFFC>Acho que baixei a guarda.<$FFFD>Chega de brincadeira!<$FFFD>Vamos, tropas!<$FFFC>Avancem! Acabem com eles<$FFFC>e não me decepcionem!<$FFFE>
+GRRAAAH!<$FFFE>
+Me encurralar até aqui…<$FFFC>Acho que baixei<$FFFC>a guarda.<$FFFD>Chega de brincadeira!<$FFFE>
+Tsc! Até que você luta bem<$FFFC>para um humano.<$FFFD>Volte daqui a dez anos…<$FFFC>Talvez aí tenha alguma<$FFFC>chance contra mim!<$FFFE>
+Droga! Continua vindo mais<$FFFC>e mais!<$FFFC>Isso não acaba nunca!?<$FFFE>
+Hahahaha!<$FFFD>Que patéticos!<$FFFC>Correndo de um lado pro<$FFFC>outro sem parar!<$FFFE>
+Só um aquecimento antes<$FFFC>de eu matar a feiticeira.<$FFFC>Agora lutem com vontade!<$FFFE>
+Ha!<$FFFE>
+GRRAAAH!<$FFFE>
+Eles nos pegaram<$FFFC>pelas costas…<$FFFE>
+Se derrotarmos o comandante<$FFFC>dos demônios, os outros<$FFFC>terão de recuar.<$FFFE>
+Aquela mulher, Feraquea…<$FFFC>Era esse o nome dela?<$FFFE>
+A-ah…<$FFFE>
+Está bem? Aguente firme,<$FFFC>vamos salvar você<$FFFC>agora.<$FFFE>
+Agora que chegamos,<$FFFC>não precisa mais ter medo.<$FFFE>
+Hehe… Que tolos…<$FFFE>
+? O que está dizendo?<$FFFE>
+Vocês são mesmo uns tolos!<$FFFC>Caem em qualquer conversa!<$FFFE>
+!? Ela está se transformando!?<$FFFE>
+Acharam mesmo que gente<$FFFC>como vocês perceberia<$FFFC>meu disfarce!?<$FFFE>
+Agora, apareçam<$FFFC>todos!<$FFFE>
+Fui enganada. Como<$FFFC>pude deixar isso<$FFFC>acontecer…?<$FFFE>
+O que você responde?<$FFFE>
+Não se preocupe com isso<$FFFE>
+Até você pode escorregar.<$FFFE>
+Fica em silêncio.<$FFFE>
+Não se preocupe com isso.<$FFFC>Você nos avisou que podia<$FFFC>haver uma emboscada.<$FFFE>
+Senhor <$F600><$0000>…<$FFFC>Agradeço muito sua<$FFFC>gentileza.<$FFFE>
+Mais importante, agora<$FFFC>precisamos derrotar<$FFFC>esses monstros!<$FFFE>
+Sim!<$FFFE>
+Você não percebeu o plano deles?<$FFFC>Uma pessoa tão competente como<$FFFC>você cometer um erro desses…<$FFFC>…Isso me preocupa.<$FFFE>
+Me perdoe…<$FFFE>
+…<$FFFE>
+<$0000>・Derrote Feraquea<$FFFE>
+<$0000>・Morte de<$FFFC><$0000><$0000><$F600><$0000><$FFFE>
+Uma enorme estátua antiga<$FFFC>jaz em ruínas aqui.<$FFFC>Ao olhar de perto, você vê<$FFFC>palavras antigas gravadas.<$FFFD>Ofereça-me um sacrifício.<$FFFC>Seu desejo será realizado!<$FFFE>
+Vai oferecer<$FFFC>alguma coisa?<$FFFE>
+Tiaris<$FFFE>
+Não oferecer nada<$FFFE>
+1000P<$FFFE>
+Você perdeu o<$FFFC>juízo!?<$FFFE>
+Uma voz veio da<$FFFC>estátua.<$FFFD>"Só sua determinação já<$FFFC>é suficiente. Pegue isto."<$FFFE>
+Você conseguiu o Arco<$FFFC>de Ártemis!<$FFFE>
+Tiaris foi derrotada.<$FFFE>
+Dinheiro insuficiente.<$FFFE>
+Você conseguiu o Arco<$FFFC>de Ártemis!<$FFFE>
+Perder assim…<$FFFC>Não pode ser…<$FFFE>
+Ai! Dói… DÓI<$FFFC>DEMAIS…<$FFFE>
+Droga!<$FFFE>
+Acho que minhas habilidades<$FFFC>enferrujaram…<$FFFE>
+Uaaah!<$FFFE>
+Ah? Minha visão está<$FFFC>escurecendo…<$FFFE>
+Perdão…<$FFFE>
+Perdão…<$FFFE>
+Como eu fui acabar<$FFFC>desse jeito!<$FFFC>Que vergonha! Olha<$FFFC>só pra mim!<$FFFE>
+Por hoje, não tenho<$FFFC>escolha a não ser<$FFFC>recuar…<$FFFE>
+Seu comando foi brilhante,<$FFFC>senhor <$F600><$0000>.<$FFFE>
+Senhor <$F600><$0000>… Uma<$FFFC>batalha não pode se<$FFFC>arrastar demais.<$FFFD>Isso afeta o que poderemos<$FFFC>fazer na próxima luta…<$FFFE>
+Enfim, os demônios de<$FFFC>Velzeria começaram a invadir<$FFFC>em grande escala<$FFFC>pra valer.<$FFFE>
+Os monstros de Velzeria<$FFFC>finalmente começaram a invadir<$FFFC>com força total.<$FFFE>
+Não podemos perder tempo.<$FFFC>Vamos seguir em frente.<$FFFE>
+Ousa levantar a mão<$FFFC>contra MIM? Quem vocês<$FFFC>pensam que são!?<$FFFE>
+Isso mesmo. Esse sangue<$FFFC>vermelho de vocês é o que<$FFFC>me deixa em brasa!<$FFFD>Agora vou fazer vocês<$FFFC>sangrarem muito mais!<$FFFE>
+Uu…<$FFFE>
+Droga. Não fomos<$FFFC>rápidos o bastante…<$FFFE>
+Que bando de inúteis!<$FFFC>Achei que viriam<$FFFC>salvá-la, mas não dá<$FFFC>pra contar com vocês.<$FFFE>
+!? Ela está se transformando!?<$FFFE>
+Até que foram espertos ao notar<$FFFC>minha transformação.<$FFFC>Mas, se acham que tudo acaba<$FFFC>aqui, estão muito enganados!<$FFFD>Agora, apareçam todos!<$FFFC>Venham!<$FFFE>
+<$0000>・Derrote Feraquea<$FFFE>
+<$0000>・Morte de<$FFFC><$0000><$0000><$F600><$0000><$FFFE>
+Aaaah! Alguém, me ajude!<$FFFE>
+Por favor, alguém…<$FFFE>
+Aguente firme! Já vamos<$FFFC>socorrer você!<$FFFE>
+Por favor, depressa!<$FFFE>
+GRROOAAAR!<$FFFE>
+URGH!<$FFFE>
+AAARGH!<$FFFE>
+URGH!<$FFFE>
+GRROOAAAR!<$FFFE>
+GRAAAARGH!<$FFFE>
+GRAAAARGH!<$FFFE>
+SRAAAAH!<$FFFE>
+SRAAAAH!<$FFFE>
+Impossível!?<$FFFE>
+AAARGH!!<$FFFE>
+Ah…<$FFFE>
+Eu não vou morrer! Não vou<$FFFC>morrer!<$FFFE>
+GRAAAH!<$FFFE>
+GRROOAAAR!<$FFFE>
+GRROOAAAR!<$FFFE>
+GRAAAH!<$FFFE>
+GRAAAH!<$FFFE>
+GRRAAAH! RROAAAR!<$FFFE>
+Hahahaha!<$FFFD>Meus servos queridos…<$FFFC>Agora, façam o que quiserem<$FFFC>e destruam tudo!<$FFFE>
+Maldição! Uma emboscada!?<$FFFE>
+Hehehe…<$FFFC>Esses aí parecem valer<$FFFC>a pena matar…<$FFFE>
+Façam-nos sofrer bastante<$FFFC>antes de acabar com eles.<$FFFE>
+Entendido.<$FFFE>
+Senhora… Feraquea.<$FFFC>Cheguei…<$FFFE>
+Parem de enrolar! Ataquem<$FFFC>agora mesmo!<$FFFE>
+A gente luta e luta, mas<$FFFC>eles não param de vir.<$FFFE>
+Enfim, vamos dar tudo<$FFFC>de nós nesta<$FFFC>batalha!<$FFFE>
+GRRR… Vou devorar<$FFFC>vocês!<$FFFE>
+Mais inimigos!?<$FFFE>
+Mais inimigos!?<$FFFE>
+AHAHAHA! Qual é o problema?<$FFFC>Estou bem aqui!<$FFFE>
+Então os demônios lutam<$FFFC>usando a superioridade<$FFFC>numérica.<$FFFE>
