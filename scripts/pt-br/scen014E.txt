@@ -1,0 +1,166 @@
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, o Espadachim<$FFFF>
+Pieru<$FFFF>
+Sábio Fáberu<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+Soldado de Barral<$FFFF>
+Rudo<$FFFF>
+Comandante de Barral<$FFFF>
+Grande Sábio Fáberu<$FFFF>
+<$0000>・Derrote todos os inimigos<$FFFE>
+<$0000>・<$F600><$0000> foi derrotado.<$FFFC><$0000>・Jugurá foi derrotado.<$FFFE>
+Portão de Lushiris – Portão Oeste<$FFFF>
+Não há sinal dele lá fora!<$FFFE>
+Então deve estar aqui dentro.<$FFFC>Quando entrarmos, vamos nos dividir<$FFFC>e procurar a Besta Sagrada!<$FFFE>
+Soldados de Barral!?<$FFFC>Então este lugar também está<$FFFC>sob controle inimigo.<$FFFE>
+O Jugurá deve estar<$FFFC>por aqui…<$FFFE>
+Jugurá?<$FFFE>
+Isso mesmo. O Jugurá não é<$FFFC>humano, ao contrário de nós.<$FFFE>
+Hã? Se não é humano,<$FFFC>então o que é?<$FFFE>
+Jugurá é a Besta Sagrada<$FFFC>que serve aos deuses.<$FFFE>
+Ora, mal posso esperar para conhecê-lo.<$FFFE>
+Primeiro, precisamos expulsar<$FFFC>as tropas de Barral. Por sorte,<$FFFC>parece que acabaram<$FFFC>de chegar.<$FFFE>
+Com certeza, Jugurá está<$FFFC>escondido em algum lugar do templo.<$FFFE>
+Tsc, chegaram uns intrometidos!<$FFFC>Encontrem a besta<$FFFC>antes deles, custe o que custar!<$FFFE>
+Sim, senhor!<$FFFE>
+Os demais, livrem-se<$FFFC>desses enxeridos!<$FFFE>
+Entendido!<$FFFE>
+A Besta Sagrada Jugurá…<$FFFD>Que tipo de criatura<$FFFC>será que ele é?<$FFFE>
+Jugurá consegue se transformar<$FFFC>em vários monstros mágicos.<$FFFE>
+Jugurá consegue se transformar<$FFFC>em vários monstros mágicos.<$FFFE>
+Droga! Aquela besta ainda<$FFFC>está viva!?<$FFFE>
+Droga!<$FFFD>Ainda não encontraram<$FFFC>a Besta Sagrada!?<$FFFE>
+Continuamos procurando!<$FFFE>
+Depressa! Andem logo!<$FFFE>
+Droga!<$FFFD>Onde está a Besta Sagrada?<$FFFE>
+Eles estão indo atrás do Jugurá!<$FFFC>Protejam-no, todos!<$FFFE>
+É isso mesmo. Não podemos<$FFFC>deixar que o matem agora!<$FFFE>
+A gente já entendeu!<$FFFE>
+Se Barral nos derrotar aqui,<$FFFC>nunca vamos recuperar<$FFFC>Larcuss do Império!<$FFFD>Vamos vencer, custe o que custar!<$FFFE>
+É isso aí!<$FFFE>
+Jugurá, está bem!?<$FFFC>Aguente só mais um pouco!<$FFFE>
+GRRR…<$FFFE>
+Será que é aqui?<$FFFE>
+Droga! Não está aqui…<$FFFE>
+Ah!<$FFFE>
+<$F702><$FFFE>
+Não, ele não está aqui.<$FFFE>
+Ah!<$FFFE>
+<$F702><$FFFE>
+Deve ser em outro aposento.<$FFFE>
+Ah!<$FFFE>
+<$F702><$FFFE>
+Ufa… nada.<$FFFE>
+Maldição! Onde é que ele<$FFFC>está escondido?!<$FFFE>
+Ah!<$FFFE>
+<$F702><$FFFE>
+Erramos de novo…<$FFFE>
+Ele não está aqui…<$FFFE>
+Ah!<$FFFE>
+<$F702><$FFFE>
+Droga!<$FFFE>
+Droga, também não é aqui!<$FFFE>
+Mas onde é que ele está?<$FFFE>
+Encontrou um baú do tesouro!<$FFFD>Abriu o baú!<$FFFE>
+Encontrou uma<$FFFC>Bênção Divina!<$FFFE>
+Mas o baú do tesouro<$FFFC>estava vazio…<$FFFE>
+Encontrou um baú do tesouro!<$FFFD>Abriu o baú!<$FFFE>
+Encontrou Ambrosia!<$FFFE>
+Mas o baú do tesouro<$FFFC>estava vazio…<$FFFE>
+Não vou deixar Jugurá morrer!<$FFFE>
+Você é o comandante!<$FFFE>
+Droga!<$FFFE>
+Tia não vai perder!<$FFFE>
+Não vamos perder!<$FFFE>
+Hehe! Pode vir<$FFFC>de onde quiser!<$FFFE>
+Agora é a minha vez!<$FFFE>
+Ousam entrar de botas neste templo<$FFFC>sagrado…<$FFFE>
+A guerra é uma tolice. Ainda assim,<$FFFC>não posso deixar que parem<$FFFC>o trabalho deste templo.<$FFFE>
+Jugurá também luta!<$FFFC>Não perder fácil!<$FFFE>
+Não tenho nada contra você,<$FFFC>mas ainda assim terá de morrer!<$FFFE>
+Seja besta sagrada ou não, vou acabar com você num instante!<$FFFE>
+Não pense que vai escapar de nós!<$FFFE>
+Não podemos deixar você viver!<$FFFE>
+Morra! Morra! Morra!<$FFFE>
+Que azar o seu ter que lutar comigo!<$FFFE>
+Ainda tenho…<$FFFC>coisas que preciso fazer…<$FFFE>
+Papai…<$FFFE>
+Desculpem, pessoal…<$FFFE>
+Desculpe… Cheguei ao<$FFFC>meu limite…<$FFFE>
+Não consigo…<$FFFE>
+Ah?<$FFFE>
+Desculpe…<$FFFE>
+Lushiris…<$FFFE>
+Urgh… O resto fica<$FFFC>por conta de vocês…<$FFFE>
+GRRR… Não dá mais…<$FFFC>Não consigo continuar…<$FFFE>
+Jugurá!?<$FFFE>
+Conseguimos! Veja só,<$FFFC>Cavaleiro das Trevas! A Besta<$FFFC>Sagrada foi derrotada!<$FFFE>
+Droga! A Besta<$FFFC>Sagrada…<$FFFE>
+Quem diria que eu seria derrotado…<$FFFC>Se o general Diós estivesse<$FFFC>aqui…<$FFFE>
+Lorde Rudo, recue!<$FFFE>
+…Perdoe-me.<$FFFE>
+…Se o general Diós estivesse<$FFFC>aqui, esse Cavaleiro das Trevas<$FFFC>nunca…<$FFFD>Droga!<$FFFE>
+GRAAAH!<$FFFE>
+Meu filho…<$FFFE>
+Impossível!<$FFFE>
+Eu… logo eu…!<$FFFE>
+Q-quem são esses…!<$FFFE>
+AAARGH!<$FFFE>
+I-impossível…<$FFFE>
+Capitão Rudo…!<$FFFE>
+Não quero… morrer…<$FFFE>
+Que absurdo!<$FFFE>
+Minha equitação…<$FFFE>
+C-como assim?! Eu,<$FFFC>derrotado…?!<$FFFE>
+Na próxima vida, quero<$FFFC>nascer num mundo sem<$FFFC>guerra…<$FFFE>
+Se o general estivesse<$FFFC>aqui, vermes como vocês…!<$FFFE>
+A-ainda consigo lutar…<$FFFE>
+Não… aqui não…<$FFFC>desse jeito…!<$FFFE>
+Todos foram derrotados!?<$FFFC>Como isso pôde acontecer?<$FFFD>Mesmo sozinho, vou lutar!<$FFFC>Vou dar uma lição no Cavaleiro das Trevas!<$FFFE>
+Ufa. Parece que demos<$FFFC>conta deles.<$FFFE>
+Seu comando foi impecável.<$FFFC>Senhor <$F600><$0000>.<$FFFE>
+Senhor <$F600><$0000>…<$FFFC>Uma batalha nunca deve<$FFFC>se arrastar por muito tempo.<$FFFD>Isso afeta o que faremos<$FFFC>na próxima batalha…<$FFFE>
+GRRR…<$FFFE>
+GRAAAH!!<$FFFD>GRRR…!<$FFFE>
+Jugurá, sou eu!<$FFFC>É a Sofia.<$FFFE>
+…Senhora Sofia…<$FFFE>
+Ora, Jugurá.<$FFFC>Esqueceu a cara deste velhote?<$FFFE>
+…Senhor Fáberu…<$FFFE>
+Você é o Jugurá, não é?<$FFFC>Está tudo bem?<$FFFE>
+GRR… Estou bem, não é<$FFFC>nada sério.<$FFFE>
+Jugurá, está bem!?<$FFFE>
+GRR… Estou bem, não é<$FFFC>nada sério.<$FFFE>
+Chegamos a tempo.<$FFFC>Ainda bem.<$FFFE>
+Agora, vamos liberar<$FFFC>o poder deste portão.<$FFFE>
+U-u…<$FFFE>
+Jugurá!<$FFFE>
+Isso é péssimo! Desse jeito,<$FFFC>o Jugurá…!<$FFFE>
+Aguente firme, Jugurá!<$FFFC>Já vamos chegar para ajudar!<$FFFE>
+…Que tolice.<$FFFE>
+O quê!?<$FFFE>
+Droga! Eles chegaram antes da gente!<$FFFE>
+GRAAAH!!<$FFFD>GRRR…!<$FFFE>
+Jugurá, sou eu!<$FFFC>É a Sofia.<$FFFE>
+…Senhora Sofia…<$FFFE>
+Ora, Jugurá.<$FFFC>Esqueceu a cara deste velhote?<$FFFE>
+…Senhor Fáberu…<$FFFE>
+Pode ficar tranquilo. Nós<$FFFC>viemos ajudar você.<$FFFE>
+GRRR… Jugurá<$FFFC>também lutar!<$FFFE>
+A busca acabou.<$FFFC>Vamos matar a Besta<$FFFC>Sagrada, custe o que custar!<$FFFE>
+Muito bem! Não precisam procurar<$FFFC>nas outras salas. Grupo de busca,<$FFFC>venham comigo e vamos<$FFFC>matar a Besta Sagrada!<$FFFD>Os demais, impeçam o inimigo<$FFFC>de se aproximar até acabarmos com ela!<$FFFE>
+Ora? Isso parece<$FFFC>interessante.<$FFFE>
+Ora… Mal posso esperar<$FFFC>para conhecê-la.<$FFFE>
+Capitão! Encontramos! Está<$FFFC>aqui!<$FFFE><$FFFF>

@@ -1,0 +1,166 @@
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, o Espadachim<$FFFF>
+Pieru<$FFFF>
+Sábio Fáberu<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+Comandante das forças de Rigüler<$FFFF>
+Capitão das forças de Rigüler<$FFFF>
+General Emarinku<$FFFF>
+・Derrote todos os inimigos em até 14 turnos<$FFFE>
+<$F600><$0000> é derrotado.<$FFFC>Fáberu é derrotado.<$FFFC>Turnos esgotados.<$FFFE>
+Portão de Lushiris – Portão Leste<$FFFF>
+Rendam-se, todos<$FFFC>vocês! Se resistirem, vão<$FFFC>morrer!<$FFFE>
+Peço que baixem<$FFFC>as espadas. A luz deste<$FFFC>portão sagrado jamais<$FFFC>deve se apagar!<$FFFE>
+Quem se importa com este templo!?<$FFFE>
+Não entendem<$FFFC>o que este portão significa?<$FFFE>
+Templos e santuários<$FFFC>só fazem nascer rebeldes.<$FFFC>Não podemos deixar isso de pé!<$FFFE>
+Agora, saiam da frente!<$FFFE>
+Então só nos resta<$FFFC>lutar até o amargo<$FFFC>fim!<$FFFE>
+Que velho teimoso!<$FFFE>
+Ora, soldados do Império!<$FFFE>
+Chegamos a tempo.<$FFFC>Os imperiais ainda não<$FFFC>tomaram o portão.<$FFFE>
+Pai…<$FFFE>
+Hm!? Parece que uns tolos<$FFFC>imprudentes vieram erguer<$FFFC>as espadas contra nós.<$FFFE>
+Tsc. Esses intrometidos<$FFFC>são um incômodo.<$FFFC>Apresse os preparativos.<$FFFE>
+Entendido!<$FFFE>
+Pai, aguente só mais<$FFFC>um pouco. Já estou<$FFFC>indo te salvar!<$FFFE>
+Cuidado! Eles querem<$FFFC>explodir aquela ponte<$FFFC>ali!<$FFFD>Fiquem longe, ou a explosão<$FFFC>também vai pegar vocês!<$FFFE>
+Senhor <$F600><$0000>.<$FFFC>Aquele homem diante do<$FFFC>portão coordena<$FFFC>a demolição.<$FFFD>Se o derrubarmos,<$FFFC>devemos conseguir<$FFFC>impedir a explosão<$FFFC>que ele planeja!<$FFFE>
+Senhor <$F600><$0000>.<$FFFC>Não gosto nada do<$FFFC>plano do inimigo.<$FFFE>
+Parece que querem<$FFFC>mandar a ponte toda<$FFFC>pelos ares.<$FFFE>
+Sim. O comandante<$FFFC>diante do portão<$FFFC>parece estar coordenando<$FFFC>a demolição.<$FFFD>Se o derrotarmos,<$FFFC>podemos impedir<$FFFC>a explosão.<$FFFE>
+Parece que querem explodir<$FFFC>a ponte.<$FFFD>Será que aquele homem diante<$FFFC>do portão está coordenando<$FFFC>a demolição?<$FFFE>
+O inimigo está avançando!<$FFFE>
+Há Cavaleiros Dragões entre eles.<$FFFC>Tomem cuidado!<$FFFE>
+Explodam a ponte!<$FFFE>
+Sim, senhor!<$FFFE>
+Cuidado! Saiam<$FFFC>da ponte, todos!<$FFFE>
+O quê!?<$FFFD>Que covardia…<$FFFE>
+A ponte está a salvo.<$FFFC>Agora só precisamos<$FFFC>derrotar o inimigo e<$FFFC>resgatar Fáberu!<$FFFE>
+A ponte está a salvo<$FFFC>agora. Só falta acabar com<$FFFC>o resto deles<$FFFC>de uma vez!<$FFFE>
+Malditos… Aproveitem<$FFFC>enquanto podem, porque<$FFFC>não vai durar!<$FFFD>Apressem o trabalho<$FFFC>agora mesmo!<$FFFE>
+Sim, senhor!<$FFFE>
+Vocês, cuidem<$FFFC>dos velhotes<$FFFC>ali!<$FFFE>
+Deixem comigo!<$FFFE>
+Impeçam o avanço deles!<$FFFC>Ganhem o máximo de tempo<$FFFC>que puderem!<$FFFE>
+Sim, senhor! Vamos avançar<$FFFC>para conter o inimigo<$FFFC>agora!<$FFFE>
+Muito bem. Segurem-nos<$FFFC>na ponte! Agora,<$FFFC>avancem!<$FFFE>
+Mostraremos a eles<$FFFC>o que é um combate aéreo<$FFFC>de verdade!<$FFFE>
+Depressa!<$FFFE>
+Aguentem só mais um pouco!<$FFFE>
+Isso, falta pouco!<$FFFE>
+A preparação para explodir<$FFFC>a ponte está pronta!<$FFFD>Aguardamos sua ordem<$FFFC>para detoná-la!<$FFFE>
+A preparação para explodir<$FFFC>a ponte está pronta!<$FFFD>Aguardamos sua ordem<$FFFC>para detoná-la!<$FFFE>
+Hahahaha…!<$FFFC>Muito bem, todos vocês!<$FFFC>Agora eles estão<$FFFC>acabados!<$FFFE>
+A cavalaria<$FFFC>ainda não chegou, mas<$FFFC>nós já temos força<$FFFC>de sobra!<$FFFD><$F600><$0000> está bem ali!<$FFFC>Ataquem agora!<$FFFC>Vamos!<$FFFE>
+Sim, senhor!<$FFFE>
+Nossos soldados alados foram<$FFFC>derrotados tão facilmente…?<$FFFC>Você ficou mais forte,<$FFFC>hein, <$F600><$0000>!<$FFFE>
+Pai! Está<$FFFC>tudo bem com o senhor?<$FFFE>
+Ah, Sofia… Desculpe<$FFFC>por ter dado tanto<$FFFC>trabalho…<$FFFE>
+Estamos indo até aí.<$FFFE>
+Você veio. Obrigado.<$FFFE>
+Estamos indo até aí!<$FFFE>
+Desculpe…<$FFFE>
+Eles chegaram! Preparem-se<$FFFC>para enfrentá-los!<$FFFE>
+Entendido! Vamos avançar<$FFFC>contra eles!<$FFFE>
+Entendido. Vamos contornar a posição<$FFFC>para apoiar vocês<$FFFC>pela retaguarda!<$FFFE>
+No meio de um círculo<$FFFC>de pedras há um pequeno<$FFFC>altar de pedra, coberto<$FFFC>por um tecido esfarrapado.<$FFFE>
+Vai pegar a roupa?<$FFFE>
+No instante em que você a pega,<$FFFC>o tecido esfarrapado se transforma<$FFFC>diante dos seus olhos<$FFFC>numa roupa magnífica!<$FFFE>
+Você conseguiu a Roupa Negra!<$FFFE>
+Droga!<$FFFE>
+Ai…<$FFFE>
+AAH!<$FFFE>
+É o fim…<$FFFE>
+Ai…<$FFFE>
+Ah… Não consigo me mexer…<$FFFE>
+Senhor <$F600><$0000>…<$FFFE>
+Ah…<$FFFE>
+Lushiris… Perdoe este velho<$FFFC>que não conseguiu<$FFFC>cumprir seu dever<$FFFC>até o fim…<$FFFE>
+Pai!<$FFFE>
+Ah, Sofia… Me perdoe.<$FFFC>Parece que não vou aguentar<$FFFC>por muito mais tempo…<$FFFE>
+Droga! Chegamos<$FFFC>um instante tarde demais…<$FFFE>
+Urgh… Ainda não<$FFFC>fui derrotado!<$FFFE>
+Pai…<$FFFE>
+Sofia…<$FFFE>
+O que você quer dizer?<$FFFE>
+Precisamos nos apressar!<$FFFE>
+Ele vai ficar bem.<$FFFE>
+A situação está complicada…<$FFFE>
+Depressa!<$FFFC>Até mesmo um guerreiro-sacerdote<$FFFC>teria dificuldade para enfrentar<$FFFC>todo o Exército Imperial.<$FFFE>
+É verdade.<$FFFE>
+Ele vai ficar bem. Juro<$FFFC>que vou tirá-lo<$FFFC>de lá.<$FFFE>
+…Sim!<$FFFE>
+Mas a situação está grave…<$FFFC>Será que vamos conseguir<$FFFC>chegar até lá<$FFFC>a tempo?<$FFFE>
+…<$FFFE>
+D-droga…<$FFFC>Cheguei tão longe<$FFFC>e vou morrer aqui…<$FFFD>Estarei esperando por vocês<$FFFC>no outro mundo!<$FFFE>
+Que alívio. Parece que<$FFFC>impedimos que a ponte<$FFFC>explodisse.<$FFFE>
+Aguente só mais<$FFFC>um pouco, pai.<$FFFE>
+Espere! Vamos tirar você<$FFFC>daí já, já!<$FFFE>
+Derrote todos os inimigos<$FFFE>
+<$F600><$0000> foi derrotado.<$FFFC>Fáberu foi derrotado.<$FFFE>
+Malditos! Então vão mesmo<$FFFC>atrapalhar toda a nossa<$FFFC>operação!?<$FFFE>
+HAHAHA…!<$FFFC>Todos que ficarem<$FFFC>no meu caminho vão morrer!<$FFFE>
+GRAAAH!<$FFFE>
+Saia daí sem resistência!<$FFFE>
+Não posso permitir. Mesmo<$FFFC>que isso me custe a vida,<$FFFC>preciso proteger este lugar.<$FFFE>
+P-por quê…<$FFFE>
+Urgh! Que sujeito difícil!<$FFFE>
+URGH!<$FFFE>
+GRRAAAH!<$FFFE>
+A-ainda…<$FFFE>
+Eu perdi…<$FFFE>
+URGH!<$FFFE>
+Sangue…<$FFFC>estou sangrando muito…<$FFFE>
+Droga, seu<$FFFC>inútil!<$FFFD>Eu mesmo vou assumir<$FFFC>a demolição. Vocês,<$FFFC>atrasem o avanço deles<$FFFC>o máximo possível!<$FFFE>
+Sim, senhor!<$FFFE>
+Chega, seus<$FFFC>covardes!<$FFFD>Eu mesmo vou concluir<$FFFC>a demolição e acabar<$FFFC>com todos os remanescentes<$FFFC>de Larcuss!<$FFFE>
+AAAH!<$FFFE>
+Por quê!?<$FFFE>
+Quem diria que eu<$FFFC>seria derrotado aqui… Tanto faz.<$FFFC>Este lugar não tem<$FFFC>valor estratégico.<$FFFD>Mesmo sem conquistá-lo,<$FFFC>meu Império não será derrotado!<$FFFE>
+Espere! Emarinku!<$FFFE>
+Adeus, <$FFFC><$F600><$0000>! Mal posso<$FFFC>esperar pelo nosso<$FFFC>próximo encontro!<$FFFE>
+Eu esperava há tempos<$FFFC>por esta chance de cruzar<$FFFC>espadas com você!<$FFFD>Agora vou acertar todas<$FFFC>as contas de uma vez!<$FFFE>
+Não vou deixar você<$FFFC>fazer o que bem entende!<$FFFE>
+Nada pessoal, mas você vai morrer!<$FFFE>
+Você melhorou bastante!<$FFFC>Mas ainda está longe<$FFFC>de ser páreo para mim!<$FFFE>
+Perdoe-me, general<$FFFC>Emarinku…<$FFFE>
+V-você é bom…<$FFFE>
+Como pude ser derrotado!?<$FFFE>
+F-forte demais…<$FFFE>
+Cheguei ao meu limite…<$FFFE>
+Ora! Graças a vocês,<$FFFC>este velho finalmente<$FFFC>pode tomar um fôlego!<$FFFE>
+Por enquanto, estamos a salvo.<$FFFC>Pai, fique aqui e<$FFFC>assista à nossa luta.<$FFFE>
+Por enquanto, estamos a salvo.<$FFFC>Fáberu, fique aqui e<$FFFC>assista à nossa luta.<$FFFE>
+Obrigado. Então vou<$FFFC>aceitar a ajuda de vocês.<$FFFE>
+…Acabou.<$FFFE>
+Seu comando foi impecável,<$FFFC>senhor <$F600><$0000>.<$FFFE>
+Senhor <$F600><$0000>…<$FFFC>Uma batalha não pode<$FFFC>se arrastar demais.<$FFFD>Isso afeta o que poderemos<$FFFC>fazer em seguida…<$FFFE>
+Chega! Seus<$FFFC>inúteis!<$FFFD>Não conseguem ganhar<$FFFC>mais um pouco de tempo!?<$FFFE>
+De tantos soldados,<$FFFC>só eu fiquei de pé.<$FFFC>Vocês lutam<$FFFC>muito bem, <$F600><$0000>.<$FFFE>
+Entendi. Se destruírem<$FFFC>a ponte, não poderemos<$FFFC>salvar Fáberu.<$FFFC>Depressa, vamos derrubá-lo!<$FFFE>
+Droga! Quem diria que<$FFFC>eles ficariam tão fortes…<$FFFC>Por essa eu não esperava.<$FFFE>
+General Emarinku, vamos<$FFFC>protegê-lo com nossas vidas.<$FFFC>Por favor, recue,<$FFFC>general!<$FFFD>Se algo acontecer<$FFFC>com o senhor…<$FFFE>
+Perdoem-me… Deixo<$FFFC>o resto nas mãos de vocês.<$FFFE>
+Pode deixar!<$FFFE>
+Finalmente encontrei você,<$FFFC><$F600><$0000>!<$FFFE>
+V-você é… Emarinku?<$FFFE>
+Vou mostrar a força<$FFFC>da orgulhosa tropa móvel<$FFFC>imperial de Rigüler!<$FFFE>
+Desculpe a demora,<$FFFC>general Emarinku.<$FFFE>
+Muito bem. Ataquem<$FFFC>pelas costas. Desculpem<$FFFC>ter de pedir isso logo<$FFFC>depois da escalada da montanha.<$FFFE>
+De jeito nenhum, senhor.<$FFFC>Isso não é nada para<$FFFC>nos deixar cansados.<$FFFE>
+Ha! Que bom ouvir isso.<$FFFE>
+O quê? General Emarinku!?<$FFFC>Malditos!<$FFFC>Vamos acabar com vocês!<$FFFE><$FFFF>
