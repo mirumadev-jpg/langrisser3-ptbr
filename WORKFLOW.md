@@ -41,7 +41,8 @@ Este documento registra o fluxo de trabalho para continuar o projeto com consist
 - Cenário 12: revisado, aprovado e publicado após aprovação explícita de Miruma.
 - Cenário 13: revisado, aprovado e publicado após aprovação explícita de Miruma.
 - Cenário 14: revisado, aprovado e publicado após aprovação explícita de Miruma; “velhote” mantido nas falas ajustadas.
-- Cenário 15: próximo da fila; manter como rascunho até revisão e aprovação explícita de Miruma.
+- Cenário 15: revisado, aprovado e publicado após aprovação explícita de Miruma.
+- Cenário 16: próximo da fila; manter como rascunho até revisão e aprovação explícita de Miruma.
 
 ## Regras técnicas e de qualidade
 
@@ -70,4 +71,4 @@ Este documento registra o fluxo de trabalho para continuar o projeto com consist
 
 ## Próximo passo de tradução
 
-Retomar o cenário 15 na ordem, preparar um rascunho para revisão de Miruma e aguardar aprovação antes de publicar qualquer arquivo ou atualizar seu status como aprovado.
+Retomar o cenário 16 na ordem, preparar um rascunho para revisão de Miruma e aguardar aprovação antes de publicar qualquer arquivo ou atualizar seu status como aprovado.

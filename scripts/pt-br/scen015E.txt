@@ -1,0 +1,198 @@
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, o Espadachim<$FFFF>
+Pieru<$FFFF>
+Sábio Fáberu<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+Soldado de Barral<$FFFF>
+Princesa Furea<$FFFF>
+Comandante de Barral<$FFFF>
+Jugurá<$FFFF>
+<$0000>・Derrote Furea<$FFFE>
+<$0000>・Morte de <$F600><$0000><$FFFC><$0000><$0000>Morte de Diós<$FFFE>
+Caminho para as Ruínas de Estool<$FFFF>
+General Diós!<$FFFC>Espere, por favor!<$FFFE>
+Tsc! Já<$FFFC>me alcançaram?<$FFFE>
+Nós, de Barral,<$FFFC>precisamos do senhor!<$FFFE>
+Vocês ainda têm o Cavaleiro<$FFFC> das Trevas, não<$FFFD> têm? E, além disso, já<$FFFC> deixei de ser<$FFFC>general. Me deixem em paz.<$FFFE>
+Não posso permitir<$FFFC> isso. Acha que vai<$FFFC> fugir para sempre? Se<$FFFD> voltar agora, o rei<$FFFC> Wilder com certeza o<$FFFC>perdoará! Por favor...<$FFFE>
+Chega! Se continuarem<$FFFC> atrás de mim, vou<$FFFC>enfrentar vocês pra valer!<$FFFE>
+Eu já perdi a paciência com<$FFFC>aquele rei enlouquecido.<$FFFE>
+Não posso deixar<$FFFC>isso passar, Diós.<$FFFE>
+P-Princesa...<$FFFE>
+Como assim, você perdeu<$FFFC> a paciência<$FFFC>com o meu pai?<$FFFE>
+Princesa. O que<$FFFC>pensa disso?<$FFFE>
+O rei Wilder já não<$FFFC> tem nem um pingo<$FFFC>da bondade de antes.<$FFFE>
+General...<$FFFE>
+O antigo rei reconhecia, sem<$FFFC> preconceitos, o valor de um<$FFFC> mercenário como eu. Por isso,<$FFFC>dediquei minha vida a ele.<$FFFE>
+Mas olhe para o rei de<$FFFC> agora! Nunca vi alguém tão<$FFFC>consumido pela ambição!<$FFFE>
+Odeio gente que<$FFFC> trata os outros como<$FFFC>se fossem insetos!<$FFFE>
+...Vou perguntar só mais<$FFFC>uma vez. Não vai voltar?<$FFFE>
+Nem pensar! Me<$FFFC>deixem em paz.<$FFFE>
+Não posso. Por<$FFFC> traição ao rei,<$FFFC> vou executá-lo<$FFFC>aqui mesmo!<$FFFE>
+Soldados de<$FFFC> Barral! O que estão<$FFFC>fazendo aqui?<$FFFE>
+Tem algo muito<$FFFC>estranho acontecendo.<$FFFE>
+O general Diós<$FFFC> e a princesa<$FFFC>estão discutindo.<$FFFE>
+Você conhece eles?<$FFFE>
+Um estrategista precisa<$FFFC> conhecer as figuras<$FFFC>importantes de cada nação.<$FFFE>
+Lembrei! Aquele<$FFFC> homem lutou com a<$FFFC>gente em Laffel!<$FFFE>
+Entendi! Mas o que<$FFFC> será que rolou<$FFFC>entre ele e a Furea?<$FFFE>
+Prendam o<$FFFC>traidor Diós!<$FFFE>
+Acham que vão me<$FFFC>pegar tão fácil?<$FFFE>
+Atrás dele! Não<$FFFC>deixem escapar!<$FFFE>
+Vamos ajudá-lo.<$FFFE>
+Lutar contra a Furea?<$FFFE>
+Sim. Mais cedo ou mais tarde,<$FFFC>vamos ter que enfrentar Barral.<$FFFE>
+Se reduzirmos as tropas deles agora,<$FFFC>vai ser melhor pra gente depois.<$FFFE>
+Além disso, podemos ajudar<$FFFC> o general e conseguir<$FFFC>informações de Barral.<$FFFE>
+Matamos dois coelhos com uma<$FFFC>cajadada só, então.<$FFFE>
+Entendido. Pessoal,<$FFFC>vamos ajudar o general!<$FFFE>
+Princesa! Os<$FFFC> sobreviventes de Larcuss<$FFFC>estão vindo pra cá!<$FFFE>
+O quê!? Vamos focar<$FFFD> na perseguição<$FFFC> ao Diós! Se eles nos<$FFFC>atacarem, revidem!<$FFFE>
+Entendido!<$FFFE>
+Foi mal, mas vou<$FFFC> descansar ali atrás.<$FFFC> Correr até aqui me deixou<$FFFC>um pouco cansado.<$FFFE>
+Descanse tranquilo. Vamos<$FFFC>expulsar os soldados de Barral.<$FFFE>
+...Valeu. Conto com vocês.<$FFFE>
+Então o general não<$FFFC>vai voltar mesmo.<$FFFE>
+Não temos escolha.<$FFFC> Persigam ele pelos ares. Vou<$FFFC>para a outra margem!<$FFFE>
+Vocês,<$FFFC> persigam ele<$FFFC>pelos ares!<$FFFE>
+Em nome da marinha de<$FFFC> Barral, protejam a<$FFFC> princesa! Cavaleiros<$FFFD>Serpentes, ataquem!<$FFFE>
+Por favor,<$FFFC> general Diós!<$FFFC> Não queremos<$FFFC>usar a força!<$FFFE>
+Foi mal, mas<$FFFC>vou dar o fora!<$FFFE>
+Não podemos deixar<$FFFC>você escapar!<$FFFE>
+Todas as tropas, avancem!<$FFFC> Acabem com os<$FFFC>sobreviventes de Larcuss!<$FFFE>
+Furea!<$FFFE>
+Você é o general Diós<$FFFC>de Barral, certo?<$FFFE>
+Já não sou general. Não<$FFFC> dava mais pra apoiar o rei<$FFFC>Wilder, então caí fora.<$FFFE>
+Então...<$FFFE>
+Isso mesmo. Sou só<$FFFC>um desertor qualquer.<$FFFE>
+Entendo. Não posso ficar<$FFFC> de braços cruzados<$FFFC> enquanto perseguem você.<$FFFC>Vou ajudar no que eu puder.<$FFFE>
+Não vou impedir, mas<$FFFC> tome cuidado. Larcuss<$FFFD> confiou no Canhão Demoníaco<$FFFC> e deixou as tropas<$FFFC> amolecerem. Barral<$FFFC>lutou pra se defender.<$FFFE>
+Eu sei. Há muito tempo,<$FFFC> eu era próxima da Furea<$FFFC>e da família real Wilder.<$FFFE>
+Saia da frente,<$FFFC> <$F600><$0000>.<$FFFC> Só queremos<$FFFC> prender<$FFFD> o Diós. Entregue ele<$FFFC>sem resistir!<$FFFE>
+O que vai responder?<$FFFE>
+Não vou entregá-lo.<$FFFE>
+Abaixe a espada, Furea.<$FFFE>
+Vou te impedir à força.<$FFFE>
+Não posso fazer isso.<$FFFC> Não vou entregar alguém<$FFFC>que eu sei que vai morrer.<$FFFE>
+Entendi... Então<$FFFC> só nos resta<$FFFC>usar a força.<$FFFE>
+Abaixe a espada,<$FFFC> Furea. Não quero<$FFFC>lutar com você.<$FFFE>
+...Você não mudou. Mas<$FFFC> não fique preso às<$FFFC> lembranças do passado para<$FFFD> sempre. Agora somos<$FFFC> inimigos. Mesmo que não<$FFFC>queira lutar, eu vou!<$FFFE>
+Furea!?<$FFFE>
+Não vou entregar alguém que<$FFFD> eu sei que vai morrer! Se insiste,<$FFFC>vai ter que passar por mim!<$FFFE>
+Então venha! Agora<$FFFD> você é só uma<$FFFC>inimiga. Morra aqui!<$FFFE>
+Sobreviventes de Larcuss! Não<$FFFD>vamos deixar vocês passarem!<$FFFE>
+Cuidado. Tem soldados<$FFFC> de Barral<$FFFC>nesta ilha também!<$FFFE>
+Tomem cuidado com a marinha<$FFFC> inimiga. Uma batalha na água<$FFFC>nos deixaria em desvantagem!<$FFFE>
+Ugh!? O inimigo<$FFFD> furou nossa<$FFFC>linha de defesa!<$FFFE>
+Ufa. Chegamos. Agora<$FFFC>posso respirar aliviado.<$FFFE>
+O resto é com a gente.<$FFFC>Pode ficar aí descansando.<$FFFE>
+Esse era o plano, mas<$FFFC> ficar só olhando<$FFFC> não é a minha cara. Deixa<$FFFD>eu lutar também!<$FFFE>
+Tem certeza?<$FFFC> Você vai lutar<$FFFC> contra os soldados<$FFFC>de Barral?<$FFFE>
+Já lutei bastante<$FFFC> até chegar aqui. Não<$FFFD> se preocupe<$FFFC> comigo. Agora, me dê suas<$FFFC>ordens. Eu obedeço!<$FFFE>
+Quais são suas ordens?<$FFFE>
+Ataque qualquer inimigo<$FFFE>
+Espere aí<$FFFE>
+A decisão é<$FFFC> sua. Lute<$FFFC>como quiser!<$FFFE>
+Entendido. Então vou<$FFFC>lutar do meu jeito!<$FFFE>
+Não precisa se<$FFFC>esforçar. Descanse aí.<$FFFE>
+Valeu.<$FFFE>
+Nunca imaginei que<$FFFC>ficaríamos tão encurralados…<$FFFE>
+Tem uma lança de cavalaria<$FFFC> em cima de uma pedra,<$FFFD> cercada por mato. A lança<$FFFC>está coberta de heras.<$FFFE>
+O que vai fazer?<$FFFE>
+Cortar com a espada<$FFFE>
+Tirar com as mãos<$FFFE>
+Ignorar<$FFFE>
+A lança ficou um pouco<$FFFC> arranhada, mas você<$FFFC>conseguiu tirar as heras.<$FFFE>
+Você obteve a Lança!<$FFFE>
+Você tirou as heras com<$FFFC>cuidado, usando as mãos.<$FFFE>
+Você obteve Zuftaf!<$FFFE>
+Depois de um tempo, a lança<$FFFC>voou sozinha pra longe.<$FFFE>
+Urgh… Furea…<$FFFE>
+Aaaah! Que<$FFFC> covardia! Isso é<$FFFC>cruel demais!<$FFFE>
+D-desculpe. Não fui<$FFFC>forte o bastante…<$FFFE>
+Drogaaa! Recuar<$FFFC> bem aqui…<$FFFC>Que raiva…<$FFFE>
+Parece que não fui<$FFFC>forte o bastante…<$FFFE>
+Não aguento<$FFFC> mais… Me perdoe,<$FFFC> senhor <$F600><$0000><$FFFE>
+Ah… Que a bênção<$FFFC> de Lushiris esteja<$FFFC>com todos vocês…<$FFFE>
+Ainda não voltei a ser o que era antes…<$FFFE>
+Urgh… me perdoe. Esses ossos<$FFFC>velhos já não aguentam mais…<$FFFE>
+GRRR… Desculpe…<$FFFE>
+Não pense que vai sair ileso<$FFFC>depois de me enfrentar!<$FFFE>
+Droga! Não<$FFFC>consigo escapar…<$FFFE>
+General Diós!<$FFFE>
+Pegamos o traidor! Não<$FFFC> tem mais motivo<$FFFC> pra gente ficar<$FFFD>aqui. Todos, recuar!<$FFFE>
+Esse é todo o<$FFFC>meu poder?! Urgh!<$FFFE>
+Urgh… Como ousa…<$FFFE>
+Princesa! Recuem! Nós<$FFFC> vamos segurá-los<$FFFC>aqui, de algum jeito…<$FFFE>
+Não temos mais forças<$FFFC> pra continuar<$FFFC>lutando. Pessoal, vamos recuar…<$FFFE>
+…Se é o que<$FFFC>deseja. Entendido.<$FFFE>
+<$F600><$0000>! Vou pagar essa dívida!<$FFFC>Juro que vou!<$FFFC><$FFFE>
+Urgh… Vou pagar<$FFFC> essa dívida!<$FFFC>Juro que vou!<$FFFE>
+…Furea…<$FFFE>
+Senhor <$F600><$0000>, seu comando foi impecável.<$FFFC>Vamos, precisamos seguir em frente.<$FFFC><$FFFE>
+Senhor <$F600><$0000>…<$FFFC>Uma batalha não pode demorar<$FFFC> tanto.<$FFFD>Isso atrasa o nosso próximo<$FFFC> passo…<$FFFE>
+E aí, pra onde<$FFFC>vocês vão agora?<$FFFE>
+Precisamos ir até as<$FFFC> ruínas de Estool buscar<$FFFC> a Espada da<$FFFD> Destruição. E o senhor,<$FFFC> Diós? O que<$FFFC>vai fazer agora?<$FFFE>
+Ah, chega de me chamar<$FFFC> de general. Pode me<$FFFC> chamar só de Diós. Traí<$FFFD> o rei Wilder e agora<$FFFC> não tenho pra onde<$FFFC> ir. Já sei, me deixem<$FFFD> lutar ao lado de<$FFFC> vocês. Preciso retribuir<$FFFC>por terem me salvado.<$FFFE>
+Diós entrou para o grupo!<$FFFE>
+Que bom ter você com a gente,<$FFFC>Diós. Conto com você.<$FFFE>
+Não entendo o que tá<$FFFC> rolando com a Furea, mas vou<$FFFC>obrigá-la a recuar!<$FFFE>
+Interessante.<$FFFC>Tente a sorte!<$FFFE>
+Urgh… Minha técnica<$FFFC>com a lança…<$FFFE>
+Como ousa desviar<$FFFC>do meu tiro…<$FFFE>
+Baixei a guarda…<$FFFE>
+Aaaah!<$FFFE>
+Ainda consigo lutar…<$FFFE>
+Droga! As tropas de Larcuss<$FFFC>já chegaram pra ajudar!?<$FFFE>
+Se não capturarmos<$FFFC>o general, nós…<$FFFE>
+Droga! As tropas de<$FFFC>Larcuss já chegaram!?<$FFFE>
+P-por quê…? No<$FFFC>céu, eu… Aaaaargh!<$FFFE>
+F-forte demais!<$FFFE>
+U-urgh!<$FFFE>
+Achei que nunca fosse perder<$FFFC>uma batalha na água…<$FFFE>
+Impossível!<$FFFE>
+Não consegui usar<$FFFC> nenhuma das táticas<$FFFC> que aprendi com<$FFFC>o general Diós…<$FFFE>
+Meu querido<$FFFC>cavalo… Adeus…<$FFFE>
+Uaaah!<$FFFE>
+Não posso perder aqui…<$FFFE>
+P-princesaaaa!<$FFFE>
+O general…<$FFFE>
+Minha magia… derrotada<$FFFC>por gente como vocês…<$FFFE>
+Urgh… Isso parece<$FFFC>um pesadelo…<$FFFE>
+Não quero morrer!<$FFFE>
+Impossível… Eles derrotaram um exército<$FFFC>com o dobro de soldados!?<$FFFE>
+Para com isso, Furea!<$FFFE>
+Cala a boca! Mesmo se<$FFFC> eu ficar sozinha,<$FFFC>vou lutar até o fim!<$FFFE>
+O que vai fazer?<$FFFE>
+Acalmá-la<$FFFE>
+Enfrentá-la<$FFFE>
+Perguntar por que ela luta<$FFFE>
+Se acalme,<$FFFC> Furea! Não percebe<$FFFC> que continuar<$FFFC>lutando é inútil?<$FFFE>
+Cuida da sua vida! Não<$FFFC>se meta no que eu faço!<$FFFE>
+Então tá. Eu vou<$FFFC>enfrentar você!<$FFFE>
+Não vou perder<$FFFC> para alguém como<$FFFC> <$F600><$0000>!<$FFFE>
+Espera. Não quero<$FFFC> lutar com você, Furea. Por<$FFFD> que insiste<$FFFC> tanto em lutar comigo?! Me<$FFFC>diz o motivo!<$FFFE>
+Não temos nada pra conversar! Por<$FFFC> que precisamos de<$FFFC>um motivo pra lutar?!<$FFFE>
+Não consigo aceitar<$FFFC> isso, Furea. Por<$FFFD> que Barral<$FFFC> invadiu Larcuss? Não<$FFFC> tinha motivo<$FFFC>pra gente lutar!<$FFFE>
+Sou a princesa de<$FFFC> Barral! Se meu pai ataca<$FFFC> Larcuss, só me resta<$FFFC> obedecer e lutar! Você<$FFFD> e eu somos inimigos. Só<$FFFC>nos resta lutar!<$FFFE>
+Eu já te disse. Só<$FFFD> estou cumprindo as<$FFFC>ordens do meu pai.<$FFFE>
+Princesa! Parece que<$FFFD> nossas tropas na ilha<$FFFC>foram dizimadas!<$FFFE>
+…Não esperava menos de<$FFFC> <$F600><$0000>.<$FFFB><$FFFC>Nunca quis ter você<$FFFC> como inimigo…<$FFFE>
+P-princesa…?<$FFFE>
+Não é nada. Escutem!<$FFFD> Acabem com aqueles caras<$FFFC> e capturem o Diós, custe<$FFFD> o que custar! Isso envolve<$FFFC> a honra e o orgulho<$FFFC>de Barral! Preparem-se!<$FFFE>
+Sim, senhor!<$FFFE>
+As tropas que enviamos pra<$FFFC> ilha foram dizimadas!? Não<$FFFD> vamos ter coragem de<$FFFC> olhar pra princesa<$FFFC> desse jeito! Derrotem aqueles caras,<$FFFC>custe o que custar!<$FFFE>
+Entendido!<$FFFE>
