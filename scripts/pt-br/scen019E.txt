@@ -1,0 +1,130 @@
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, o Espadachim<$FFFF>
+Pieru<$FFFF>
+Sábio Fáberu<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+General Boltz<$FFFF>
+Comandante de Rigúlia<$FFFF>
+Gigante Mágico Galtzork<$FFFF>
+<$0000>・Derrote o General Boltz e o<$FFFC><$0000><$0000>Gigante Mágico Galtzork<$FFFE>
+<$0000>・Morte de <$F600><$0000><$FFFE>
+Base avançada do Império, na região de Larcássia<$FFFF>
+O inimigo tá na nossa mira, senhor <$F600><$0000>.<$FFFE>
+Caramba, que bicho gigante!<$FFFE>
+Tenho que admitir, o tamanho do bicho impressiona!<$FFFE>
+Então foi essa coisa que matou o meu pai...<$FFFE>
+Estava esperando por vocês.<$FFFC>Agora vão virar ração pro Gigante Mágico Galtzork!<$FFFE>
+O quê!?<$FFFE>
+Se conseguirem chegar até aqui, eu mesmo acabo com a raça de vocês.<$FFFC>Pra falar a verdade, eu até prefiro que seja assim.<$FFFE>
+Espera e verá! Eu vou acabar com você, pode apostar!<$FFFE>
+Esse gigante emite a mesma energia mágica<$FFFC>daquelas ruínas antigas.<$FFFE>
+Entendo. É uma máquina que vai muito além<$FFFC>do que a gente sequer conseguiria imaginar.<$FFFE>
+Senhor <$F600><$0000>.<$FFFC>Segundo o relatório do Kirikaze, esse gigante precisa parar<$FFFC>pra conseguir disparar o Canhão Mágico.<$FFFD>Enquanto ele estiver atirando, fica completamente paralisado...<$FFFE>
+Então, mesmo com o Canhão Mágico apontado pra gente,<$FFFC>ainda dá tempo de escapar.<$FFFE>
+Quando a gente entende a tática do inimigo, sempre acha um jeito de revidar.<$FFFD>O exército do Lorde Raymond era gigante, mas era lento demais pra manobrar<$FFFC>e acabou sendo esmagado.<$FFFD>Nós, por outro lado, somos poucos, mas somos a elite.<$FFFC>Vamos usar a nossa velocidade a nosso favor.<$FFFE>
+Entendido.<$FFFE>
+Então esse é o tal Canhão Mágico do gigante...<$FFFD>Não dá pra ficar levando tiro disso aí não.<$FFFE>
+Vamos manter as nossas unidades longe da linha de frente daquele gigante.<$FFFD>Assim a gente não precisa se preocupar com o Canhão Mágico.<$FFFE>
+Certo. Vamos bolar a nossa estratégia com muito cuidado.<$FFFE>
+Vamos varrer daqui os últimos sobreviventes de Larcuss!<$FFFD>Assim eles nunca mais vão se levantar contra o Império.<$FFFD>Emprestem a força de vocês para que o nosso domínio sobre Larcuss seja absoluto!<$FFFE>
+Se é uma ordem do general, vamos pra cima com tudo!<$FFFE>
+Foi mal, pessoal.<$FFFD>Mal terminamos de lutar contra as tropas do Lorde Raymond e já tô arrastando vocês pra outra batalha.<$FFFE>
+Esquenta não, general! Se for preciso, a gente dá a vida<$FFFC>pra garantir a sua vitória!<$FFFE>
+Hehe... Assim vocês me deixam sem jeito.<$FFFD>Mas não ousem jogar a vida fora por mim.<$FFFC>A vida de vocês não vale menos do que a minha.<$FFFC>Fui claro?<$FFFE>
+O Galtzork tá ativo!<$FFFC>Todas as unidades, ataquem! E não vão dar mole de tomar tiro do Canhão Mágico dele!<$FFFE>
+Pode deixar, senhor. A gente também não tá a fim de morrer hoje.<$FFFE>
+Falta pouco, rapaziada!<$FFFC>Se a gente segurar essa posição, nenhum idiota vai ter a audácia de bater de frente com o Império de novo.<$FFFD>E aí, finalmente, vamos ter um pouco de paz! Todo mundo vai poder voltar pra casa de cabeça erguida!<$FFFD>Vamos manter o sangue nos olhos até o fim!<$FFFE>
+Segunda unidade, avançar!<$FFFC>Atraiam o inimigo pra linha de tiro do canhão!<$FFFE>
+Vocês tão indo muito bem.<$FFFC>Mas a verdadeira diversão só tá começando!<$FFFE>
+Duas grandes rochas se erguem em direção ao céu.<$FFFC>Dá pra sentir uma barreira mágica muito forte entre elas.<$FFFE>
+O que vai fazer?<$FFFE>
+Cavar entre as rochas<$FFFE>
+Destruir as rochas<$FFFE>
+Ficar entre as rochas<$FFFE>
+Você cavou até os braços cansarem, mas não achou nada...<$FFFE>
+O golpe abriu uma rachadura enorme na rocha,<$FFFD>mas parece impossível destruir ela por completo...<$FFFE>
+Ao ficar entre as rochas, um raio de luz desceu dos céus.<$FFFD>Quando você se deu conta, tinha uma flecha na sua mão.<$FFFE>
+Você obteve a Flecha de Apolo!<$FFFE>
+D-dói...<$FFFE>
+Então... chegou a minha hora...<$FFFE>
+Papai...<$FFFE>
+Droga!<$FFFE>
+Eu me empolguei demais...<$FFFE>
+Tá doendo...<$FFFE>
+Senhor <$F600><$0000>...<$FFFE>
+Lady Lushiris...<$FFFE>
+Ó, Lushiris! Conceda a sua proteção divina a essas pessoas!<$FFFE>
+Grrr...<$FFFE>
+Será que eu vou mesmo morrer num fim de mundo desses?<$FFFE>
+Tsc, perdi o jeito da coisa...<$FFFE>
+General Boltz, recue, por favor!<$FFFC>Deixa o Galtzork com a gente!<$FFFE>
+E você acha que eu vou simplesmente dar as costas e fugir!?<$FFFE>
+A gente não consegue lutar e proteger o general ferido ao mesmo tempo.<$FFFC>Por favor, recue por nós.<$FFFE>
+...Entendo.<$FFFC>Se eu for ficar só atrapalhando vocês, eu aceito.<$FFFD>Vou recuar pra Larcássia e reerguer as nossas forças.<$FFFC>Mas me prometam uma coisa... Não morram.<$FFFE>
+Sim, senhor!<$FFFE>
+Agora só nos resta deixar o resto com o Galtzork.<$FFFC>Droga, que vergonha.<$FFFD>O jeito é recuar pra Larcássia e reconstruir as nossas tropas por lá...<$FFFE>
+Como... como eu fui derrotado desse jeito...?<$FFFC>Droga!<$FFFE>
+Sozinhos, vocês não têm a menor chance de vencer.<$FFFC>Isso é uma ordem! Todo o exército, bater em retirada!<$FFFE>
+Sim, senhor!<$FFFE>
+Recuem pra Larcássia e reorganizem as tropas!<$FFFE>
+Minha técnica com a lança não tá pra brincadeira!<$FFFE>
+Nada mau! Nunca imaginei que nós é que fôssemos acabar encurralados!<$FFFC><$FFFE>
+BZZ... O dano recebido<$FFFC>excedeu a capacidade... Todas as funções interrompidas...<$FFFE>
+Uma muleta dessas não é o suficiente pra vencer a batalha.<$FFFC>Como eu prometi, vou enfrentar vocês pessoalmente. Venham pra cima!<$FFFE>
+Alvo adquirido! Destruir!<$FFFE>
+Escaneando áreas danificadas.<$FE14>...<$FE14>...<$FE14>...<$FE14>...<$FFFD>Nenhum comprometimento detectado nas operações.<$FFFC>Retomando a missão.<$FFFE>
+Alvo travado.<$FFFC>Abertura de disparo liberada!<$FFFD>Canhão Mágico, fogo!<$FFFE>
+Glória ao Império!<$FFFC>Morte a Larcuss!<$FFFE>
+Aaaah!<$FFFE>
+Ser derrotado por um bando de sobreviventes...<$FFFE>
+Baixei a guarda...<$FFFE>
+Então é aqui que termina...<$FFFE>
+Glória ao Império de Rigúlia!<$FFFE>
+E-eu perdi!<$FFFE>
+Eu ainda tinha muita luta pela frente...<$FFFE>
+Aaah...<$FFFE>
+M-minhas forças se esgotaram...<$FFFE>
+Por quê...? Por que isso tá acontecendo?<$FFFC>Como o exército de Larcuss consegue lutar desse jeito?<$FFFE>
+Impossível! A minha própria unidade foi aniquilada...<$FFFE>
+F-forte demais...<$FFFE>
+Não adianta...<$FFFE>
+Urgh, que oponente casca-grossa!<$FFFE>
+Inacreditável!<$FFFE>
+Urgh, que oponente casca-grossa!<$FFFE>
+Não consegui acertar um golpe sequer!<$FFFE>
+Urgh, que oponente casca-grossa!<$FFFE>
+Fomos derrotados...<$FFFE>
+Urgh, que oponente casca-grossa!<$FFFE>
+Gaaah...<$FFFE>
+Urgh, que oponente casca-grossa!<$FFFE>
+Droga!<$FFFE>
+Urgh, que oponente casca-grossa!<$FFFE>
+Seus desgraçados!<$FFFE>
+Eu me recuso a aceitar isso!<$FFFC>Eu não aceito!<$FFFE>
+Droga!<$FFFE>
+Droga!<$FFFE>
+N-não posso perder...<$FFFE>
+Ser derrotado por meros sobreviventes de Larcuss...<$FFFE>
+Seus malditos! Como ousam massacrar os meus homens desse jeito!<$FFFE>
+Droga! Como ousam!?<$FFFD>Eu mesmo vou acabar com vocês!<$FFFC>Venham pra cima!<$FFFE>
+Com licença, senhor <$F600><$0000>.<$FFFC>Não bastava ter destruído apenas aquela arma?<$FFFD>A não ser que não tivesse outra saída, acredito que deveríamos evitar mortes desnecessárias.<$FFFE>
+Com licença, senhor <$F600><$0000>.<$FFFC>Não bastava ter derrotado apenas o comandante deles?<$FFFD>A não ser que não tivesse outra saída, acredito que deveríamos evitar mortes desnecessárias.<$FFFE>
+Urgh, mandaram bem!<$FFFE>
+Então acabou...<$FFFE>
+Seu comando foi brilhante, senhor <$F600><$0000>.<$FFFE>
+Senhor <$F600><$0000>...<$FFFC>Uma batalha nunca pode se estender desse jeito.<$FFFD>Isso vai acabar prejudicando o nosso próximo passo...<$FFFE>
+Unidades da reserva, iniciar ataque!<$FFFD>Acabem com eles de uma vez por todas!<$FFFE>
+Certo, iniciem o ataque!<$FFFD>Vamos terminar isso num golpe só!<$FFFE>
