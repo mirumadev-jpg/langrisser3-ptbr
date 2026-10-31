@@ -1,0 +1,173 @@
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, o Espadachim<$FFFF>
+Pieru<$FFFF>
+Sábio Fáberu<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+Ladrão<$FFFF>
+Comandante do Exército de Barral<$FFFF>
+Cavaleiro das Trevas<$FFFF>
+<$0000>・Derrote todos os inimigos<$FFFE>
+<$0000>・Morte de <$F600><$0000><$FFFE>
+Forte de Rogier, Reino de Barral<$FFFF>
+Uau!<$FFFC>Que fortaleza gigante!<$FFFE>
+Não é pra menos. Ela foi construída<$FFFC>justamente pra servir de base na invasão a Larcuss.<$FFFE>
+Verdade. Quando atacamos a cidade de Laffel,<$FFFC>usamos esse forte como quartel-general.<$FFFE>
+Então a maior parte das tropas<$FFFC>deve estar concentrada aqui neste forte.<$FFFE>
+Exatamente. Por outro lado, se esse forte correr perigo,<$FFFC>Laffel vai ser obrigada a enviar reforços.<$FFFE>
+Afinal de contas, eles não podem perder esse lugar de jeito nenhum.<$FFFE>
+Se o nosso objetivo é só atrair o Cavaleiro das Trevas,<$FFFC>não precisamos lutar pra valer contra ele, certo?<$FFFE>
+Negativo. Se não mostrarmos que queremos tomar o forte de verdade,<$FFFC>o plano de distração não vai colar.<$FFFE>
+Se não formos pra cima com tudo,<$FFFC>eles vão sacar o nosso plano na hora.<$FFFE>
+É verdade. Além disso, o Cavaleiro das Trevas é frio e impiedoso.<$FFFC>Sem um bom motivo, ele deixaria os próprios companheiros morrerem sem piscar.<$FFFE>
+...Droga! Só de lembrar disso meu sangue já ferve!<$FFFC><$FFFE>
+Tá na hora.<$FFFC>Vamos tomar esse forte de uma vez por todas!<$FFFE>
+Deixa comigo!<$FFFE>
+O senhor <$F600><$0000> está por aqui?<$FFFE>
+Me chamou?<$FFFE>
+Sou um mensageiro do Lobo Prateado.<$FFFD>É melhor vocês correrem!<$FFFC>O próprio Cavaleiro das Trevas tá vindo pra cá!<$FFFE>
+Temos que nos apressar, senhor <$F600><$0000>!<$FFFE>
+Certo.<$FFFC>Vamos recuar por enquanto e bater em retirada para Laffel.<$FFFE>
+Nem pensar!<$FFFD>Quando os reforços chegarem, vocês não terão a menor chance!<$FFFC>Não achem que vão escapar tão fácil assim!<$FFFE>
+Não vamos deixar!<$FFFD>Quando os nossos reforços chegarem, vocês já eram!<$FFFC>Não achem que vão fugir tão fácil!<$FFFE>
+Parece que vamos ter que ir até o fim.<$FFFC>Pelo menos vamos acabar com esses caras antes que o Cavaleiro das Trevas chegue.<$FFFE>
+Entendido.<$FFFE>
+...Então a gente vai ter mesmo que lutar até o fim.<$FFFC>Nesse caso, precisamos varrer todos eles daqui antes que o Cavaleiro das Trevas dê as caras!<$FFFE>
+Temos que correr, senhor <$F600><$0000>.<$FFFC>Se o Cavaleiro das Trevas chegar, não teremos a menor chance.<$FFFE>
+Eu sei.<$FFFE>
+Pessoal, depressa!<$FFFC>O Cavaleiro das Trevas tá chegando!<$FFFE>
+Agora que o senhor Cavaleiro das Trevas chegou, a nossa vitória tá no papo!<$FFFD>Todo o exército, ataquem!<$FFFC>Acabem com eles de uma vez por todas!<$FFFE>
+Até quando vão continuar com essa brincadeira?<$FFFC>Por acaso vocês são um bando de inúteis incompetentes?<$FFFE>
+O Cavaleiro das Trevas!?<$FFFE>
+Então ele deu as caras mesmo!<$FFFE>
+...Então vocês se aliaram aos sobreviventes de Larcuss.<$FFFC>Hmph... Não importa.<$FFFC>Eu mataria vocês de qualquer jeito mesmo.<$FFFE>
+Ah... Quem diria que o Cavaleiro das Trevas fosse aparecer tão cedo...<$FFFE>
+Não adianta choramingar agora.<$FFFC>Temos que derrotar o Cavaleiro das Trevas<$FFFC>e depois retomar Laffel!<$FFFE>
+Vocês acham que podem me derrotar...?<$FFFC>Que piada.<$FFFE>
+<$0000>・Derrote o Cavaleiro das Trevas<$FFFE>
+O Cavaleiro das Trevas...<$FFFC>Que aura assustadora.<$FFFE>
+Talvez nem todos nós juntos consigamos dar conta de um monstro desses...<$FFFE>
+É bem provável que as nossas forças atuais não sejam suficientes<$FFFC>para vencê-lo...<$FFFE>
+Me perdoem, pessoal.<$FFFC>Demorei demais pra tomar o forte...<$FFFE>
+Alerta! Inimigos!<$FFFC>Estamos sob ataque!<$FFFE>
+O quê!? Quantos eles são?<$FFFE>
+Não são muitos... Menos de um terço das nossas tropas.<$FFFE>
+Seus idiotas! Atacar com tão poucos homens...<$FFFC>Que imprudência!<$FFFD>Todos, preparem-se para a batalha!<$FFFC>Vou mostrar a eles o verdadeiro poder de Barral!<$FFFE>
+Eu tô fora.<$FFFC>Não quero me meter nessa confusão não!<$FFFE>
+Ataquem!<$FFFC>Não deixem que eles avancem mais um centímetro!<$FFFE>
+Entendido!<$FFFE>
+Avançar!<$FFFE>
+Sim, senhor!<$FFFE>
+Atrás da estátua tem um cajado com um formato estranho e sinistro.<$FFFE>
+O que vai fazer?<$FFFE>
+Cuspir na estátua<$FFFE>
+Pegar<$FFFE>
+Ficar olhando<$FFFE>
+Nada aconteceu...<$FFFE>
+Mas você não conseguiu pegá-lo...<$FFFE>
+Enquanto você observa atentamente, a estátua começa a falar.<$FFFD>"Se quiser este cajado, faça uma oferenda para mim."<$FFFE>
+Quanto vai oferecer?<$FFFE>
+100P<$FFFE>
+500P<$FFFE>
+1000P<$FFFE>
+Você não tem dinheiro suficiente...<$FFFE>
+Isso não é o suficiente pra levar o cajado.<$FFFC>Mas vou ficar com o seu dinheiro mesmo assim.<$FFFE>
+Você não tem dinheiro suficiente...<$FFFE>
+Isso não é o suficiente pra levar o cajado.<$FFFC>Mas vou ficar com o seu dinheiro mesmo assim.<$FFFE>
+Você não tem dinheiro suficiente...<$FFFE>
+Seu desejo foi atendido.<$FFFC>Vou lhe conceder este anel!<$FFFE>
+Você obteve a Insígnia do Rei Imortal!<$FFFE>
+Ao examinar de perto o pequeno pilar de pedra,<$FFFC>você percebe que ele é, na verdade, uma lápide.<$FFFD>Logo depois, uma grande ave migratória pousa ali.<$FFFC>No bico, ela carrega uma pedra brilhante de sete cores.<$FFFE>
+O que vai fazer?<$FFFE>
+Assustar a ave<$FFFE>
+Estender a mão<$FFFE>
+Ignorar<$FFFE>
+A ave se assusta, deixa a pedra cair e foge voando.<$FFFE>
+Você obteve uma Bênção Divina!<$FFFE>
+A ave foge voando com a pedra ainda no bico...<$FFFE>
+Depois de um tempo, a ave voa para longe com a pedra presa no bico.<$FFFE>
+Puxei demais pelo meu corpo...<$FFFE>
+Senhor <$F600><$0000>...<$FFFE>
+Me perdoem...<$FFFE>
+Coti...<$FFFE>
+Me desculpe...<$FFFE>
+Que estranho. Não tô sentindo o meu corpo...<$FFFC><$FFFE>
+Perdão, eu...<$FFFE>
+Ah... Tô vendo uma luz...<$FFFE>
+Esses ossos velhos chegaram ao limite...<$FFFC>Deixo o resto com vocês...<$FFFE>
+Urgh...<$FFFE>
+Tsc...<$FFFE>
+Impossível...<$FFFC>A gente precisava proteger esse forte até os reforços chegarem...<$FFFE>
+Eu falhei...<$FFFD>Mas, mesmo que me derrotem, esse forte não vai cair!<$FFFD>Senhor Cavaleiro das Trevas! Vingue a minha morte!<$FFFE>
+Ah, seus vermes insolentes!<$FFFE>
+Tenho que aplaudir por terem nos pressionado até aqui!<$FFFE>
+Ainda não! Não posso cair aqui, não agora!<$FFFE>
+Isso é impossível!<$FFFE>
+Vocês se agarram à vida e se recusam a aceitar o fim!<$FFFE>
+Nunca achei que fôssemos ser encurralados assim...<$FFFD>Mas vou resistir até os reforços chegarem!<$FFFE>
+Minha magia falhou!?<$FFFE>
+Não aguento mais...<$FFFE>
+Morrer num fim de mundo desses...<$FFFE>
+Droga!<$FFFE>
+Não tenho mais forças pra lutar.<$FFFE>
+Vou mostrar na prática como os muros dessa fortaleza são impenetráveis!<$FFFE>
+N-não... Não pode ser!<$FFFE>
+Vou fazer uma montanha com os cadáveres de vocês!<$FFFE>
+N-não tô conseguindo segurar!<$FFFE>
+Não... Eu não quero morrer...<$FFFE>
+Então é aqui que eu vou morrer...<$FFFE>
+Eu falhei...<$FFFE>
+É o meu fim...<$FFFC>Adeus... Elliot...<$FFFE>
+Meus homens... Minha unidade inteira...<$FFFC>Tá tudo acabado...<$FFFE>
+Urgh... Desculpem...<$FFFC>Eles romperam a nossa linha...<$FFFE>
+Venham! Daqui vocês não passam!<$FFFC><$FFFE>
+Morrer logo no meu primeiro combate...<$FFFE>
+Não era pra acabar assim...<$FFFE>
+V-vocês são fortes...<$FFFE>
+Vinguem a gente!<$FFFE>
+Esses caras não são covardes não!<$FFFD>Eles sabem lutar...<$FFFE>
+Então chegou a minha hora...<$FFFE>
+Urgh... Baixei a guarda!<$FFFE>
+O-o que me atingiu!?<$FFFE>
+Urgh, que adversário casca-grossa...<$FFFE>
+P-perder pra um bando como vocês!<$FFFC>Ser derrotado por gente da laia de vocês...<$FFFE>
+Se Rogier cair...<$FFFC>A capital real...<$FFFE>
+Droga, pisei na bola!<$FFFE>
+Não aceito isso!<$FFFC>Ser derrotado logo por vocês...<$FFFE>
+Então você é o comandante daqui.<$FFFC>Vamos ver o quanto você é bom.<$FFFE>
+Vermes insignificantes, ousam me desafiar?<$FFFC>Pois bem. Então morram!<$FFFE>
+...Os sobreviventes de Larcuss parecem ter ficado surpreendentemente fortes.<$FFFD>...Você aí, o seu nome é <$FFFC><$F600><$0000>, não é?<$FFFE>
+Isso mesmo.<$FFFE>
+Ficarei aguardando pelo nosso próximo encontro...<$FFFE>
+N-não pode ser! Eles derrotaram o Cavaleiro das Trevas!?<$FFFD>Esses caras são monstros!<$FFFC>Todo o exército, recuar!<$FFFE>
+N-não pode ser! Eles derrotaram o Cavaleiro das Trevas!?<$FFFD>Não dá pra lutar contra monstros assim!<$FFFC>Todo o exército, bater em retirada!<$FFFE>
+Ufa, conseguimos fazer ele recuar.<$FFFC>Mas não pareceu que ele estava lutando a sério...<$FFFC>De qualquer forma, a vitória é nossa.<$FFFE>
+Seu comando foi impecável, senhor <$F600><$0000>.<$FFFE>
+Senhor <$F600><$0000>...<$FFFC>Uma batalha não pode se arrastar tanto tempo.<$FFFD>Isso vai atrapalhar os nossos próximos passos...<$FFFE>
+Nunca imaginei que a gente conseguiria derrotar aquele cara.<$FFFE>
+Com os ferimentos que ele levou,<$FFFD>ele não vai incomodar a gente tão cedo.<$FFFC>Agora precisamos correr de volta pra Laffel.<$FFFC>Pessoal, sei que estão cansados, mas aguentem firme!<$FFFE>
+Eu não acredito...<$FFFE>
+Hmph! É só isso que vocês têm?<$FFFE>
+Sua sorte acabou!<$FFFE>
+Você é forte...<$FFFE>
+E-eu perdi!<$FFFE>
+Droga!<$FFFE>
+Foi um sucesso!<$FFFC>Mandou muito bem, senhor <$FFFC><$F600><$0000>.<$FFFE>
+Senhor <$F600><$0000>...<$FFFC>Uma batalha não pode se arrastar tanto.<$FFFD>Isso vai prejudicar as nossas próximas ações...<$FFFE>
+Conseguimos... acabou.<$FFFC>Agora precisamos voltar correndo pra Laffel.<$FFFE>
+Pessoal, sei que estão exaustos, mas aguentem firme!<$FFFE>
+<$F703><$FFFE>
+<$F703><$FFFE>
+Droga! Nós nunca vamos deixar vocês tomarem esse forte!<$FFFC><$FFFE>
