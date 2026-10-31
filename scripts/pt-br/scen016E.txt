@@ -1,0 +1,200 @@
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, o Espadachim<$FFFF>
+Pieru<$FFFF>
+Sábio Fáberu<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+Ladrão<$FFFF>
+Chefe dos Ladrões<$FFFF>
+<$0000>・Derrote todos os inimigos<$FFFE>
+<$0000>・Morte de <$F600><$0000><$FFFC><$0000>・Espada da Destruição roubada<$FFFE>
+Ruínas de Estool<$FFFF>
+É aqui?<$FFFC>Onde disseram que tem uma montanha de<$FFFC>tesouros escondidos?<$FFFE>
+Nunca vi um lugar assim!<$FFFC>Como sempre,<$FFFC>o chefe mandou bem demais!<$FFFE>
+Aí, prestem atenção! Larguem a velharia!<$FFFC>Peguem só o que dá<$FFFC>dinheiro. Hm?<$FFFE>
+Uau... Que espada animal!<$FFFC><$FFFE>
+Então é aqui que fica a<$FFFC>Espada da Destruição?<$FFFE>
+Sim. O povo não a conhece,<$FFFC>mas certas famílias nobres a passam<$FFFC>de geração em geração.<$FFFC>Quando os demônios<$FFFD>atacarem o reino,<$FFFC>com certeza vamos<$FFFC>precisar dela.<$FFFE>
+Parece que não fomos os<$FFFC>únicos a farejar<$FFFC>este lugar!<$FFFE>
+Ah, são ladrões!<$FFFE>
+Chefe! Tem soldados<$FFFC>vindo pra cá!<$FFFE>
+Deu ruim.<$FFFC>Mas só essa espada aqui<$FFFC>já garante o dia.<$FFFD>Peguem o que conseguirem carregar<$FFFC>e deem o fora pelos fundos!<$FFFE>
+Deixa com a gente!<$FFFE>
+Isso é péssimo. Os ladrões<$FFFC>vão levar a<$FFFC>Espada da Destruição.<$FFFE>
+Não deixem que eles fujam!<$FFFC>Temos que recuperar a<$FFFC>Espada da Destruição a qualquer custo!<$FFFE>
+Este lugar é apertado<$FFFC>e cheio de corredores<$FFFC>confusos.<$FFFE>
+Se a gente vacilar,<$FFFC>os ladrões vão raspar<$FFFC>todos os tesouros daqui.<$FFFE>
+Com certeza.<$FFFE>
+Ouviram, bando de inúteis?! Peguem<$FFFC>o primeiro tesouro que virem e<$FFFC>sumam daqui! Encontro vocês no<$FFFC>ponto de sempre!<$FFFE>
+Pode deixar, chefe!<$FFFE>
+Vou dar cobertura pros rapazes...<$FFFD>Vem pra cima, seus canalhas!<$FFFE>
+Mas que espada linda...<$FFFC>Vai valer uma nota preta!<$FFFE>
+Você obteve a Espada da<$FFFC>Destruição!<$FFFE>
+Que porcaria de espada é essa!?<$FFFC>É só uma réplica<$FFFC>barata!<$FFFD>Droga! Fui<$FFFC>enganado!<$FFFD>É melhor eu vazar<$FFFC>antes que me cerquem!<$FFFE>
+Você obteve a Espada da<$FFFC>Destruição!<$FFFE>
+Droga, que azar!<$FFFC>Esse tesouro era meu!<$FFFD>Fazer o quê...<$FFFC>O melhor agora é<$FFFC>dar o fora!<$FFFE>
+A espada era só uma<$FFFC>imitação...<$FFFE>
+Ha! Bem feito! É isso<$FFFC>que dá deixarem eu<$FFFC>roubar o tesourinho<$FFFC>precioso de vocês!<$FFFD>Agora vou ralar daqui<$FFFC>antes que me peguem!<$FFFE>
+Vocês nunca vão me pegar!<$FFFE>
+Senhor <$F600><$0000>.<$FFFC>Se a gente não correr,<$FFFC>vão levar a<$FFFC>Espada da Destruição!<$FFFE>
+Tem razão, vamos nessa!<$FFFE>
+Tsc! Você não vai escapar!<$FFFE>
+Heh, tá quase lá!<$FFFE>
+Senhor <$F600><$0000>!<$FFFC>O ladrão tá fugindo!<$FFFE>
+Isso é péssimo! Se ele<$FFFC>sair daqui, não vamos conseguir alcançar<$FFFC>um cara que conhece<$FFFC>essas ruas melhor que nós!<$FFFE>
+Entendido!<$FFFE>
+Hehehe! Tesouro,<$FFFC>tesourinho!<$FFFE>
+Você obteve uma Bênção<$FFFC>Divina!<$FFFE>
+Agora é só<$FFFC>dar no pé!<$FFFE>
+Mas o baú de tesouro<$FFFC>estava vazio...<$FFFE>
+Vazio!? Ah, qual é!<$FFFE>
+Você obteve uma Bênção<$FFFC>Divina!<$FFFE>
+Roubar de ladrão,<$FFFC>onde já se viu um absurdo desses!?<$FFFE>
+Mas o baú de tesouro<$FFFC>estava vazio...<$FFFE>
+Ha! Se ferraram!<$FFFE>
+Essa é boa!<$FFFE>
+Você obteve o Ankh<$FFFC>de Cristal!<$FFFE>
+Hoje é o meu dia de sorte!<$FFFE>
+Mas o baú de tesouro<$FFFC>estava vazio...<$FFFE>
+Ah, fala sério.<$FFFC>Não é possível...<$FFFE>
+Você obteve o Ankh<$FFFC>de Cristal!<$FFFE>
+Droga! Cheguei tarde!<$FFFE>
+Mas o baú de tesouro<$FFFC>estava vazio...<$FFFE>
+Ha! Piada pura!<$FFFE>
+É meu, tudo meu!<$FFFE>
+Você obteve o Biquíni<$FFFC>Mágico!<$FFFE>
+Mas o baú de tesouro<$FFFC>estava vazio...<$FFFE>
+O-o que é isso...?<$FFFE>
+Você obteve o Biquíni<$FFFC>Mágico!<$FFFE>
+Eu vi primeiro! Devolve<$FFFC>isso aí!<$FFFE>
+Mas o baú de tesouro<$FFFC>estava vazio...<$FFFE>
+Ufa! Que trabalheira!<$FFFE>
+Você obteve o Saco de Sementes!<$FFFE>
+Não posso botar tudo a perder<$FFFC>depois de chegar tão longe.<$FFFE>
+Mas o baú de tesouro<$FFFC>estava vazio...<$FFFE>
+Não! Só pode ser sacanagem!<$FFFE>
+Você obteve o Saco de Sementes!<$FFFD>Você abriu o saco...<$FFFD>Você obteve uma Semente do Valor!<$FFFE>
+Você obteve uma Folha<$FFFC>da Vitalidade!<$FFFE>
+Você obteve um Fruto da Sabedoria!<$FFFE>
+Você obteve um Fruto do Poder!<$FFFE>
+Você obteve um<$FFFC>Fruto da Força!<$FFFE>
+Você obteve um Fruto<$FFFC>da Proteção!<$FFFE>
+Droga! Chegaram na minha frente!<$FFFE>
+Mas o baú de tesouro<$FFFC>estava vazio...<$FFFE>
+Hmm. Saquei...<$FFFE>
+Você obteve o Anel do Poder!<$FFFE>
+Hehe. Agora é só<$FFFC>dar o fora daqui!<$FFFE>
+Mas o baú de tesouro<$FFFC>estava vazio...<$FFFE>
+Eita! Isso não tá certo!<$FFFE>
+Você obteve o Anel do Poder!<$FFFE>
+Droga! O meu tesouro...<$FFFE>
+Mas o baú do tesouro<$FFFC>estava vazio...<$FFFE>
+Como assim, tava vazio? Ainda bem<$FFFC>que<$FFFC> eu nem fui até lá!<$FFFE>
+Bando de lerdos imprestáveis!<$FFFC>Vocês nunca vão me pegar!<$FFFC>Fui!<$FFFE>
+Já era... não vamos conseguir. Se<$FFFC>eles chegarem lá fora...<$FFFE>
+Droga! Isso foi culpa do<$FFFC>meu erro de estratégia...<$FFFE>
+Fiquem com a espada, então!<$FFFC>Vocês vão se arrepender!<$FFFE>
+O tesouro é meu!<$FFFC>Até nunca mais! Valeu pelo<$FFFC>trabalho!<$FFFE>
+Droga! Isso foi culpa do<$FFFC>meu erro de estratégia...<$FFFE>
+Tsc! Que saquezinho mixuruca!<$FFFC><$FFFE>
+Vou levar isso com muito prazer!<$FFFC>Fui!<$FFFE>
+Droga! Isso foi culpa do<$FFFC>meu erro de estratégia...<$FFFE>
+Vim até esse fim de mundo<$FFFC>pra nada! Ah, que droga...<$FFFC><$FFFE>
+Hora de vender meu saque!<$FFFC>HAHAHAHA...<$FFFE>
+Droga! Isso foi culpa do<$FFFC>meu erro de estratégia...<$FFFE>
+Que furada. Bom, pelo menos<$FFFC>eu saí vivo...<$FFFE>
+Hehehe! Fui!<$FFFE>
+Droga! Isso foi culpa do<$FFFC>meu erro de estratégia...<$FFFE>
+Tô acabado! Que viagem<$FFFC>inútil!<$FFFE>
+Já tô quase em casa!<$FFFC>Hoje é meu dia de sorte!<$FFFE>
+Droga! Isso foi culpa do meu erro<$FFFC>de estratégia...<$FFFE>
+O baú tá vazio.<$FFFC>Fazer o quê.<$FFFC>Hora de ralar...<$FFFE>
+Há uma construção adiante,<$FFFC>com um gigante pintado na<$FFFC>parede. Dois interruptores<$FFFC>ficam ao lado da porta.<$FFFE>
+Qual interruptor apertar?<$FFFE>
+Interruptor preto<$FFFE>
+Interruptor vermelho<$FFFE>
+Nenhum<$FFFE>
+O interruptor preto abriu<$FFFC>a porta da direita.<$FFFC>Lá dentro, um manto brilha<$FFFC>com uma luz sinistra.<$FFFE>
+Você obteve o Manto<$FFFC>das Trevas!<$FFFE>
+A porta se fecha de novo.<$FFFC>Os interruptores travam.<$FFFE>
+O interruptor vermelho abriu<$FFFC>a porta da esquerda.<$FFFC>Lá dentro há apenas<$FFFC>uma adaga.<$FFFE>
+Você obteve a Kunai!<$FFFE>
+A porta se fecha de novo.<$FFFC>Os interruptores travam.<$FFFE>
+Entre as árvores há uma<$FFFC>estátua de um velho<$FFFC>caolho. Ele segura<$FFFC>um pequeno arco e flecha.<$FFFE>
+Pegar a estátua?<$FFFE>
+Era apenas uma simples<$FFFC>estátua de madeira...<$FFFE>
+De repente, a estátua de<$FFFC>madeira começou a falar.<$FFFD>"Diga o meu nome e<$FFFC>eu lhe concederei poder."<$FFFE>
+Qual nome vai dizer?<$FFFE>
+Masamune<$FFFE>
+Caos <$FFFE>
+Odin<$FFFE>
+A estátua desapareceu...<$FFFE>
+A estátua desapareceu...<$FFFE>
+"Aceite este arco e<$FFFC>flecha."<$FFFE>
+Você obteve Hadding!<$FFFE>
+Há uma placa de metal<$FFFC>enferrujada na clareira.<$FFFE>
+Pegar a placa?<$FFFE>
+A ferrugem caiu,<$FFFC>revelando um belo e<$FFFC>brilhante escudo!<$FFFE>
+Você obteve o Escudo<$FFFC>de Aquiles!<$FFFE>
+Ainda tenho...<$FFFC>coisas a fazer...<$FFFE>
+Papai...<$FFFE>
+Me perdoem, pessoal...<$FFFE>
+Desculpem, eu cheguei<$FFFC>no meu limite...<$FFFE>
+Desculpem... Não aguento mais...<$FFFE>
+Ué?<$FFFE>
+Me perdoem...<$FFFE>
+Que Lushiris me acolha...<$FFFE>
+Urgh... Conto com vocês...<$FFFE>
+Urgh...<$FFFE>
+Que patético...<$FFFE>
+F-forte demais... GRR...<$FFFE>
+Você obteve a Espada<$FFFC>da Aniquilação!<$FFFE>
+Conseguimos. A<$FFFC>Espada da Destruição<$FFFC>agora é sua.<$FFFE>
+Mandou muito bem, senhor<$FFFC><$F600><$0000>!<$FFFE>
+AAARGH! Logo eu...<$FFFC>fui perder assim...<$FFFE>
+Você obteve uma<$FFFC>Bênção Divina!<$FFFE>
+Faltava tão pouco...<$FFFE>
+Você obteve o Ankh<$FFFC>de Cristal!<$FFFE>
+Não vou entregar isso aqui!<$FFFC>Nem a pau!<$FFFE>
+Você obteve o Biquíni<$FFFC>Mágico!<$FFFE>
+Urgh!<$FFFE>
+Você obteve o Saco de Sementes!<$FFFD>Você abre o saco...<$FFFD>Você obteve uma Semente da Bravura!<$FFFE>
+Você obteve uma Folha<$FFFC>de Vitalidade!<$FFFE>
+Você obteve um Fruto da Sabedoria!<$FFFE>
+Você obteve um Fruto do Poder!<$FFFE>
+Você obteve um Fruto<$FFFC>da Força!<$FFFE>
+Você obteve um Fruto<$FFFC>da Proteção!<$FFFE>
+Vacilei feio...<$FFFE>
+Você obteve o Anel do Poder!<$FFFE>
+Aiii!<$FFFE>
+Aaah! Socorro...<$FFFE>
+Estraguei tudo!<$FFFE>
+Chefe!<$FFFE>
+O quê?<$FFFE>
+Urgh, já era pra mim...<$FFFE>
+Ué? Isso é... o meu sangue?<$FFFE>
+Ei... Não precisava<$FFFC>bater tão forte...<$FFFE>
+Eu devia ter ficado<$FFFC>bebendo no bar...<$FFFE>
+Sem sangue, sem lágrimas...<$FFFC>nada...<$FFFE>
+Já juntamos muitos aliados.<$FFFC>Talvez já dê pra peitar<$FFFC>o Império ou Barral<$FFFC>de igual pra igual.<$FFFE>
+Os ladrões foram embora.<$FFFE>
+Você obteve a Espada<$FFFC>da Aniquilação!<$FFFE>
+Comando impecável, senhor<$FFFC><$F600><$0000>!<$FFFE>
+Ainda assim, deixamos<$FFFC>muitos ladrões escaparem.<$FFFC>Acho que dava pra ter<$FFFC>lutado melhor...<$FFFE>
+A Espada da Destruição<$FFFC>não é poderosa só<$FFFC>contra os demônios; ela também<$FFFC>é uma excelente arma.<$FFFE>
+Então, com essa espada,<$FFFC>talvez a gente consiga expulsar<$FFFC>as tropas do Império e<$FFFC>de Barral, não é?<$FFFE>
+É verdade.<$FFFC>Agora temos muitos aliados;<$FFFC>talvez a gente consiga<$FFFC>fazer isso em breve.<$FFFE>
+Enfim, a verdadeira batalha<$FFFC>vai começar!<$FFFE>
+A batalha de verdade começa<$FFFC>agora, pessoal.<$FFFC>Conto com a força de vocês!<$FFFE>
