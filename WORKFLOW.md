@@ -44,7 +44,8 @@ Este documento registra o fluxo de trabalho para continuar o projeto com consist
 - Cenário 15: revisado, aprovado e publicado após aprovação explícita de Miruma.
 - Cenário 16: revisado, aprovado e publicado após aprovação explícita de Miruma.
 - Cenário 17: revisado, aprovado e publicado após aprovação explícita de Miruma.
-- Cenário 18: próximo da fila; manter como rascunho até revisão e aprovação explícita de Miruma.
+- Cenário 18: revisado, aprovado e publicado após aprovação explícita de Miruma.
+- Cenário 19: próximo da fila; manter como rascunho até revisão e aprovação explícita de Miruma.
 
 ## Regras técnicas e de qualidade
 
@@ -73,4 +74,4 @@ Este documento registra o fluxo de trabalho para continuar o projeto com consist
 
 ## Próximo passo de tradução
 
-Retomar o cenário 18 na ordem, preparar um rascunho para revisão de Miruma e aguardar aprovação antes de publicar qualquer arquivo ou atualizar seu status como aprovado.
+Retomar o cenário 19 na ordem, preparar um rascunho para revisão de Miruma e aguardar aprovação antes de publicar qualquer arquivo ou atualizar seu status como aprovado.

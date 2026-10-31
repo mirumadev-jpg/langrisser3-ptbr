@@ -1,0 +1,214 @@
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, o Espadachim<$FFFF>
+Pieru<$FFFF>
+Sábio Fáberu<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+Princesa Furea<$FFFF>
+Soldado de Barral<$FFFF>
+Comandante do Exército de Barral<$FFFF>
+<$0000>・Derrote Furea<$FFFE>
+<$0000>・Morte de <$F600><$0000><$FFFE>
+Laffel, atual território do Reino de Barral<$FFFF>
+Ufa...<$FFFC>Sem o Cavaleiro das Trevas por perto, dá até pra respirar aliviada.<$FFFE>
+Aqueles idiotas foram mesmo atacar o Forte de Rogier...<$FFFC>Eram um bando de tolos, afinal.<$FFFE>
+A essa altura, o senhor Cavaleiro das Trevas já deve ter mandado todos pro outro mundo.<$FFFE>
+Eu reconheço a força dele.<$FFFC>Mas não acha uma vergonha a gente depender de um cara que ninguém sabe de onde veio?<$FFFE>
+Me desculpe.<$FFFC>Falei demais.<$FFFE>
+...Tudo bem.<$FFFC>É só que eu não suporto a falta de humanidade daquele cara.<$FFFE>
+Ataque inimigo!<$FFFC>Estamos sob ataque!<$FFFE>
+O quê!?<$FFFE>
+Finalmente voltamos...<$FFFE>
+Sim. Nós voltamos.<$FFFE>
+E vamos recuperar essa cidade e cumprir a promessa que fizemos ao Gerold!<$FFFE>
+O mais difícil foi arrombar os portões.<$FFFC>Mas não baixem a guarda até o fim.<$FFFE>
+Opa!<$FFFC>Eu também vou pra briga!<$FFFE>
+Lobo!?<$FFFE>
+Não é do meu feitio deixar o trabalho sujo pros outros.<$FFFC>Nós é que temos que defender a nossa própria cidade!<$FFFE>
+Eu também vou seguir as suas ordens!<$FFFC>Pode mandar à vontade!<$FFFE>
+Veio aqui pra morrer?<$FFFC>Seu traidor, Diós...<$FFFE>
+Nem pensar.<$FFFC>Meu sangue ferve só de ver o que Barral se tornou:<$FFFC>essa mania de tratar as pessoas feito lixo.<$FFFD>O seu pai pirou de vez.<$FFFC>E eu não vou sossegar enquanto não der uma surra naquele rei maluco!<$FFFE>
+Como ousa falar assim do meu pai!<$FFFC>Você não sai vivo daqui!<$FFFE>
+O portão oeste tá cedendo...<$FFFD>Primeira unidade da retaguarda!<$FFFC>Vão reforçar o portão oeste!<$FFFE>
+O inimigo tá entrando pelo portão noroeste.<$FFFC>Cuidado, pessoal!<$FFFE>
+O portão sudoeste tá cedendo...<$FFFD>Primeira unidade da retaguarda!<$FFFC>Vão ajudar no portão sudoeste!<$FFFE>
+Eles estão quase rompendo o portão leste...<$FFFD>Segunda unidade da retaguarda!<$FFFC>Vão reforçar o portão leste!<$FFFE>
+O inimigo tá entrando pelo portão nordeste.<$FFFC>Cuidado, pessoal!<$FFFE>
+Eles estão quase rompendo o portão sudeste...<$FFFD>Segunda unidade da retaguarda!<$FFFC>Vão ajudar no portão sudeste!<$FFFE>
+...Então vou ter que enfrentar <$F600><$0000> de novo...<$FFFE>
+Todo o exército, formem as defesas!<$FFFC>Resistam até que a força principal do Cavaleiro das Trevas volte!<$FFFE>
+A batalha já tá ganha, Furea.<$FFFC>Não quero ver mais ninguém se machucar.<$FFFD>Por favor, recua!<$FFFE>
+Não posso!<$FFFC>Eu tenho uma posição a zelar!<$FFFE>
+O que vai responder?<$FFFE>
+Abandone esse posto!<$FFFE>
+Como você é teimosa!<$FFFE>
+Me diz o que tá te angustiando!<$FFFE>
+Se esse título te prende de mãos e pés, então abandona ele!<$FFFD>Antes de ser a princesa de Barral, você é uma mulher como qualquer outra!<$FFFE>
+Você não entende nada!<$FFFD>Eu não tenho escolha a não ser obedecer as ordens do meu pai!<$FFFE>
+O rei Wilder enlouqueceu.<$FFFC>Então por que você continua seguindo as ordens dele de olhos vendados?<$FFFE>
+É verdade que o meu pai mudou.<$FFFC>Mas ele enlouqueceu por minha causa!<$FFFD>Por isso, eu nunca posso abandoná-lo!<$FFFE>
+Furea...<$FFFE>
+Como você é teimosa!<$FFFC>Por que você não consegue simplesmente ouvir o que os outros dizem?<$FFFE>
+Então para de fingir que me conhece tão bem, quando não sabe nada sobre mim!<$FFFD>Você, <$F600><$0000>...<$FFFC>Você não me entende nem um pouco!<$FFFE>
+O que tá te angustiando?<$FFFD>Nós somos próximos, não somos?<$FFFC>Se tem alguma coisa te incomodando, fala pra mim!<$FFFE>
+Obrigada por se importar, <$F600><$0000>.<$FFFD>Mas esse problema é meu.<$FFFC>Não tem nada a ver com você.<$FFFE>
+Você tá preocupada com o rei Wilder, não tá?<$FFFD>Até você deve achar estranha essa mudança dele,<$FFFC>e isso deve estar te corroendo por dentro.<$FFFE>
+O meu pai mudou por minha causa.<$FFFD>Por isso eu nunca poderia virar as costas pra ele.<$FFFC>Não tenho outra escolha a não ser obedecer.<$FFFE>
+Furea...<$FFFE>
+Não tenho mais nada pra falar com alguém como você!<$FFFE>
+Não tenho mais nada pra falar com alguém como você!<$FFFE>
+Uma garotinha aparece, espiando por trás de uma porta.<$FFFE>
+O que vai dizer a ela?<$FFFE>
+Que menina linda<$FFFE>
+Fique escondida lá no fundo<$FFFE>
+Dar um doce<$FFFE>
+A menina sorri e desaparece dentro de casa.<$FFFE>
+A menina se assusta e desaparece dentro de casa.<$FFFE>
+A menina aceita o doce e te entrega um lindo anel.<$FFFE>
+Você obteve o Anel da Pedra Espiritual!<$FFFE>
+Uma mulher bonita aparece, espiando por trás de uma porta.<$FFFE>
+O que vai dizer a ela?<$FFFE>
+Prometer libertar Laffel<$FFFE>
+Dar um olhar sedutor<$FFFE>
+Pedir a mão dela em casamento<$FFFE>
+A mulher parece aliviada e te oferece um lindo véu.<$FFFE>
+Você obteve o Véu da Luz!<$FFFE>
+A mulher dá uma risada fria e desaparece pra dentro de casa.<$FFFE>
+A mulher fica em choque por um instante e desaparece pra dentro de casa.<$FFFE>
+Na areia, tem um pequeno montinho, como se houvesse algo enterrado ali.<$FFFE>
+Quer cavar?<$FFFE>
+Tinha um lindo brinco brilhante enterrado ali!<$FFFE>
+Você obteve o Brinco Estelar!<$FFFE>
+Ainda tenho...<$FFFC>coisas pra resolver...<$FFFE>
+Papai...<$FFFE>
+Me perdoem, pessoal...<$FFFE>
+Desculpem, eu não aguento mais...<$FFFE>
+Desculpem... Não consigo...<$FFFE>
+Ué?<$FFFE>
+Perdão...<$FFFE>
+Que Lushiris... me acolha...<$FFFE>
+Urgh... Conto com vocês...<$FFFE>
+Ugh...<$FFFE>
+Que patético...<$FFFE>
+Droga! E eu aqui pagando de durão...<$FFFC><$FFFE>
+Não se preocupa, Lobo.<$FFFC>Deixa o resto com a gente.<$FFFE>
+Foi mal. Acabei mostrando o meu lado mais vergonhoso...<$FFFE>
+S-se eu cair aqui, Barral...<$FFFE>
+Furea...<$FFFE>
+O que vai dizer?<$FFFE>
+Nós vencemos.<$FFFE>
+Pare com isso.<$FFFE>
+Por que lutar tanto?<$FFFE>
+Nós vencemos.<$FFFE>
+É verdade...<$FFFE>
+Pare com esse esforço inútil.<$FFFE>
+Inútil, é!? Como se você pudesse entender o que eu sinto!<$FFFC><$FFFE>
+Por que lutar tanto...?<$FFFE>
+Você não entenderia.<$FFFC>Se eu não fizer nada, o meu pai...<$FFFE>
+Furea...<$FFFE>
+Essa batalha parece perdida.<$FFFE>
+Só estamos causando mortes à toa... Tsc!<$FFFC>Todos, bater em retirada!<$FFFE>
+Furea!<$FFFE>
+...Lá se vai ela...<$FFFE>
+Seu comando foi impecável, senhor <$F600><$0000>.<$FFFE>
+Senhor <$F600><$0000>...<$FFFC>Uma batalha não pode se estender demais.<$FFFD>Isso atrasa o que vem depois...<$FFFE>
+<$F702><$FFFE>
+<$F703><$FFFE>
+Deixa comigo! Vou ser útil!<$FFFE>
+<$F702><$FFFE>
+<$F703><$FFFE>
+Deixa comigo! Vou ser útil!<$FFFE>
+Opa, opa, peraí!<$FFFC>Eu ia entrar na briga também, mas... vocês já limparam o chão com o exército de Barral?<$FFFE>
+Sim. Pra nós, isso foi fácil.<$FFFE>
+Hehe! Nada mau! Agora tô em dívida com vocês.<$FFFD>Beleza! Eu também vou lutar do lado de vocês!<$FFFD>Retomar Larcuss? Não parece uma má ideia.<$FFFE>
+...A cidade de Laffel.<$FFFC>Finalmente cumpri a minha promessa ao Gerold.<$FFFC>Vamos libertar esse povo!<$FFFE>
+Prepare-se, Furea.<$FFFE>
+Digo o mesmo pra você!<$FFFE>
+Não vou perder, por todos os soldados que morreram!<$FFFE>
+Sinto muito, mas você vai ter que morrer!<$FFFE>
+<$F600><$0000>...<$FFFC>Eu sempre perco pra você.<$FFFD>Mas não vou jogar a toalha. Vou até o fim!<$FFFE>
+O que vai dizer?<$FFFE>
+Não desista<$FFFE>
+Não quero lutar com você<$FFFE>
+Chega disso!<$FFFE>
+Você tem razão.<$FFFC>Não devemos desistir. Não até o fim.<$FFFE>
+Não zomba da minha cara!<$FFFD>Por que você tem que dizer coisas que me irritam desse jeito?<$FFFE>
+Para, por favor! Eu não quero isso.<$FFFC>Não com você, Furea!<$FFFE>
+Mesmo que você não queira lutar, eu preciso lutar!<$FFFD>Prepare-se!<$FFFE>
+Para, isso é inútil!<$FFFC>Essa luta já tá decidida!<$FFFE>
+É verdade! Foi a minha estratégia que falhou.<$FFFC>Esse foi o resultado.<$FFFD>Se eu recuar agora, não vou conseguir olhar na cara dos meus soldados mortos!<$FFFE>
+N-não!<$FFFE>
+O quê!?<$FFFE>
+P-princesa...<$FFFE>
+A-ainda não... Não posso cair...<$FFFE>
+I-isso...<$FFFE>
+Me pegaram!<$FFFE>
+Morrer aqui, em solo estrangeiro...<$FFFE>
+Perder pra Larcuss...<$FFFE>
+Vão ter que passar por cima do meu cadáver!<$FFFC>Tragam glória e vitória ao reino!<$FFFE>
+O Reino de Barral sairá vitorioso!<$FFFE>
+Ó, vento, leve a minha alma pra minha terra natal!<$FFFE>
+Que o meu corpo sirva de muralha!<$FFFE>
+Sobreviventes de Larcuss...<$FFFE>
+Parem... o avanço deles!<$FFFC>Custe o que custar...<$FFFE>
+Venham, tentem a sorte! Daqui não passam!<$FFFE>
+É muito cedo pra acabar assim...<$FFFE>
+Aaaah!!<$FFFE>
+Vento, conceda-nos a vitória!<$FFFE>
+Princesa!<$FFFE>
+Eu... não consigo me mexer...<$FFFE>
+Por quê...? Como isso foi acontecer...?<$FFFC>Como pudemos perder pra um exército improvisado...?<$FFFE>
+Seus idiotas! Como um bando de maltrapilhos conseguiu nos derrotar!?<$FFFC><$FFFE>
+Agora vocês passaram de todos os limites!<$FFFE>
+Pensar que eu seria derrotado assim...<$FFFE>
+Consigo ouvir o vento...<$FFFE>
+Eu tô morrendo...?<$FFFE>
+Meu filho...<$FFFE>
+M-mãe...<$FFFE>
+Uuuaaah...<$FFFE>
+Que insolência!<$FFFE>
+De novo não...<$FFFE>
+Hmph! É só isso que vocês têm?<$FFFE>
+C-cuidado...<$FFFE>
+Esses caras não são covardes comuns!<$FFFD>São veteranos calejados de batalha...<$FFFE>
+O-o quê!?<$FFFE>
+Urgh, que adversário casca-grossa!<$FFFE>
+Pela força do vento...<$FFFE>
+Eu não vou perder!<$FFFE>
+Ah, tantas mortes à toa... Que Lushiris perdoe vocês...<$FFFE>
+Me perdoem, pessoal. Tudo porque eu fui fraca...<$FFFD>Heh... O que será que o Cavaleiro das Trevas diria...?<$FFFE>
+...<$FFFD>Você ficou forte, <$F600><$0000>... Como você ficou forte...<$FFFE>
+<$F600><$0000>!<$FFFC>Vou recuar por enquanto.<$FFFC>Mas um dia ainda vou acertar as contas com você!<$FFFE>
+Lobo Prateado entrou para o grupo!<$FFFE>
+Obrigado, Lobo.<$FFFC>Você sempre aparece na hora certa.<$FFFE>
+Valeu. Agradeço muito a sua ajuda.<$FFFE>
+Sim, senhor!<$FFFE>
+Unidades móveis, interceptem o inimigo!<$FFFE>
+Entendido!<$FFFE>
+Cerquem o inimigo agora!<$FFFC>Avançar!<$FFFE>
+Todas as tropas do oeste foram derrotadas...<$FFFD>Como eu temia, <$F600><$0000>. Uma estratégia impecável...<$FFFC>Mas essa batalha tá longe de terminar!<$FFFE>
+Princesa! O portão leste caiu!<$FFFE>
+Nesse caso, abandonem os postos e juntem-se imediatamente à força principal!<$FFFE>
+Entendido!<$FFFE>
+Vamos dar apoio!<$FFFE>
+Vamos dar apoio!<$FFFE>
+Agora que chegamos, podem ficar tranquilos!<$FFFE>
+Agora que chegamos, podem ficar tranquilos!<$FFFE>
+Não deixem que entrem na cidade! Ataquem!<$FFFE>
+Não deixem que entrem na cidade! Ataquem!<$FFFE>
+Vamos mostrar do que somos capazes!<$FFFE>
+Vamos mostrar do que somos capazes!<$FFFE>
+...Isso resolve a parada.<$FFFC>Que bom que eles deram o fora.<$FFFE>
+Opa, opa! Quem tem que agradecer sou eu.<$FFFC>Afinal de contas, vocês recuperaram Laffel pra gente.<$FFFD>Agora tô em dívida com vocês.<$FFFD>Já sei! Vou lutar do lado de vocês daqui pra frente!<$FFFC>Retomar Larcuss também não me parece nada mau.<$FFFE>
