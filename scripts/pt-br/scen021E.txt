@@ -1,0 +1,97 @@
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, o Espadachim<$FFFF>
+Pieru<$FFFF>
+Sábio Fáberu<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+Comandante de Rigúlia<$FFFF>
+General de Rigúlia<$FFFF>
+<$0000>Derrote o comandante em até 29 turnos<$FFFE>
+<$F600><$0000> morre<$FFFC>Limite de turnos excedido<$FFFE>
+Dirigível capturado e dirigível que escolta Raymond<$FFFF>
+Comandante, o inimigo abordou nossa nave!<$FFFE>
+Como eles conseguiram um dirigível!?<$FFFD>Esqueçam isso! Façam alguma coisa, e rápido!<$FFFC>Eles devem ter vindo resgatar o prisioneiro!<$FFFE>
+A prancha de embarque tá posicionada.<$FFFC>Mas não vai aguentar por muito tempo.<$FFFE>
+Temos que resolver isso rápido.<$FFFE>
+Se quiserem acabar logo com isso, ataquem o comandante inimigo.<$FFFE>
+Senhor <$F600><$0000>.<$FFFC>Vamos transferir logo as tropas pra nave inimiga.<$FFFC>Tô preocupado com aquela prancha.<$FFFE>
+Certo. Vamos nessa.<$FFFE>
+É melhor a gente correr.<$FFFC>Essa prancha parece que vai ceder a qualquer momento.<$FFFE>
+A prancha tá rangendo.<$FFFC>Não vai aguentar muito tempo.<$FFFE>
+Já demoramos demais.<$FFFD>Desse jeito, os reforços inimigos podem chegar.<$FFFC>...A gente precisa se apressar.<$FFFE>
+A prancha tá rangendo?<$FFFC>Ela não vai aguentar muito mais.<$FFFE>
+Desse jeito, os reforços inimigos vão chegar.<$FFFC>Vamos logo com isso.<$FFFE>
+Daqui a pouco a base de dirigíveis da capital vai avistar a batalha.<$FFFD>Aí eles vão mandar reforços correndo!<$FFFE>
+A prancha de embarque!?<$FFFE>
+Hahaha! Vocês já eram!<$FFFD>Vieram libertar um prisioneiro e acabaram virando prisioneiros também!<$FFFC>Que patético! Hahahaha!<$FFFE>
+...Me perdoem, pessoal.<$FFFC>Se eu tivesse sido mais firme...<$FFFE>
+...Me perdoem, pessoal.<$FFFC>Se eu tivesse sido mais firme...<$FFFE>
+Aqui é a tropa da proa. Eles furaram a nossa linha!<$FFFE>
+<$F702><$FFFE>
+<$F702><$FFFE>
+Aqui é a tropa central. Eles invadiram a nave!<$FFFC><$FFFE>
+O que vocês tão fazendo!?<$FFFC>Segurem eles custe o que custar!<$FFFE>
+<$F703><$FFFE>
+<$F703><$FFFE>
+Aqui é a tropa da popa. O inimigo furou as nossas defesas!<$FFFC><$FFFE>
+<$F704><$FFFE>
+<$F704><$FFFE>
+Parece que conseguimos entrar na nave deles.<$FFFC>Agora vamos causar o maior estrago possível!<$FFFE>
+Olhando a porta de perto, você nota um símbolo estranho encaixado nela.<$FFFE>
+Quer pegar?<$FFFE>
+Você obteve o Símbolo Mágico!<$FFFE>
+O símbolo ficou completamente negro...<$FFFE>
+Ainda tenho...<$FFFC>coisas pra fazer...<$FFFE>
+Papai...<$FFFE>
+Eu vou acabar com todos vocês!<$FFFE>
+Me perdoem, pessoal...<$FFFE>
+Desculpem, eu tô no meu limite...<$FFFE>
+Não tem jeito...<$FFFE>
+Acham mesmo que conseguem me derrotar?<$FFFE>
+Ué?<$FFFE>
+Perdão...<$FFFE>
+Lushiris... minha deusa...<$FFFE>
+Argh... O resto tá nas mãos de vocês...<$FFFE>
+Argh...<$FFFE>
+Que patético...<$FFFE>
+Argh! Eu estraguei tudo!<$FFFE>
+I-impossível... Numa simples missão de escolta de prisioneiro...<$FFFE>
+O comandante de vocês tá morto!<$FFFC>Abaixem as armas e se rendam em silêncio!<$FFFE>
+Entendido. Nós nos rendemos...<$FFFE>
+Seu comando foi impecável, senhor <$F600><$0000>.<$FFFE>
+Finalmente acabou...<$FFFD>Agora vamos vasculhar a nave atrás do Visconde Raymond!<$FFFE>
+Eu ainda tinha tanta coisa pra fazer...<$FFFE>
+Aaargh!<$FFFE>
+Minha lança não serviu pra nada...<$FFFE>
+Aaaah!<$FFFE>
+E-eu tô caindo!<$FFFE>
+Não tem jeito...<$FFFE>
+Eles travaram a nossa movimentação.<$FFFC>Que inimigo casca-grossa...<$FFFE>
+Ainda não posso perder!<$FFFC>Eu não vou perder...<$FFFE>
+Então a minha técnica com a espada ainda era tão imatura...?<$FFFE>
+Então é o meu fim...<$FFFE>
+Mãe...<$FFFE>
+Minha magia não foi suficiente...<$FFFE>
+Ó, deuses!<$FFFE>
+N-não!<$FFFE>
+O resto fica nas mãos de vocês...<$FFFE>
+Não adianta...<$FFFE>
+Eu me recuso a morrer aqui!<$FFFC>Eu não quero morrer!<$FFFE>
+O-o quê!? Minhas tropas...<$FFFC>foram todas aniquiladas!?<$FFFE>
+A gente só precisava derrotar o comandante deles.<$FFFC>Não precisava ter massacrado todo mundo...<$FFFE>
+Nesse caso, não temos escolha a não ser resistir.<$FFFC>Ganhem cada segundo que conseguirem!<$FFFE>
+Eles furaram a tropa da proa... Isso é péssimo...<$FFFE>
+Eles romperam o centro... Isso é péssimo...<$FFFE>
+A tropa da popa também...?<$FFFC>Impossível!<$FFFE><$FFFF>
