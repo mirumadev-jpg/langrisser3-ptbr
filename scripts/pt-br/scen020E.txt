@@ -1,0 +1,175 @@
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, o Espadachim<$FFFF>
+Pieru<$FFFF>
+Sábio Fáberu<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+General Boltz<$FFFF>
+Comandante de Rigúlia<$FFFF>
+Piloto de Dirigível<$FFFF>
+Ladrão<$FFFF>
+<$0000>・Derrote Boltz<$FFFE>
+<$0000>・Morte de <$F600><$0000><$FFFC><$0000>・Boltz chega ao dirigível<$FFFE>
+Pista de dirigíveis próxima à base de defesa de Larcássia<$FFFF>
+Boltz! Você não vai escapar!<$FFFE>
+Você demorou. Graças a isso, a maior parte dos meus homens já bateu em retirada.<$FFFE>
+Não é à toa que ele é um dos Quatro Generais do Império.<$FFFC>Além de forte, pensa rápido.<$FFFE>
+General, o último dirigível tá pronto pra decolar.<$FFFE>
+Sim, eu já ouvi.<$FFFC>Então é isso.<$FFFC>Aconselho que voltem pra casa como bons meninos.<$FFFE>
+Droga! Ele não cala a boca...<$FFFE>
+Senhor <$F600><$0000>.<$FFFC>Vamos tomar aquele dirigível inimigo pra gente!<$FFFE>
+Com um dirigível, a gente chega em Larcássia rapidinho.<$FFFE>
+Isso aí!<$FFFC>Assim fica mais fácil resgatar o pai do Ruin.<$FFFE>
+Certo.<$FFFC>Vamos derrubar o General Boltz e tomar aquele dirigível!<$FFFE>
+Não vão, não!<$FFFC>Vamos proteger o general e o dirigível até o fim!<$FFFE>
+Primeiro, vamos derrubar os lanceiros e arqueiros pra nossa cavalaria e nossas unidades voadoras poderem avançar em segurança.<$FFFD>Mesmo assim, ainda vai dar tempo de correr atrás do General Boltz.<$FFFE>
+Certo. A formação deles tá muito fechada pra gente tentar passar na força bruta.<$FFFE>
+Se não dermos um jeito nos lanceiros e arqueiros primeiro, nossa cavalaria e as tropas voadoras vão ficar travadas...<$FFFE>
+Parece que o general chegou na pista.<$FFFD>É melhor a gente apertar o passo e ir atrás dele.<$FFFE>
+Verdade. Desse jeito, ele vai acabar escapando.<$FFFE>
+Acho que vamos ter que forçar a barra.<$FFFC>Se enrolarmos aqui, ele escapa.<$FFFE>
+Se a gente perder mais tempo, o general vai fugir!<$FFFD>Vamos ter que furar a linha deles na marra.<$FFFC>Se não, podem dar adeus pro dirigível!<$FFFE>
+Entendido.<$FFFC>Já sei o que fazer.<$FFFE>
+Acabou o tempo.<$FFFC>Ou a gente abre caminho na marra, ou perdemos o dirigível.<$FFFE>
+Droga! A ferida da última batalha tá latejando!<$FFFD>Se não fosse por isso, eu estaria indo bem mais rápido!<$FFFE>
+Por favor, não force a barra.<$FFFD>Nós estamos aqui pra proteger o senhor...<$FFFE>
+General, não se esforce tanto.<$FFFD>Vamos segurar o inimigo o máximo que der...<$FFFE>
+Me desculpem...<$FFFE>
+Não adianta mais tentar segurar eles aqui.<$FFFD>Tá na hora de recuar e proteger o general...<$FFFE>
+Ataquem! Ganhem o máximo de tempo pro General Boltz!<$FFFE>
+Finalmente chegou a nossa vez.<$FFFC>Vamos lá, pessoal!<$FFFE>
+Hehe, minha magia vai cravar eles no chão.<$FFFE>
+Bom, então já tá na hora de darmos o fora daqui.<$FFFE>
+Nós cobrimos a retaguarda!<$FFFE>
+General, se concentre em nos liderar.<$FFFE>
+Obrigado. Fico devendo essa.<$FFFE>
+Esse terreno é péssimo pra uma perseguição...<$FFFE>
+Este lugar é muito ruim pra perseguir alguém.<$FFFE>
+Normalmente, uma pista de dirigíveis precisa de um terreno bem amplo e aberto.<$FFFD>Mas, como essa região é cheia de montanhas, não tem espaço pra uma aeronave pousar direito.<$FFFD>Foi por isso que construíram essa pista num lugar tão alto, pra facilitar o uso dos dirigíveis.<$FFFE>
+Ah. Que moça esperta.<$FFFD>Tô impressionado.<$FFFE>
+General Boltz, corra pro dirigível.<$FFFC>Nós vamos ganhar tempo pro senhor.<$FFFE>
+Tomem cuidado.<$FFFE>
+Sim, senhor!<$FFFE>
+General! Deixa com a gente!<$FFFD>Não deixe que a nossa luta seja em vão!<$FFFE>
+Se o bicho pegar, batam em retirada na mesma hora, entenderam?<$FFFC>Fui claro?<$FFFE>
+General! Não deixe que o meu sacrifício aqui seja em vão!<$FFFE>
+Se a situação ficar perigosa, batam em retirada na mesma hora, entenderam?<$FFFC>Fui claro?<$FFFE>
+Depressa, general!<$FFFE>
+Tá certo, já vou.<$FFFE>
+Droga, chegamos tarde demais!<$FFFE>
+Ufa. Finalmente cheguei.<$FFFE>
+Vocês me salvaram.<$FFFE>
+Então a gente conseguiu escapar...<$FFFE>
+Vamos logo, andem depressa!<$FFFE>
+Vá na frente, general.<$FFFE>
+Seu idiota! Vem logo com a gente!<$FFFE>
+Mesmo sendo uma ordem sua, general, dessa vez não posso obedecer.<$FFFC>Vá enquanto a gente segura eles aqui.<$FFFD>Você aí! Decola logo com esse dirigível!<$FFFE>
+Entendido. Decolando agora.<$FFFE>
+Não ajam por conta própria! Parem com isso!<$FFFE>
+Me perdoem, pessoal.<$FFFC>Se eu fosse um pouco mais forte, nada disso estaria acontecendo.<$FFFE>
+O dirigível decolou.<$FFFE>
+Eu vou vingar todos vocês...<$FFFE>
+Se a gente não tomar aquele dirigível, não vamos ter como salvar o Lorde Raymond...<$FFFE>
+Droga! Eles chegaram antes de mim!<$FFFD>Então vou abrir caminho na marra!<$FFFE>
+Parece que seguramos a primeira onda.<$FFFC>Ótimo. Agora vamos direto pra pista de embarque!<$FFFE>
+Entendido!<$FFFE>
+Consegui chegar na pista...<$FFFE>
+Isso também foi graças à luta desesperada dos seus homens, senhor.<$FFFE>
+É, você tem razão...<$FFFC>Fui abençoado com soldados excelentes.<$FFFD>Pra que a luta deles não seja em vão, a gente precisa correr!<$FFFE>
+Pessoal! Chegamos até aqui, agora estamos a salvo!<$FFFD>Parem de lutar e subam no dirigível! Vamos nos juntar à força principal!<$FFFE>
+Não se preocupe com a gente.<$FFFC>Embarque primeiro.<$FFFC>Nós vamos logo atrás.<$FFFE>
+Certo!<$FFFE>
+Só mais um pouco...<$FFFC>Pelos homens que morreram por mim, eu vou escapar!<$FFFE>
+No meio do círculo de pedras tem um pequeno monte de terra.<$FFFD>Enquanto você olha em silêncio, uma voz ecoa do fundo da terra.<$FFFD>"O que você mais deseja?"<$FFFE>
+O que você responde?<$FFFE>
+Amor<$FFFE>
+Poder<$FFFE>
+Coragem<$FFFE>
+Seu desejo foi atendido.<$FFFE>
+Seu desejo foi atendido.<$FFFE>
+Você obteve a Pedra do Dragão Negro!<$FFFE>
+Seu desejo foi atendido.<$FFFE>
+O modificador de ATQ de <$F600><$FFFC> aumentou em 2!<$FFFD>O modificador de DEF de <$F600><$FFFC> aumentou em 2!<$FFFE>
+No meio da ponte tem um círculo mágico.<$FFFC>Olhando de perto, você nota uma pedra um pouco saltada.<$FFFE>
+O que você vai fazer?<$FFFE>
+Puxar<$FFFE>
+Empurrar<$FFFE>
+Não fazer nada<$FFFE>
+Ao puxar a pedra, ela se solta bem fácil.<$FFFC>Dentro do buraco, tem um livro velho e rasgado.<$FFFE>
+Você obteve o Grimório Negro!<$FFFE>
+Ao empurrar a pedra, ela se encaixa perfeitamente e trava.<$FFFE>
+Logo a pedra começa a afundar em silêncio e trava de vez.<$FFFE>
+Ainda tenho...<$FFFC>coisas pra fazer...<$FFFE>
+Papai...<$FFFE>
+Me perdoem, pessoal...<$FFFE>
+Não aguento mais...<$FFFE>
+Não tem jeito...<$FFFE>
+Ué?<$FFFE>
+Com licença...<$FFFE>
+Lushiris, minha deusa...<$FFFE>
+Ugh... O resto tá nas mãos de vocês...<$FFFE>
+Urgh...<$FFFE>
+Que desperdício...<$FFFE>
+Não! Nós falhamos!<$FFFE>
+Ugh! ...Parece que eu cheguei no meu limite... Eu queria ter causado um pouco mais de estrago...<$FFFE>
+Emarinku. Cuida do marechal por mim...<$FFFE>
+Seu comando foi impecável, senhor <$F600><$0000>.<$FFFE>
+O General Boltz... Foi um baita adversário.<$FFFE>
+Era um homem de honra.<$FFFE>
+Se a gente vivesse numa época diferente, eu ia ter o maior prazer em tomar uma bebida com ele.<$FFFE>
+Más notícias! Tão levando o Lorde Raymond pra capital!<$FFFE>
+O quê!?<$FFFE>
+Quando?<$FFFE>
+Como assim? Você sabe quando isso vai acontecer?<$FFFE>
+A qualquer momento, senhor.<$FFFC>O dirigível deles é grande, mas não é tão rápido.<$FFFC>Acho que a gente ainda consegue alcançar!<$FFFE>
+Bom trabalho.<$FFFE>
+Não foi nada!<$FFFE>
+Pessoal, a gente precisa correr!<$FFFC>Subam no dirigível! Vamos resgatar o Lorde Raymond!<$FFFE>
+Certo!<$FFFE>
+Kuh! Eles já alcançaram a gente!<$FFFE>
+Droga! Como aqueles desgraçados conseguem se mover tão rápido?<$FFFE>
+Droga!<$FFFD>Se eu cair aqui depois de tudo isso, o sacrifício dos meus homens vai ter sido em vão.<$FFFD>Eu vou escapar, custe o que custar!<$FFFE>
+General Boltz...<$FFFD>Sempre tive muito orgulho de servir ao senhor...<$FFFE>
+Perdão... Não consegui fazer nada pelo senhor...<$FFFE>
+Uaaaah!<$FFFE>
+General... Fique vivo...<$FFFE>
+...Kuh... Se eu tivesse mais força...<$FFFE>
+Guaaah!<$FFFE>
+Já era pra gente...<$FFFD>Mas o general tem que escapar...<$FFFE>
+Droga!<$FFFE>
+Não vou deixar que encostem um dedo no general!<$FFFE>
+Não me arrependo de nada...<$FFFE>
+Seus monstros!<$FFFE>
+Vocês não vão chegar perto do General Boltz!<$FFFE>
+Eu não quero morrer...<$FFFE>
+Minha espada... tá tão pesada...<$FFFE>
+Eu não vou perder! Não vou perder pra ninguém...<$FFFE>
+É tão belo...<$FFFE>
+Minha visão tá ficando turva...<$FFFE>
+Eu tô morrendo...?<$FFFE>
+Como eu pude perder pra alguém como você!?<$FFFE>
+Baixei a guarda...<$FFFE>
+Minha técnica com a espada não tá funcionando!?<$FFFE>
+Uuu... Tá doendo muito...<$FFFE>
+Gaaah!<$FFFE>
+Vou segurar vocês aqui, nem que custe a minha vida!<$FFFE>
+Aaaah!<$FFFE>
+Kuh! Me perdoem! Se eu fosse mais forte, pelo menos vocês teriam voltado pra casa vivos.<$FFFD>Eu vou voltar pro Império, custe o que custar.<$FFFC>A vida de vocês não terá sido em vão!<$FFFE>
+Mesmo sendo inimigos, a gente não devia causar mortes desnecessárias...<$FFFE>
+General, escute bem!<$FFFC>Nós vamos resistir aqui e ganhar tempo pro senhor!<$FFFD>O senhor tem que correr pro dirigível!<$FFFE>
+O que vocês tão dizendo!?<$FFFC>Eu não posso abandonar vocês!<$FFFD>Eu também vou lutar!<$FFFE>
+Nós encontramos o senhor daqui a pouco.<$FFFC>Por enquanto, embarque naquele dirigível de uma vez!<$FFFE>
+Eu também vou logo atrás.<$FFFC>Por enquanto, embarque naquele dirigível de uma vez!<$FFFE>
+Me perdoem...<$FFFE><$FFFF>
