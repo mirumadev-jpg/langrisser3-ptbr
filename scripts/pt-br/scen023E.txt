@@ -1,0 +1,184 @@
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, o Espadachim<$FFFF>
+Pieru<$FFFF>
+Sábio Fáberu<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+General Emarinku<$FFFF>
+Comandante de Rigúlia<$FFFF>
+Monstro<$FFFF>
+・Condições de vitória<$FFFC><$0000>・Derrote todos os inimigos<$FFFE>
+・Condições de derrota<$FFFC><$0000>・Morte de <$F600><$0000><$FFFE>
+Quartel-general imperial, fronteira de Rigúlia<$FFFF>
+Já faz um bom tempo que a força principal partiu...<$FFFD>Será que o Lorde Altemüller já tá batendo de frente com o pessoal de Elthlead?<$FFFE>
+Lorde Emarinku! O inimigo tá aqui!<$FFFE>
+O quê!?<$FFFE>
+Ué? Tem muito pouco inimigo aqui.<$FFFE>
+Parece que eles passaram direto por nós.<$FFFE>
+Então a força principal deles já deve tá marchando pra Larcássia?<$FFFE>
+O rei Sieghart e o senhor Kirikaze tão protegendo a capital real.<$FFFC>Não precisamos esquentar a cabeça com isso.<$FFFE>
+Essa é uma chance de ouro pra atacar a retaguarda inimiga.<$FFFC>Se cortarmos a linha de suprimentos deles aqui...<$FFFE>
+Então as tropas que marcharam pra capital vão ficar sem condições de lutar, é isso?<$FFFE>
+Exatamente.<$FFFE>
+Mesmo se a gente voltar pra capital agora, nunca chegaríamos a tempo.<$FFFE>
+Nesse caso, só nos resta cortar a linha de suprimentos de uma vez.<$FFFC>Bora lá, pessoal!<$FFFE>
+Pensar que passamos direto pela força principal do Lorde Altemüller...<$FFFD>Deixar uma defesa tão fraca aqui acabou saindo pela culatra.<$FFFD>Com essa tropa, bater de frente com o <$F600><$0000> vai ser osso...<$FFFD>Mas a gente precisa proteger os suprimentos.<$FFFC>Se não, a força principal não vai ter como lutar.<$FFFE>
+Prestem atenção! Se a gente perder aqui, a linha de suprimentos do quartel-general vai pro espaço!<$FFFD>Temos que impedir isso custe o que custar.<$FFFC>Todas as unidades, vão pra cima com tudo!<$FFFE>
+Pode deixar, senhor! Não precisa nem pedir duas vezes!<$FFFE>
+E agora pra piorar, monstros...<$FFFC>Seria fácil dizer que é azar, mas não podemos jogar a toalha.<$FFFD>Então, qual vai ser o nosso próximo passo...?<$FFFE>
+Eles tão vindo!<$FFFC>Primeira unidade, avancem e segurem eles de frente.<$FFFD>Segunda unidade, com a gente!<$FFFC>Vamos montar a defesa desse lado do rio!<$FFFE>
+Sim, senhor!<$FFFE>
+Entendido!<$FFFE>
+General. Quais são as ordens?<$FFFE>
+A retaguarda que tá cuidando dos suprimentos também pode estar sob ataque dos monstros...<$FFFE>
+Segunda unidade!<$FFFC>Recuem e reforcem a escolta dos suprimentos!<$FFFE>
+Sim, senhor! Vamos cuidar disso agora mesmo!<$FFFE>
+General. Quais são as ordens?<$FFFE>
+A escolta dos suprimentos também pode tá sob ataque dos demônios...<$FFFE>
+Segunda unidade!<$FFFC>Recuem e vão reforçar a escolta dos suprimentos!<$FFFE>
+Sim, senhor! Partindo agora mesmo!<$FFFE>
+Batam em retirada! Nós mesmos vamos proteger os suprimentos, custe o que custar!<$FFFE>
+Nós cobrimos a retirada! Sigam-me!<$FFFE>
+Sim, senhor!<$FFFE>
+Deixa os suprimentos com a gente! Tamo a caminho!<$FFFE>
+Tamo saindo do campo de batalha pra proteger os suprimentos.<$FFFE>
+Tome cuidado, Lorde Emarinku.<$FFFE>
+A gente tem que correr! Tô preocupado com os suprimentos!<$FFFE>
+Tamo indo proteger os suprimentos.<$FFFE>
+Tome cuidado, Lorde Emarinku.<$FFFE>
+Bora, temos que cumprir a nossa missão rápido!<$FFFE>
+Tamo saindo da batalha pra proteger os suprimentos.<$FFFE>
+Tome cuidado, Lorde Emarinku.<$FFFE>
+Não temos tempo a perder.<$FFFC>A gente precisa correr!<$FFFE>
+Tamo saindo da batalha pra cuidar dos suprimentos.<$FFFE>
+Tome cuidado, Lorde Emarinku.<$FFFE>
+Vamos, depressa!<$FFFE>
+Tamo indo proteger os suprimentos.<$FFFE>
+Tome cuidado, Lorde Emarinku.<$FFFE>
+A gente tem que correr, tô muito preocupada com isso...<$FFFE>
+Tamo saindo do campo de batalha pra proteger os suprimentos.<$FFFE>
+Tome cuidado, Lorde Emarinku.<$FFFE>
+Espero que os suprimentos ainda estejam inteiros...<$FFFC>De qualquer forma, é melhor a gente correr.<$FFFE>
+A água do lago brilha com uma luz esquisita e sinistra.<$FFFE>
+O que vai fazer?<$FFFE>
+Não fazer nada<$FFFE>
+Beber a água<$FFFE>
+Encher o cantil<$FFFE>
+Depois de um tempo, o brilho sinistro some e um baita silêncio toma conta de tudo.<$FFFE>
+A INT de <$F600><$FFFC> aumentou em 2!<$FFFE>
+Depois de um tempo, o brilho sinistro some e um baita silêncio toma conta de tudo.<$FFFE>
+Você obteve a Água Demoníaca!<$FFFE>
+Depois de um tempo, o brilho sinistro some e um baita silêncio toma conta de tudo.<$FFFE>
+Perder uma oportunidade de ouro dessas...<$FFFE>
+Papai...<$FFFE>
+Me perdoem, pessoal...<$FFFE>
+Sinto muito...<$FFFE>
+Desculpem, eu cheguei no meu limite...<$FFFE>
+Ué?<$FFFE>
+Perdão...<$FFFE>
+Lushiris...<$FFFE>
+Argh... O resto fica com vocês...<$FFFE>
+Grrr...<$FFFE>
+Que patético...<$FFFE>
+Não! A gente estragou tudo!<$FFFE>
+Droga, a gente tava tão perto...<$FFFE>
+Recue agora mesmo, General Emarinku.<$FFFC>O senhor tem que relatar tudo ao Marechal.<$FFFD>Prepare-se pro pior.<$FFFE>
+Mas...<$FFFE>
+Por sorte, os demônios já eram.<$FFFC>Deixa o resto com a gente!<$FFFE>
+...Me perdoem.<$FFFE>
+Juro pela minha vida que vamos acabar com todos eles, monstros e tropas de Elthlead!<$FFFC>Agora vão, depressa!<$FFFE>
+Argh, me perdoem!<$FFFE>
+Se der, a gente também bate em retirada até a unidade de suprimentos.<$FFFC>Agora vão, depressa!<$FFFE>
+Argh, me perdoem!<$FFFE>
+Droga! Eu não posso morrer aqui, não desse jeito...<$FFFE>
+<$F600><$0000>! Pelo menos eu te levo pro inferno comigo!<$FFFC>Em guarda!<$FFFE>
+Não vou deixar você dar mais nenhum passo.<$FFFC>Então morra!<$FFFE>
+Droga! Sai da minha frente!<$FFFE>
+Droga! Que dor de cabeça!<$FFFE>
+Se eu cair aqui...<$FFFE>
+Eu tenho que proteger essa posição... custe... o que custar...<$FFFE>
+Lorde Emarinku!!<$FFFE>
+O cara sabe lutar!<$FFFE>
+Minha espada não tá fazendo nem cócegas...<$FFFE>
+Não tem brecha nenhuma...<$FFFE>
+Eu ainda... Ainda tenho...<$FFFE>
+Segura a minha investida!<$FFFE>
+Se eu tivesse treinado mais...<$FFFE>
+Eu tenho uma missão a cumprir!<$FFFC>Não fica no meu caminho!<$FFFE>
+Droga, não adianta...<$FFFE>
+Isso não tá certo... Não posso ficar perdendo tempo aqui...<$FFFE>
+Argh, gah! Então é aqui que eu morro...<$FFFE>
+Saiam da minha frente!<$FFFE>
+Uoooh! Não! Esse é o fim!<$FFFE>
+Se chegarem muito perto, vocês é que vão acabar machucados!<$FFFE>
+A minha magia devia ser perfeita...<$FFFE>
+Tá entrando no meu caminho? Então deve tá a fim de morrer!<$FFFE>
+M-minha missão...<$FFFE>
+Não posso morrer aqui, não desse jeito!<$FFFE>
+Eles me derrotaram...<$FFFE>
+Me perdoem, pessoal!<$FFFE>
+Eu vou defender essa posição até o fim! Daqui vocês não passam!<$FFFE>
+GUGYAAAH!<$FFFE>
+GUGYAAAAH!<$FFFE>
+KISYAAAHHH!<$FFFE>
+GAAAAH!<$FFFE>
+GAAAARRH!<$FFFE>
+GRUAARRH!<$FFFE>
+GRRRAAHH!<$FFFE>
+GUGOORRHHHGG!<$FFFE>
+GUOOHHH!<$FFFE>
+GUGOOHHH!!<$FFFE>
+O que tá acontecendo...?<$FFFC>Bem aqui, a gente acaba esbarrando em Velzeria...<$FFFE>
+Agora só sobraram os demônios!<$FFFE>
+Ótimo, varremos os monstros.<$FFFC>Agora só faltam as tropas imperiais.<$FFFE>
+Agora só sobraram os demônios!<$FFFE>
+KSYAAAHH!<$FFFE>
+O que tá acontecendo!?<$FFFE>
+O que isso quer dizer!?<$FFFE>
+Uma horda de demônios!? ...Não pode ser... Velzeria...<$FFFE>
+Tão cedo assim...<$FFFE>
+Grrr...<$FFFE>
+Como isso é possível!?<$FFFE>
+Mas o poder do Portão de Lushiris deveria manter todos os monstros do lado de fora...<$FFFE>
+Será que a força do Portão de Lushiris acabou?<$FFFE>
+Isso não pode ser! O poder do Portão de Lushiris acabou mesmo?<$FFFE>
+<$F702><$FFFE>
+<$F702><$FFFE>
+Provavelmente é o Alhazard.<$FFFE>
+Provavelmente, o Alhazard.<$FFFE>
+Alhazard?<$FFFE>
+<$F703><$FFFE>
+<$F704><$FFFE>
+<$F703><$FFFE>
+<$F704><$FFFE>
+Agora não tem jeito, vamos ter que varrer esses inimigos também.<$FFFC>A gente decide o que fazer quando voltar pra casa.<$FFFE>
+Finalmente acabou...<$FFFE>
+Seu comando foi impecável, senhor <$F600><$0000>.<$FFFE>
+Senhor <$F600><$0000>.<$FFFC>A gente não pode deixar a batalha se arrastar assim.<$FFFD>Isso vai custar caro no nosso próximo passo...<$FFFE>
+Parece que Velzeria decidiu dar as caras.<$FFFE>
+Pois é...<$FFFE>
+<$F705><$FFFE>
+<$F705><$FFFE>
+Vamos bater em retirada pra capital.<$FFFE>
+Velzeria é uma ameaça não só pra Elthlead, mas pro mundo inteiro.<$FFFE>
+Se as forças do Altemüller tiverem marchando pra capital, a gente precisa ajudar o rei Sieghart e agir logo.<$FFFE>
+Também acho que esse é o caminho mais sensato pra nós.<$FFFE>
+Verdade. O poder sombrio dos demônios... Não é hora de ficar de guerrinha mesquinha.<$FFFE>
+Então vamos voltar logo!<$FFFE>
+Conto com vocês.<$FFFE>
+Não é isso. A magia de Lushiris continua tão forte quanto antes.<$FFFE>
+É a espada demoníaca negra que tá amplificando o poder dos demônios.<$FFFE>
+Ele provavelmente usou a força do Alhazard pra mandar esses monstros.<$FFFE>
+Senhor <$F600><$0000>, a gente deve continuar perseguindo o Império?<$FFFC>Ou recuar pra capital por enquanto?<$FFFE>
