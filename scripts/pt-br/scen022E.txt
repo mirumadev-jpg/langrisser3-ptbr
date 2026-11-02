@@ -1,0 +1,121 @@
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, o Espadachim<$FFFF>
+Pieru<$FFFF>
+Sábio Fáberu<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+General Emarinku<$FFFF>
+Comandante de Rigúlia<$FFFF>
+<$0000>・Derrote todos os inimigos<$FFFE>
+<$F600><$0000> morre<$FFFE>
+Muralhas do antigo castelo de Larcássia<$FFFF>
+Prestem atenção!<$FFFD>A Fortaleza Voadora ainda não chegou.<$FFFC>Além disso, os suprimentos também estão atrasados.<$FFFD>Isso significa que vamos encarar o inimigo com muito menos homens do que o normal.<$FFFD>Mas a qualidade das nossas tropas não deve nada a ninguém.<$FFFC>Eu espero grandes feitos de todos vocês!<$FFFE>
+Se precisamos esperar pela Fortaleza Voadora, não seria melhor apostar numa guerra de desgaste?<$FFFE>
+Uma guerra de desgaste favorece a defesa e não o ataque.<$FFFD>E as nossas tropas móveis não são boas defendendo.<$FFFD>Para usarmos a nossa velocidade a favor, precisamos atacar todos de uma vez, causar o caos e então esmagá-los.<$FFFE>
+Entendi. Então é para isso que serve essa formação.<$FFFE>
+Inimigo à vista! As tropas inimigas apareceram!<$FFFE>
+Finalmente voltamos!<$FFFE>
+Faz só um ano que a gente escapou, mas parece que já faz uma eternidade.<$FFFE>
+Guarde a nostalgia pra depois.<$FFFE>
+Deixe pra fazer isso depois de me derrotar e recuperar Larcássia.<$FFFE>
+Emarinku!?<$FFFE>
+Você acha mesmo que tão poucos soldados conseguem deter a gente?<$FFFE>
+Você, mais do que ninguém, deveria saber que números sozinhos não vencem uma batalha.<$FFFE>
+Eu não dou a mínima pra isso! Eu só quero ver meus pais de novo, e logo!<$FFFE>
+Entendo. Então você é a filha de nobre que escapou das garras do Gaier naquela ocasião.<$FFFE>
+De qualquer forma, se quiser ver os seus pais de novo, vai ter que passar por mim primeiro!<$FFFE>
+Se a gente perder aqui, perdemos o território de Larcuss.<$FFFD>Lutem com tudo o que têm!<$FFFE>
+Ainda não há notícias do retorno do General Gaier?<$FFFE>
+Infelizmente, ainda não.<$FFFE>
+...Entendo.<$FFFE>
+Droga! A Fortaleza Voadora ainda não deu as caras?<$FFFE>
+Sinto muito, senhor!<$FFFE>
+Argh, até quando vão deixar a gente esperando?<$FFFE>
+Certo, vamos seguir o plano.<$FFFC>Cavalaria e unidades voadoras, usem a velocidade para dispersar eles!<$FFFE>
+Entendido!<$FFFE>
+Arqueiros e magos, deem cobertura com os seus ataques!<$FFFE>
+Deixem com a gente.<$FFFE>
+A postos! Ataquem todos de uma só vez!<$FFFE>
+<$F600><$0000>.<$FFFC>Ouvi dizer que foi você quem derrotou o General Boltz.<$FFFE>
+O que você vai responder?<$FFFE>
+Ele teve uma morte digna<$FFFE>
+Ficar em silêncio<$FFFE>
+Ele não era páreo para mim<$FFFE>
+Ele teve uma morte digna.<$FFFC>É uma pena perder um homem assim, mas guerra é guerra.<$FFFE>
+Entendo.<$FFFD>Se foi você quem derrotou Boltz, então ele não morreu com arrependimentos.<$FFFE>
+...<$FFFE>
+Eu não queria trazer sentimentos pessoais pro campo de batalha, mas agora vou vingar o Boltz.<$FFFE>
+Ele era fraco demais.<$FFFC>Custa acreditar que ele era um dos quatro generais do Império.<$FFFE>
+Heh... Pode me insultar à vontade se quiser, mas eu não vou perdoar um insulto contra o Boltz!<$FFFD>Eu mesmo vou vingá-lo!<$FFFE>
+Não cresce nada nesse lugar.<$FFFC>Parece que tem alguma coisa enterrada aqui.<$FFFE>
+O que você vai fazer?<$FFFE>
+Cavar<$FFFE>
+Jogar água no local<$FFFE>
+Cravar a espada<$FFFE>
+Você obteve o Grimório Branco!<$FFFE>
+De repente, uma pequena árvore brota e dá um fruto.<$FFFC>Quando o fruto cai e se parte ao meio, uma pedra com runas gravadas aparece dentro dele.<$FFFE>
+Você obteve a Runa da Floresta!<$FFFE>
+Você ouve algo se quebrando debaixo da terra.<$FFFE>
+Ainda tenho...<$FFFC>coisas pra fazer...<$FFFE>
+Papai...<$FFFE>
+Me perdoem, pessoal...<$FFFE>
+Desculpem, eu não aguento mais...<$FFFE>
+Não me subestimem!<$FFFE>
+Desculpem, não tem jeito...<$FFFE>
+Ué?<$FFFE>
+Perdão...<$FFFE>
+Lushiris... minha deusa...<$FFFE>
+Argh... O resto tá nas mãos de vocês...<$FFFE>
+Argh...<$FFFE>
+Que patético...<$FFFE>
+Droga! Eu estraguei tudo!<$FFFE>
+Argh, cheguei no meu limite...<$FFFD>Mas já ganhamos tempo suficiente pra Fortaleza Voadora chegar.<$FFFD>Adeus, <$F600><$0000>!<$FFFC>Por enquanto, vou dar essa vitória de presente pra você!<$FFFE>
+Droga... Logo eu, fui baixar a guarda...<$FFFE>
+General Emarinku.<$FFFC>Deixe o resto com a gente e recue.<$FFFD>Nós sozinhos conseguimos segurar as pontas até a Fortaleza Voadora chegar.<$FFFE>
+...Entendo. Me perdoem.<$FFFC>Deixo o resto nas mãos de vocês!<$FFFE>
+Sim, senhor!<$FFFE>
+Eu vou vencer!<$FFFD>O Império precisa das riquezas de Larcuss.<$FFFC>Nós não podemos perder esse lugar!<$FFFE>
+Vocês são uma pedra no sapato do Império.<$FFFC>Agora, morram!<$FFFE>
+Aaargh!<$FFFE>
+Uoooh!<$FFFE>
+Então acabou...!<$FFFE>
+Senhor Emarinku...<$FFFE>
+Avançar!<$FFFE>
+Argh!<$FFFE>
+Droga!<$FFFE>
+Argh... Senhor Emarinku, me...<$FFFC>perdoe...<$FFFE>
+Aaargh!<$FFFE>
+Eu não posso cair aqui...<$FFFD>Guh!<$FFFE>
+Glória ao Império de Rigúlia!<$FFFE>
+Não pode ser!<$FFFE>
+P-por quê...?<$FFFE>
+Como eu pude perder pra alguém como vocês!?<$FFFE>
+Aaargh!<$FFFE>
+Então é o meu fim...<$FFFE>
+Não tenho mais força pra voar...<$FFFE>
+Será que esse era todo o meu poder...?<$FFFE>
+Uuugh!<$FFFE>
+Toma essa!<$FFFE>
+Estou sem forças...<$FFFE>
+Aaaah!<$FFFE>
+Ai...<$FFFE>
+Será que éramos poucos demais pra deter o avanço deles...?<$FFFD>...Hmph. Eu já esperava por isso, o que torna tudo ainda mais doloroso.<$FFFD>Mas o que diabos o General Gaier tá fazendo, demorando desse jeito?<$FFFE>
+Venha me enfrentar, <$F600><$0000>!<$FFFC>Dessa vez, eu vou acabar com você!<$FFFE>
+Essa batalha já tá vencida...<$FFFE>
+Seu comando foi impecável, senhor <$F600><$0000>.<$FFFE>
+Beleza. Agora vamos invadir o castelo!<$FFFE>
+Senhor <$F600><$0000>...<$FFFC>Uma batalha nunca deve se estender tanto assim.<$FFFD>Isso vai atrapalhar o nosso próximo passo...<$FFFE>
+Entendido. Então vamos correr e invadir o castelo.<$FFFE>
+Acabou. Vamos entrar no castelo.<$FFFE><$FFFF>
