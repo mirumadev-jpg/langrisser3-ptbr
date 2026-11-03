@@ -1,0 +1,174 @@
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, o Espadachim<$FFFF>
+Pieru<$FFFF>
+Sábio Fáberu<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+Monstro<$FFFF>
+Aldeão<$FFFF>
+Necromante Grove<$FFFF>
+Comandante de Velzeria<$FFFF>
+<$0000>・Condições de vitória: Derrote todos os inimigos<$FFFE>
+<$0000>・Morte de <$F600><$0000><$FFFC>・Morte de todos os NPCs<$FFFE>
+Aldeia próxima à fronteira de Velzeria<$FFFF>
+GOGAAAHHH!<$FFFE>
+Aaaah!<$FFFE>
+BWOOOOON!<$FFFE>
+Corram! Fujam todos!<$FFFE>
+Hee hee hee...<$FFFE>
+Corram, humanos tolos!<$FFFE>
+Temam o nosso poder! Os mais fortes dominarão o mundo.<$FFFE>
+Conheçam o grande poder dos demônios!<$FFFE>
+L-Lushiris, minha deusa...!<$FFFE>
+Hee hee hee! Continuem dependendo do poder dos outros para sempre.<$FFFE>
+Quem não consegue lutar com as próprias forças não tem futuro!<$FFFE>
+Agora, meus bichinhos, façam o que quiserem!<$FFFE>
+Aaaah! Socorro!<$FFFE>
+Hee hee hee! Corram! Continuem correndo!<$FFFE>
+Parem!<$FFFE>
+Quem está aí!?<$FFFE>
+Parece que vocês se divertiram bastante, não é?<$FFFE>
+Não encostem mais no nosso povo!<$FFFE>
+É gente demais.<$FFFE>
+É mesmo. Mas...<$FFFE>
+Se não lutarmos, os aldeões vão morrer.<$FFFE>
+Eu vou lutar! Não vou deixar os monstros fazerem o que quiserem com a terra que recuperamos!<$FFFE>
+Se ficarmos presos aqui, os aldeões vão morrer.<$FFFC>Vamos depressa!<$FFFE>
+Se ficarmos presos aqui, os aldeões vão morrer.<$FFFC>Precisamos nos apressar!<$FFFE>
+Senhor <$F600><$0000>.<$FFFC>Se isso continuar, os aldeões serão todos mortos.<$FFFC>Precisamos agir...<$FFFE>
+O que você vai responder?<$FFFE>
+Eu sei<$FFFE>
+Não sei o que fazer...<$FFFE>
+Eles ficarão bem<$FFFE>
+Eu já sei disso.<$FFFE>
+É verdade.<$FFFE>
+Eu sei que a situação é grave.<$FFFC>Mas o que podemos fazer...?<$FFFE>
+Senhor <$F600><$0000>.<$FFFC>Um comandante nunca pode hesitar.<$FFFE>
+Vai ficar tudo bem.<$FFFC>Deixe este lugar comigo!<$FFFE>
+Sim. Por favor, salve-os.<$FFFE>
+A situação é grave. Se continuar assim, os aldeões serão massacrados.<$FFFD>Precisamos agir rápido...<$FFFE>
+Todos, corram para o oeste!<$FFFE>
+Soldados de Elthlead!?<$FFFC>Agora estamos salvos!<$FFFE>
+Deixem tudo conosco! Vamos salvar todos vocês!<$FFFE>
+Não há outro jeito, então.<$FFFC>Vou enfrentar todos vocês sozinho!<$FFFE>
+V-você! Como ousa mexer com os restos da minha filha daquele jeito!<$FFFE>
+Os restos da sua filha?<$FFFC>Do que está falando?<$FFFC>Eu sou um necromante.<$FFFD>Já brinquei com cadáveres demais para contar!<$FFFC>Não tenho como me lembrar de um em particular!<$FFFE>
+Eu nunca vou perdoá-lo!<$FFFC>Todos, às armas!<$FFFD>Não podemos mais deixar essa raça das trevas fazer o que quiser no nosso mundo!<$FFFE>
+Ofegante... Ofegante...<$FFFE>
+Isso! Não parem, continuem correndo!<$FFFE>
+S-sim!<$FFFE>
+Aaaah! Os monstros estão perseguindo a gente!<$FFFE>
+Droga! Por mais que a gente corra, eles continuam perseguindo a gente!<$FFFE>
+Uma linda flor desabrocha sozinha no campo.<$FFFE>
+Quer colhê-la?<$FFFE>
+A flor murchou.<$FFFE>
+De repente, uma bela moça surge de dentro da flor.<$FFFD>“Eu sou o espírito da flor.<$FFFC>Obrigada, pessoa de bom coração.<$FFFD>Vou realizar um desejo seu, qualquer que seja.”<$FFFE>
+O que você deseja?<$FFFE>
+Quero magia<$FFFE>
+Quero poder<$FFFE>
+Não quero nada<$FFFE>
+“Entendo. Então vou lhe dar isto.”<$FFFE>
+Você obteve o Símbolo Sagrado!<$FFFE>
+“Entendo. Então vou realizar o desejo do seu coração.”<$FFFE>
+A FOR de <$F600><$FFFC> aumentou em 1!<$FFFD>A DEF de <$F600><$FFFC> aumentou em 1!<$FFFE>
+“...Entendo.<$FFFC>Espero que possamos nos encontrar novamente em algum lugar, algum dia...”<$FFFD>O espírito da flor foi embora.<$FFFE>
+Uma linda sereia descansava sobre a pedra.<$FFFC>Ela percebe você e se encolhe de medo.<$FFFE>
+O que você vai fazer?<$FFFE>
+Seguir em frente<$FFFE>
+Capturá-la<$FFFE>
+Sorrir para ela<$FFFE>
+A sereia mergulhou rapidamente no mar.<$FFFE>
+A sereia mergulhou rapidamente no mar.<$FFFE>
+Quando você sorriu para ela, a sereia, tranquilizada, sorriu de volta.<$FFFD>Então ela estendeu uma linda joia brilhante.<$FFFE>
+Você obteve a Lágrima de Sereia!<$FFFE>
+Ainda tenho coisas...<$FFFC>que preciso fazer...<$FFFE>
+Papai...<$FFFE>
+Perdoem-me, pessoal...<$FFFE>
+Coty, me perdoe...<$FFFE>
+Gilberto...<$FFFE>
+Desculpem, não consigo...<$FFFE>
+Ah?<$FFFE>
+Perdão...<$FFFE>
+Deusa Lushiris, conceda-me o poder para destruir todo o mal!<$FFFE>
+Lushiris... minha deusa...<$FFFE>
+Mal, desapareça para sempre!<$FFFE>
+Ugh... O resto é com vocês agora...<$FFFE>
+Uuuhhhg...<$FFFE>
+Que patético...<$FFFE>
+Urgh! Eu estraguei tudo!<$FFFE>
+Gah!? Não acredito que sofri um ferimento tão grave...<$FFFD>Vou recuar por enquanto.<$FFFC>Continuem o ataque!<$FFFE>
+Gah!? Mesmo com a Espada da Devastação, fui derrotado por meros humanos...<$FFFD>Vou me retirar por hoje.<$FFFC>Mas da próxima vez não serei tão tolerante.<$FFFE>
+Ugh... Estou bastante cansado.<$FFFD>Vou recuar por enquanto.<$FFFC>Continuem atacando!<$FFFE>
+Espere! ...Droga, ele escapou.<$FFFE>
+Humanos são nossa comida!<$FFFE>
+Vocês são escória, incapazes de viver sem o poder de Lushiris.<$FFFE>
+Isso é perigoso.<$FFFE>
+GYAAAHH!<$FFFE>
+GYAAAHH!<$FFFE>
+GUWOOOOHHH!<$FFFE>
+GUOOOHH!<$FFFE>
+GUOOOOHH!<$FFFE>
+GUOOOOHH!<$FFFE>
+GUWOOOOHHH!<$FFFE>
+GOOON!<$FFFE>
+GOOON!<$FFFE>
+GUWAAAAA!<$FFFE>
+GUWAAAAA!<$FFFE>
+GAAAAA!<$FFFE>
+Eu amaldiçoo você!<$FFFE>
+Guaaahh!<$FFFE>
+Como ousa...<$FFFE>
+Kyaahh!<$FFFE>
+HUUUUHHH!?<$FFFE>
+GYAAAHH!<$FFFE>
+GUWOOOOHHH!<$FFFE>
+GUUUGYAAA!<$FFFE>
+Argh, que incompetentes!<$FFFC>Não acredito que todos foram derrotados assim!<$FFFE>
+Ainda não! Não pensem que venceram!<$FFFE>
+Argh, que incompetentes!<$FFFC>Não acredito que todos foram derrotados assim!<$FFFE>
+Aaaah!<$FFFE>
+Socorro!<$FFFE>
+Dói! Alguém me ajude!<$FFFE>
+Aaaah! Saiam de perto!<$FFFE>
+P-por que isso está acontecendo comigo...?<$FFFE>
+Por favor! Parem com isso!<$FFFE>
+Mãe!<$FFFE>
+Aaaah!?<$FFFE>
+Não! Parem de uma vez!<$FFFE>
+Hee hee hee! Eu me recuso a parar agora.<$FFFD>Adoro ver humanos morrerem.<$FFFC>Preciso me divertir!<$FFFE>
+Não!<$FFFE>
+Ah... Por que estão fazendo isso!?<$FFFE>
+Senhor <$F600><$0000>!<$FFFC>Os aldeões...<$FFFE>
+Droga! Logo eu fui deixar isso acontecer...<$FFFE>
+Senhor <$F600><$0000>.<$FFFC>Os aldeões estão todos sãos e salvos.<$FFFE>
+Entendo, ainda bem.<$FFFC>Parece que chegamos a tempo.<$FFFE>
+Os aldeões estão a salvo...<$FFFC>Parece que chegamos a tempo.<$FFFE>
+Seu comando hoje foi realmente impressionante.<$FFFE>
+Mesmo assim, a batalha se prolongou demais.<$FFFD>Uma batalha nunca deve durar tanto.<$FFFC>Isso vai afetar o que faremos na próxima batalha.<$FFFE>
+Muito obrigado.<$FFFC>Graças a vocês, ainda estamos todos vivos.<$FFFE>
+É isso! Eu preciso agradecer a vocês!<$FFFD>...<$FE14>...<$FE14>...<$FE14>.<$FFFC>Ah, aqui está! Por favor, aceitem isto!<$FFFE>
+Você obteve a Pena de Anjo!<$FFFE>
+Obrigado. Vou usá-la com cuidado.<$FFFE>
+Desejo boa sorte a vocês nas batalhas que ainda virão.<$FFFE>
+Agora, vamos voltar para a capital!<$FFFE>
+Ó mortos, ergam-se mais uma vez e vinguem seus ressentimentos.<$FFFD>Mihari han kimojinihi kushizekiki iyokana hagujisoramu!<$FFFE>
+O quê!? Cadáveres ambulantes!?<$FFFE>
+E quem vocês pensam que eu sou? Sou Grove, o mestre dos mortos!<$FFFE>
+Grove, o mestre dos mortos... Nunca vou perdoá-lo!<$FFFE>
+Grove, você é imperdoável!<$FFFE>
+Eu apenas uso os cadáveres de que ninguém mais precisa.<$FFFC>O que há de errado nisso?<$FFFE>
+Estou dizendo que não posso perdoá-lo por profanar os mortos desse jeito!<$FFFE>
+Não vejo problema algum.<$FFFC>Quando uma pessoa morre, tudo acaba, não é?<$FFFE>
+Silêncio!<$FFFE>
