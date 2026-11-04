@@ -1,0 +1,148 @@
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, o Espadachim<$FFFF>
+Pieru<$FFFF>
+Sábio Fáberu<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+Necromante Grove<$FFFF>
+Pieru<$FFFF>
+Necromante<$FFFF>
+Monstro<$FFFF>
+Comandante do Exército de Velzeria<$FFFF>
+・Derrote o Necromante Grove<$FFFE>
+・Morte de <$F600><$0000><$FFFE>
+Castelo de Velzeria, Diante do Portão<$FFFF>
+Então é aqui o Castelo de Velzeria?<$FFFE>
+Parece que sim.<$FFFC>A aura dos monstros está ficando mais forte.<$FFFE>
+Eu também nunca vim aqui, mas o lugar combina com o que a Lady Lushiris nos descreveu.<$FFFE>
+Será que o rei dos demônios, Böser, tá aqui?<$FFFE>
+É o que parece, sim.<$FFFE>
+Bora logo derrotar esse tal de Böser, o chefão!<$FFFE>
+As coisas não vão ser assim, não.<$FFFE>
+Essa voz!<$FFFE>
+Estamos cercados!<$FFFC>Desde quando?<$FFFE>
+Tanto faz!<$FFFC>Contra monstros, não precisa pegar leve.<$FFFE>
+Que sujeitinho afoito.<$FFFE>
+Reconheço a habilidade de quem derrotou aquela Feraquia.<$FFFC>Mas e numa situação como esta, hein?<$FFFE>
+Dá no mesmo!<$FFFC>Vamos derrotar você e, com certeza, derrotar o Böser!<$FFFE>
+Será mesmo?<$FFFC>Quem ataca precisa de três vezes mais força do que quem defende.<$FFFE>
+Vocês estão em menor número. Não me parece que tenham mais do que o triplo da nossa força, ou estou enganado?<$FFFE>
+Vamos ver!<$FFFE>
+Ei, aquele negócio de "três vezes" que ele falou, o que é?<$FFFE>
+É o princípio do triplo no ataque.<$FFFC>Em batalhas assim, quem ataca sofre três vezes mais baixas do que quem defende.<$FFFD>Em outras palavras, sem mais de três vezes o efetivo, não é possível tomar uma fortaleza.<$FFFE>
+Eita!?<$FFFC>A gente não tem nem três vezes o número deles!<$FFFE>
+Esse triplo aí não é de número.<$FFFC>Basta a gente render mais que o triplo, com a força de cada um e o trabalho em equipe.<$FFFE>
+Hihihi!<$FFFC>Então vamos testar!<$FFFE>
+Ó mortos, levantem-se mais uma vez e dissipem o seu ressentimento.<$FFFD>Mihari han kimojinihi kushizekiki iyokana hagujisoramu!<$FFFE>
+O quê!?<$FFFC>Você reviveu os cadáveres!<$FFFE>
+Para mim, criar mortos-vivos é algo simples.<$FFFE>
+Não se ache tanto, Grove!<$FFFE>
+Droga!<$FFFC>Cercados de novo!<$FFFE>
+Hum... Senhor <$F600><$0000>.<$FFFD>Talvez magia sagrada ou de fogo funcione contra os inimigos que o Grove ressuscitou.<$FFFE>
+...<$FFFD>Entendo, então é isso.<$FFFC>Parece que vale a pena tentar.<$FFFE>
+GUGAGAAAH!<$FFFE>
+Hihihi.<$FFFC>Vocês se saem bem, mas até onde vão aguentar?<$FFFE>
+Uma espada está cravada no chão, e o piso ao redor dela está todo rachado.<$FFFD>Há letras entalhadas no chão, que dizem o seguinte:<$FFFD>Aquele que busca a lâmina maldita que abateu os grandes, que a arranque gritando o meu nome.<$FFFE>
+O que você vai gritar?<$FFFE>
+Langrisser<$FFFE>
+Muramasa<$FFFE>
+Alhazard<$FFFE>
+A espada quebrou na altura do cabo e saiu de uma vez.<$FFFE>
+Com um som seco, a grande espada foi arrancada.<$FFFE>
+Você obteve a Muramasa!<$FFFE>
+Com um som seco, a espada se desfez em pedaços...<$FFFE>
+Entre um monte de agulhas, há um frasco caído com um líquido vermelho-vivo dentro.<$FFFE>
+Quer pegar o frasco?<$FFFE>
+Para segurá-lo firme, é preciso enfiar a mão no monte de agulhas, e isso pode ferir a sua mão.<$FFFE>
+O que você faz?<$FFFE>
+Segurar firme<$FFFE>
+Pegar pela parte de cima<$FFFE>
+Desistir<$FFFE>
+Você conseguiu pegar o frasco, mas se feriu.<$FFFE>
+<$F600><$FFFC>sofreu 10 pontos de dano.<$FFFE>
+Você obteve o Sangue Espectral!<$FFFE>
+Você tentou pegar o frasco pela parte de cima para não ferir a mão, mas ele escorregou e caiu.<$FFFD>O frasco rachou, e o líquido vermelho se derramou...<$FFFE>
+Uma rajada de vento derrubou o frasco, que rachou.<$FFFC>E o líquido vermelho se derramou...<$FFFE>
+Uma rajada de vento derrubou o frasco, que rachou.<$FFFC>E o líquido vermelho se derramou...<$FFFE>
+Não posso cair aqui...<$FFFE>
+Dói, dói~!<$FFFE>
+Pai...<$FFFE>
+Maldito Grove...<$FFFE>
+Não precisa fazer essa cara de ressentimento.<$FFFD>Logo eu vou reaproveitar o seu corpo.<$FFFC>Uhihihihi...<$FFFE>
+Gh...<$FFFE>
+Gilberto...<$FFFE>
+Desculpem, pessoal...<$FFFC>Já não aguento mais...<$FFFE>
+Ah...<$FFFE>
+Senhor <$F600><$0000>...<$FFFE>
+Ah, Lady Lushiris...<$FFFE>
+Sofia...<$FFFE>
+Pai, por favor, não se esforce demais.<$FFFE>
+Desculpe, hein...<$FFFE>
+Grrr...<$FFFE>
+Droga, eu falhei!<$FFFE>
+Tch, que patético...<$FFFE>
+Ah, o céu azul...<$FFFE>
+M-maldição...<$FFFE>
+Então finalmente chegamos a este ponto.<$FFFE>
+Mas, como o último dos Três Generais Demoníacos de Velzeria, o Lorde Grove não vai ser derrotado de forma tão vergonhosa!<$FFFE>
+Você não vai escapar, Grove!<$FFFE>
+Que sujeito persistente.<$FFFE>
+Mas, com um corpo como o seu, talvez eu faça o melhor zumbi de todos...<$FFFC>Hihihihi!<$FFFE>
+N-não... impossível...<$FFFC>Como este meu corpo... perdeu para meros humanos...<$FFFE>
+Então esse é o poder da espada sagrada...<$FFFC>L-Lorde Böser...<$FFFE>
+Koti...<$FFFC>Eu te vinguei.<$FFFE>
+Descanse em paz.<$FFFE>
+Os monstros... estão sumindo...<$FFFE>
+Agora você sabe do que a gente é capaz!<$FFFE>
+Com isso, derrotamos todos os Três Generais Demoníacos de Velzeria...<$FFFE>
+Comando magnífico, Lorde <$F600><$0000>.<$FFFE>
+Lorde <$F600><$0000>...<$FFFC>Não se deve demorar demais numa batalha.<$FFFD>Isso afeta as ações seguintes...<$FFFE>
+KIIIIAAAH!<$FFFE>
+KIIIIAAAH!<$FFFE>
+KIIIIAAAH!<$FFFE>
+KIIIIAAAH!<$FFFE>
+KIIIIAAAH!<$FFFE>
+KIIIIAAAH!<$FFFE>
+GRAAAAH!<$FFFE>
+GRAAAAH!<$FFFE>
+GRAAAAH!<$FFFE>
+GRAAAAH!<$FFFE>
+GUGOOOH!<$FFFE>
+BOOOM!<$FFFE>
+BOOOM!<$FFFE>
+GUGOOOH!<$FFFE>
+Então esse é o meu destino...<$FFFE>
+Q-que agonia...<$FFFE>
+SHIAAAAH!<$FFFE>
+SHIAAAAH!<$FFFE>
+GUAAAAAH!<$FFFE>
+GUAAAAAH!<$FFFE>
+GUAAAAAH!<$FFFE>
+Guah!<$FFFE>
+Impossível...<$FFFE>
+Hehe...<$FFFC>Tá tudo preto...<$FFFE>
+Tá querendo me deixar com raiva!?<$FFFE>
+Que sujeitos terríveis...<$FFFE>
+P-por quê...<$FFFE>
+PSHIUUU!<$FFFE>
+PSHIUUU!<$FFFE>
+Só restam os inimigos dentro do castelo, Grove!<$FFFC>Ainda pretende lutar assim!?<$FFFE>
+Só sobrou você, Grove!<$FFFC>Ainda pretende lutar!?<$FFFE>
+Hihihi!<$FFFC>É cedo demais pra se acalmar.<$FFFE>
+Falando como um mau perdedor?<$FFFC>A sua morte é só questão de tempo!<$FFFE>
+KIIIIIII!<$FFFC>Como os meus servos caíram tão fácil assim...<$FFFD>Eu não vou perdoar!<$FFFE>
+Maldição, e logo por meros humanos!<$FFFC>Como ousam tocar nos meus adoráveis mortos!<$FFFE>
+Grove.<$FFFC>Com o poder dos humanos que você despreza, desta vez eu darei o golpe final!<$FFFE>
+Viu o nosso poder!<$FFFE><$FFFF>
