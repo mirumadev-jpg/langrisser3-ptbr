@@ -2,7 +2,7 @@
 
 Projeto de fã para traduzir *Langrisser III* (Sega Saturn, Japão) para português brasileiro. A tradução parte do japonês, com a versão inglesa como apoio de contexto e de layout, e busca preservar o sentido e o tom de cada cena em uma fala que soe natural no Brasil.
 
-**Estado:** os cenários 1 a 27 foram revisados e aprovados. O cenário 28 é o próximo da tradução; os roteiros aprovados ficam em `scripts/pt-br/`.
+**Estado:** os cenários 1 a 28 foram revisados e aprovados. O cenário 29 é o próximo da tradução; os roteiros aprovados ficam em `scripts/pt-br/`.
 
 **[Abrir a página do projeto](https://mirumadev-jpg.github.io/langrisser3-ptbr/)** · **[Ver os créditos](CREDITS.md)** · **[Ver os roteiros](scripts/pt-br/)**
 
@@ -41,7 +41,8 @@ Há milhões de anos (risos), a arte de Satoshi Urushihara me inspirou a desenha
 - Cenário 25 — tradução revisada e aprovada.
 - Cenário 26 — tradução revisada e aprovada.
 - Cenário 27 — tradução revisada e aprovada.
-- Cenário 28 — próximo da fila.
+- Cenário 28 — tradução revisada e aprovada.
+- Cenário 29 — próximo da fila.
 
 Os arquivos publicados ficam em [`scripts/pt-br/`](scripts/pt-br/). Eles preservam códigos de controle e placeholders necessários ao roteiro.
 

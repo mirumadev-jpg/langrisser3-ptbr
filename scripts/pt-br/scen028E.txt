@@ -1,0 +1,148 @@
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, o Espadachim<$FFFF>
+Pieru<$FFFF>
+Sábio Fáberu<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+Feraquia, a Feiticeira Metamorfa<$FFFF>
+Monstro<$FFFF>
+Comandante do Exército de Velzeria<$FFFF>
+・Derrote Feraquia<$FFFE>
+・Morte de <$F600><$0000><$FFFE>
+Planície de Luon, Região Pantanosa<$FFFF>
+Armar emboscada usando o terreno... é humano demais, nem me anima muito, mas enfim.<$FFFE>
+...Fazer o quê.<$FFFC>Se eu não conseguir uma vitória por aqui, não vou ter como encarar o Lorde Böser.<$FFFE>
+Lady Feraquia.<$FFFC>O cheiro de humanos tá ficando mais forte.<$FFFE>
+Parece que estão chegando.<$FFFC>Vocês aí, não vão vacilar, hein.<$FFFE>
+Deixe conosco.<$FFFE>
+Foi nesta região que relataram ter avistado monstros.<$FFFE>
+Realmente...<$FFFC>A aura dos monstros está ficando mais forte.<$FFFE>
+Como eu pensava, é aqui.<$FFFE>
+...Desta vez, acabarei com isto de uma vez por todas!<$FFFE>
+Pessoal, cuidado!<$FFFE>
+Deixa comigo!<$FFFE>
+GUIGUIGUI!<$FFFE>
+Droga!<$FFFC>Tem inimigos vindo por trás também!?<$FFFE>
+AHAHAHA!<$FFFC>Agora vou transformar isso aqui num banho de sangue.<$FFFC>Que delícia, hein.<$FFFE>
+O terreno tá bem ruim aqui.<$FFFE>
+Sim.<$FFFC>Além disso, o espaço para posicionar as tropas terrestres é pequeno, então a marcha não deve avançar como desejamos.<$FFFD>O inimigo domina as melhores posições, então precisamos avançar com o apoio de tropas navais e aéreas.<$FFFE>
+Vir atrás de mim assim, sem mais nem menos? Que bando de bobos.<$FFFE>
+Essa valentia de fachada só durará mais um instante!<$FFFE>
+Essa sua valentia de fachada só dura mais um pouco!<$FFFE>
+Aqui tem um cristal que amplifica a magia.<$FFFD>Ou seja, posso usar a minha metamorfose no máximo.<$FFFC>Daqui a pouco eu vou mimar vocês direitinho.<$FFFE>
+Vou aproveitar pra testar esse poder.<$FFFC>Agora, lá vou eu!<$FFFE>
+Tsc!<$FFFC>Já chegaram até aqui!?<$FFFE>
+Ajoelhe-se aí!<$FFFC>A sua cabeça será minha!<$FFFE>
+Se for capaz, tente!<$FFFC>Eu não vou fugir nem me esconder!<$FFFE>
+Não posso cair aqui...<$FFFE>
+Tá doendo...<$FFFC><$F600><$0000>, me aju... da...<$FFFE>
+Pai...<$FFFE>
+Koti...<$FFFE>
+Desculpem, pessoal...<$FFFC>Já não aguento mais...<$FFFE>
+Ah...<$FFFE>
+Senhor <$F600><$0000>...<$FFFE>
+Ah, ó luz...<$FFFE>
+Sofia...<$FFFE>
+Grrr...<$FFFE>
+Droga, eu falhei!<$FFFE>
+Tch, que patético...<$FFFE>
+Ah, o céu azul...<$FFFE>
+Q-que arrependimento.<$FFFC>Eu não ter conseguido me vingar...<$FFFE>
+<$F702><$FFFE>
+<$F702><$FFFE>
+Senhor Kirikaze...<$FFFE>
+N-não... impossível...<$FFFC>Eu... perder...<$FFFE>
+Lorde Böser, perdoe-me... Feraquia... já não...<$FFFC>No inferno, eu... estarei velando... os seus feitos...<$FFFE>
+Meu senhor... Osuzu... a vingança foi cumprida...<$FFFE>
+Meu senhor... Osuzu... a vingança foi cumprida...<$FFFE>
+...<$FFFE>
+Comando magnífico, Lorde <$F600><$0000>.<$FFFE>
+Lorde <$F600><$0000>...<$FFFC>Não se deve demorar demais numa batalha.<$FFFD>Isso afeta as ações seguintes...<$FFFE>
+Falando nisso, uma boneca estranha passou voando agora há pouco.<$FFFC>O que era aquilo...?<$FFFE>
+Vou acertar todas as contas pendentes, de uma vez só!<$FFFC>Prepare-se!<$FFFE>
+Urgh...<$FFFC>Que atrevimento!<$FFFE>
+Eu perder? Não aceito isso!<$FFFC>Não aceito!<$FFFE>
+I-impossível!?<$FFFE>
+GUGAAAAH!<$FFFE>
+GUGAAAAH!<$FFFE>
+Ugh!<$FFFE>
+Meus olhos, meus olhos...<$FFFE>
+Não há como você passar por aqui com vida.<$FFFE>
+Vou morrer...?<$FFFC>Logo eu...<$FFFE>
+Seu tolo!<$FFFC>Veio aqui só pra morrer?<$FFFE>
+Ugh...<$FFFC>O mundo das trevas...<$FFFE>
+Eu... não... quero... morrer...<$FFFE>
+Já... pa... re... com isso...<$FFFE>
+BOOOOM!<$FFFE>
+BOOOOM!<$FFFE>
+BOOOOM!<$FFFE>
+GUGAAAAH!<$FFFE>
+Não consigo mais me levantar...<$FFFE>
+É o fim...<$FFFE>
+Maldição, como ousaram...<$FFFD>Guah!<$FFFE>
+GRAAAAH!<$FFFE>
+O poder maligno tá se... perden... do...<$FFFE>
+Lorde Caos...<$FFFE>
+SHIUUH!<$FFFE>
+Ousar me ferir... não vou perdoar...<$FFFE>
+UOOOOOH!<$FFFE>
+SHIUUH!<$FFFE>
+GURGH...<$FFFE>
+GURGH...<$FFFE>
+Só resta você, e mais ninguém.<$FFFC>Renda-se.<$FFFE>
+Só sobrou você, Feraquia!<$FFFE>
+Hmph!<$FFFC>Meros humanos, não se achem tanto!<$FFFE>
+Vocês até que foram bem, pra humanos.<$FFFE>
+De prêmio, vou mostrar o meu verdadeiro poder!<$FFFE>
+O quê!?<$FFFE>
+Vamos, olhem bem!<$FFFE>
+Mas o que é isto?<$FFFC>Esse poder mágico é tão forte que chega a ser sufocante?<$FFFE>
+Hehe.<$FFFE>
+Agora que assumi esta forma, vocês não têm mais chance de vencer.<$FFFE>
+Acha que um blefe barato desses surte efeito em mim!?<$FFFE>
+Se é blefe ou não, descubra na própria pele!<$FFFE>
+Desta vez, não a deixarei escapar.<$FFFC>Eu a derrotarei e vingarei o pesar do meu senhor!<$FFFE>
+Hah!<$FFFC>Você me faz rir.<$FFFC>Quem vai morrer é você!<$FFFE>
+Há uma placa redonda que brilha de leve em azul.<$FFFE>
+O que você faz?<$FFFE>
+Fazer uma pose<$FFFE>
+Sorrir para ela<$FFFE>
+Continuar olhando<$FFFE>
+Você obteve a cabeça de uma boneca parecida com um haniwa!<$FFFD>O haniwa lançou um sorriso sinistro para <$F600><$0000> e saiu voando pelo céu até sumir.<$FFFE>
+...<$FFFC>Parece que ela tá me chamando...<$FFFD>Não, isso fica pra depois!<$FFFE>
+Há um fragmento que brilha de leve em azul.<$FFFE>
+O que você faz?<$FFFE>
+Dar um soco<$FFFE>
+Não fazer nada<$FFFE>
+Dançar, só pra ver<$FFFE>
+O fragmento se despedaçou...<$FFFE>
+O fragmento foi afundando em silêncio na neve.<$FFFE>
+Um fragmento azul saltou para a sua mão!<$FFFD>Você obteve um fragmento de boneca!<$FFFE>
+Há um fragmento que brilha de leve em azul.<$FFFE>
+O que você faz?<$FFFE>
+Tentar tocar<$FFFE>
+Rezar<$FFFE>
+Cuspir nele<$FFFE>
+No instante em que tentou tocá-lo, ele se enfiou na neve como se estivesse vivo e desapareceu.<$FFFE>
+Um fragmento azul saltou para a sua mão!<$FFFD>Você obteve um fragmento de boneca!<$FFFE>
+O fragmento azul derreteu e soltou um cheiro horrível.<$FFFD>Parece que as suas forças se esvaíram.<$FFFE>
+Você obteve a cabeça de uma boneca parecida com um haniwa!<$FFFD>Mas ainda faltam as partes do corpo!<$FFFE>
+Que boneca sinistra...<$FFFC>Melhor jogar fora.<$FFFE>
+A placa redonda era o rosto da boneca!<$FFFD>Ela abriu um sorriso sinistro e foi levada pelo vento, para longe.<$FFFE>
+Falando nisso, agora há pouco você tava juntando umas coisas esquisitas, <$F600><$0000>.<$FFFD>O que era aquilo?<$FFFE>
+Ah...<$FFFC>Parece que são fragmentos de uma boneca, mas são sinistros, então vou jogar fora.<$FFFE>
+Hmm, sei.<$FFFE>
+Falando nisso, eu juntei uns fragmentos esquisitos.<$FFFC>Não preciso deles, vou jogar fora.<$FFFE>
+AHAHAHAHA!<$FFFC>Que cena patética.<$FFFC>Não ia se vingar, hein?<$FFFE><$FFFF>
