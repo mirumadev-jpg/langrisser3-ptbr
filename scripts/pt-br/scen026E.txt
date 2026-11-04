@@ -1,0 +1,185 @@
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, o Espadachim<$FFFF>
+Pieru<$FFFF>
+Sábio Fáberu<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+Olver<$FFFF>
+Mestre dos Insetos Rag<$FFFF>
+Monstro<$FFFF>
+Rag<$FFFF>
+Comandante do Exército de Velzeria<$FFFF>
+・Derrote todos os inimigos<$FFFE>
+・Morte de <$F600><$0000><$FFFC>・Morte de Olver<$FFFE>
+Mansão de Olver<$FFFF>
+Q-quem são vocês!?<$FFFE>
+Hehehe! Por ordem do Lorde Böser, o governante de Velzeria, viemos tirar a sua vida.<$FFFE>
+A minha vida?<$FFFC>E o que vocês querem com a minha vida?<$FFFE>
+Sabemos que você sabe como fortalecer a Espada da Devastação.<$FFFE>
+Nós não podemos deixar essa espada ficar ainda mais poderosa.<$FFFE>
+Sem você, a vitória de Velzeria vai estar no papo.<$FFFE>
+...Seus demônios malditos!<$FFFE>
+Agora, meus bichinhos!<$FFFC>Entrem na casa e acabem com a raça dele!<$FFFE>
+Sim, senhor!<$FFFE>
+Mestre Rag, essa porta não abre nem a pau!<$FFFE>
+Use a cabeça!<$FFFC>É só destruir ela com magia, seu idiota!<$FFFE>
+Entendido.<$FFFE>
+Ai! Os demônios chegaram antes da gente!<$FFFE>
+Parece que eles já sacaram que o Lorde Olver consegue fortalecer a Espada da Devastação.<$FFFE>
+Tsc! Tropas de Elthlead?<$FFFC>Chegaram rápido.<$FFFE>
+A gente precisa se apressar e trazer o Lorde Olver pra cá.<$FFFE>
+Você aí, bota essa porta abaixo com magia!<$FFFE>
+Sim, senhor!<$FFFE>
+Todos os outros, segurem o exército de Elthlead!<$FFFE>
+GAAAAAAHHHH!<$FFFE>
+Se acham que um bando de fracotes como vocês vai nos deter, chegaram dez anos cedo demais!<$FFFE>
+Hehehe! Que garotinha valente!<$FFFD>Uma criança não tem moral pra falar assim comigo!<$FFFE>
+O ataque começou.<$FFFC>Salvem o Olver primeiro!<$FFFE>
+E então... o que eu faço?<$FFFE>
+Ordens pra Olver?<$FFFE>
+Fique escondido dentro da casa<$FFFE>
+Bata em retirada pro sul<$FFFE>
+Por favor, fique escondido aí mesmo.<$FFFE>
+Pode deixar.<$FFFE>
+Por favor, corra pro sul agora mesmo.<$FFFC>Nós te damos cobertura!<$FFFE>
+Muito obrigado.<$FFFE>
+Muito bem. Ponham essa porta abaixo!<$FFFE>
+Sim, senhor!<$FFFE>
+O que tá acontecendo!? Destruíram o portão que eu mesmo ergui...<$FFFE>
+BUAHAHA! Finalmente a gente derrubou o portão!<$FFFC>Agora derrubem a outra porta também!<$FFFE>
+Isso é péssimo!<$FFFC>A gente precisa correr!<$FFFE>
+Só falta mais uma porta!<$FFFC>Não deixem eles chegarem lá primeiro!<$FFFE>
+Sim, senhor!<$FFFE>
+Grr! Então vai ter que ser na marra!<$FFFC>Vou acabar com a raça de vocês!<$FFFE>
+Uma porta osso duro de roer...<$FFFC>Mas será que aguenta meu próximo golpe?<$FFFE>
+E agora, até quando você vai conseguir resistir?<$FFFE>
+Ah, não! Eles tão tentando explodir a porta com magia!<$FFFE>
+Rápido!<$FFFE>
+BUAHAHA! Já era pra vocês!<$FFFC>Desistam e aceitem o fim!<$FFFE>
+Como é que é!?<$FFFC>Então eu vou lutar até o meu último suspiro!<$FFFE>
+Isso é grave! Se o Olver cair aqui, a Espada da Devastação nunca mais vai poder ser reforjada!<$FFFE>
+Essa porta não vai segurar eles por muito mais tempo...<$FFFE>
+Senhor <$F600><$0000>, se a gente não correr...<$FFFE>
+Acabou o tempo!<$FFFC>Pessoal, venham comigo agora!<$FFFE>
+BUAHAHA...<$FFFC>Nada melhor do que a sensação de encurralar uma presa.<$FFFE>
+Senhor <$F600><$0000>, a gente precisa correr!<$FFFC>Essa porta pode cair a qualquer segundo!<$FFFE>
+Eu sei...<$FFFE>
+Agora vou abrir o portão!<$FFFE>
+Bom... será que é hora de abrir a porta da casa e sair?<$FFFE>
+Bom... será que abro logo as duas portas?<$FFFE>
+Bom... será que é hora de abrir a porta da casa?<$FFFE>
+Bom... será que abro logo as duas portas?<$FFFE>
+Bom... será que é hora de abrir a porta da casa?<$FFFE>
+Bom... será que é hora de abrir a porta da casa?<$FFFE>
+Ufa, tô quebrado...<$FFFE>
+Senhor <$F600><$0000>.<$FFFC>O Lorde Olver finalmente chegou num lugar seguro.<$FFFE>
+Ótimo. Agora a gente só precisa varrer o inimigo daqui!<$FFFE>
+Tem um machado coberto de runas largado numa pequena clareira.<$FFFC>Quando você estende a mão pra pegar, uma voz misteriosa ecoa.<$FFFD>"Que tipo de poder você busca na batalha?"<$FFFE>
+O que vai responder?<$FFFE>
+Coragem<$FFFE>
+Fé<$FFFE>
+Vigor<$FFFE>
+"Então você não precisa do nosso poder."<$FFFD>Assim que a voz some, o machado também desaparece...<$FFFE>
+"Então você não precisa do nosso poder."<$FFFD>Assim que a voz some, o machado também desaparece...<$FFFE>
+"Então talvez você consiga controlar o nosso poder."<$FFFE>
+Você obteve o Machado Rúnico!<$FFFE>
+Malditos! Fugir usando teleporte é muita covardia!<$FFFE>
+Deixa eles com a gente!<$FFFC>Corra logo pro sul!<$FFFE>
+Foi mal pelo transtorno.<$FFFC>Vou fazer o que vocês dizem.<$FFFE>
+Não deixem ele fugir!<$FFFC>Derrubem aquele velho a qualquer custo!<$FFFE>
+Me perdoem, pessoal...<$FFFE>
+<$F600><$0000>...<$FFFE>
+Eu não fui forte o bastante...<$FFFE>
+Perdão, cheguei no meu limite...<$FFFE>
+Desculpem, não tem jeito...<$FFFE>
+Ué?<$FFFE>
+Me perdoem...<$FFFE>
+Ah, a luz...<$FFFE>
+O-o que tá acontecendo...?<$FFFE>
+Uuuh...<$FFFE>
+Que patético...<$FFFE>
+Eu estraguei tudo! Perdão, <$F600><$0000>!<$FFFE>
+É o meu fim...<$FFFE>
+Lorde Olver!<$FFFE>
+Droga! Chegamos tarde demais!<$FFFE>
+Hehehe! A nossa parte já tá feita.<$FFFC>Soldados, batam em retirada!<$FFFE>
+Tivemos umas perdas no caminho...<$FFFD>Mas a missão foi um sucesso no fim das contas.<$FFFC>Isso é o que importa.<$FFFD>Volto pra visitar vocês rapidinho.<$FFFC>Até lá, aproveitem o pouco de vida que ainda têm.<$FFFD>Kehehe...<$FFFE>
+Velho teimoso dos diabos!<$FFFE>
+Hrrgh... Esses demônios sabem brigar.<$FFFE>
+Meu Lorde Olver! O senhor tá bem!?<$FFFE>
+Hmph. Um bando de demônios de quinta categoria não vai me derrubar!<$FFFE>
+Isso é péssimo! Temos que mandar guardas pra proteger ele agora mesmo!<$FFFE>
+O-o que é isso...? E-eu tô mesmo morrendo...?<$FFFE>
+Hmph... Então eu morro aqui...<$FFFC>Mas, mesmo assim... o Lorde Böser vai...<$FFFC>Aaargh! Guh!<$FFFE>
+Tanto faz, meus bichinhos.<$FFFC>Façam a festa e toquem o terror no meu lugar...<$FFFC>Façam por mim... Guh!<$FFFE>
+Derrotamos o Rag, mas os demônios não param de vir!<$FFFE>
+Senhor <$F600><$0000>, os demônios ainda tão caçando o Olver.<$FFFE>
+De qualquer jeito, se isso continuar, as outras aldeias também vão pagar o pato.<$FFFE>
+Tsc. Não podemos deixar esses demônios à solta.<$FFFC>Acabem com a raça de todos eles!<$FFFE>
+Como ousa me atacar? Que ousadia, seu lixo humano!<$FFFD>Vou mostrar pra você a verdadeira força dos demônios!<$FFFE>
+Hehehe! A sua hora chegou!<$FFFE>
+Guaaah!<$FFFE>
+Malditos sejam!<$FFFC>Seus miseráveis de Elthlead!<$FFFE>
+Chega!<$FFFC>Saiam do meu caminho!<$FFFE>
+Não tem mais pra onde fugir!<$FFFC>Desistam!<$FFFE>
+O meu rosto lindo!?<$FFFE>
+Então é aqui que termina...<$FFFE>
+Grande Deus do Caos!<$FFFC>Eu te imploro, me salve!<$FFFE>
+GYAAAA!<$FFFE>
+GYAAAA!<$FFFE>
+O poder mágico...<$FFFE>
+Lorde do Caos!<$FFFE>
+É inútil resistir...<$FFFD>Aaargh!<$FFFE>
+GYAAAA!<$FFFE>
+GYAAAA!<$FFFE>
+VROOOM!<$FFFE>
+Derrotado por uns bichos tão fracos...<$FFFE>
+Por que eu fui derrotado!?<$FFFE>
+Eu tô morrendo...?<$FFFE>
+GYAAAA!<$FFFE>
+VROOOM!<$FFFE>
+VROOOM!<$FFFE>
+SHHIAAAARGH!<$FFFE>
+SHHIAAAARGH!<$FFFE>
+Agora só sobrou o Rag!<$FFFE>
+Acabou.<$FFFE>
+A gente pede pro Olver abrir o portão de fora?<$FFFE>
+Abrir agora ia ser arriscado demais.<$FFFC>Por favor, esperem só mais um pouco.<$FFFE>
+Certo.<$FFFE>
+A gente pede pro Olver abrir a porta da casa?<$FFFE>
+Sim, por favor.<$FFFE>
+Beleza. Lá vou eu de novo!<$FFFE>
+Por favor, esperem até a gente garantir uma rota de fuga.<$FFFE>
+Certo.<$FFFE>
+Sim, por favor.<$FFFE>
+Muito bem, vamos lá.<$FFFC>Todo mundo pra trás!<$FFFE>
+Hã?<$FFFE>
+N-não precisava arrombar desse jeito!<$FFFE>
+Não fica de frescura.<$FFFD>Com demônios caçando a minha cabeça, não dá pra ficar mocozado aqui pra sempre.<$FFFE>
+A gente pede pro Olver abrir a porta da casa?<$FFFE>
+Sim, por favor.<$FFFE>
+Muito bem, vamos lá.<$FFFC>Todo mundo pra trás!<$FFFE>
+Hã?<$FFFE>
+N-não precisava arrombar desse jeito!<$FFFE>
+Não fica de frescura.<$FFFD>Com demônios caçando a minha cabeça, não dá pra ficar mocozado aqui pra sempre.<$FFFE>
+Por favor, esperem até a gente garantir uma rota de fuga.<$FFFE>
+Certo.<$FFFE>
+Seu comando foi impecável, Lorde <$F600><$0000>.<$FFFE>
+Lorde <$F600><$0000>...<$FFFC>A batalha não pode se arrastar tanto assim.<$FFFD>Isso só vai atrapalhar o que vamos fazer a seguir...<$FFFE>
+Agora vamos bater em retirada depressa pra onde o Rei Sieghart tá!<$FFFE>
+O senhor é o Lorde Olver?<$FFFE>
+Sou eu. E quem são vocês?<$FFFE>
+A Lady Jéssica nos mandou aqui.<$FFFE>
+Enviados pela Lady Jéssica...<$FFFC>Entendi, entendi.<$FFFC>Conto com a ajuda de vocês.<$FFFE><$FFFF>
