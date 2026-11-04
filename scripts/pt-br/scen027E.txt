@@ -1,0 +1,169 @@
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, o Espadachim<$FFFF>
+Pieru<$FFFF>
+Sábio Fáberu<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+Príncipe Richard<$FFFF>
+Feraquia, a Feiticeira Metamorfa<$FFFF>
+Monstro<$FFFF>
+Comandante do Exército de Velzeria<$FFFF>
+・Derrote o falso Príncipe Richard<$FFFE>
+・Morte de <$F600><$0000><$FFFE>
+Mansão de Richard<$FFFF>
+Sou Ruin, príncipe do Reino de Elthlead.<$FFFC>Venho como mensageiro do Rei Sieghart.<$FFFE>
+Então vocês voltaram, usurpadores.<$FFFC>Como ousaram fazer o que bem quiseram, me deixando de lado?<$FFFE>
+Ué?<$FFFC>Aquele homem devia ter morrido quando o Império atacou.<$FFFE>
+Mas ele estava vivo, afinal.<$FFFC>E parece bem de saúde, o que é o melhor de tudo.<$FFFE>
+É mesmo! Tá estranho!<$FFFC>A gente viu aquele cara morrer com os nossos próprios olhos!<$FFFE>
+Então, o que ele é, afinal...<$FFFE>
+A Langrisser brilhou!?<$FFFE>
+Hmph, já que me descobriram, fazer o quê.<$FFFE>
+Eu ia matar vocês de qualquer jeito mesmo, então tanto faz se eu matar todo mundo aqui e agora!<$FFFE>
+Você!?<$FFFE>
+Finalmente a encontrei!<$FFFC>Feiticeira maldita!<$FFFE>
+Kirikaze!?<$FFFE>
+Hã?<$FFFC>Do que você tá falando?<$FFFE>
+Esqueceu o meu rosto!?<$FFFC>Sou Kirikaze, samurai de Wa, no Oriente!<$FFFE>
+Não deixarei sem vingança o rancor da minha pátria, destruída por você!<$FFFE>
+Kyahaha!<$FFFC>Que saudade você me traz!<$FFFE>
+Ah, então você é um sobrevivente daquele país!<$FFFE>
+Ah, é, agora lembrei!<$FFFC>Você é aquele que me encurralou daquele jeito, mas no fim não conseguiu proteger a vida do próprio senhor, né?<$FFFE>
+Aquela vez doeu bastante, sabia?<$FFFC>Que tal eu te pagar essa dívida agora!<$FFFE>
+Vou derrotá-la e vingar o pesar do meu senhor!<$FFFE>
+Aqui é perigoso, Ruin.<$FFFC>Vamos nos juntar aos nossos companheiros!<$FFFE>
+Sim!<$FFFE>
+Opa!<$FFFC>Isso é que vocês não vão!<$FFFE>
+Droga!<$FFFC>Fomos cercados.<$FFFE>
+Senhor <$F600><$0000>!<$FFFE>
+Já que chegamos a esse ponto, não tem jeito.<$FFFC>Vamos lutar com todas as nossas forças!<$FFFE>
+・Derrote Feraquia<$FFFE>
+・Morte de <$F600><$0000><$FFFE>
+HAHAHAHA!<$FFFC>Que situação lamentável!<$FFFD>E aí?<$FFFC>Gostaram dessa armadilha?<$FFFE>
+Maldita!<$FFFC>Já ouvi demais!<$FFFE>
+Senhor <$F600><$0000>.<$FFFD>O senhor Kirikaze perdeu a calma.<$FFFC>Se continuar assim, pode acabar morrendo.<$FFFD>Acho melhor que o senhor <$F600><$0000> dê as instruções.<$FFFE>
+Quer dar ordens ao Kirikaze?<$FFFE>
+Certo.<$FFFC>Eu mesmo dou as ordens.<$FFFE>
+Escute, Kirikaze!<$FFFC>Pode lutar aqui seguindo as minhas ordens?<$FFFE>
+Seguir as ordens do senhor <$F600><$0000>?<$FFFC>Entendido.<$FFFD>Porém, deixe que eu mesmo desfira o golpe final naquela mulher.<$FFFE>
+Kirikaze entrou para o grupo!<$FFFE>
+Não, tudo bem.<$FFFC>Acho que não vai ser necessário.<$FFFE>
+Entendido.<$FFFE>
+Ruin, chegou a hora de testar o poder da Langrisser!<$FFFE>
+Sim!<$FFFC>Pai, vamos lá!<$FFFE>
+Só este desenho está num lugar estranho.<$FFFE>
+Quer examiná-lo?<$FFFE>
+No centro do desenho, há uma linda pedra embutida.<$FFFE>
+Quer pegá-la?<$FFFE>
+Você obteve a Pedra do Herói!<$FFFE>
+Um barulho veio da direção sudeste...<$FFFE>
+Depois de observar um pouco, a linda pedra rachou...<$FFFE>
+Só este desenho está num lugar estranho.<$FFFE>
+Quer examiná-lo?<$FFFE>
+No centro do desenho, há uma pedra misteriosa que brilha em sete cores, embutida.<$FFFE>
+Quer pegá-la?<$FFFE>
+Você obteve a Pedra Rúnica!<$FFFE>
+Um barulho veio da direção noroeste...<$FFFE>
+Não posso cair aqui...<$FFFE>
+Tá doendo...<$FFFC><$F600><$0000>, me aju... da...<$FFFE>
+Pai...<$FFFE>
+Koti...<$FFFE>
+Desculpem, pessoal...<$FFFC>Já não aguento mais...<$FFFE>
+Ah...<$FFFE>
+Senhor <$F600><$0000>...<$FFFE>
+Ah, ó luz...<$FFFE>
+Sofia...<$FFFE>
+GRAAAAH!!<$FFFE>
+Grrr...<$FFFE>
+Droga, eu falhei!<$FFFE>
+Tch, que patético...<$FFFE>
+Heh, até que você manda bem.<$FFFC>Mas ainda falta muito.<$FFFE>
+Ah, o céu azul...<$FFFE>
+Q-que arrependimento...<$FFFE>
+Senhor <$F600><$0000>.<$FFFC>Talvez devêssemos ter deixado o senhor Kirikaze se vingar aqui...<$FFFE>
+Kirikaze, samurai de Wa.<$FFFC>Lá vou eu!<$FFFE>
+Q-que... que poder é esse da Espada da Devastação!?<$FFFE>
+...O Rag falhou, hein!<$FFFC>De qualquer forma, preciso avisar o Lorde Böser...<$FFFE>
+Espere!<$FFFC>A luta ainda não terminou!<$FFFE>
+Tch, ela escapou!?<$FFFE>
+...Maldita!<$FFFE>
+......Maldita!<$FFFE>
+Kirikaze.<$FFFE>
+<$F704><$FFFE>
+<$F705><$FFFE>
+<$F706><$FFFE>
+<$F704><$FFFE>
+<$F705><$FFFE>
+<$F706><$FFFE>
+Então não foi só este reino que sofreu nas mãos de Velzeria.<$FFFE>
+<$F707><$FFFE>
+<$F708><$FFFE>
+<$F707><$FFFE>
+<$F708><$FFFE>
+Certo.<$FFFC>Nós também vamos te ajudar.<$FFFE>
+Agradeço-lhes!<$FFFE>
+Agradeço-lhes!<$FFFE>
+Kirikaze entrou para o grupo!<$FFFE>
+Comando magnífico, Lorde <$F600><$0000>.<$FFFE>
+Lorde <$F600><$0000>...<$FFFC>Não se deve demorar demais numa batalha.<$FFFD>Isso afeta as ações seguintes...<$FFFE>
+Pessoal.<$FFFE>
+Se a gente não correr, vamos dar a Velzeria tempo pra bolar uma resposta.<$FFFE>
+Certo!<$FFFC>Vamos atrás dela logo!<$FFFE>
+Então vamos logo.<$FFFC>Se não formos rápidos, vamos dar tempo a eles.<$FFFC>Pessoal, vamos atrás dela!<$FFFE>
+Malditos humanos atrevidos!<$FFFE>
+Vamos, dancem a dança banhada de sangue!<$FFFE>
+GRAAAAH!<$FFFE>
+Minha forma no mundo material tá sumindo...<$FFFE>
+É o efeito da Espada da Devastação fortalecida!?<$FFFC>Se não fosse isso, eu jamais perderia...<$FFFD>Guah!<$FFFE>
+GRAAAAH!<$FFFE>
+Ó Deus...<$FFFE>
+Que uma grande desgraça caia sobre você!<$FFFE>
+Quer dizer que a magia das trevas não funciona!?<$FFFE>
+Perder assim... e agora... o que... eu... faço...<$FFFE>
+BOOOM!<$FFFE>
+BOOOM!<$FFFE>
+BOOOM!<$FFFE>
+GROOOOOAAAR!<$FFFE>
+Não consigo mais me mexer...<$FFFE>
+GRAAAAH!<$FFFE>
+As forças estão me abandonando...<$FFFE>
+GROOOOOAAAR!<$FFFE>
+Maldito seja!<$FFFE>
+UGH!<$FFFE>
+Até Lady Feraquia...<$FFFE>
+Acha que vai viver desafiando o poder das trevas!?<$FFFC>FUAHAHAHA...<$FFFD>Guh!<$FFFE>
+P-por quê...?<$FFFE>
+UGH!<$FFFE>
+Quem diria que tinham tanto poder...<$FFFE>
+Que a ruína recaia sobre você!<$FFFE>
+Guhf!<$FFFE>
+Por que conseguem lutar até esse ponto!?<$FFFC>De onde vem tanta força...<$FFFE>
+Urgh...<$FFFE>
+Guah!<$FFFE>
+Ora, ora!<$FFFC>Já morreram todos!?<$FFFD>Montei uma armadilha tão boa e não serviu pra nada!<$FFFE>
+Agora só resta você.<$FFFC>Prepare-se!<$FFFE>
+Quem você pensa que eu sou?<$FFFC>Um mero humano me derrotar é impossível.<$FFFE>
+Feiticeira, prepare-se!<$FFFE>
+Você veio de tão longe, do fim do Oriente, só pra me perseguir?<$FFFE>
+Não parece, mas você é bem insistente, hein?<$FFFE>
+Pode fazer piada enquanto ainda pode.<$FFFE>
+Mesmo que eu me entregue à carnificina, ao menos você eu hei de derrotar!<$FFFE>
+Hã!<$FFFC>Se for capaz, tente!<$FFFE>
+Logo você, um humano, acha que pode vencer um demônio!?<$FFFE>
+Antigamente, havia um país a quem eu servia.<$FFFE>
+Mas um exército de monstros comandado por aquela mulher invadiu, e meu país foi destruído.<$FFFE>
+Não consegui salvar nem meu senhor, nem minha família... nem minha esposa, nem meu único filho...<$FFFE>
+Lorde <$F600><$0000>!<$FFFC>Se vai agora para Velzeria, rogo que me permita acompanhá-lo!<$FFFE>
+Meu maior anseio é derrotar aquela feiticeira e vingar o meu senhor!<$FFFE><$FFFF>

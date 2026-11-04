@@ -53,7 +53,8 @@ Este documento registra o fluxo de trabalho para continuar o projeto com consist
 - Cenário 24: revisado, aprovado e publicado após aprovação explícita de Miruma.
 - Cenário 25: revisado, aprovado e publicado após aprovação explícita de Miruma.
 - Cenário 26: revisado, aprovado e publicado após aprovação explícita de Miruma.
-- Cenário 27: próximo da fila; manter como rascunho até revisão e aprovação explícita de Miruma.
+- Cenário 27: revisado, aprovado e publicado após aprovação explícita de Miruma.
+- Cenário 28: próximo da fila; manter como rascunho até revisão e aprovação explícita de Miruma.
 
 ## Regras técnicas e de qualidade
 
@@ -82,4 +83,4 @@ Este documento registra o fluxo de trabalho para continuar o projeto com consist
 
 ## Próximo passo de tradução
 
-Retomar o cenário 27 na ordem, preparar um rascunho para revisão de Miruma e aguardar aprovação antes de publicar qualquer arquivo ou atualizar seu status como aprovado.
+Retomar o cenário 28 na ordem, preparar um rascunho para revisão de Miruma e aguardar aprovação antes de publicar qualquer arquivo ou atualizar seu status como aprovado.
