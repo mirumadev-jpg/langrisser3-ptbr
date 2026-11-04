@@ -1,0 +1,197 @@
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, o Espadachim<$FFFF>
+Pieru<$FFFF>
+Sábio Fáberu<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+General Fana<$FFFF>
+Rei Sieghart<$FFFF>
+Comandante do Exército de Rigúlia<$FFFF>
+Comandante do Exército de Elthlead<$FFFF>
+Mestre dos Insetos Rag<$FFFF>
+Monstro<$FFFF>
+・Derrote todos os inimigos<$FFFE>
+・Morte de <$F600><$0000><$FFFC>・Morte de Sieghart<$FFFE>
+Capital de Elthlead, Larcássia — diante das muralhas do castelo<$FFFF>
+Eu nunca imaginei que perderíamos tantos soldados...<$FFFD>Mas Elthlead já tá praticamente de joelhos.<$FFFC>O único problema que sobrou...<$FFFE>
+Senhor, nossas tropas já tão a postos.<$FFFE>
+Muito bem.<$FFFE>
+Lorde Raymond... não, Rei Sieghart.<$FFFC>Hoje a gente acerta essas contas de uma vez por todas.<$FFFE>
+Tá preparado?<$FFFE>
+Por que o Império faz tanta questão de conquistar o nosso país?<$FFFE>
+Rei Sieghart.<$FFFC>Você não sabe qual é a verdadeira situação do Império de Rigúlia?<$FFFE>
+O nosso império tem o maior território do mundo.<$FFFC>É natural que a nossa população seja muito maior do que a dos outros países.<$FFFE>
+Mas quase todo esse território tá coberto por terras congeladas, onde nada cresce.<$FFFE>
+Se a coisa continuar assim, grande parte do nosso povo vai morrer de fome.<$FFFE>
+Buscar terras mais férteis pro nosso povo é uma necessidade de sobrevivência.<$FFFE>
+Com tantos recursos minerais no Império, vocês não poderiam conseguir comida através do comércio?<$FFFE>
+Os minérios vão acabar um dia.<$FFFE>
+Mesmo que a gente consiga alimentar o povo agora, as terras pra acomodar uma população que não para de crescer são limitadas.<$FFFE>
+A ordem pública cairia, o que abriria brecha pros outros países nos atacarem.<$FFFE>
+Isso não justifica uma guerra de invasão... É uma pura tolice.<$FFFE>
+Quem nasce em terras férteis como vocês jamais entenderia isso.<$FFFE>
+Eu também não desejo uma guerra de conquista.<$FFFE>
+Mas não posso virar as costas pro império que o meu pai protegeu, nem pro meu povo.<$FFFE>
+Eu consigo entender o que você sente.<$FFFE>
+Mas eu também sou o rei de uma nação.<$FFFC>Eu preciso proteger a vida do meu povo.<$FFFE>
+Então vem me enfrentar!<$FFFE>
+É exatamente o que eu quero.<$FFFE>
+Chegamos a tempo!<$FFFE>
+Senhor, são os reforços inimigos!<$FFFE>
+Será que são as tropas que tavam em expedição e voltaram?<$FFFE>
+Não temos por que temer soldados exaustos como esses.<$FFFC>Vamos seguir com o plano.<$FFFE>
+Fana, assuma o comando da retaguarda e acabe com esses recém-chegados.<$FFFE>
+Entendido.<$FFFE>
+<$F600><$0000>, parece que o inimigo dividiu as tropas em duas pra manter o ataque.<$FFFE>
+Então a gente conseguiu reduzir as tropas de cerco.<$FFFC>Valeu a pena correr até aqui.<$FFFE>
+Mas, se eles passarem da ponte, vão invadir o castelo.<$FFFE>
+Só porque a gente chegou a tempo não quer dizer que dá pra relaxar!<$FFFE>
+Verdade.<$FFFE>
+Sei que tão todos cansados, mas aguentem firme!<$FFFE>
+A gente tava a um triz de ver Elthlead cair...<$FFFE>
+Então esse é o famoso <$F600><$0000>.<$FFFC>O cara derrotou o Bortz e o Emarinku, então não podemos baixar a guarda.<$FFFD><$F600><$0000>...<$FFFC>Você escolheu uma péssima hora pra atrapalhar os nossos planos.<$FFFE>
+A cavalaria vai bater de frente com a retaguarda deles.<$FFFC>A força aérea vai dar apoio lá de cima.<$FFFE>
+Entendido.<$FFFE>
+Deixa com a gente.<$FFFE>
+A partir de agora, o nosso alvo é um só:<$FFFC>os monstros de Velzeria!<$FFFE>
+Pessoal, sigam o senhor!<$FFFE>
+O mundo dos humanos deve ser protegido pelas mãos dos próprios humanos!<$FFFC>Agora não é hora pra ficarmos brigando entre nós!<$FFFE>
+Pessoal, vamos varrer esses monstros daqui!<$FFFE>
+Fana, vamos!<$FFFE>
+Sim, senhor!<$FFFE>
+Ataquem! É só derrubar o Sieghart!<$FFFE>
+Não deixem nenhum inimigo passar!<$FFFC>Empurrem eles pra trás!<$FFFE>
+Prepare-se, Rei Sieghart! Eu vou levar a sua cabeça!<$FFFE>
+Não ache que vai me derrubar tão fácil assim!<$FFFE>
+No topo da montanha tem uma clareira onde começa um bosque.<$FFFD>Bem no meio, tem uma única árvore enorme.<$FFFC>E tem uma flecha cravada fundo no tronco.<$FFFE>
+O que você vai fazer?<$FFFE>
+Cortar a flecha<$FFFE>
+Puxar a flecha<$FFFE>
+Quebrar a flecha<$FFFE>
+Com cuidado, você corta a flecha usando uma lâmina.<$FFFE>
+Você obteve a Flecha do Destino!<$FFFE>
+Você tenta puxar a flecha com toda a força, mas ela quebra no meio...<$FFFE>
+Com um estalo seco, a flecha se quebrou.<$FFFE>
+Ainda tenho...<$FFFC>coisas pra resolver...<$FFFE>
+Então você é o <$F600><$0000>.<$FFFC>Vou fazer você pagar por tudo o que fez aos meus homens!<$FFFE>
+Então você é o <$F600><$0000>.<$FFFC>Vou fazer você pagar por tudo o que fez aos meus homens!<$FFFE>
+Papai...<$FFFE>
+Me perdoem, pessoal...<$FFFE>
+Sinto muito, cheguei no meu limite...<$FFFE>
+Desculpem, não aguento mais...<$FFFE>
+Ué?<$FFFE>
+Perdão...<$FFFE>
+Lushiris... minha deusa...<$FFFE>
+Argh... O resto é com vocês...<$FFFC>Conto com vocês...<$FFFE>
+Argh...<$FFFE>
+Que patético...<$FFFE>
+Droga! Eu estraguei tudo!<$FFFE>
+Argh! Eu... preciso proteger...<$FFFC>este país... Guh!<$FFFE>
+Papai...<$FFFE>
+Rei Sieghart...<$FFFE>
+Eu não vou deixar que nenhum demônio ponha os pés em Elthlead!<$FFFE>
+Aaargh!<$FFFE>
+A gente precisa proteger o rei...<$FFFE>
+O-o quê!? Como eu fui perder pra uns monstros imundos desses...?<$FFFE>
+Senhor! Por favor, recue.<$FFFC>Deixe o resto comigo!<$FFFE>
+Me perdoe, Fana.<$FFFE>
+Então esse é o exército do <$F600><$0000>...<$FFFC>Vocês são bons!<$FFFE>
+Eu vou acabar com você!<$FFFE>
+Não é porque eu sou mulher que eu não vou cortar quem entrar no meu caminho!<$FFFE>
+Que piada...<$FFFE>
+Não vou deixar que vocês façam o que bem entendem com a humanidade!<$FFFE>
+Argh... Aaargh...<$FFFE>
+Fana! Retire-se!<$FFFC>Batam em retirada!<$FFFE>
+M-mas, senhor...<$FFFE>
+Com esse ferimento, você não vai conseguir lutar direito.<$FFFC>Vá até o sacerdote e cuide disso.<$FFFD>É uma ordem, Fana.<$FFFC>Eu não posso perder você.<$FFFE>
+Me perdoe, senhor...<$FFFE>
+Agora vocês vão conhecer a força do Exército Imperial!<$FFFE>
+Q-que força...<$FFFE>
+A glória é toda minha!<$FFFE>
+S-senhor...<$FFFE>
+Guh!<$FFFE>
+Aaargh!<$FFFE>
+Eu não quero isso...<$FFFE>
+Senhor, me perdoe...<$FFFE>
+P-por quê...?<$FFFE>
+Argh...<$FFFE>
+E-eu perdi?<$FFFE>
+Como eu temia, nem o Império nem Elthlead vão cair tão fácil.<$FFFD>De qualquer forma, preciso avisar ao Lorde Böser...<$FFFE>
+Sofra até a morte!<$FFFE>
+Que insolência!<$FFFE>
+Imperdoável...<$FFFE>
+VROOOM!<$FFFE>
+VROOOM!<$FFFE>
+VROOOM!<$FFFE>
+SHHIAAAARGH!<$FFFE>
+SHHIAAAARGH!<$FFFE>
+SHHIAAAARGH!<$FFFE>
+GRROOARRGGH!<$FFFE>
+GRROOARRGGH!<$FFFE>
+I-isso não pode ser!?<$FFFE>
+SWOOOOOSH!<$FFFE>
+SWOOOOOSH!<$FFFE>
+SWOOOOOSH!<$FFFE>
+VROOOM!<$FFFE>
+O quê? Eles derrotaram todo mundo!?<$FFFC>Será que eu subestimei demais esses reles humanos...?<$FFFE>
+Muito bem, limpamos todos os demônios daqui.<$FFFE>
+Seu comando foi impecável, senhor <$F600><$0000>.<$FFFE>
+Senhor <$F600><$0000>...<$FFFC>A gente não pode deixar a batalha se estender desse jeito.<$FFFD>Isso vai atrapalhar os nossos próximos passos...<$FFFE>
+Se as pessoas dessem as mãos, nenhum monstro assustaria a gente.<$FFFC>Então por que continuamos brigando...?<$FFFE>
+Mas o Império não é mais nosso inimigo, não é?<$FFFE>
+Aquele cara... o Altemüller... agora é do nosso lado...<$FFFE>
+Aquele cara... o Altemüller... agora é do nosso lado...<$FFFE>
+É, mas provavelmente isso não vai durar muito.<$FFFE>
+De qualquer forma, enfraquecer o inimigo sempre é a melhor tática.<$FFFE>
+Rei Sieghart, obrigado por aceitar a nossa trégua.<$FFFE>
+Os monstros já eram.<$FFFC>Agora vamos assinar esse tratado.<$FFFE>
+O-o quê!?<$FFFE>
+Os monstros de Velzeria tão aqui!?<$FFFE>
+Ué? Não só Elthlead, mas o Exército Imperial também tá aqui?<$FFFD>Heh, tanto faz.<$FFFC>Vou esmagar todos de uma vez enquanto tenho a chance.<$FFFE>
+De novo!? Assim não dá nem pra lutar em paz!<$FFFE>
+Primeiro o Império, e agora Velzeria...<$FFFE>
+...Rei Sieghart!<$FFFE>
+O que foi?<$FFFE>
+Queria propor uma trégua.<$FFFE>
+Senhor!?<$FFFE>
+Os monstros de Velzeria são um inimigo de toda a humanidade.<$FFFC>A gente pode deixar a nossa briga pra depois que eles forem pro buraco.<$FFFE>
+E então?<$FFFC>Você topa?<$FFFE>
+Me dê um tempo pra pensar.<$FFFE>
+Quer dar a sua opinião?<$FFFE>
+Devemos aceitar a trégua<$FFFE>
+Eu acho que a guerra tem que ir até o fim<$FFFE>
+Ficar em silêncio<$FFFE>
+Agora não é hora da gente ficar brigando entre nós.<$FFFD>A gente precisa se unir e varrer todos esses monstros daqui!<$FFFE>
+...Com certeza.<$FFFE>
+Agora não é hora da gente se matar.<$FFFC>Eu aceito a sua proposta.<$FFFE>
+Talvez não seja a hora da gente brigar entre nós.<$FFFD>Mas mesmo assim, não dá pra confiar no povo de Rigúlia!<$FFFE>
+Senhor <$F600><$0000>!?<$FFFE>
+...Não. A gente vai fechar esse tratado.<$FFFC>Você tem ideia do que ia acontecer se a gente continuasse lutando aqui?<$FFFD>Se Elthlead e Rigúlia se destruírem, Velzeria vai ter a brecha perfeita.<$FFFD>Aí o mundo inteiro vai cair nas mãos dos monstros.<$FFFC>Não podemos correr esse risco.<$FFFE>
+Senhor <$F600><$0000>.<$FFFC>O Rei Sieghart tá certo.<$FFFD>Nós, humanos, não podemos ficar nos matando agora.<$FFFE>
+Marechal Altemüller.<$FFFC>Eu aceito a sua proposta.<$FFFE>
+...Com certeza.<$FFFE>
+Agora não é hora da gente se matar.<$FFFC>Eu aceito a sua proposta.<$FFFE>
+Heh, foi bem rápido.<$FFFE>
+Ouviram o rei. A partir de agora, estamos em trégua com Elthlead.<$FFFE>
+Daqui pra frente, vamos lutar junto com Elthlead pra esmagar os demônios!<$FFFE>
+Sim, senhor!<$FFFE>
+A gente vai cooperar com o Império!?<$FFFE>
+Lutar contra Velzeria do lado do Império...<$FFFC>Ainda assim, provavelmente é a decisão certa.<$FFFE>
+Com certeza. As forças das trevas são o nosso inimigo em comum.<$FFFE>
+Ficar brigando entre nós é pura burrice.<$FFFE>
+Derrotar o inimigo não é a única tática na guerra.<$FFFC>Buscar ajuda de aliados também é uma estratégia excelente.<$FFFE>
+Não importa o quanto vocês se juntem, não passam de uma ralé.<$FFFC>A nossa vitória das trevas é certa.<$FFFE>
+<$F600><$0000>!<$FFFC>Chegou a sua hora de morrer!<$FFFE>
+Eu não vou cair tão fácil!<$FFFE><$FFFF>
