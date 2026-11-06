@@ -1,0 +1,208 @@
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, o Espadachim<$FFFF>
+Pieru<$FFFF>
+Sábio Fáberu<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+Böser<$FFFF>
+Anna<$FFFF>
+General Fana<$FFFF>
+Comandante do Exército de Velzeria<$FFFF>
+Monstro<$FFFF>
+Sieghart<$FFFF>
+・Derrote Böser<$FFFE>
+・Morte de <$F600><$0000><$FFFC>・Morte de Anna, irmã de Fana<$FFFE>
+Castelo de Velzeria, Subsolo<$FFFF>
+Feraquia e Grove também parecem ter caído.<$FFFE>
+Então você é o Böser!<$FFFE>
+Exato. Meu nome é Böser.<$FFFC>Rei de Velzeria e herdeiro da Espada Demoníaca Alhazard.<$FFFE>
+Alguns humanos já me chamaram assim:<$FFFC>o Príncipe das Trevas.<$FFFE>
+Foi você quem ordenou aos seus subordinados que atacassem a minha pátria!<$FFFE>
+Oho, essa vestimenta...<$FFFC>Há alguns anos destruí um país por diversão. Você é um sobrevivente de lá?<$FFFE>
+Por diversão!?<$FFFE>
+Exatamente.<$FFFC>Era só diversão, por isso apenas destruí, sem ocupar o território.<$FFFD>Um fim de mundo no Oriente não vale nada.<$FFFE>
+Grrr, não o perdoarei, Böser!<$FFFE>
+Pessoal, vamos lutar!<$FFFC>Não podemos deixar este mundo cair nas mãos de quem destrói a paz por diversão!<$FFFE>
+É isso aí!<$FFFC>Sinta na pele o poder de nós, humanos, Böser!<$FFFE>
+Hehehe, vou lhes mostrar o quão terrível é Alhazard!<$FFFE>
+Em nome de Böser, reconhecido por Alhazard, apareçam, meus servos!<$FFFE>
+Impossível!<$FFFC>Até agora não havia nem sinal deles!<$FFFE>
+Ao que parece, não estavam escondidos, e sim convocados, hein.<$FFFE>
+Arquidemônios, e até Bahamuts.<$FFFC>São todos monstros que dizem ser difíceis até de invocar.<$FFFE>
+E conseguir invocar tantos de uma só vez... nunca ouvi falar disso.<$FFFE>
+Pessoal, esse é o poder de Alhazard.<$FFFE>
+Alhazard escolhe o seu mestre por vontade própria, e todos os demônios juram lealdade a ele.<$FFFE>
+Essa lealdade concede um poder imenso ao mestre.<$FFFC>Dizem que esse poder é infinito.<$FFFE>
+Oho.<$FFFC>Essa mulher parece conhecer bem esta espada demoníaca.<$FFFC>Não é à toa que a chamam de avatar de Lushiris.<$FFFE>
+Parece que eu devia ter matado você primeiro, mesmo que isso causasse um certo alvoroço.<$FFFE>
+Que pena para você, Böser.<$FFFC>Em nome da Lady Lushiris, eu irei derrotá-lo.<$FFFC>Essa é a minha missão.<$FFFE>
+Hmph.<$FFFC>Avatar de Lushiris ou não, no fim é só um ser com corpo humano.<$FFFC>Nada a temer.<$FFFE>
+Vamos, venham!<$FFFE>
+Quem precisa de refém pra se manter vivo não tem chance de vencer.<$FFFD>Que tal desistir, Böser?<$FFFE>
+Um mero humano zomba de mim?<$FFFC>Você vai se arrepender!<$FFFE>
+Ora...<$FFFC>Mal posso esperar.<$FFFE>
+Mana!<$FFFE>
+Anna!<$FFFC>Aguente só mais um pouco!<$FFFC>Eu vou te salvar logo!<$FFFE>
+Por favor, parem!<$FFFC>Minha irmã também vai ser morta!<$FFFE>
+Hehehe.<$FFFC>Aquela mulher não é capaz de abandonar você.<$FFFD>Humanos são mesmo criaturas tolas...<$FFFE>
+Hmph!<$FFFC>Pode continuar rindo e se achando, por enquanto!<$FFFE>
+Matem-nos!<$FFFE>
+GRAAAH!<$FFFE>
+Vamos cercá-los!<$FFFE>
+SHIAAAH!<$FFFE>
+Vocês vão pagar por me insultar!<$FFFC>Com o sangue daquela garotinha!<$FFFE>
+Esforço inútil...<$FFFE>
+Mostrem aos humanos tolos o poder das trevas!<$FFFC>Vão!<$FFFE>
+GAH!<$FFFE>
+Ao olhar dentro do buraco, você vê uma pena flutuando.<$FFFC>Mas parece estar fora do seu alcance.<$FFFE>
+O que você faz?<$FFFE>
+Cutucar com uma arma<$FFFE>
+Pular no buraco<$FFFE>
+Soprar nela<$FFFE>
+Ao cutucar com a arma, a pena se desfez em pedacinhos...<$FFFE>
+Você pulou no buraco e pegou a pena; com o poder dela, o seu corpo começou a flutuar.<$FFFE>
+Você obteve as Asas Celestiais!<$FFFE>
+A pena foi levada para longe e sumiu de vista...<$FFFE>
+Ao olhar dentro do buraco, você vê um ovo grande flutuando.<$FFFE>
+Quer pegar o ovo?<$FFFE>
+Você conseguiu pegar o ovo sem problemas.<$FFFE>
+O que fazer com o ovo?<$FFFE>
+Comer<$FFFE>
+Tentar quebrar<$FFFE>
+Guardar com cuidado<$FFFE>
+<$F600><$FFFC>ganhou +1 de Força!<$FFFE>
+Você tentou quebrar o ovo, mas só escorreu uma gosma por dentro...<$FFFE>
+Você obteve o Ovo Ancestral!<$FFFE>
+O ovo afundou em silêncio até o fundo do buraco...<$FFFE>
+Desista, Böser!<$FFFC>Você não tem chance de vencer!<$FFFE>
+Cale a boca!<$FFFC>Insetos desprezíveis!<$FFFD>Vamos destruir vocês, humanos, e criar um mundo governado pelos demônios!<$FFFE>
+Isso eu jamais permitirei!<$FFFE>
+Não posso cair aqui...<$FFFE>
+Dói, dói~!<$FFFE>
+Pai...<$FFFE>
+Koti...<$FFFE>
+Desculpem, pessoal...<$FFFC>Já não aguento mais...<$FFFE>
+Ah...<$FFFE>
+Senhor <$F600><$0000>...<$FFFE>
+Ah, ó luz...<$FFFE>
+Sofia...<$FFFE>
+Grrr...<$FFFE>
+Droga, eu falhei!<$FFFE>
+Tch, que patético...<$FFFE>
+Ah, o céu azul...<$FFFE>
+Q-que arrependimento...<$FFFE>
+Pelo meu senhor, por Osuzu e por todos os que você matou, eu derrotarei você!<$FFFC>Prepare-se, Böser!<$FFFE>
+FUAHAHAHA!<$FFFC>Por mais que você se debata, é impotente diante do meu poder!<$FFFC>Vou fazê-lo sentir isso na pele!<$FFFE>
+N-não pode ser!?<$FFFE>
+É só isso o seu poder?<$FFFD>Diante do poder das trevas, humanos não passam de lixo.<$FFFC>FUAHAHAHA...<$FFFE>
+Maldito Böser!<$FFFC>Não vou perdoar!<$FFFE>
+Hmph.<$FFFC>Teria sido melhor você ter morrido em silêncio.<$FFFE>
+Eu não acreditava que você devolveria Anna sem criar problemas.<$FFFD>Foi pensando em Fana que eu não podia morrer!<$FFFE>
+Então eu mesmo mato você aqui e agora!<$FFFC>Se você tivesse morrido, o meu plano teria sido perfeito!<$FFFE>
+Hehehe.<$FFFC>Quer experimentar o poder de Alhazard?<$FFFE>
+Anna...<$FFFE>
+M-mana!<$FFFE>
+Desculpa... mas, com certeza, a ajuda vai chegar até você.<$FFFD>Por isso, não desista até o último instante...<$FFFE>
+Não atrapalhe!<$FFFE>
+Böser!<$FFFC>Prepare-se!<$FFFE>
+I-impossível...<$FFFC>Eu, o herdeiro de Alhazard... não pode ser...<$FFFE>
+Você obteve Alhazard!<$FFFE>
+Comando magnífico, Lorde <$F600><$0000>.<$FFFE>
+Lorde <$F600><$0000>...<$FFFC>Não se deve demorar demais numa batalha.<$FFFD>Isso afeta as ações seguintes...<$FFFE>
+Excelência!<$FFFE>
+Você evoluiu, <$F600><$0000>.<$FFFC>Parece que a minha ajuda nem era necessária.<$FFFE>
+Altemüller?<$FFFC>Você estava vivo?<$FFFE>
+Sim.<$FFFD>Mas, mais importante: a irmã de Fana está bem?<$FFFE>
+Graças a todos vocês, ela está sã e salva.<$FFFE>
+Excelência, e <$F600><$0000> e todos os outros... como poderei agradecer...<$FFFE>
+Anna, você não se feriu?<$FFFE>
+Muito obrigada, Lorde Altemüller.<$FFFE>
+Muito obrigada.<$FFFC>Graças a todos vocês, escapei com vida.<$FFFE>
+Parece que este é o fim de Velzeria também.<$FFFD>Os monstros não devem invadir por um bom tempo.<$FFFE>
+Esse é o poder de Alhazard?<$FFFE>
+Esse é o poder da Espada da Devastação fortalecida...?<$FFFE>
+Que logo eu não consiga vencer...<$FFFE>
+GUGAAAAAH!<$FFFE>
+Lorde Böser...<$FFFE>
+Guh!<$FFFE>
+Lorde Caos.<$FFFC>Eu me entrego ao senhor...<$FFFE>
+GUOOOOOH!<$FFFE>
+É o fim...<$FFFE>
+Já não tenho mais forças...<$FFFE>
+GAAAAH!<$FFFE>
+GAAAAH!<$FFFE>
+GAAAAH!<$FFFE>
+GAAAAH!<$FFFE>
+Não era pra ser assim...<$FFFE>
+S-são fortes...<$FFFE>
+Mentira...<$FFFC>Eu morrer... com certeza é men... ti... ra...<$FFFE>
+Guhf!<$FFFE>
+UUUGH!<$FFFE>
+Ah...<$FFFC>Não dá mais...<$FFFE>
+Maldição...<$FFFE>
+UUUGH!<$FFFE>
+BOOOM!<$FFFE>
+GUISHIAAAH!<$FFFE>
+GUISHIAAAH!<$FFFE>
+BOOOM!<$FFFE>
+Meros humanos desafiando a mim?<$FFFC>Então amaldiçoem a sua própria impotência!<$FFFE>
+Kyaaah!<$FFFC>M... mana...<$FFFE>
+Anna!!<$FFFE>
+Kyaaah!<$FFFE>
+FUAHAHAHA!<$FFFC>AHAHAHAHA!<$FFFE>
+Maldito Böser!<$FFFE>
+Droga... não conseguimos salvá-la...<$FFFE>
+Eu te achei, Böser!<$FFFE>
+Fana?<$FFFE>
+Devolva a minha irmã, a Anna!<$FFFE>
+Ora, ora... quem aparece é o próprio assassino de Altemüller.<$FFFE>
+O que você disse?<$FFFE>
+Cale a boca!<$FFFC>Devolva a Anna, como você prometeu!<$FFFE>
+Tão ansiosa para vê-la?<$FFFC>A sua irmã está bem aqui!<$FFFE>
+M-mana!<$FFFE>
+A-Anna!<$FFFD>...Böser!<$FFFC>Solte a Anna!<$FFFE>
+Mulher tola.<$FFFC>Achou mesmo que eu cumpriria uma promessa feita a um mero humano!?<$FFFE>
+Maldição!<$FFFC>...Böser!<$FFFE>
+Então a irmã dela tinha sido feita refém.<$FFFE>
+Mas, por causa disso, ela acabou tendo que ir contra Altemüller...<$FFFE>
+Ela foi ameaçada para que matasse Altemüller...<$FFFE>
+Eu não tenho ninguém no mundo, então não consigo sentir direito, mas deve ter sido duro.<$FFFE>
+...Vamos salvá-la.<$FFFC>Se a irmã de Fana também morrer aqui, Altemüller jamais descansará em paz.<$FFFE>
+É exatamente isso!<$FFFE>
+A dor de ter o próprio sangue usado como escudo...<$FFFC>Não o perdoarei, Böser!<$FFFE>
+Bom, muito bom!<$FFFC>A escuridão dos seus sentimentos está fluindo para dentro de Alhazard!<$FFFE>
+Chegaram até aqui, hein.<$FFFC>Não é à toa que derrotaram os meus Três Generais Demoníacos.<$FFFE>
+Mas eu tenho uma carta na manga.<$FFFE>
+!?<$FFFE>
+Se continuarem me desafiando, a vida daquela garota estará perdida, entendem?<$FFFE>
+M-mana...<$FFFE>
+Anna!<$FFFE>
+Droga, usar uma refém...<$FFFE>
+Não há o que temer.<$FFFE>
+Quem está aí!?<$FFFE>
+Parece que cheguei a tempo.<$FFFE>
+Excelência!<$FFFE>
+Como pode ser...? Você tinha sido morto por Fana...<$FFFE>
+Fana!<$FFFC>Você me traiu!<$FFFE>
+Você é que é burro.<$FFFC>Prepare-se, Böser!<$FFFE>
+Altemüller?<$FFFC>Você estava vivo?<$FFFE>
+Os detalhes ficam para depois.<$FFFC>Primeiro, vamos derrotar este aqui!<$FFFE>
+Sendo assim... Böser, não adianta mais usar refém!<$FFFE>
+...Hehehe, HAHAHAHA!<$FFFC>Esqueceram que eu possuo Alhazard!?<$FFFE>
+Você se agarra ao poder até o fim.<$FFFC>...Tolo Böser.<$FFFE>
+Pai!?<$FFFE>
+Com o meu poder, eu selarei o poder de Alhazard.<$FFFE>
+O quê...? O poder de Alhazard está se esvaindo...<$FFFE>
+Agora!<$FFFC>Vamos derrotá-lo de uma vez só!<$FFFE><$FFFF>
