@@ -1,0 +1,229 @@
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, o Espadachim<$FFFF>
+Pieru<$FFFF>
+Sábio Fáberu<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+Ruud<$FFFF>
+Cavaleiro Negro<$FFFF>
+Comandante do Exército de Barral<$FFFF>
+・Derrote todos os inimigos<$FFFE>
+・Morte de <$F600><$0000><$FFFC>・Destruição da comporta<$FFFE>
+Nelfas, Cidade à Beira do Rio<$FFFF>
+Senhor Cavaleiro Negro.<$FFFC>Quer dizer que vai tomar esta cidade?<$FFFE>
+Exato.<$FFFE>
+Não me parece que esta cidade valha tanto assim.<$FFFE>
+Apesar de ficar no interior, a cidade é grande.<$FFFC>Se a tomarmos, poderemos exibir o poder de Barral.<$FFFE>
+No fim, basta exibirmos o nosso poder.<$FFFC>A utilidade dela a gente pensa depois.<$FFFE>
+E, acima de tudo, o Rei Wilder deseja que o continente conheça o poder de Barral.<$FFFE>
+Sendo assim, precisamos mostrar isso de forma rápida e eficaz, não é?<$FFFE>
+Exato.<$FFFC>Se destruirmos a comporta, tudo se resolve de uma só vez.<$FFFE>
+Entendo, então vão inundá-la.<$FFFC>A cidade foi construída à beira do rio, e o terreno ainda fica mais baixo que ele.<$FFFE>
+Mas assim não vai restar nada...<$FFFE>
+Chega de conversa fiada. Passe logo à operação.<$FFFE>
+...O que está fazendo, Ruud.<$FFFE>
+......<$FFFE>
+...Ordem a todas as tropas!<$FFFC>Vamos destruir a comporta agora.<$FFFC>Posicionar em primeira formação!<$FFFE>
+Entendido!<$FFFE>
+Esperem!<$FFFC>Não vamos deixar vocês fazerem isso!<$FFFE>
+Já voltou a dar as caras, sem vergonha nenhuma, Cavaleiro Negro!<$FFFE>
+General Diós...<$FFFE>
+Ruud?<$FFFB><$FFFC>...Faz tempo.<$FFFE>
+Mudar para formação de interceptação.<$FFFD>Ruud, comande as tropas da linha de frente e segure o inimigo.<$FFFC>Unidades móveis, contornem o inimigo.<$FFFE>
+Entendido.<$FFFE>
+<$FE14>...<$FE1E>...<$FE1E>...<$FFFE>
+O que está fazendo, Ruud!<$FFFD>Mesmo sendo o seu antigo superior, agora ele é um traidor.<$FFFC>Então só resta derrubá-lo.<$FFFB><$FFFC>...Vamos.<$FFFE>
+Prepare-se, Cavaleiro Negro!<$FFFE>
+Vocês é que deviam se preparar.<$FFFC>Agora eu mesmo vou mandar vocês pro mundo dos mortos.<$FFFE>
+Já falou demais!<$FFFE>
+Gerold...<$FFFB><$FFFC>Por que o Gerold...<$FFFE>
+Descobri o objetivo do inimigo!<$FFFC>Eles estão mirando a comporta desta cidade!<$FFFE>
+O quê!?<$FFFC>Se a comporta for destruída, essa cidade vai ficar toda debaixo d'água!<$FFFE>
+Eu sei.<$FFFB><$FFFC>Isso eu não vou deixar de jeito nenhum!<$FFFE>
+O quê!?<$FFFB><$FFFC>Isso eu não vou deixar de jeito nenhum!<$FFFE>
+Se a comporta for destruída, esta cidade vai ficar submersa.<$FFFE>
+Eu sei.<$FFFB><$FFFC>Isso eu não vou deixar!<$FFFE>
+Senhor Diós.<$FFFC>Talvez eu realmente estivesse errado.<$FFFD>O nosso objetivo é destruir a comporta e inundar esta cidade.<$FFFE>
+O quê!?<$FFFD>Droga!<$FFFC>Até onde Barral pretende se rebaixar!?<$FFFE>
+...Fazer o mundo temer Barral.<$FFFC>Esse é o propósito desta operação, e é o desejo do rei.<$FFFE>
+Que absurdo!?<$FFFC>Um exército feito pra proteger as pessoas vai massacrar civis, mesmo que de um país inimigo?<$FFFD>Se inundarem, essa cidade vai...<$FFFE>
+Ruud.<$FFFC>Você entende o que fez?<$FFFD>Vazar a operação para o inimigo é considerado traição.<$FFFE>
+Senhor Ruud!?<$FFFC>Tem noção do que fez?<$FFFD>O senhor vazou o nosso plano ao inimigo!?<$FFFE>
+...Eu sei muito bem.<$FFFE>
+Se o fez de propósito, não há justificativa possível.<$FFFD>Vou tratá-lo como traidor!<$FFFE>
+......Então agora eu também sou um traidor...<$FFFE>
+Parece que a linha de frente entrou em combate!<$FFFE>
+Nós também vamos.<$FFFE>
+Sim, senhor!<$FFFE>
+Não imaginei que fossem tão longe...<$FFFE>
+...<$FFFC>Será que eu estou mesmo vivendo do jeito certo, como pessoa...?<$FFFE>
+<$F600><$0000>...<$FFFE>
+O que foi, Diós?<$FFFE>
+Estou preocupado com o Ruud.<$FFFC>Pode me dar um tempinho pra conversar com ele?<$FFFE>
+Tudo bem.<$FFFC>Vamos dar cobertura pra você chegar até o Ruud.<$FFFE>
+Foi mal.<$FFFE>
+Ruud, vai!<$FFFE>
+...Hah!<$FFFE>
+Tá estranho.<$FFFC>O Ruud tá com uma cara de quem anda muito aflito.<$FFFD>E ainda tem essa estratégia do inimigo me incomodando...<$FFFE>
+Lorde <$F600><$0000>!<$FFFC>A comporta está sendo destruída!<$FFFE>
+Droga!<$FFFC>Temos que proteger a comporta antes de tudo!<$FFFE>
+Isso é grave!<$FFFC>Temos que proteger a comporta!<$FFFE>
+Faz tempo, Ruud.<$FFFE>
+...Senhor Diós.<$FFFE>
+Até quando você pretende andar com aquela gente?<$FFFE>
+Pra você, que vive sozinho, talvez isso baste.<$FFFD>Mas eu não consigo viver só por mim mesmo, sacrificando a minha esposa.<$FFFC>...Foi vendo o senhor ser perseguido que eu pensei assim.<$FFFE>
+......<$FFFE>
+No fim das contas, sou um covarde que não conseguiu nem abandonar a esposa, nem fugir com ela.<$FFFE>
+Nada disso, eu não penso assim.<$FFFD>Quem pode se sacrificar por quem ama vale muito mais do que quem tem a chance de fugir e não consegue.<$FFFD>...Não sei explicar direito, mas uma resposta que a gente encontra por conta própria deixa menos arrependimento no final.<$FFFE>
+Obrigado.<$FFFC>Ouvir isso do senhor me alivia um pouco.<$FFFE>
+Ruud, por que vazou a operação?<$FFFC>Pense no que pode acontecer com você e com a sua família.<$FFFE>
+Eu entrei no exército só pra proteger a minha família.<$FFFC>Não foi pra massacrar civis.<$FFFD>Mas, se eu trair, a família que ficar...<$FFFE>
+Ainda dá tempo.<$FFFC>Junte-se a nós.<$FFFC>A gente derruba o Cavaleiro Negro!<$FFFE>
+Senhor Diós...<$FFFE>
+Ruud.<$FFFC>Não está preocupado com a sua família?<$FFFE>
+...Hmph!<$FFFD>Não vou mais ouvir o que você diz!<$FFFC>O seu jeito está absolutamente errado!<$FFFC>Eu aposto tudo no Senhor Diós!<$FFFE>
+...Entendido.<$FFFC>Em vez de sobreviver jogando o orgulho fora, vou lutar como homem!<$FFFC>Obrigado, Senhor Diós.<$FFFE>
+Se destruirmos isto, a cidade vai ficar toda alagada!<$FFFE>
+Pareeeem!<$FFFE>
+Haaah!<$FFFE>
+Com isso, todas as nações vão saber o poder do Reino de Barral!<$FFFE>
+Que desgraça... Não consegui proteger a vida das pessoas da cidade...<$FFFE>
+Há uma grande estela de pedra.<$FFFC>Você tenta ler as letras antigas gravadas nela.<$FFFD>"Aqui repousa a grande bruxa, protegida por sete muralhas e por monstros."<$FFFE>
+Quer rezar?<$FFFE>
+Então uma voz surgiu do nada.<$FFFD>"Pronuncie o meu nome.<$FFFC>Então eu lhe concederei poder."<$FFFE>
+Que nome você pronuncia?<$FFFE>
+Media<$FFFE>
+Scathach<$FFFE>
+Sif<$FFFE>
+Nada aconteceu...<$FFFE>
+Ao pronunciar o nome de Scathach, você foi envolvido por uma luz ofuscante.<$FFFC>Quando se deu conta, havia um livro na sua mão.<$FFFE>
+Você obteve o Tomo de Scathach!<$FFFE>
+Nada aconteceu...<$FFFE>
+Agora já não posso dizer que não quero lutar, não é?<$FFFE>
+Não tem jeito.<$FFFC>Agora somos inimigos, afinal!<$FFFE>
+Não vou pegar leve!<$FFFE>
+Vou ver o quanto você melhorou!<$FFFE>
+Lutar contra os meus antigos subordinados dói, mas não tem jeito.<$FFFC>Sem ressentimentos!<$FFFE>
+Acha que pode me vencer? Seu tolo.<$FFFE>
+Desculpem, pessoal!<$FFFE>
+...Desculpe, general.<$FFFE>
+Não precisa pegar leve.<$FFFC>Venha com tudo!<$FFFE>
+Eu devia proteger esta cidade...<$FFFC>Uuh...<$FFFE>
+Hmph.<$FFFC>Era só da boca pra fora.<$FFFE>
+...Oho. Parece que você é bem habilidoso.<$FFFE>
+Por mais forte que você seja sozinho, eu tenho companheiros!<$FFFE>
+Eu tenho companheiros que lutam comigo!<$FFFC>Eu jamais vou perder pra você!<$FFFE>
+Então venham todos juntos.<$FFFC>Vou lhes mostrar o tamanho da sua impotência!<$FFFE>
+Poxa... que jeito de tratar uma donzela...<$FFFE>
+Uaah!<$FFFC>Eu não tinha a intenção de baixar a guarda...<$FFFE>
+Nghh, para um inimigo, você é bom...<$FFFE>
+Uhya, foi mal!<$FFFC>Vacilei!<$FFFE>
+Ora, por que será?<$FFFC>O que foi que eu fiz de errado...<$FFFE>
+Desculpe... logo num momento tão importante...<$FFFE>
+Ah, quando é que os conflitos vão desaparecer...<$FFFE>
+Ora essa!<$FFFC>Respeitem os mais velhos...<$FFFE>
+GRRRRR...<$FFFE>
+Droga!<$FFFC>E ainda tem aquele desgraçado do Cavaleiro Negro por aí...<$FFFE>
+O Cavaleiro Negro já caiu, então o resto fica com você, <$F600><$0000>.<$FFFE>
+Logo eu, fazendo feio assim!<$FFFE>
+Desculpe, parece que não consigo mais.<$FFFE>
+Que descuido!<$FFFC>Fui pego desprevenido!<$FFFE>
+Guah!<$FFFE>
+Ruud!<$FFFE>
+S-Senhor Diós.<$FFFC>O senhor era... o meu objetivo.<$FFFD>O senhor era desajeitado, mas sempre cuidava dos subordinados.<$FFFD>Quando o Rei Wilder mudou e todos se calaram, o senhor opinou abertamente e agiu...<$FFFE>
+Já chega.<$FFFC>Não fale mais nada!<$FFFE>
+Senhor Diós.<$FFFC>A minha esposa, Remi...<$FFFE>
+Eu sei.<$FFFC>Fique tranquilo, nós com certeza...<$FFFE>
+Ugh!<$FFFE>
+......<$FFFE>
+U... gh... Então... o fim de um traidor... é só isso...<$FFFD>Perdão, Remi...<$FFFC>Por causa do meu egoísmo, até você sofreu...<$FFFE>
+...Ruud.<$FFFE>
+S-Senhor Diós.<$FFFC>O senhor era... o meu objetivo.<$FFFD>O senhor era desajeitado, mas sempre cuidava dos subordinados.<$FFFD>Quando o Rei Wilder mudou e todos se calaram, o senhor opinou abertamente e agiu.<$FFFD>Se fosse possível... eu teria lutado ao seu lado...<$FFFC>Se ao menos eu tivesse um pouco mais de coragem...<$FFFE>
+Já chega.<$FFFC>Já chega, Ruud.<$FFFE>
+Por favor, cuide da Remi... a minha esposa, a Remi.<$FFFE>
+...Entendido...<$FFFE>
+Obrigado por tudo até agora...<$FFFE>
+......<$FFFE>
+U... gh... Então... o fim de um traidor... é só isso...<$FFFD>Se você um dia for a Barral... proteja a minha esposa, a Remi.<$FFFC>Hehe, o que eu estou pedindo a um inimigo...<$FFFE>
+Entendido, Ruud.<$FFFC>Vou fazer o que puder.<$FFFE>
+Os próximos são vocês!<$FFFE>
+Eu tô de mau humor agora.<$FFFC>Se me atrapalharem, não vão sair ilesos!<$FFFE>
+...Não podemos perder.<$FFFC>Pra proteger esta cidade, jamais!<$FFFE>
+Q-que poder é esse de vocês...<$FFFC>Eu... acabar derrotado...<$FFFE>
+...Eu... guah!<$FFFE>
+Gerold?<$FFFE>
+...N-não... não pode ser...<$FFFC>O senhor Gerold... é o Cavaleiro Negro...<$FFFE>
+Não pode ser...<$FFFE>
+...Mas o que está acontecendo, afinal...?<$FFFE>
+Recomponha-se!<$FFFC>Agora temos que derrotar o inimigo!<$FFFE>
+A... ah...<$FFFE>
+Uooh!<$FFFE>
+Eu... logo eu...<$FFFE>
+A minha sorte acabou aqui...<$FFFE>
+A-ainda consigo...<$FFFE>
+M-minha filha...<$FFFE>
+A-ainda... não... mor...<$FFFE>
+P-por... quê...<$FFFE>
+D-Deus...<$FFFE>
+N-não dá...<$FFFE>
+Ugh... a consciência...<$FFFE>
+Já não consigo empunhar a espada...<$FFFE>
+D-desculpe...<$FFFE>
+O resto... fica... com você...<$FFFE>
+Viva o Reino de Barral!<$FFFE>
+A vitória será nossa!<$FFFE>
+Nem com toda a minha magia...<$FFFE>
+Assim... assim... guah!<$FFFE>
+Não consigo mais me mexer...<$FFFE>
+Uwaaah!<$FFFE>
+Adeus, amigos!<$FFFE>
+H-hiii!<$FFFC>Não quero... mor...<$FFFE>
+T-tenho frio...<$FFFE>
+Estou caindo!<$FFFE>
+Será que Deus me abandonou...<$FFFE>
+Não consigo mais voar.<$FFFC>O resto fica com vocês!<$FFFE>
+Assim é que morre um homem!<$FFFE>
+A comporta... a comporta...<$FFFE>
+Esta cidade... destru...<$FFFE>
+...Hmph!<$FFFC>Barral só tem gente imprestável.<$FFFD>Aniquilados com tanta facilidade.<$FFFE>
+Cala a boca!<$FFFC>Agora mesmo vou mandar você fazer companhia pra eles!<$FFFE>
+...Hmph, você me faz rir.<$FFFD>Então venha tentar!<$FFFE>
+Nós vamos proteger esta cidade!<$FFFE>
+Então a unidade de sabotagem foi derrotada...<$FFFD>Seja como for, destruir esta cidade ainda dá tempo, depois de eu exterminar todos eles.<$FFFE>
+E agora, o que você vai fazer, Ruud?<$FFFE>
+Eu abandonei Barral, mas não consigo abandonar a minha família.<$FFFC>Eu mesmo vou protegê-la de algum jeito.<$FFFD>...Isso também é graças ao senhor.<$FFFE>
+Entendi.<$FFFC>Boa sorte, Ruud.<$FFFE>
+Sim.<$FFFE>
+Eu abandonei Barral, mas não a minha família.<$FFFD>Preciso ir logo até eles, então com licença.<$FFFE>
+Entendi.<$FFFC>Que ambos façamos o melhor.<$FFFE>
+Sim.<$FFFC>Muito obrigado, de verdade.<$FFFE>
+Morra, traidor!<$FFFE>
+Droga!<$FFFC>Eu não vou perder!<$FFFE>
+Fique tranquilo.<$FFFC>Logo a sua família vai te seguir.<$FFFE>
+O quê!?<$FFFE>
+...Finalmente acabou.<$FFFE>
+Comando magnífico, Lorde <$F600><$0000>.<$FFFE>
+Lorde <$F600><$0000>...<$FFFC>Não se deve demorar demais numa batalha.<$FFFD>Isso afeta as ações seguintes...<$FFFE>
+Com isso, as pessoas desta cidade não perderam as suas casas.<$FFFE>
+Lorde <$F600><$0000>.<$FFFC>Finalmente derrotou o Cavaleiro Negro, não é?<$FFFE>
+...É.<$FFFE>
+General Diós.<$FFFD>Parece que eu só acabaria atrapalhando vocês.<$FFFD>Não é grande coisa em troca, mas por favor, aceitem isto.<$FFFE>
+Parece que eu só acabaria atrapalhando vocês.<$FFFD>Não é grande coisa em troca, mas por favor, aceitem isto.<$FFFE>
+Você obteve Gae Bolg!<$FFFE>
+Parece que eu só acabaria atrapalhando vocês.<$FFFD>Queria retribuir com algum presente, mas infelizmente não tenho nada.<$FFFD>Pelo menos rezarei pela segurança de vocês.<$FFFE>
+...Ruud.<$FFFC>Vi o seu espírito de Barral com meus próprios olhos.<$FFFD>Como prometido, pode deixar a Remi comigo...<$FFFE>
+Traidor da pátria.<$FFFC>Veio por conta própria para ser punido!<$FFFE>
+Não brinque, Cavaleiro Negro!<$FFFC>Eu nunca gostei de você tratar os subordinados como peças.<$FFFD>Hoje vou fazer você mudar essa atitude arrogante!<$FFFE>
+Um covarde como você, o que está dizendo!<$FFFE><$FFFF>
