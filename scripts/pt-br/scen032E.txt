@@ -1,0 +1,175 @@
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, o Espadachim<$FFFF>
+Pieru<$FFFF>
+Sábio Fáberu<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+Princesa Furea<$FFFF>
+Comandante do Exército de Barral<$FFFF>
+Jéssica<$FFFF>
+・Derrote ou convença Furea<$FFFE>
+・Morte de <$F600><$0000><$FFFE>
+Fronteira do Reino de Barral, Acampamento Principal do Exército<$FFFF>
+...Ainda não consigo acreditar.<$FFFC>Que o Cavaleiro Negro tenha sido derrotado.<$FFFE>
+Eu também duvidei dos meus ouvidos quando recebi o relatório.<$FFFC>Quem diria que derrotariam o Cavaleiro Negro...<$FFFE>
+Princesa! Inimigos!<$FFFC>Pelo visto é verdade que o Cavaleiro Negro foi derrotado.<$FFFE>
+Não percam a calma!<$FFFC>Esta defesa não se rompe com facilidade.<$FFFC>Se nos dedicarmos à defesa, ainda temos chance de vencer.<$FFFE>
+Fiu!<$FFFC>Que defesa firme, hein.<$FFFE>
+Essa formação é o esquema de defesa em que a princesa sempre foi boa.<$FFFE>
+Comandar um exército... que princesa valente, né?<$FFFE>
+Isso é verdade.<$FFFC>Só que a princesa é melhor na defesa do que no ataque.<$FFFC>Ela tinha muito jeito pra coisa.<$FFFD>...Falando nisso, o Rei Wilder e o Cavaleiro Negro enlouqueceram, mas só a princesa continua a mesma de antes.<$FFFE>
+Sendo assim, convém evitarmos uma batalha sem sentido.<$FFFE>
+É.<$FFFE>
+...Furea!<$FFFC>Consegue me ouvir!<$FFFE>
+O que você quer?<$FFFE>
+Furea.<$FFFC>Nós não queremos uma luta sem sentido.<$FFFC>Deixe-nos passar e nos leve até o Rei Wilder.<$FFFE>
+E depois vai tentar tirar a vida do meu pai?<$FFFE>
+Vamos lá pra conversar.<$FFFE>
+Não consigo acreditar.<$FFFC>O nosso dever é detê-los antes que o rei corra perigo.<$FFFC>Não posso aceitar esse pedido.<$FFFE>
+Se for mesmo preciso, me derrotem, como derrotaram o Cavaleiro Negro, e sigam em frente!<$FFFE>
+Furea!<$FFFE>
+O que faremos, <$F600><$0000>?<$FFFE>
+Se Velzeria realmente estiver envolvida, o problema é bem sério.<$FFFE>
+...Por ora, vou tentar convencer a Furea.<$FFFC>Peço a ajuda de todos para eu conseguir persuadi-la.<$FFFE>
+Basta garantirmos um caminho até a Princesa Furea, não é?<$FFFE>
+Deixa com a gente!<$FFFC>A gente dá cobertura direitinho!<$FFFE>
+Pessoal, contamos com vocês!<$FFFE>
+Vamos, ao ataque!<$FFFE>
+Tropa de vanguarda, entrem em ação.<$FFFC>Não deixem ninguém passar!<$FFFE>
+Entendido!<$FFFC>Entrando em ação para eliminar o inimigo.<$FFFE>
+Unidades de apoio, não relaxem!<$FFFE>
+Deixe conosco!<$FFFE>
+Todas as tropas, entrem em ação!<$FFFC>Formações já não importam!<$FFFC>Eliminem-nos um por um!<$FFFE>
+Entendido!<$FFFE>
+Parece que esta será a última vez que luto contra <$F600><$0000>...<$FFFE>
+Nós protegeremos a princesa com as nossas vidas.<$FFFE>
+Obrigada...<$FFFC>Mas, se ficar perigoso, fujam.<$FFFD>Vocês têm famílias a proteger, não têm?<$FFFE>
+Princesa...<$FFFE>
+O destino de Barral depende desta batalha!<$FFFD>Derrubem o máximo de inimigos que puderem!<$FFFC>Entendido!<$FFFE>
+Sim, senhora!<$FFFE>
+Atravessar a ponte... como esperado...<$FFFD>Arqueiros!<$FFFC>Mirem com mais precisão!<$FFFC>Magos, não relaxem nos ataques!<$FFFE>
+Compreendido.<$FFFE>
+Furea!<$FFFC>Ouça com atenção!<$FFFE>
+A transformação do Rei Wilder é estranha demais, de qualquer ângulo.<$FFFC>Você também percebeu, não é?<$FFFE>
+......<$FFFE>
+Há marcas de que algo foi enterrado aqui.<$FFFE>
+Quer examinar?<$FFFE>
+Havia duas caixas enterradas ali.<$FFFE>
+Qual você abre primeiro?<$FFFE>
+A menor<$FFFE>
+A maior<$FFFE>
+Não abrir<$FFFE>
+Dentro estava a Bênção dos Deuses.<$FFFE>
+Você obteve a Bênção dos Deuses!<$FFFE>
+De repente, um pássaro gigante veio voando.<$FFFC>Ele agarrou a outra caixa com as garras e a levou embora...<$FFFE>
+Dentro havia um livro antigo e gasto.<$FFFE>
+Você obteve o Manual Secreto!<$FFFE>
+De repente, um pássaro gigante veio voando.<$FFFC>Ele agarrou a outra caixa com as garras e a levou embora...<$FFFE>
+De repente, um pássaro gigante veio voando.<$FFFC>Ele agarrou as caixas com as garras e as levou embora...<$FFFE>
+Abram caminho!<$FFFE>
+Desta vez não vai ser como antes!<$FFFE>
+Desculpe, Furea.<$FFFC>Eu também não posso perder.<$FFFD>Custe o que custar, preciso encontrar o Rei Wilder e descobrir a verdade!<$FFFD>Por isso eu não posso perder!<$FFFE>
+Não!<$FFFC>Não chegue perto de mim!<$FFFE>
+Sintam o meu poder!<$FFFE>
+Não atrapalhe!<$FFFE>
+Mas que é isso!<$FFFE>
+Não me atrapalhe!<$FFFE>
+Daqui em diante, não passam, nem que custe a minha vida!<$FFFE>
+Voltem agora mesmo!<$FFFE>
+<$F702><$FFFE>
+<$F702><$FFFE>
+D-droga!<$FFFD>Furea...<$FFFE>
+Adeus, <$F600><$0000>...<$FFFE>
+Kyaaah!<$FFFC>Desculpa, parece que não aguento mais...<$FFFE>
+Ugh...<$FFFC>O meu poder é só isso...?<$FFFE>
+O quê!?<$FFFC>Desde quando...<$FFFE>
+Não se deve forçar, né?<$FFFC>Vou na frente...<$FFFE>
+Desculpe, <$F600><$0000>.<$FFFC>Acho que me cansei um pouco.<$FFFE>
+Mas... faltava tão pouco...<$FFFE>
+...Desculpe...<$FFFE>
+Ai, ai...<$FFFC>Será a idade...?<$FFFE>
+GRRRR...<$FFFE>
+Foi mal, <$F600><$0000>.<$FFFC>A princesa bem aí na nossa frente...<$FFFE>
+Tsc!<$FFFC>Não é bonito, mas a vida vale mais.<$FFFD>Desculpe, mas vou recuar.<$FFFE>
+Desculpe, estou um pouco cansado.<$FFFE>
+Me perdoem... pelo jeito, minha força não foi o bastante.<$FFFE>
+Ugh... uugh.<$FFFC>Já não consigo empunhar a espada...<$FFFE>
+Kyaaah!<$FFFE>
+Logo por uma coisa dessas...<$FFFE>
+Por quê...<$FFFE>
+Ó Deus...<$FFFE>
+N-não dá...<$FFFE>
+Desculpe, princesa...<$FFFE>
+Uwaah!<$FFFE>
+O mundo dos deuses... eu vejo...<$FFFE>
+Pelo menos, mais um golpe de espada...<$FFFE>
+Que poder é esse...<$FFFE>
+Q-que frustração...<$FFFE>
+Não é à toa que derrotaram o Cavaleiro Negro...<$FFFE>
+Quando cair, que seja de frente...<$FFFE>
+A lança... a minha lança...<$FFFE>
+D-deixo o resto com você...<$FFFE>
+Quebrar a minha espada...<$FFFE>
+F-forte...<$FFFE>
+D-droga...<$FFFE>
+Eu... perdi...?<$FFFE>
+P-princesa...<$FFFC>Fuja...<$FFFE>
+Nos céus eu nunca tinha perdido...<$FFFE>
+P-por favor... só a princesa...<$FFFE>
+Droga, assim não dá...<$FFFE>
+Mesmo morto, não posso deixá-los passar...<$FFFE>
+Não vou cair!<$FFFC>Não posso cair...<$FFFE>
+Eu queria proteger a princesa até o fim...<$FFFE>
+N-não pode ser...<$FFFC>A minha magia não faz efeito...<$FFFE>
+Ainda tenho... o último feitiço...<$FFFE>
+Ah, princesa!<$FFFE>
+O meu ataque...<$FFFE>
+Ousou desviar do meu ataque...<$FFFE>
+Todos mortos, menos eu?<$FFFC>Não pode ser...<$FFFD>Mas eu não vou desistir.<$FFFC>Pelo orgulho de Barral, lutarei até o fim!<$FFFE>
+Ah...<$FFFC>Será que era mesmo necessário lutar até esse ponto?<$FFFE>
+Quem diria que nos pressionariam tanto.<$FFFE>
+Fizemos contato com as tropas de Elthlead!<$FFFE>
+Princesa.<$FFFC>Ouça o que <$F600><$0000> tem a dizer!<$FFFE>
+O traidor Diós...<$FFFC>Agora quer tirar a vida do meu pai também!?<$FFFE>
+Tsc!<$FFFC>Que cabeça-dura!<$FFFE>
+O Rei Wilder pode estar sendo usado pelo pessoal de Velzeria.<$FFFD>Você tem ideia do que fez o Rei Wilder mudar?<$FFFE>
+Ouça bem, Furea!<$FFFE>
+O Cavaleiro Negro, na verdade, era Gerold.<$FFFE>
+Mas o corpo dele emanava magia das trevas.<$FFFC>Ele estava sendo usado por Velzeria.<$FFFE>
+A transformação do seu pai, o Rei Wilder, também pode ser por causa da magia deles.<$FFFE>
+Entre os aliados deles, tem quem controle cadáveres à vontade e quem se passe por outra pessoa.<$FFFE>
+Não pode ser! O meu pai...<$FFFE>
+Eu quero confirmar isso.<$FFFE>
+Se ele estiver sendo controlado, quero libertar o rei dessa maldição de algum jeito!<$FFFE>
+...Mas...<$FFFE>
+Acredite em mim, Furea!<$FFFE>
+...Eu acredito em você.<$FFFE>
+Sinto que você consegue trazer de volta o coração do meu pai.<$FFFE>
+Furea...<$FFFE>
+Mesmo que não dê certo, não vou me arrepender.<$FFFC>Eu também sofro de ver o meu pai assim...<$FFFD>Mas, se for possível, quero salvá-lo...<$FFFE>
+Eu prometo, Furea.<$FFFC>Não vou desistir até o fim, e vou me esforçar para salvar o Rei Wilder!<$FFFE>
+Obrigada, <$F600><$0000>.<$FFFC>...Eu também queria ajudar você.<$FFFE>
+Hã!?<$FFFE>
+Não, não é nada.<$FFFC>Mas, se for entrar no castelo, é mais conveniente que eu vá junto.<$FFFE>
+É, conto com você.<$FFFE>
+Furea entrou para o grupo!<$FFFE>
+...Uma vez, quando saí para caçar, persegui a presa até o fundo da floresta e me perdi.<$FFFE>
+Meu pai reuniu os soldados e foi me procurar.<$FFFC>Mas, nessa hora, ele escorregou e caiu de um penhasco.<$FFFE>
+Foi um milagre não ter se ferido.<$FFFC>Mas...<$FFFE>
+...Furea.<$FFFE>
+...Foi depois disso.<$FFFC>Que o meu pai gentil virou aquele homem.<$FFFE>
+A culpa é minha!<$FFFC>Fui eu que deixei o meu pai desse jeito!<$FFFC>Por isso eu preciso continuar acreditando nele.<$FFFE>
+Mesmo que todos se afastem, eu preciso ficar ao lado dele!!<$FFFE>
+Venha, se tiver coragem!<$FFFB><$FFFC>Não vou deixar ninguém tocar um dedo na princesa!<$FFFE>
