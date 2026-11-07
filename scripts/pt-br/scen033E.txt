@@ -1,0 +1,334 @@
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, o Espadachim<$FFFF>
+Pieru<$FFFF>
+Sábio Fáberu<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+Comandante do Exército de Barral<$FFFF>
+Rei Wilder<$FFFF>
+Princesa Furea<$FFFF>
+Jéssica<$FFFF>
+Gilberto<$FFFF>
+Do Kahni<$FFFF>
+Rei Wilder<$FFFF>
+Wilder<$FFFF>
+Cavaleiro Negro<$FFFF>
+Gerold<$FFFF>
+Exército de Elthlead<$FFFF>
+・Derrote Wilder<$FFFE>
+・Morte de <$F600><$0000><$FFFE>
+Castelo de Barral<$FFFF>
+Majestade.<$FFFC>O exército de Elthlead cruzou a fronteira e está vindo na nossa direção.<$FFFE>
+E a Furea? O que houve com ela?<$FFFE>
+B-bem, é que...<$FFFC>Há informações de que foi a princesa quem guiou o exército de Elthlead...<$FFFE>
+O quê?<$FFFC>Está dizendo que a Furea nos traiu?<$FFFE>
+Disso nem eu tenho certeza...<$FFFE>
+Então eles vão atacar aqui a qualquer momento.<$FFFC>Montem a defesa dentro do castelo e fiquem alertas!<$FFFE>
+Pra deter o exército de Elthlead, ela mesma foi para a linha de frente...<$FFFE>
+...Entendo, morreu então.<$FFFC>Bom, nem esperava grande coisa dela mesmo.<$FFFD>Mas ainda não consigo acreditar que o Cavaleiro Negro foi derrotado.<$FFFE>
+O Cavaleiro Negro foi derrotado, e a princesa também faleceu.<$FFFD>Creio que Elthlead vai marchar até aqui a qualquer momento.<$FFFE>
+Eu sei.<$FFFC>Montem a defesa dentro do castelo e fiquem alertas!<$FFFE>
+Sim, Majestade!<$FFFE>
+Então esse é o Castelo de Barral.<$FFFE>
+É, é ele mesmo.<$FFFE>
+Pelo que vejo, é uma construção muito bem feita.<$FFFC>Não podemos baixar a guarda, agora menos ainda.<$FFFE>
+Se o Rei Wilder quisesse ouvir a gente, nem precisaríamos forçar uma luta...<$FFFE>
+Faz tempo que você não vem aqui, né?<$FFFE>
+Nunca imaginei que um dia voltaria aqui desse jeito.<$FFFE>
+Antigamente eu brincava muito com a Furea aqui dentro deste castelo.<$FFFE>
+......<$FFFE>
+O Rei Wilder deve estar lá no fundo.<$FFFE>
+De qualquer forma, sem encontrar ele pessoalmente, não dá pra descobrir a verdade.<$FFFE>
+Mas será que vão deixar a gente passar assim tão fácil?<$FFFC>Sou eu quem diz, mas atacar este lugar é bem difícil.<$FFFE>
+Fora que o Rei Wilder mudou demais em relação a antes.<$FFFE>
+É verdade.<$FFFC>Que sede de sangue.<$FFFD>Parece que eles querem mesmo matar a gente, hein?<$FFFC>Não vão nos deixar passar de mão beijada.<$FFFE>
+Mas não tem outro jeito, temos que lutar.<$FFFE>
+Se isso for obra de Velzeria, não posso deixar passar.<$FFFC>Pra que não aconteça com este reino o que aconteceu com a minha pátria...<$FFFE>
+Não achamos que vão nos deixar passar sem lutar.<$FFFD>Mas, já que viemos até aqui, não dá mais pra voltar atrás.<$FFFB><$FFFC>Vamos, pessoal!<$FFFE>
+Deixaram o inimigo chegar até aqui, seus inúteis!<$FFFD>Magos, derrubem a ponte lá no fundo e atrasem o avanço do inimigo.<$FFFC>Enquanto isso, castiguem eles com magia!<$FFFE>
+Entendido!<$FFFE>
+Eles são a tropa de elite de Elthlead.<$FFFC>Se os derrotarmos, seremos os mais fortes de fato e de nome.<$FFFD>Vamos mostrar o poder de Barral pro continente inteiro!<$FFFE>
+Mas... e a princesa...<$FFFE>
+Aquela é uma traidora.<$FFFC>Já não é mais princesa de Barral.<$FFFC>Matem todos de uma vez!<$FFFE>
+M-mas...<$FFFE>
+O que foi?<$FFFB><$FFFC>Você também vai virar meu inimigo?<$FFFC>Hã?<$FFFE>
+......Entendido.<$FFFE>
+Rei Wilder...<$FFFE>
+Droga!<$FFFC>Essa mudança toda... não dá nem pra ver!<$FFFE>
+O que você responde?<$FFFE>
+Pois é.<$FFFE>
+Tem que haver um motivo.<$FFFE>
+Talvez seja tarde demais.<$FFFE>
+Será que esse é o verdadeiro rosto dele?<$FFFE>
+É, realmente.<$FFFE>
+Bom, reclamar não adianta.<$FFFC>Temos que fazer o que dá!<$FFFE>
+Bom, reclamar não resolve.<$FFFC>Vou fazer o que posso!<$FFFE>
+Não.<$FFFC>Tem que haver algum motivo.<$FFFD>Não foi justamente pra descobrir esse motivo que viemos até aqui!?<$FFFE>
+É verdade...<$FFFD>Certo, vamos trazer o rei de volta ao juízo custe o que custar!<$FFFE>
+Obrigada...<$FFFC>pessoal...<$FFFE>
+Talvez já seja tarde demais...<$FFFE>
+Não!<$FFFC>Isso não pode ser!<$FFFD>Eu vou trazer de volta aquele rei gentil de antigamente, com certeza!<$FFFE>
+É isso aí!<$FFFC>Vamos nessa!<$FFFE>
+Obrigada...<$FFFC>pessoal...<$FFFE>
+Será que aquele é o verdadeiro rosto do rei...?<$FFFE>
+Hã?<$FFFC>Disse alguma coisa?<$FFFE>
+N-nada, não.<$FFFC>Não é nada.<$FFFE>
+......<$FFFE>
+Deem a justa punição aos que mataram a minha filha, a princesa Furea!<$FFFE>
+Sim, senhor!<$FFFC>Deixe conosco!<$FFFC>Vamos vingar a princesa sem falta!<$FFFE>
+Droga!<$FFFC>Essa mudança toda... não dá nem pra ver!<$FFFE>
+A ponte foi destruída...<$FFFE>
+Assim vai ser difícil derrotar os magos inimigos.<$FFFD>Mas avançar sem derrotá-los é perigoso demais.<$FFFE>
+Vamos usar as tropas aéreas e navais.<$FFFC>Não precisa ficar tão sério.<$FFFD>Mais importante agora é descobrir a relação entre o Rei Wilder e Velzeria.<$FFFE>
+É isso mesmo.<$FFFE>
+Sim!<$FFFE>
+Mesmo assim, acho que o primeiro passo agora é investigar a relação do Rei Wilder com Velzeria.<$FFFE>
+Mesmo assim, o primeiro passo agora é investigar a relação entre o Rei Wilder e Velzeria.<$FFFE>
+Só que, por ora, acho que o primeiro passo é investigar a ligação do Rei Wilder com Velzeria, viu.<$FFFE>
+Mas não podemos nos intimidar.<$FFFC>Vamos, pessoal!<$FFFE>
+Rei Wilder.<$FFFC>Acabou.<$FFFC>Pare com essa resistência inútil...<$FFFE>
+Hehehe!<$FFFC>Digamos que vocês, mesmo sendo inimigos, merecem um elogio.<$FFFD>Mas vocês não podem me derrotar.<$FFFC>Jamais...<$FFFE>
+Pai, por quê...<$FFFE>
+O quê!?<$FFFE>
+Eu sou imortal.<$FFFC>Jamais morrerei!<$FFFC>Hehehehe!<$FFFE>
+Que calma é essa...<$FFFC>Isso me dá arrepios.<$FFFE>
+Por que ele consegue ficar tão tranquilo num momento desses?<$FFFE>
+Mas que tranquilidade é essa...<$FFFC>O que será que eles estão tramando...?<$FFFE>
+...Por que ele consegue rir...<$FFFC>Afinal, o Rei Wilder...<$FFFE>
+Cavalaria do portão oeste, ao ataque!<$FFFE>
+Sim, senhor!<$FFFE>
+Cavalaria do portão leste, comecem a se mover!<$FFFE>
+Entendido!<$FFFE>
+Como tem coragem de aparecer aqui de novo, Furea.<$FFFD>Os seus inimigos são aqueles ali, não são?<$FFFC>Por que não os elimina de uma vez?<$FFFE>
+Pai, por favor, pare.<$FFFE>
+Está me contrariando!?<$FFFD>Falhou em acabar com eles e, não satisfeita, ainda me contraria!?<$FFFD>Você não é mais minha filha!<$FFFC>Vou matar todos vocês de uma vez!<$FFFE>
+Por favor, <$F600><$0000>.<$FFFC>Salve o meu pai!<$FFFE>
+Eu sei!<$FFFE>
+Rei Wilder.<$FFFC>O senhor está sendo controlado.<$FFFC>Nós vamos libertá-lo!<$FFFE>
+Controlado?<$FFFC>Quem, por quem?<$FFFE>
+Desde que nasci, nunca obedeci a ordem de ninguém!<$FFFE>
+<$F702><$FFFE>
+<$F702><$FFFE>
+Rei Wilder...<$FFFE>
+Você é o inimigo que matou a minha filha.<$FFFC>Vou lhe dar o sofrimento supremo!<$FFFE>
+Não adianta...<$FFFC>Ele está diferente demais.<$FFFD>Não consigo acreditar que esse seja o gentil Rei Wilder.<$FFFE>
+...Não sei dizer.<$FFFC>Que tipo de magia será que está controlando ele...<$FFFD>Se ao menos soubéssemos, talvez houvesse um jeito de lidar com isso...<$FFFE>
+...Será que só nos resta lutar?<$FFFE>
+Pai, prepare-se!<$FFFE>
+Ora.<$FFFC>Você vai apontar a espada para quem a criou e salvou a sua vida!<$FFFD>Que tristeza, criar uma filha assim.<$FFFC>Quem está louca é você, Furea!<$FFFE>
+Desde que o senhor ficou estranho, o povo de Barral vive na miséria, e já tem gente morrendo de fome.<$FFFD>Mesmo que eu carregue a vergonha de matar o meu pai, o senhor vai ter que morrer.<$FFFD>É o máximo de compaixão que posso ter pelo senhor agora!<$FFFE>
+Ao pisar no círculo mágico, uma luz misteriosa desceu do céu.<$FFFC>Também há uma luz misteriosa brilhando a oeste.<$FFFD>Quando você se dá conta, uma bela mulher está parada à sua frente.<$FFFC>Na mão dela, há um lindo brinco.<$FFFD>"Você é aquele guiado pela Deusa da Luz.<$FFFC>Vou lhe conceder poder.<$FFFD>Qual poder você prefere: o da espada ou o da magia?"<$FFFE>
+O que você responde?<$FFFE>
+Poder da espada<$FFFE>
+Poder da magia<$FFFE>
+Nenhum dos dois<$FFFE>
+"Então você não precisa deste brinco."<$FFFC>Dito isso, a mulher desapareceu...<$FFFE>
+"Então receba este brinco."<$FFFE>
+Você obteve o Brinco Estelar!<$FFFE>
+Ao pisar no círculo mágico, uma luz misteriosa desceu do céu.<$FFFC>Também há uma luz misteriosa brilhando a leste.<$FFFD>Quando você se dá conta, uma bela mulher está parada à sua frente.<$FFFC>Ela segura uma linda espada.<$FFFD>"Você é aquele guiado pela Deusa da Luz.<$FFFC>Vou lhe conceder poder.<$FFFD>Qual poder você prefere: o da espada ou o da magia?"<$FFFE>
+O que você responde?<$FFFE>
+Poder da espada<$FFFE>
+Poder da magia<$FFFE>
+Nenhum dos dois<$FFFE>
+"Então receba esta espada."<$FFFE>
+Você obteve Excalibur!<$FFFE>
+"Então você não precisa desta espada."<$FFFC>Dito isso, a mulher desapareceu...<$FFFE>
+Não tenho tempo pra vocês!<$FFFC>Saiam da frente!<$FFFE>
+Volte a si, Rei Wilder!<$FFFC>Volte a ser o homem gentil de antes!<$FFFE>
+O que é sanidade? Você já parou pra pensar nisso?<$FFFD>Se todo mundo tivesse loucura, isso é que seria a sanidade.<$FFFC>E quem tivesse sanidade seria tratado como herege.<$FFFE>
+Rei Wilder...<$FFFC>O que...<$FFFE>
+Nesta batalha, só quem tem loucura é são!<$FFFC>Venha, junte-se a mim você também!<$FFFE>
+U... gh...<$FFFC>Desculpa, Furea...<$FFFE>
+Aai!<$FFFC>Não dá mais pra mim, não.<$FFFE>
+Eu não vou perder!<$FFFC>Não posso perder!<$FFFE>
+E ainda tem a chance de Velzeria estar por trás disso...<$FFFE>
+Ainda posso lutar, eu ainda...<$FFFC>...Ugh!<$FFFE>
+Uwah!<$FFFC>Forte demais!<$FFFE>
+Já se preparou?<$FFFE>
+Não adianta.<$FFFC>Com o meu poder de agora...<$FFFE>
+Eu também ainda sou inexperiente...<$FFFE>
+Por favor, abra os olhos!<$FFFE>
+Senhor <$F600><$0000>, por favor, salve ele.<$FFFE>
+Mmm... mais do que isso, eu não aguento, hein...<$FFFE>
+GRRRR...<$FFFE>
+Vocês querem me enfrentar?<$FFFC>Que divertido!<$FFFC>Venham!<$FFFE>
+...Rei Wilder.<$FFFD>Você mudou mesmo?<$FFFE>
+Quem diria, o traidor Diós.<$FFFC>Esqueceu da bondade com que eu o tratei?<$FFFE>
+Não esqueci o que devo a você.<$FFFC>Mas esse que está aí não é o de antes.<$FFFD>Você mudou mesmo?<$FFFE>
+As pessoas mudam a cada dia.<$FFFC>Não é?<$FFFD>Como não sou mais o mesmo, consigo fazer isto.<$FFFC>...Morra, Diós!<$FFFE>
+Tsc!<$FFFE>
+D-droga...<$FFFC>Rei... Wilder...<$FFFE>
+Desculpa, <$F600><$0000>.<$FFFC>Logo eu, que devia conhecer bem este castelo...<$FFFE>
+Como esperado, são a tropa de elite do castelo.<$FFFC>Não vai ser como antes.<$FFFE>
+Não posso morrer aqui.<$FFFC>Vou descansar um pouco, com licença.<$FFFE>
+Quem governa uma nação deve se dedicar ao povo, não é mesmo?<$FFFE>
+É o que estou fazendo.<$FFFC>Pra repartir as terras férteis de Elthlead com o meu povo!<$FFFE>
+Ugh!<$FFFC>Que descuido!<$FFFE>
+Saiam da frente!<$FFFC>Insolentes!<$FFFE>
+Pai!<$FFFC>Volte a si, por favor!<$FFFD>Senão eu mesma vou ter que acabar com isso de uma vez...<$FFFE>
+Hohoho...<$FFFC>Você vai me matar?<$FFFE>
+P-pai...<$FFFE>
+Por que você me faz sofrer tanto?<$FFFC>Daquela vez também, ignorou a minha ordem, foi caçar e ainda me deixou preocupado.<$FFFE>
+...Não dá...<$FFFC>Eu não consigo...<$FFFE>
+Lute, Furea!<$FFFC>Se não lutar, vão acabar com você!<$FFFE>
+......<$FFFE>
+P-pai, por quê...<$FFFE>
+Ah...<$FFFC>O que foi que eu fiz...<$FFFE>
+Desculpa, Furea.<$FFFC>Fazer você lutar contra o próprio pai...<$FFFD>Que comandante sem noção eu sou...<$FFFE>
+Tribo Shika forte!<$FFFC>Do Kahni, herói!<$FFFC>Mais forte ainda!<$FFFE>
+Você, vilão!<$FFFC>Do Kahni não perdoa vilão!<$FFFC>Eu te derrubo~~!<$FFFE>
+S-Shikaaa!<$FFFC>Do Kahni forte... devia... ser...<$FFFE>
+Foi você quem enganou a Furea!?<$FFFC>Eu vou te punir!<$FFFE>
+Foi você quem matou a Furea?<$FFFC>Eu vou te punir!<$FFFE>
+Filha ingrata...<$FFFD>Hehehehe!<$FFFC>Eu vou te dar um castigo.<$FFFE>
+Traidores merecem a pena de morte!<$FFFC>Não é, Diós?<$FFFE>
+O quê...? Não pode ser...<$FFFC>Eu vou morrer...?<$FFFC>F-Furea...<$FFFE>
+Rei Wilder...<$FFFE>
+Pai!<$FFFE>
+Ah, Furea...<$FFFC>Que bom que está bem.<$FFFE>
+Quando o assunto é caça, você só enxerga a presa, né...<$FFFE>
+...Pa...i?<$FFFE>
+Eu sempre dizia... pra não ir tão fundo naquela floresta...<$FFFE>
+Mas, se você está bem, eu...<$FFFE>
+A memória dele está confusa?<$FFFE>
+Onde estou...<$FFFE>
+É isso... eu estava procurando a Furea...<$FFFC>...o cavalo se assustou... e eu caí do penhasco.<$FFFE>
+A memória dele voltou?<$FFFE>
+O corpo... não se move...<$FFFC>Eu, a Furea...<$FFFE>
+Rei Wilder, aguente firme!<$FFFE>
+...Quem é... o que você está fazendo... isto... uooo!<$FFFE>
+Rei Wilder, o que está fazendo!<$FFFE>
+Uoooh!<$FFFE>
+Nãããão!<$FFFC>Paaai!<$FFFE>
+Não pode ser!<$FFFE>
+Cortar a própria cabeça...<$FFFE>
+Ele cortou a própria cabeça...<$FFFE>
+...Parece que chegamos tarde.<$FFFE>
+O Cavaleiro Negro!?<$FFFE>
+!<$FFFC>Gerold!?<$FFFE>
+Ei, ei, não era pra ele estar morto?<$FFFE>
+Mas a gente conferiu.<$FFFC>O coração dele já tinha parado...<$FFFE>
+Eu sou imortal.<$FFFC>Vocês não podem me derrotar.<$FFFE>
+Que história é essa?<$FFFC>Agora que sei que ele é o Gerold, não quero mais lutar...<$FFFE>
+Ei, Gerold.<$FFFC>Você não está reconhecendo a gente?<$FFFE>
+Esqueceu da gente?<$FFFC>Ei!<$FFFE>
+Eu lembro muito bem de vocês.<$FFFE>
+Foram vocês que me deixaram pra trás quando Barral atacou Laffel.<$FFFC>...Eu não esqueço.<$FFFE>
+Mas isso...<$FFFE>
+...Você esqueceu até a Layla, Gerold!?<$FFFE>
+...Layla...?<$FFFE>
+É, lembre-se, Gerold!<$FFFE>
+A Layla está esperando você voltar pra casa!<$FFFE>
+La... y... la... Uooo!<$FFFC>M-minha cabeça...<$FFFE>
+Gerold!<$FFFE>
+D-dentro da minha cabeça, tem um verme de Velzeria.<$FFFC>Ele tranca a minha consciência e move o meu corpo.<$FFFE>
+Mesmo que o meu coração pare, o verme me ressuscita logo em seguida.<$FFFC>Pra me matar, só cortando a minha cabeça.<$FFFE>
+...Vamos, enquanto ainda dá tempo, me corte, rápido!<$FFFE>
+Então o meu pai mudou também por causa disso...<$FFFE>
+Então o Rei Wilder mudou também por causa disso...<$FFFE>
+É o mesmo verme que me pegou.<$FFFC>O verme só consegue se prender a quem está à beira da morte ou perto disso.<$FFFD>Quem é possuído se cura num ritmo assombroso, mas, em troca, tem a mente tomada.<$FFFD>Por isso, enquanto ainda sou eu mesmo, me mate!<$FFFE>
+Droga!<$FFFC>Não tem outro jeito?<$FFFE>
+...Existe, mas...<$FFFE>
+...Existe, mas...<$FFFE>
+Jéssica!?<$FFFE>
+Conheço uma magia que expulsa o verme.<$FFFC>Só que...<$FFFE>
+Conheço uma magia que expulsa o verme.<$FFFC>Só que...<$FFFE>
+Só que?<$FFFE>
+Essa vida só foi mantida graças ao verme.<$FFFC>Se o tirarmos, ele terá só alguns dias de vida.<$FFFE>
+Essa vida só foi mantida graças ao verme.<$FFFC>Se o tirarmos, ele terá só alguns dias de vida.<$FFFE>
+Então, de qualquer jeito, ele não tem salvação?<$FFFE>
+Então, de qualquer jeito, ele não tem salvação?<$FFFE>
+Não se preocupem comigo...<$FFFC>Vamos, rápido, cortem a minha cabeça!<$FFFE>
+Que desgraça!<$FFFC>Uma horda de monstros está atacando Laffel...!<$FFFD>Agora a Layla está guiando os moradores, mas...<$FFFE>
+Layla!?<$FFFE>
+De qualquer forma, por favor, depressa!<$FFFE>
+Droga!<$FFFC>Logo numa hora dessas!<$FFFE>
+...Feiticeira.<$FFFC>Lance essa magia em mim.<$FFFE>
+Tem certeza?<$FFFE>
+Quando a força do verme sumir, o seu corpo vai começar a se desfazer.<$FFFC>A dor que virá é incalculável.<$FFFE>
+Pra fugir do sofrimento, o senhor pode acabar desejando a morte, sabe?<$FFFE>
+Tem certeza?<$FFFE>
+Quando a força do verme sumir, o seu corpo vai começar a se desfazer.<$FFFC>A dor que virá é incalculável.<$FFFE>
+Pra fugir do sofrimento, o senhor pode acabar desejando a morte, sabe?<$FFFE>
+Não importa.<$FFFC>...Só que agora eu não posso morrer.<$FFFC>Enquanto eu tiver o objetivo de proteger a Layla.<$FFFE>
+Se eu não puder proteger a Layla, não descanso nem na morte!<$FFFE>
+...Gerold.<$FFFE>
+...Entendido.<$FFFC>Então vamos preparar a magia.<$FFFE>
+...Entendido.<$FFFC>Então vamos preparar a magia.<$FFFE>
+Aqui vocês não passam!<$FFFE>
+Aqui vocês não pas...<$FFFE>
+Considere a sua vida acabada!<$FFFC>Haaah!<$FFFE>
+Não vou deixar vocês entrarem... guah!<$FFFE>
+P-por quê...<$FFFE>
+Aah, eu ainda não quero morrer...<$FFFE>
+C-como ousam...<$FFFE>
+A minha magia...<$FFFE>
+Ó Deus...<$FFFE>
+Mesmo que o corpo morra, a alma...<$FFFE>
+Preciso de um feitiço mais forte...<$FFFE>
+Já era, não dá mais!<$FFFE>
+Uoooh!<$FFFE>
+Que poder é esse...<$FFFE>
+N-não consigo vencer...<$FFFE>
+Droga!<$FFFE>
+Não dá, nãão!<$FFFE>
+O resto fica com você!<$FFFE>
+Então é isso... o fim...<$FFFE>
+Não consigo detê-los...<$FFFE>
+Viva o Reino de Barral!<$FFFE>
+Ainda não, ainda consigo... guhf!<$FFFE>
+Preciso de mais força...<$FFFE>
+Por que... chegar a esse ponto...<$FFFE>
+Que crueldade...<$FFFE>
+Não podemos perder...<$FFFE>
+Rei Wilder, fuja...<$FFFE>
+Eu... não aguento mais...<$FFFE>
+Não tem mais volta...<$FFFC>Se não os pararmos aqui, acabou!<$FFFE>
+Daqui vocês não avançam mais!<$FFFE>
+GRAAAAAAH!<$FFFE>
+Guah!<$FFFE>
+Mmm... não é à toa...<$FFFC>que eles enfrentam até o Império...<$FFFE>
+Não tenho medo da morte...<$FFFC>Mas o filho que fica...<$FFFE>
+Não era o nosso objetivo trazer o Rei Wilder de volta ao juízo?<$FFFD>E mesmo assim, ir tão longe...<$FFFE>
+É isso mesmo.<$FFFC>Só nos resta seguir em frente.<$FFFE>
+Pai, por favor, pare!<$FFFE>
+O senhor de agora não é o meu verdadeiro pai.<$FFFC>Por favor, volte logo a ser aquele pai gentil de antes!<$FFFE>
+O que você chama de forma original?<$FFFC>Não acha que o que sou agora é a minha verdadeira forma?<$FFFE>
+...Pai.<$FFFE>
+...O que a gente faz?<$FFFE>
+...Corte ele.<$FFFE>
+...Corte ele.<$FFFE>
+Furea?<$FFFE>
+Não aguento mais ver o meu pai assim...<$FFFE>
+Não aguento mais ver o meu pai assim...<$FFFE>
+...<$FFFE>
+O que você responde?<$FFFE>
+É, tem razão.<$FFFE>
+...Tem certeza?<$FFFE>
+Eu não consigo.<$FFFE>
+Tá certo.<$FFFC>O Rei Wilder, eu mesmo corto.<$FFFE>
+Pelo menos, que ele não sofra...<$FFFE>
+Pelo menos, que ele não sofra...<$FFFE>
+...Pode deixar.<$FFFE>
+...Tem certeza?<$FFFE>
+<$F703><$FFFE>
+<$F703><$FFFE>
+...Entendi.<$FFFE>
+...Não dá.<$FFFC>Eu não consigo.<$FFFC>Cortar logo o gentil Rei Wilder...<$FFFE>
+<$F600><$0000>, seu covarde!<$FFFC>Então eu mesma faço!<$FFFE>
+<$F600><$0000>, seu covarde!<$FFFC>Se eu pudesse, eu mesma faria.<$FFFC>Mas... uuh...<$FFFE>
+Deve ser mais difícil pra você...<$FFFC>...Desculpa, Furea.<$FFFC>Eu faço.<$FFFE>
+Você fez tudo o que podia.<$FFFC>E mesmo assim não deu.<$FFFC>Eu não vou... me arrepender...<$FFFE>
+Pai...<$FFFC>Então, de fato, não existe mais um jeito de trazer de volta a gentileza de antigamente, não é?<$FFFE><$FFFF>
