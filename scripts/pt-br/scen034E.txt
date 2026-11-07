@@ -1,0 +1,270 @@
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, o Espadachim<$FFFF>
+Pieru<$FFFF>
+Sábio Fáberu<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+Mestre dos Vermes Rag<$FFFF>
+Layla<$FFFF>
+Cavaleiro Negro<$FFFF>
+Cidadão<$FFFF>
+Monstro<$FFFF>
+Do Kahni<$FFFF>
+Comandante do Exército de Rigüler<$FFFF>
+Cidadão<$FFFF>
+Comandante do Exército de Velzeria<$FFFF>
+・Derrote o Mestre dos Vermes Rag<$FFFE>
+・Morte de <$F600><$0000><$FFFC>・Morte de Layla<$FFFC>・Aniquilação dos cidadãos<$FFFE>
+Arredores da Cidade de Laffel<$FFFF>
+E então, o que foi?<$FFFC>Não ia me derrotar?<$FFFD>Ou aquela empolgação de antes era só da boca pra fora?<$FFFE>
+Ugh!<$FFFE>
+O que está acontecendo?<$FFFC>Altemüller e Emerick estão lutando!?<$FFFE>
+Finalmente chegou, <$F600><$0000>.<$FFFC>Vou enterrar vocês todos, junto com o Emerick.<$FFFE>
+Por favor, espere, Lorde Böser.<$FFFC>Eu já falhei antes, no caso de Barral.<$FFFD>Deixe-me ter a chance de reparar o meu erro.<$FFFE>
+...Entendo.<$FFFC>Tudo bem.<$FFFD>Rag, Mestre dos Vermes.<$FFFC>Deixo este lugar com você.<$FFFC>Mate todos eles!<$FFFD>Eu vou esperar as boas notícias no castelo.<$FFFE>
+Sim, senhor!<$FFFE>
+E-espere!<$FFFE>
+Droga, ele fugiu.<$FFFE>
+Emerick!<$FFFC>O que deu em você?<$FFFD>Você não era general do Império?<$FFFE>
+Hoje eu não sou mais general.<$FFFC>Não passo de um rebelde que aponta a espada contra o Lorde Altemüller.<$FFFE>
+Uma rebelião?<$FFFE>
+Aquela espada... foi por causa de Alhazard que a Excelência mudou.<$FFFE>
+A Excelência de hoje não é aquela que eu respeitava.<$FFFE>
+Então ele realmente foi dominado por Alhazard, não é?<$FFFE>
+Até um cara daquele tamanho muda diante do poder de Alhazard...<$FFFE>
+Ele pegou aquela espada demoníaca com o coração cheio de um ódio violento.<$FFFD>Nesse estado, qualquer pessoa acaba dominada.<$FFFE>
+Chega de conversa.<$FFFC>Agora vamos derrotar o Rag e salvar os cidadãos desta cidade!<$FFFE>
+Opa, é mesmo!<$FFFE>
+Eu vou tentar barrar os monstros que estão entrando na cidade!<$FFFE>
+Desculpe, Emerick.<$FFFE>
+Só com esses monstros, não dá pra derrotar vocês.<$FFFC>Vou aumentar um pouco mais.<$FFFD>Venham, meus servos!<$FFFE>
+Nenhum de vocês vai sair vivo.<$FFFC>Preparem-se.<$FFFE>
+O exército imperial está nos protegendo?<$FFFE>
+Eu também sou humano.<$FFFC>Não posso fingir que não vejo os monstros dominando tudo.<$FFFE>
+Pra humanos, vocês até que me divertem.<$FFFD>Este é um presente meu.<$FFFC>Aceitem!<$FFFE>
+O quê!?<$FFFC>Ainda tinha mais monstros?<$FFFE>
+Não vou deixar vocês, monstros, sujarem mais um segundo esta Laffel!<$FFFE>
+São muitos mesmo.<$FE28><$FFFC>...Será que a gente aguenta?<$FFFE>
+Pessoal, fujam!<$FFFE>
+S-sim!<$FFFE>
+Lá fora está barulhento...<$FFFC>Será que apareceram monstros de novo?<$FFFE>
+Espera aí, Layla.<$FFFC>Eu vou te salvar, com certeza!<$FFFE>
+Aguente firme, Layla!<$FFFC>Estou indo te ajudar agora!<$FFFE>
+Senhora Layla, mais um pouco de paciência!<$FFFC>Nós iremos socorrê-la sem falta!<$FFFE>
+Layla, espere um pouco!<$FFFC>Eu vou te salvar agora!<$FFFE>
+GAAAAH!<$FFFE>
+Droga!<$FFFC>Eles entraram na cidade!<$FFFE>
+Estão vindo!<$FFFC>Pessoal, recuem!<$FFFE>
+Se a gente não correr atrás deles, os cidadãos...<$FFFE>
+...Afastem-se.<$FFFE>
+Pare de atacar os cidadãos!<$FFFC>Que sentido isso tem!<$FFFE>
+Hehehe...<$FFFC>Eu faço isso porque matar gente é divertido.<$FFFD>Eu gostaria que você não se metesse no que eu faço.<$FFFE>
+Isso eu não vou permitir!<$FFFE>
+Brincar com a vida das pessoas... quem você pensa que é!<$FFFE>
+Como pode dizer que o que você faz é certo?<$FFFC>Quem você pensa que é?<$FFFE>
+Pelo menos eu não brinco com a vida dos outros como você!<$FFFC>Eu sei o valor da vida!<$FFFE>
+Será mesmo?<$FFFC>Se está certo ou errado, quem vier depois é que vai julgar.<$FFFD>Talvez a humanidade seja mais feliz sendo governada por demônios.<$FFFE>
+Isso nunca, de jeito nenhum!<$FFFE>
+Olhando bem, parece que a rocha se mexe um pouco.<$FFFE>
+O que você faz?<$FFFE>
+Levantar<$FFFE>
+Observar um pouco<$FFFE>
+Subir na rocha<$FFFE>
+Debaixo da rocha havia uma fadinha.<$FFFD>"Muito obrigada.<$FFFC>Essa rocha veio rolando do nada e me prendeu embaixo dela.<$FFFD>Como agradecimento, vou lhe dar uma coisa boa, então cave aqui."<$FFFD>Dito isso, a fadinha foi embora levada pelo vento.<$FFFE>
+Quer cavar aqui?<$FFFE>
+Ao cavar, apareceu uma lança.<$FFFE>
+Você obteve Gae Bolg!<$FFFE>
+Depois de observar um pouco, a rocha parou de se mexer...<$FFFE>
+Ao subir na rocha, ela parou de se mexer.<$FFFE>
+Sentado em cima da rocha, há um homem enorme.<$FFFC>Na testa dele está cravado algo parecido com um fragmento de pedra.<$FFFD>O homem lança um olhar afiado e abre a boca.<$FFFC>"Se quer receber a minha proteção, diga o meu nome."<$FFFE>
+O que você responde?<$FFFE>
+Frey<$FFFE>
+Thor<$FFFE>
+Loki<$FFFE>
+O homem enorme sumiu sem dizer uma palavra.<$FFFE>
+"Como prometido, concedo a você a minha bênção.<$FFFD>O que você deseja?"<$FFFE>
+O que você deseja?<$FFFE>
+Megingjord<$FFFE>
+Mjolnir<$FFFE>
+Força<$FFFE>
+"Muito bem.<$FFFC>Concedo a você Megingjord."<$FFFE>
+Você obteve Megingjord!<$FFFE>
+"Muito bem.<$FFFC>Concedo a você Mjolnir."<$FFFE>
+Você obteve Mjolnir!<$FFFE>
+"Muito bem.<$FFFC>Concedo a você poder."<$FFFE>
+<$F600><$FFFC>ganhou +2 de Força!<$FFFE>
+Thor sorri satisfeito e desaparece.<$FFFE>
+O homem enorme sumiu sem dizer uma palavra.<$FFFE>
+Eu prometi ao Gerold.<$FFFC>Laffel, a terra dele e da Layla, eu vou proteger!<$FFFE>
+Então tudo isso era obra sua!<$FFFE>
+Ah, sim, é isso mesmo.<$FFFC>Agora vocês entenderam, não é?<$FFFC>Humanos são só seres feitos pra serem usados!<$FFFE>
+Seu desgraçado!!<$FFFE>
+Foi você quem enlouqueceu o Altemüller!<$FFFE>
+Aquele senhor foi escolhido por Alhazard.<$FFFD>Raiva, ódio, sentimentos negativos são a fonte do poder de Alhazard!<$FFFD>A espada demoníaca reconheceu os sentimentos negativos dele!<$FFFC>Ele é o digno próximo Böser!<$FFFE>
+Cale a boca!<$FFFE>
+Desculpem, Gerold, Layla...<$FFFD>Eu já não consigo mais lutar...<$FFFE>
+Hyahahahaha!<$FFFC>No fim das contas, humanos são só isso mesmo!<$FFFE>
+...Desculpa, Layla.<$FFFC>Parece que eram fortes demais pra mim...<$FFFE>
+Não atrapalhe!<$FFFE>
+Tsc...!<$FFFC>Será que a minha força não é o bastante...?<$FFFE>
+Aii...<$FFFC>Que mico...<$FFFE>
+Não deu.<$FFFC>Com licença, vou recuar primeiro.<$FFFE>
+Eu não sou bom o bastante pra perdoar vocês, demônios.<$FFFD>Sumam daqui, monstros!<$FFFE>
+Ugh...<$FFFC>E eu ainda nem derrotei aquele cara...<$FFFE>
+Os monstros ficaram tão fortes assim...<$FFFE>
+Em nome da Lady Lushiris!<$FFFE>
+Demônios... não perdoo...<$FFFE>
+Contra demônios, não tem por que pegar leve, viu!<$FFFE>
+Mas que onda maligna é essa...<$FFFE>
+Grrr...<$FFFC>Quero mais... força...<$FFFE>
+Foi você quem enlouqueceu o Rei Wilder!<$FFFC>Não vou perdoar!<$FFFE>
+Volte pro mundo das trevas!<$FFFE>
+Droga!<$FFFC>Me pegaram!<$FFFE>
+Deixo o resto com você, <$F600><$0000>.<$FFFC>Proteja Laffel!<$FFFE>
+Não posso morrer enquanto Laffel não tiver paz!<$FFFE>
+Demônios que querem o mundo dos humanos.<$FFFC>Em nome da deusa Lushiris, não posso perdoar!<$FFFE>
+Ah...<$FFFC>O céu azul...<$FFFE>
+Apagar os demônios deste mundo é a oferenda que posso fazer ao meu senhor.<$FFFD>Prepare-se!<$FFFE>
+Nuh!<$FFFC>Que descuido!<$FFFE>
+Se não fosse por você, o meu pai...<$FFFD>Vingança pelo meu pai!<$FFFE>
+Eu não vou entregar este mundo a vocês!<$FFFE>
+A-ainda...<$FFFC>Ainda consigo... uuh...<$FFFE>
+Vocês, bagunça,<$FFFC>deus Shika bravo!<$FFFC>Do Kahni não perdoa!<$FFFE>
+Shi... Shika... a... Reya... Shina...<$FFFE>
+Me perdoe, <$F600><$0000>.<$FFFC>Não consigo aguentar mais...<$FFFE>
+Envolver cidadãos sem relação com isso é imperdoável!<$FFFE>
+Vocês, monstros...<$FFFE>
+Entregar este mundo a vocês... jamais...<$FFFE>
+F-forte...<$FFFE>
+Sintam a minha fúria!<$FFFE>
+Vou acertar as contas de tudo que ficou pendente até agora.<$FFFE>
+Quem é que faz você estar vivo agora?<$FFFC>Fui eu que implantei o verme em você, não foi?<$FFFD>Devia me agradecer.<$FFFE>
+Graças a isso, eu sujei estas mãos de sangue!<$FFFC>Matei muitas pessoas inocentes!<$FFFD>Quem é que agradeceria por isso!<$FFFE>
+U... gh...<$FFFE>
+Hah!<$FFFC>Recue, por favor!<$FFFC>Do jeito que você está agora...<$FFFE>
+Me perdoem... acabei atrapalhando mais do que ajudando...<$FFFE>
+...Cava... leiro... Negro...<$FFFE>
+Kyaaah!<$FFFE>
+L-Layla!<$FFFE>
+Layla!<$FFFE>
+...Eu queria... ver o Gerold... mais uma vez...<$FFFE>
+Desculpa, Gerold...<$FFFC>Se eu tivesse sido mais firme...<$FFFE>
+Iyaaah!<$FFFE>
+Por que logo para monstros...<$FFFE>
+Pessoal...<$FFFE>
+Droga!<$FFFC>Fui derrotado...<$FFFE>
+Não deu tempo?<$FFFC>E tudo por eu ser tão imaturo...<$FFFE>
+Pode morrer...<$FFFC>Ou prefere se tornar um dos meus companheiros?<$FFFE>
+Parece que acabou...<$FFFE>
+O Cavaleiro Negro!?<$FFFC>Impossível!?<$FFFC>Possuído pelo meu verme, ele não poderia manter a sanidade!<$FFFE>
+...Eu implantei o verme nele junto com o rei de Barral, com certeza... Como é possível...?<$FFFE>
+O quê!?<$FFFE>
+Foi você quem controlava o Rei Wilder!?<$FFFE>
+Ha!<$FFFC>Exatamente.<$FFFE>
+Fui eu que fiz a filha dele se perder no fundo da floresta, e fui eu que joguei o rei no penhasco e implantei o verme!<$FFFE>
+...Foi você, foi você que implantou o verme no meu pai!<$FFFE>
+Não perdoo!<$FFFC>Jamais perdoarei!<$FFFE>
+Brincar com a vida das pessoas... jamais perdoarei!<$FFFE>
+Por hoje, fico por aqui.<$FFFC>Mas, da próxima vez, considerem a vida de vocês perdida!<$FFFD>Vamos, vermes!<$FFFC>Meu corpo...<$FFFE>
+V-vermes... meu corpo...<$FFFE>
+<$F702><$FFFE>
+<$F702><$FFFE>
+P-por quê... por que a minha magia...<$FFFE>
+Hah! É aquela espada!?<$FFFC>É ela que rouba a minha magia...<$FFFE>
+A Langrisser sela o poder maligno dos demônios.<$FFFC>A sua magia não é exceção.<$FFFE>
+A Langrisser sela o poder maligno dos demônios.<$FFFC>A sua magia não é exceção.<$FFFE>
+A Langrisser sela o poder de vocês, demônios.<$FFFC>E o seu não é exceção.<$FFFE>
+Vou apodrecer assim...?<$FFFC>Eu ainda tenho tanto a fazer pelo Lorde Böser...<$FFFE>
+Uaaaah...<$FFFE>
+Acabou.<$FFFE>
+Agora ele não deve mais voltar à vida.<$FFFE>
+Hã...<$FE28>...<$FE28>...<$FE1E><$FFFC>Muito obrigada por me salvarem.<$FFFE>
+Como agradecimento, aceite isto, por favor.<$FFFE>
+Você obteve a Bênção dos Deuses!<$FFFE>
+...Pai.<$FFFC>Eu vinguei o senhor.<$FFFC>Descanse em paz.<$FFFE>
+...Pai.<$FFFC>Eu vinguei o senhor.<$FFFC>Descanse em paz.<$FFFE>
+Furea...<$FFFE>
+Obrigada, <$F600><$0000>.<$FFFE>
+Obrigada, <$F600><$0000>.<$FFFE>
+Conseguimos, Furea.<$FFFC>A raiz de tudo o que enlouqueceu o Rei Wilder foi destruída.<$FFFD>...Mas, sem ele, o Rei Wilder e a Furea...<$FFFE>
+Mas, enquanto Alhazard existir, ainda não acabou.<$FFFE>
+Mas, enquanto Alhazard existir, ainda não acabou.<$FFFE>
+É verdade.<$FFFD>Mas, Emerick.<$FFFC>Você se separou do Altemüller, o que pretende fazer agora?<$FFFE>
+<$F703><$FFFE>
+<$F704><$FFFE>
+<$F705><$FFFE>
+<$F703><$FFFE>
+<$F704><$FFFE>
+<$F705><$FFFE>
+Existe também esse tipo de lealdade...<$FFFE>
+Só quem passou por muita coisa fala assim, né.<$FFFE>
+Por isso mesmo deve ser doloroso.<$FFFE>
+...Entendi.<$FFFC>Vamos juntos.<$FFFE>
+Para salvar a alma do Altemüller.<$FFFE>
+Emerick entrou para o grupo!<$FFFE>
+General!<$FFFC>Aceite isto, por favor!<$FFFE>
+Você obteve o Talismã!<$FFFE>
+<$F706><$FFFE>
+<$F706><$FFFE>
+Cuide do Lorde Altemüller, por favor.<$FFFE>
+<$F707><$FFFE>
+<$F707><$FFFE>
+Bem, vamos partir!<$FFFE>
+Maldição!<$FFFC>Humanos ousando me desafiar!<$FFFD>Essa dívida será paga com as vidas do povo desta cidade.<$FFFE>
+Isso nós não vamos permitir!<$FFFE>
+ZAPP...<$FFFE>
+ZAPP...<$FFFE>
+BOOOOM...<$FFFE>
+BOOOOM...<$FFFE>
+L-Lorde Rag... faça de mim... imortal também...<$FFFE>
+O poder das trevas...<$FFFE>
+ZAPP...<$FFFE>
+GRAAAH!<$FFFE>
+GRAAAH!<$FFFE>
+CRASH!<$FFFE>
+CRASH!<$FFFE>
+CRASH!<$FFFE>
+ZAPP...<$FFFE>
+ZAPP...<$FFFE>
+GRAAAH!<$FFFE>
+GRAAAH!<$FFFE>
+CRASH!<$FFFE>
+ZAPP...<$FFFE>
+KIIAAAH!<$FFFE>
+GRAAAH!<$FFFE>
+GUGRAAAH!<$FFFE>
+GUGRAAAH!<$FFFE>
+Q-que é isso!<$FFFC>Os meus monstros... aniquilados!?<$FFFE>
+O Cavaleiro Negro!?<$FFFC>...Até soldados de Barral!?<$FFFE>
+Não tem com o que se preocupar, Barral já caiu!<$FFFC>Agora ele está do nosso lado!<$FFFE>
+O Cavaleiro Negro!?<$FFFC>Impossível!?<$FFFC>Possuído pelo meu verme, ele não poderia manter a sanidade!<$FFFE>
+...Eu implantei o verme nele junto com o rei de Barral, com certeza... Como é possível...?<$FFFE>
+O quê!?<$FFFE>
+Foi você quem controlava o Rei Wilder!?<$FFFE>
+Ha!<$FFFC>Exatamente.<$FFFE>
+Fui eu que fiz a filha dele se perder no fundo da floresta, e fui eu que joguei o rei no penhasco e implantei o verme!<$FFFE>
+...Foi você, foi você que implantou o verme no meu pai!<$FFFE>
+Não perdoo!<$FFFC>Jamais perdoarei!<$FFFE>
+Brincar com a vida das pessoas... jamais perdoarei!<$FFFE>
+Em nome da Furea, eu mesmo derroto você!<$FFFE>
+Experimente!<$FFFC>Vou fazer vocês, humanos, sentirem o quanto são impotentes!<$FFFE>
+Tsc!<$FFFC>Somos poucos contra tantos!?<$FFFC><$F600><$0000>, depressa!<$FFFE>
+Eu sei!<$FFFC>Falta pouco!<$FFFE>
+Aquele já não é a Excelência Altemüller de antes.<$FFFC>O coração dele agora é igual ao de um monstro.<$FFFE>
+Eu não aguento mais ver aquele senhor assim.<$FFFC>Por isso, pelo menos, quero sepultá-lo com as minhas próprias mãos.<$FFFE>
+Deixá-lo morrer enquanto ainda resta nele um coração de homem é a minha última lealdade.<$FFFE>
+É inútil.<$FFFC>Você já não tem nem a magia necessária pra controlar os vermes.<$FFFE>
+Aceito de bom grado.<$FFFE>
+Entendido.<$FFFC>Pode deixar comigo.<$FFFE>
