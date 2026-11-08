@@ -1,8 +1,8 @@
 # Langrisser III — tradução PT-BR
 
-Projeto de fã para traduzir *Langrisser III* (Sega Saturn, Japão) para português brasileiro. A tradução parte do japonês, com a versão inglesa como apoio de contexto e de layout, e busca preservar o sentido e o tom de cada cena em uma fala que soe natural no Brasil.
+Projeto de fã para traduzir *Langrisser III* (Sega Saturn, Japão) para português brasileiro. A tradução parte do japonês, que também é a referência para linhas e marcadores técnicos; a versão inglesa serve apenas de apoio contextual. A meta é preservar o sentido e o tom de cada cena em uma fala que soe natural no Brasil.
 
-**Estado:** os cenários 1 a 35 foram revisados e aprovados. O cenário 36 é o próximo da tradução; os roteiros aprovados ficam em `scripts/pt-br/`.
+**Estado:** os 36 cenários foram traduzidos, revisados e aprovados. Os roteiros aprovados ficam em `scripts/pt-br/`; a próxima fase é desenvolver e testar a ferramenta de patch PT-BR.
 
 **[Abrir a página do projeto](https://mirumadev-jpg.github.io/langrisser3-ptbr/)** · **[Ver os créditos](CREDITS.md)** · **[Ver os roteiros](scripts/pt-br/)**
 
@@ -49,9 +49,9 @@ Há milhões de anos (risos), a arte de Satoshi Urushihara me inspirou a desenha
 - Cenário 33 — tradução aprovada e publicada.
 - Cenário 34 — tradução aprovada e publicada.
 - Cenário 35 — tradução aprovada e publicada.
-- Cenário 36 — próximo da fila.
+- Cenário 36 — tradução revisada, aprovada e publicada.
 
-Os arquivos publicados ficam em [`scripts/pt-br/`](scripts/pt-br/). Eles preservam códigos de controle e placeholders necessários ao roteiro.
+Os arquivos publicados ficam em [`scripts/pt-br/`](scripts/pt-br/). Eles preservam a sequência de códigos de controle e placeholders do roteiro japonês; a versão inglesa é usada apenas como apoio de contexto.
 
 ## Nota de terminologia
 
@@ -63,16 +63,21 @@ Interjeições e onomatopeias também devem soar brasileiras: adaptar sons como 
 
 ## Notas técnicas
 
-A base técnica é o release [v0.8.0 do Langrisser III English Patch](https://github.com/hexerkat/langrisser3-english/releases/tag/v0.8.0). O repositório original descreve o pipeline como reutilizável para outras línguas. Este repositório ainda é um projeto de tradução textual, não um patch PT-BR pronto para aplicar.
+A base técnica é o release [v0.8.0 do Langrisser III English Patch](https://github.com/hexerkat/langrisser3-english/releases/tag/v0.8.0), usado como referência para adaptar o builder. O roteiro japonês é a autoridade para a estrutura e os marcadores de controle; a versão inglesa serve apenas de apoio contextual. Os 36 roteiros PT-BR estão completos, mas este repositório ainda não contém um patch aplicável.
 
-Antes de uma build serão necessários, no mínimo:
+Antes de uma build PT-BR serão necessários, no mínimo:
 
+- adaptar o builder para localizar os roteiros PT-BR e validar sua estrutura e seus marcadores contra os arquivos japoneses;
 - ampliar o mapa de glifos da fonte para incluir acentos, cedilha, maiúsculas e minúsculas do português; avaliar pares de letras comprimidos;
-- completar os roteiros e revisar nomes e termos num glossário;
-- executar QA de layout em português, ajustar as quebras `<$FFFC>` e testar no jogo;
+- traduzir os recursos de texto que ficam fora dos cenários, como menus, nomes e mensagens do sistema;
+- executar QA de layout em português e testar o resultado no jogo;
 - validar o pipeline de build para PT-BR.
 
 O patcher pronto do release é voltado à versão inglesa. Nenhum arquivo de jogo, ROM, ISO, binário, música, vídeo ou arte extraída é distribuído neste repositório. Para jogar, é necessário possuir uma cópia legítima do disco japonês.
+
+## Próxima fase: ferramenta de patch
+
+O trabalho seguinte é adaptar o builder v0.8.0 para os recursos PT-BR e testar a geração da imagem localmente com uma cópia legítima e compatível do disco japonês. A ferramenta e o patch só serão considerados prontos após validação do texto, da fonte, dos menus e do funcionamento no jogo.
 
 ## Créditos
 

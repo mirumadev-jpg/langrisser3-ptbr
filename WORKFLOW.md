@@ -4,7 +4,7 @@ Este documento registra o fluxo de trabalho para continuar o projeto com consist
 
 ## Princípios editoriais
 
-- Traduzir do japonês. Usar a tradução inglesa como apoio de contexto e referência de layout, nunca como molde literal.
+- Traduzir do japonês. Usar a versão inglesa apenas como apoio contextual, nunca como referência de layout ou molde literal; o japonês é a fonte para linhas e marcadores técnicos.
 - Preservar sentido, tom, voz dos personagens e naturalidade em português brasileiro.
 - Manter nomes e termos consistentes com um glossário compartilhado, a ser ampliado durante a tradução.
 - Para poderes sobrenaturais, usar “magia/magias”, “conjurar magia” ou “fazer magia”; reservar “mágica” para truques de palco/ilusionismo.
@@ -62,11 +62,12 @@ Este documento registra o fluxo de trabalho para continuar o projeto com consist
 - Cenário 33: aprovado e publicado conforme aprovação explícita de Miruma.
 - Cenário 34: aprovado e publicado conforme aprovação explícita de Miruma.
 - Cenário 35: aprovado e publicado conforme aprovação explícita de Miruma.
-- Cenário 36: próximo da fila; manter como rascunho até revisão e aprovação explícita de Miruma.
+- Cenário 36: revisado, aprovado e publicado conforme solicitação explícita de Miruma.
 
 ## Regras técnicas e de qualidade
 
-- Preservar códigos de controle, placeholders e a organização dos arquivos de roteiro.
+- Preservar códigos de controle, placeholders e a organização dos arquivos de roteiro. Para linhas e sequências de marcadores, os scripts japoneses `scenXXXJ.txt` são a referência autoritativa; a versão inglesa serve apenas de apoio contextual.
+- Validar os marcadores PT-BR contra o roteiro japonês correspondente, não contra o inglês, que pode ter sido adaptado.
 - Antes de uma build PT-BR, ampliar e testar o mapa de glifos para acentos, cedilha e letras maiúsculas/minúsculas; avaliar pares comprimidos; revisar quebras e layout no jogo; validar o pipeline de build em português.
 - O patcher do release inglês não é um patch PT-BR pronto. Não afirmar que existe uma build aplicável até que o pipeline seja adaptado e testado.
 - Não substituir nem alterar a licença preexistente sem pedido e revisão específicos.
@@ -89,6 +90,6 @@ Este documento registra o fluxo de trabalho para continuar o projeto com consist
 - Manter a indicação de que este é um projeto de fã não oficial e sem afiliação aos titulares de Langrisser III.
 - Não distribuir ROM, ISO, binários do jogo, música, vídeo ou arte extraída. A licença GPL-3.0 existente cobre somente materiais cujos autores possam conceder esses direitos; não concede direitos sobre o jogo ou materiais de terceiros.
 
-## Próximo passo de tradução
+## Próxima fase: ferramenta de patch
 
-Retomar o cenário 36 na ordem, preparar um rascunho para revisão de Miruma e aguardar aprovação antes de publicar qualquer arquivo ou atualizar seu status como aprovado.
+Os 36 roteiros estão publicados. Iniciar a adaptação do builder v0.8.0 para PT-BR, preservando créditos e licença, incorporando a pasta `scripts/pt-br/`, os recursos de texto restantes e a fonte com acentos/cedilha. Validar estrutura e marcadores pelo japonês, fazer QA no jogo e usar somente uma cópia legítima e compatível do disco japonês para os testes. Não distribuir imagens de disco nem dados protegidos do jogo.

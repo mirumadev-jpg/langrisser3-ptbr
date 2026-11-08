@@ -1,0 +1,160 @@
+Tiaris<$FFFF>
+Liffany<$FFFF>
+Luna<$FFFF>
+Sofia<$FFFF>
+Furea<$FFFF>
+Ruin<$FFFF>
+Lobo Prateado<$FFFF>
+Gilberto, o Espadachim<$FFFF>
+Pieru<$FFFF>
+Sábio Fáberu<$FFFF>
+Diós<$FFFF>
+Besta Sagrada Jugurá<$FFFF>
+Grande Maga Jéssica<$FFFF>
+Kirikaze<$FFFF>
+Herói Do Kahni<$FFFF>
+Altemüller<$FFFF>
+Fana<$FFFF>
+Emarinku<$FFFF>
+General Demoníaco Geier<$FFFF>
+Gilberto<$FFFF>
+Monstro<$FFFF>
+Comandante Geier<$FFFF>
+Geier<$FFFF>
+・Derrote o General Demoníaco Geier<$FFFE>
+・Morte de <$F600><$0000><$FFFE>
+Castelo de Velzeria<$FFFF>
+Rápido!<$FFFC>É lá pro fundo!<$FFFE>
+Então é aqui... Velzeria, a terra dos monstros...<$FFFE>
+Nunca imaginei que ia ter que voltar a este lugar, viu.<$FFFE>
+Se desse, eu preferia nem ter vindo.<$FFFE>
+Será que a Tiaris ainda está bem?<$FFFE>
+Será que a Liffany ainda está a salvo?<$FFFE>
+A Luna está bem, será?<$FFFE>
+Se a gente não correr, a Sofia vai correr perigo.<$FFFE>
+Ei, se a gente não correr, a Furea corre perigo!<$FFFE>
+...Pelo visto ela ainda está bem.<$FFFE>
+Se o ritual de sacrifício já tivesse acabado, a onda que o Caos manda pros monstros seria bem mais pesada que isso.<$FFFE>
+Dá pra sentir, Fana?<$FFFE>
+Eu fui revivida pelo poder das trevas, na época em que o Altemüller virou Böser e dominava Alhazard à vontade.<$FFFB><$FFFE>
+Por isso, estou mais perto dos seres das trevas do que de vocês.<$FFFC>É por isso que consigo sentir.<$FFFE>
+De qualquer forma, quanto mais a gente demora, mais perigo ela corre.<$FFFC>Vamos depressa.<$FFFE>
+Isso eu não vou deixar!<$FFFE>
+Ora, Geier!<$FFFE>
+Não vou deixar ninguém atrapalhar o Lorde Böser.<$FFFE>
+Vou reviver o deus do caos, o Lorde Caos, e dominar tudo que vive neste mundo.<$FFFE>
+Mas antes, eu mesmo acabo com vocês!<$FFFC>Principalmente você, Altemüller!<$FFFC>Com você eu vou caprichar!<$FFFE>
+Não podemos perder tempo aqui!<$FFFC>Vamos passar por eles rápido!<$FFFE>
+Se a gente concentrar o ataque no Geier, dá pra passar com relativa facilidade.<$FFFE>
+Beleza!<$FFFC>Deixa comigo, eu resolvo!<$FFFE>
+Querer me derrotar... que presunção.<$FFFD>Então vamos testar o poder que o Lorde Caos me deu!<$FFFE>
+Vamos, venham logo!<$FFFC>Eu estou bem aqui!<$FFFE>
+Geier...!<$FFFE>
+Já deve estar quase na hora de o Lorde Caos ser revivido, né?<$FFFD>Hehehe!<$FFFC>A vida daquela garota está acabando!<$FFFE>
+Falta pouco, pessoal.<$FFFC>Vamos derrotar o Geier e seguir direto até o Paul!<$FFFD>Aí a gente salva ela e impede o retorno do Caos!<$FFFE>
+Espere aí, Geier!<$FFFC>Eu vou acabar com a sua vida agora mesmo!<$FFFE>
+Agora que o Lorde Caos me deu poder, a sua espada não me assusta mais.<$FFFE>
+GAAAAAH!<$FFFE>
+SHIAAAAH!<$FFFE>
+Hah!<$FFFE>
+GAH!<$FFFE>
+Eu nunca imaginei que vocês, pirralhos, chegariam tão longe!<$FFFD>Mas o Lorde Caos vai ser revivido logo!<$FFFC>E aí uma era de trevas chega a este mundo!<$FFFE>
+Hehehe...<$FFFC>Finalmente vocês chegaram até aqui.<$FFFD>Daqui pra frente, cada passo é uma contagem regressiva pra sua morte!<$FFFE>
+É...<$FFFC>a sua contagem!<$FFFE>
+Mas que...!<$FFFC>Seu moleque!<$FFFE>
+Cale a boca!<$FFFC>Quem vai morrer é você!<$FFFE>
+O chão está rachado e a terra, exposta.<$FFFD>Dela sai espetada uma vara fina e comprida.<$FFFE>
+O que você faz?<$FFFE>
+Tentar puxar<$FFFE>
+Tentar quebrar<$FFFE>
+Dar água<$FFFE>
+Você tentou puxar, mas ela nem se mexe.<$FFFE>
+O que você faz?<$FFFE>
+Puxar com toda a força<$FFFE>
+Enfiar mais fundo<$FFFE>
+Puxar com cuidado<$FFFE>
+A vara quebrou com um estalo seco.<$FFFE>
+Você desistiu de puxar e tentou enfiar a vara mais fundo; ela entrou sem resistência nenhuma.<$FFFD>Num piscar de olhos, a vara sumiu dentro da terra...<$FFFE>
+Ao puxar com cuidado, ela saiu com facilidade.<$FFFD>E a vara fina, que parecia um galho seco, tinha virado uma lança magnífica.<$FFFE>
+Você obteve Gungnir!<$FFFE>
+A vara quebrou com um estalo seco.<$FFFE>
+Ao dar água, a terra virou lama.<$FFFD>A vara afundou na terra como se estivesse na água e sumiu...<$FFFE>
+Devolva a minha Tiaris!<$FFFE>
+Devolva a minha Liffany!<$FFFE>
+Devolva a minha Luna!<$FFFE>
+Devolva a minha Sofia!<$FFFE>
+Devolva a minha Furea!<$FFFE>
+Hehehe!<$FFFC>Essa garota já deve ter virado sacrifício do Lorde Caos e desaparecido a esta altura!<$FFFE>
+S-seu desgraçado!<$FFFE>
+G-Geier...<$FFFC>devolva ela...<$FFFE>
+Tarde demais!<$FFFC>Agora o Lorde Caos será revivido, e a era será nossa!<$FFFE>
+Desculpa, <$F600><$0000>.<$FFFC>A Tia se esforçou, mas...<$FFFE>
+Me desculpe, <$F600><$0000>.<$FFFC>Que inútil que eu sou...<$FFFE>
+Eu conheço bem a dor de perder quem se ama.<$FFFC>Por favor, não desistam até o fim...<$FFFE>
+Uuu...<$FFFC>faltava tão pouco...<$FFFE>
+<$F600><$0000>...<$FFFC>Desculpe, não consegui ajudar...<$FFFE>
+Ela está em perigo, e mesmo assim...<$FFFE>
+Salvá-la é o que impede a volta do Caos, e mesmo assim...<$FFFD>Mas já não consigo lutar...<$FFFE>
+M-minha filha está correndo perigo, e mesmo assim...<$FFFE>
+Ugh!<$FFFC>O poder dos demônios está ficando mais forte aos poucos...<$FFFE>
+Preciso... salvar... ela...<$FFFE>
+D-droga...!<$FFFC>Não se preocupem comigo, lutem!<$FFFC><$F600><$0000>!<$FFFE>
+Ouça bem, nunca desista dela...<$FFFC>No momento em que você desistir, é a sua derrota...<$FFFE>
+Precisamos impedir a volta do Caos, custe o que custar...<$FFFE>
+Não desista, <$F600><$0000>...<$FFFE>
+Ora, ora.<$FFFC>Se não é o Emerick, o capacho do Altemüller.<$FFFE>
+E você, não é o capacho do Paul?<$FFFE>
+Mas que... moleque!<$FFFC>Vou te fazer em pedaços!<$FFFE>
+Me perdoe, <$F600><$0000>.<$FFFC>Não deu pra retribuir o que eu te devo...<$FFFE>
+GWAHAHAHA!<$FFFC>Consegui!<$FFFC>Finalmente derrubei o Altemüller!<$FFFD>Fique vivo mais um tempinho.<$FFFC>Depois de fazer esses daqui virarem sangue, eu mato você devagar, até a morte!<$FFFD>Hihihi!<$FFFE>
+Hã?<$FFFC>Nem precisei me dar ao trabalho de te atacar...<$FFFE>
+......Tsc!<$FFFE>
+Você está bem, Altemüller!?<$FFFE>
+Não ligue pra mim.<$FFFC>Uma coisa dessas não me mata.<$FFFD>Mais importante, só pense em derrotar o Geier agora.<$FFFE>
+Uuugh!<$FFFE>
+Você está bem, Fana!?<$FFFE>
+Disso eu não morro, mas não consigo voltar a lutar tão cedo.<$FFFD>Me perdoem...<$FFFE>
+Tudo bem.<$FFFC>O resto eu resolvo.<$FFFC>Descanse aí...<$FFFE>
+Vou oferecer o sangue de vocês ao Lorde Caos!<$FFFE>
+G-gah...! Por quê... logo eu...?<$FFFE>
+Bom, tanto faz... quando o Lorde Caos for revivido... eu volto quantas vezes forem...<$FFFE>
+Pena não ter feito um banquete de sangue com vocês... Guoh!<$FFFE>
+Perdemos tempo à toa.<$FFFC>Temos que correr!<$FFFE>
+BOOOOM!<$FFFE>
+GUGAAAAH!<$FFFE>
+GRAAAOOON!<$FFFE>
+GRAAAOOON!<$FFFE>
+GUGAAAAH!<$FFFE>
+GUAAA...<$FFFE>
+GUAAA...<$FFFE>
+GUAAA...<$FFFE>
+GUAAA...<$FFFE>
+Meu corpo está se desfazendo...<$FFFE>
+BOOOOM!<$FFFE>
+Guoooh!<$FFFE>
+KIIAAAH!<$FFFE>
+GAHAA!<$FFFE>
+GAHAA!<$FFFE>
+WOOO...<$FFFE>
+Eu vou amaldiçoar vocês...<$FFFE>
+BOOOOM!<$FFFE>
+Vou levar vocês comigo...<$FFFE>
+KIIAAAH!<$FFFE>
+GAHAA!<$FFFE>
+GAHAA!<$FFFE>
+WOOO...<$FFFE>
+Que força...<$FFFE>
+Lorde Caos...!<$FFFE>
+Logo por humanos...<$FFFE>
+O q-quê!<$FFFC>Esse é o poder da espada sagrada...?<$FFFE>
+GRAAAOOON!<$FFFE>
+BOOOOM!<$FFFE>
+BOOOOM!<$FFFE>
+GRAAAOOON!<$FFFE>
+Venha você também pro lado do Lorde Caos, Fana!<$FFFE>
+Nunca!<$FFFC>Minha vida é sempre do Lorde Altemüller!<$FFFE>
+Então morra!<$FFFE>
+Hehehe, você eu vou matar de qualquer jeito.<$FFFC>Com todo o ódio daquele dia!<$FFFE>
+Hmph!<$FFFC>Voltou à vida só pra morrer de novo?<$FFFE>
+A volta do Lorde Caos está próxima.<$FFFC>Ganhem o máximo de tempo!<$FFFC>Vão!<$FFFE>
+Finalmente a era das trevas está chegando!<$FFFC>Este mundo todo vai ser nosso!<$FFFE><$FFFF>
