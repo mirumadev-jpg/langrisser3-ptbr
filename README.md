@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="langrisser3-ptbr-banner.png" alt="Banner ilustrado de Langrisser III: a protagonista de cabelos prateados diante de uma lua e um castelo, com o título Langrisser III e Tradução PT-BR." width="960">
+</p>
+
 # Langrisser III — tradução PT-BR
 
 Projeto de fã para traduzir *Langrisser III* (Sega Saturn, Japão) para português brasileiro. A tradução parte do japonês, que também é a referência para linhas e marcadores técnicos; a versão inglesa serve apenas de apoio contextual. A meta é preservar o sentido e o tom de cada cena em uma fala que soe natural no Brasil.
