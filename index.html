@@ -72,6 +72,8 @@
     .navlinks a { color: var(--muted); text-decoration: none; font-size: .88rem; }
     .navlinks a:hover { color: var(--ink); }
     .hero { position: relative; overflow: hidden; padding: clamp(82px, 13vw, 150px) 0 92px; }
+    .hero-banner { position: relative; z-index: 1; width: min(100%, 960px); margin: 0 auto 38px; overflow: hidden; border: 1px solid rgba(229,194,125,.34); border-radius: 18px; background: rgba(30,28,46,.72); box-shadow: 0 24px 64px rgba(0,0,0,.28); }
+    .hero-banner img { display: block; width: 100%; height: auto; }
     .hero::after {
       position: absolute; right: -9rem; top: 2rem; width: 34rem; height: 34rem;
       border: 1px solid rgba(229,194,125,.12); border-radius: 50%; content: "";
@@ -155,6 +157,7 @@
       <nav class="navlinks" aria-label="Navegação principal">
         <a href="#projeto">O projeto</a>
         <a href="#andamento">Andamento</a>
+        <a href="#apoie">Apoie</a>
         <a href="#miruma">Miruma</a>
         <a href="#fanarts">Fanarts</a>
         <a href="#creditos">Créditos</a>
@@ -166,12 +169,16 @@
   <main id="top">
     <section class="hero" style="border:0">
       <div class="wrap">
+        <figure class="hero-banner">
+          <img src="langrisser3-ptbr-banner.png" alt="Banner ilustrado de Langrisser III: a protagonista de cabelos prateados diante de uma lua e um castelo, com o título Langrisser III e Tradução PT-BR." fetchpriority="high" decoding="async">
+        </figure>
         <div class="eyebrow">Projeto de fã · tradução concluída · patcher em desenvolvimento</div>
         <h1>Uma aventura clássica,<br><em>mais perto do Brasil.</em></h1>
         <p class="lede">Langrisser III em português brasileiro. Uma tradução feita com carinho por Miruma, para que mais gente possa conhecer — e viver — essa história.</p>
         <div class="hero-actions">
           <a class="button primary" href="#andamento">Acompanhar o projeto</a>
           <a class="button" href="https://github.com/mirumadev-jpg/langrisser3-ptbr">Ver no GitHub</a>
+          <a class="button" href="https://ko-fi.com/X8X26XMAI" target="_blank" rel="noopener noreferrer">Apoie no Ko-fi</a>
         </div>
         <div class="statusline" aria-label="Resumo do projeto">
           <span>36 cenários revisados e aprovados</span>
@@ -450,6 +457,17 @@
       </div>
     </section>
 
+    <section id="apoie">
+      <div class="wrap">
+        <div class="section-head">
+          <div class="eyebrow">Apoie o projeto</div>
+          <h2>Ajude esta aventura a continuar.</h2>
+          <p class="section-intro">Se você curte a tradução e quer apoiar o trabalho independente por trás dela, pode deixar uma contribuição voluntária pelo Ko-fi. Obrigado por fortalecer o projeto.</p>
+        </div>
+        <a class="button primary" href="https://ko-fi.com/X8X26XMAI" target="_blank" rel="noopener noreferrer">Apoiar Miruma no Ko-fi</a>
+      </div>
+    </section>
+
     <section id="fanarts" class="artwork">
       <div class="wrap">
         <div class="section-head">
@@ -517,8 +535,10 @@
   <footer>
     <div class="wrap foot">
       <span>Feito com carinho por Miruma · projeto de fã, não oficial.</span>
-      <span><a href="https://github.com/mirumadev-jpg/langrisser3-ptbr">Código e textos no GitHub</a> · <a href="https://github.com/hexerkat/langrisser3-english">Projeto-base</a></span>
+      <span><a href="https://ko-fi.com/X8X26XMAI" target="_blank" rel="noopener noreferrer">Apoie no Ko-fi</a> · <a href="https://github.com/mirumadev-jpg/langrisser3-ptbr">Código e textos no GitHub</a> · <a href="https://github.com/hexerkat/langrisser3-english">Projeto-base</a></span>
     </div>
   </footer>
+  <script type="text/javascript" src="https://storage.ko-fi.com/cdn/widget/Widget_2.js"></script>
+  <script type="text/javascript">kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'X8X26XMAI');kofiwidget2.draw();</script>
 </body>
 </html>
