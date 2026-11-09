@@ -28,7 +28,7 @@ Este documento registra o fluxo de trabalho para continuar o projeto com consist
 
 ## Estado aprovado registrado
 
-Os 36 roteiros aprovados e publicados até aqui são lotes de batalha, não a tradução do jogo inteiro. O planejamento atual estima 125 lotes no total e 89 restantes; o total e a divisão por menus, itens, textos de sistema e outras famílias precisam ser confirmados no inventário das fontes japonesas. Não apresentar 36/36 como conclusão geral do jogo.
+Os 36 roteiros aprovados e publicados até aqui são lotes de batalha, não a tradução do jogo inteiro. O escopo de acompanhamento é o conjunto de 144 arquivos `.txt` em `scripts/en` da base do patcher: 36 concluídos e 108 pendentes, contando um arquivo como um lote. Essa contagem mede arquivos, não volume de texto. Não apresentar 36/36 como conclusão geral do jogo.
 
 - Cenário 1: revisado, aprovado e publicado.
 - Cenário 2: revisado, aprovado e publicado.
@@ -69,8 +69,8 @@ Os 36 roteiros aprovados e publicados até aqui são lotes de batalha, não a tr
 
 ## Regras técnicas e de qualidade
 
-- Preservar códigos de controle, placeholders e a organização dos arquivos de roteiro. Para linhas e sequências de marcadores, os scripts japoneses `scenXXXJ.txt` são a referência autoritativa; a versão inglesa serve apenas de apoio contextual.
-- Validar os marcadores PT-BR contra o roteiro japonês correspondente, não contra o inglês, que pode ter sido adaptado.
+- Preservar códigos de controle, placeholders e a organização dos arquivos de roteiro. O conjunto de destinos é delimitado pelos 144 arquivos `.txt` presentes em `scripts/en`; esses nomes servem somente para enumerar os alvos e manter a convenção do builder.
+- Usar os arquivos japoneses correspondentes como autoridade para conteúdo, linhas e sequências de marcadores; validar o PT-BR contra o japonês, não contra o inglês, que pode ter sido adaptado.
 - Para a primeira build, entregar texto dentro do jogo sem acentos, preservando os roteiros aprovados e tratando a normalização no pipeline, não por edição silenciosa dos textos publicados. Deixar o suporte completo a acentos e cedilha para etapa futura condicionada a doações; validar quebras, layout e pipeline da versão inicial.
 - O patcher do release inglês não é um patch PT-BR pronto. Não afirmar que existe uma build aplicável até que o pipeline seja adaptado e testado.
 - Não substituir nem alterar a licença preexistente sem pedido e revisão específicos.
@@ -95,4 +95,4 @@ Os 36 roteiros aprovados e publicados até aqui são lotes de batalha, não a tr
 
 ## Próxima fase: completar a tradução do jogo
 
-Os 36 roteiros de batalha estão publicados; não afirmar que o jogo inteiro está traduzido. O plano atual considera 125 lotes, com 89 restantes. Inventariar os totais por categoria e traduzir menus, itens, textos de sistema e demais recursos, sempre usando o japonês para estrutura e marcadores. Planejar a primeira versão do texto sem acentos, sem alterar os roteiros aprovados. Depois, adaptar e validar o builder v0.8.0 em uma cópia legítima e compatível do disco japonês. Não distribuir imagens de disco nem dados protegidos do jogo.
+Os 36 roteiros de batalha estão publicados; não afirmar que o jogo inteiro está traduzido. Restam 108 dos 144 arquivos-alvo. Seguir o [inventário e a ordem sugerida](docs/PTBR_TEXT_BACKLOG.md), começando por nomes e descrições de itens (`fntsys10` e `fntsys13`) e depois pelos demais recursos. Traduzir sempre a partir do japonês, planejar a primeira versão sem acentos e manter os roteiros aprovados intactos. Depois, adaptar e validar o builder v0.8.0 em uma cópia legítima e compatível do disco japonês. Não distribuir imagens de disco nem dados protegidos do jogo.
