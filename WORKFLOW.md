@@ -14,6 +14,7 @@ Este documento registra o fluxo de trabalho para continuar o projeto com consist
 - Adaptar interjeições e onomatopeias à fala brasileira: não manter transliterações mecânicas como “Kuh”; escolher “Urgh!”, “Ugh!” ou outra forma natural conforme a emoção e a voz do personagem. Para gritos e rugidos de monstros, preferir formas reconhecíveis em quadrinhos ocidentais em português (por exemplo, “GRRAAAH!” e “AAARGH!”), não transliterações silábicas japonesas.
 - Nas falas da tribo Shika, preservar a sintaxe tribal marcada e direta (por exemplo, “Esta ser terra sagrada dos Shika” e “Vocês profanar nossa terra sagrada”), sem normalizar para o português padrão. Em outras vozes, priorizar formulações naturais e concisas.
 - Trabalhar os cenários em ordem. O roteiro seguinte é sempre um rascunho até ser revisado e aprovado por Miruma.
+- Escopo atual: a primeira versão do jogo será sem acentos; o suporte completo à acentuação fica para uma etapa futura, condicionada ao apoio e às doações. Manter os roteiros aprovados intactos; não retirar acentos dos arquivos publicados sem autorização explícita.
 
 ## Ciclo de trabalho de cada cenário
 
@@ -26,6 +27,8 @@ Este documento registra o fluxo de trabalho para continuar o projeto com consist
 7. Atualizar os registros de andamento da página e do README somente quando refletirem o estado real do projeto.
 
 ## Estado aprovado registrado
+
+Os 36 roteiros aprovados e publicados até aqui são lotes de batalha, não a tradução do jogo inteiro. O planejamento atual estima 125 lotes no total e 89 restantes; o total e a divisão por menus, itens, textos de sistema e outras famílias precisam ser confirmados no inventário das fontes japonesas. Não apresentar 36/36 como conclusão geral do jogo.
 
 - Cenário 1: revisado, aprovado e publicado.
 - Cenário 2: revisado, aprovado e publicado.
@@ -68,7 +71,7 @@ Este documento registra o fluxo de trabalho para continuar o projeto com consist
 
 - Preservar códigos de controle, placeholders e a organização dos arquivos de roteiro. Para linhas e sequências de marcadores, os scripts japoneses `scenXXXJ.txt` são a referência autoritativa; a versão inglesa serve apenas de apoio contextual.
 - Validar os marcadores PT-BR contra o roteiro japonês correspondente, não contra o inglês, que pode ter sido adaptado.
-- Antes de uma build PT-BR, ampliar e testar o mapa de glifos para acentos, cedilha e letras maiúsculas/minúsculas; avaliar pares comprimidos; revisar quebras e layout no jogo; validar o pipeline de build em português.
+- Para a primeira build, entregar texto dentro do jogo sem acentos, preservando os roteiros aprovados e tratando a normalização no pipeline, não por edição silenciosa dos textos publicados. Deixar o suporte completo a acentos e cedilha para etapa futura condicionada a doações; validar quebras, layout e pipeline da versão inicial.
 - O patcher do release inglês não é um patch PT-BR pronto. Não afirmar que existe uma build aplicável até que o pipeline seja adaptado e testado.
 - Não substituir nem alterar a licença preexistente sem pedido e revisão específicos.
 
@@ -90,6 +93,6 @@ Este documento registra o fluxo de trabalho para continuar o projeto com consist
 - Manter a indicação de que este é um projeto de fã não oficial e sem afiliação aos titulares de Langrisser III.
 - Não distribuir ROM, ISO, binários do jogo, música, vídeo ou arte extraída. A licença GPL-3.0 existente cobre somente materiais cujos autores possam conceder esses direitos; não concede direitos sobre o jogo ou materiais de terceiros.
 
-## Próxima fase: ferramenta de patch
+## Próxima fase: completar a tradução do jogo
 
-Os 36 roteiros estão publicados. Iniciar a adaptação do builder v0.8.0 para PT-BR, preservando créditos e licença, incorporando a pasta `scripts/pt-br/`, os recursos de texto restantes e a fonte com acentos/cedilha. Validar estrutura e marcadores pelo japonês, fazer QA no jogo e usar somente uma cópia legítima e compatível do disco japonês para os testes. Não distribuir imagens de disco nem dados protegidos do jogo.
+Os 36 roteiros de batalha estão publicados; não afirmar que o jogo inteiro está traduzido. O plano atual considera 125 lotes, com 89 restantes. Inventariar os totais por categoria e traduzir menus, itens, textos de sistema e demais recursos, sempre usando o japonês para estrutura e marcadores. Planejar a primeira versão do texto sem acentos, sem alterar os roteiros aprovados. Depois, adaptar e validar o builder v0.8.0 em uma cópia legítima e compatível do disco japonês. Não distribuir imagens de disco nem dados protegidos do jogo.

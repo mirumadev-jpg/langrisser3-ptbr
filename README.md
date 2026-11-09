@@ -6,7 +6,9 @@
 
 Projeto de fã para traduzir *Langrisser III* (Sega Saturn, Japão) para português brasileiro. A tradução parte do japonês, que também é a referência para linhas e marcadores técnicos; a versão inglesa serve apenas de apoio contextual. A meta é preservar o sentido e o tom de cada cena em uma fala que soe natural no Brasil.
 
-**Estado:** os 36 cenários foram traduzidos, revisados e aprovados. Os roteiros aprovados ficam em `scripts/pt-br/`; a próxima fase é desenvolver e testar a ferramenta de patch PT-BR.
+**Progresso geral:** a estimativa atual considera 125 lotes de texto, total que será validado no inventário das fontes japonesas. Os 36 lotes já traduzidos, revisados e publicados correspondem somente às batalhas; restam 89 na estimativa atual. Menus, itens, magias, habilidades, textos de sistema e outros conteúdos ainda estão pendentes. O jogo inteiro **não** está traduzido.
+
+**Plano da primeira versão:** o texto dentro do jogo será inicialmente sem acentos. O suporte completo à acentuação fica para uma etapa futura, condicionada ao apoio e às doações. Os roteiros aprovados permanecem intactos.
 
 **[Abrir a página do projeto](https://mirumadev-jpg.github.io/langrisser3-ptbr/)** · **[Ver os créditos](CREDITS.md)** · **[Ver os roteiros](scripts/pt-br/)**
 
@@ -16,7 +18,20 @@ Sou Miruma: dev solo, artista, compositor e escritor. Estou trabalhando em jogos
 
 Há milhões de anos (risos), a arte de Satoshi Urushihara me inspirou a desenhar. É uma honra trazer uma obra cuja identidade visual me marcou para mais perto de quem fala português. Também sou entusiasta de jogos com romances possíveis; esse tipo de relação entre personagens me encanta e certamente vai aparecer nos meus próprios jogos.
 
-## Andamento
+## Progresso da tradução do jogo
+
+| Frente | Concluído | Situação |
+|---|---:|---|
+| Total do projeto (estimativa) | 36 de 125 · 29% | 89 lotes ainda pendentes |
+| Roteiros de batalha | 36 de 36 | Traduzidos, revisados e aprovados |
+| Menus e interface | 0 | Total da categoria ainda a inventariar |
+| Itens, magias e habilidades | 0 | Total da categoria ainda a inventariar |
+| Textos de sistema e outros conteúdos | 0 | Total da categoria ainda a inventariar |
+
+A contagem total e a divisão dos 89 lotes restantes por categoria ainda serão conferidas no inventário técnico das fontes japonesas. Os números “0” indicam lotes concluídos, não o tamanho total de cada categoria.
+
+<details>
+<summary>Ver a lista dos 36 roteiros de batalha aprovados</summary>
 
 - Cenário 1 — tradução revisada e aprovada.
 - Cenário 2 — tradução revisada e aprovada.
@@ -55,7 +70,9 @@ Há milhões de anos (risos), a arte de Satoshi Urushihara me inspirou a desenha
 - Cenário 35 — tradução aprovada e publicada.
 - Cenário 36 — tradução revisada, aprovada e publicada.
 
-Os arquivos publicados ficam em [`scripts/pt-br/`](scripts/pt-br/). Eles preservam a sequência de códigos de controle e placeholders do roteiro japonês; a versão inglesa é usada apenas como apoio de contexto.
+</details>
+
+Os 36 arquivos publicados em [`scripts/pt-br/`](scripts/pt-br/) são os roteiros das batalhas. Eles preservam a sequência de códigos de controle e placeholders do roteiro japonês; a versão inglesa é usada apenas como apoio de contexto.
 
 ## Nota de terminologia
 
@@ -67,21 +84,21 @@ Interjeições e onomatopeias também devem soar brasileiras: adaptar sons como 
 
 ## Notas técnicas
 
-A base técnica é o release [v0.8.0 do Langrisser III English Patch](https://github.com/hexerkat/langrisser3-english/releases/tag/v0.8.0), usado como referência para adaptar o builder. O roteiro japonês é a autoridade para a estrutura e os marcadores de controle; a versão inglesa serve apenas de apoio contextual. Os 36 roteiros PT-BR estão completos, mas este repositório ainda não contém um patch aplicável.
+A base técnica é o release [v0.8.0 do Langrisser III English Patch](https://github.com/hexerkat/langrisser3-english/releases/tag/v0.8.0), usado como referência para adaptar o builder. O roteiro japonês é a autoridade para a estrutura e os marcadores de controle; a versão inglesa serve apenas de apoio contextual. Os 36 roteiros de batalha estão completos, mas os outros 89 lotes da estimativa ainda não foram traduzidos e este repositório não contém um patch aplicável.
 
 Antes de uma build PT-BR serão necessários, no mínimo:
 
 - adaptar o builder para localizar os roteiros PT-BR e validar sua estrutura e seus marcadores contra os arquivos japoneses;
-- ampliar o mapa de glifos da fonte para incluir acentos, cedilha, maiúsculas e minúsculas do português; avaliar pares de letras comprimidos;
-- traduzir os recursos de texto que ficam fora dos cenários, como menus, nomes e mensagens do sistema;
-- executar QA de layout em português e testar o resultado no jogo;
+- adaptar o pipeline para que a primeira versão do texto dentro do jogo seja sem acentos, sem reescrever os roteiros aprovados; suporte completo a acentos e cedilha fica para uma etapa futura, condicionada às doações;
+- inventariar e traduzir os lotes que ficam fora das batalhas, como menus, interface, itens, magias, habilidades, nomes e mensagens do sistema;
+- executar QA de layout da versão inicial sem acentos e testar o resultado no jogo;
 - validar o pipeline de build para PT-BR.
 
 O patcher pronto do release é voltado à versão inglesa. Nenhum arquivo de jogo, ROM, ISO, binário, música, vídeo ou arte extraída é distribuído neste repositório. Para jogar, é necessário possuir uma cópia legítima do disco japonês.
 
-## Próxima fase: ferramenta de patch
+## Próxima fase: completar os textos e preparar o patcher
 
-O trabalho seguinte é adaptar o builder v0.8.0 para os recursos PT-BR e testar a geração da imagem localmente com uma cópia legítima e compatível do disco japonês. A ferramenta e o patch só serão considerados prontos após validação do texto, da fonte, dos menus e do funcionamento no jogo.
+O próximo foco é inventariar e traduzir os 89 lotes restantes da estimativa, começando pelos menus, itens e demais textos do jogo. A primeira versão será planejada sem acentos; a versão acentuada fica para uma fase posterior, se houver apoio suficiente. Depois, o builder v0.8.0 será adaptado e testado localmente com uma cópia legítima e compatível do disco japonês. A ferramenta e o patch só serão considerados prontos após validar todos os textos, o layout e o funcionamento no jogo.
 
 ## Créditos
 

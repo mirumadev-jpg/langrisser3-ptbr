@@ -4,11 +4,13 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#11111d">
-  <meta name="description" content="Projeto de tradução de fã de Langrisser III para português brasileiro, por Miruma. Andamento, scripts aprovados, créditos e notas técnicas.">
-  <title>Langrisser III em PT-BR — Miruma</title>
+  <meta name="description" content="Progresso da tradução de fã de Langrisser III para PT-BR: 36 de 125 lotes concluídos; batalhas aprovadas, menus e demais textos ainda pendentes.">
+  <title>Langrisser III em PT-BR — progresso da tradução</title>
   <style>
     :root {
       color-scheme: dark;
+      --ink: #f6f0e6;
+      --muted: #bdb7c7;
       --ink: #f6f0e6;
       --muted: #bdb7c7;
       --night: #11111d;
@@ -96,6 +98,15 @@
     .progress-ring span { display: grid; width: 60px; height: 60px; place-items: center; border: 1px solid var(--line); border-radius: 50%; background: var(--night-2); color: var(--gold); font-size: .94rem; font-weight: 750; }
     .progress-copy strong { display: block; color: var(--ink); font-size: 1rem; }
     .progress-copy span { display: block; color: var(--muted); font-size: .88rem; }
+    .progress-categories { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; margin: 18px 0; }
+    .progress-category { display: flex; align-items: center; gap: 14px; min-width: 0; padding: 17px; border: 1px solid var(--line); border-radius: 16px; background: rgba(30,28,46,.58); }
+    .progress-ring.compact { flex: 0 0 56px; width: 56px; height: 56px; }
+    .progress-ring.compact span { width: 42px; height: 42px; font-size: .82rem; }
+    .progress-note { max-width: 920px; margin: 18px 0 0; color: var(--muted); font-size: .88rem; }
+    .scenario-details { margin-top: 24px; border: 1px solid var(--line); border-radius: 16px; background: rgba(30,28,46,.48); }
+    .scenario-details summary { cursor: pointer; padding: 18px 20px; color: var(--ink); font-weight: 700; }
+    .scenario-details[open] summary { border-bottom: 1px solid var(--line); }
+    .scenario-details .grid { padding: 18px; }
     section { padding: 74px 0; border-top: 1px solid var(--line); }
     .section-head { max-width: 680px; margin-bottom: 30px; }
     h2 { margin-bottom: 10px; font: 500 clamp(2rem, 4vw, 3.1rem)/1.08 Georgia, "Times New Roman", serif; letter-spacing: -.035em; }
@@ -143,6 +154,7 @@
       section { padding: 58px 0; }
       .card, .card.wide { grid-column: 1 / -1; padding: 20px; }
       .hero-actions .button { width: 100%; }
+      .progress-categories { grid-template-columns: 1fr; }
     }
     @media (prefers-reduced-motion: reduce) { *, *::before, *::after { scroll-behavior: auto !important; transition: none !important; } }
   </style>
@@ -172,16 +184,18 @@
         <figure class="hero-banner">
           <img src="langrisser3-ptbr-banner.png" alt="Banner ilustrado de Langrisser III: a protagonista de cabelos prateados diante de uma lua e um castelo, com o título Langrisser III e Tradução PT-BR." fetchpriority="high" decoding="async">
         </figure>
-        <div class="eyebrow">Projeto de fã · tradução concluída · patcher em desenvolvimento</div>
+        <div class="eyebrow">Projeto de fã · 36 de 125 lotes concluídos · tradução geral em andamento</div>
         <h1>Uma aventura clássica,<br><em>mais perto do Brasil.</em></h1>
-        <p class="lede">Langrisser III em português brasileiro. Uma tradução feita com carinho por Miruma, para que mais gente possa conhecer — e viver — essa história.</p>
+        <p class="lede">Os 36 lotes já aprovados cobrem apenas os roteiros de batalha. Menus, itens, textos de sistema e outros conteúdos do jogo ainda aguardam tradução.</p>
         <div class="hero-actions">
           <a class="button primary" href="#andamento">Acompanhar o projeto</a>
           <a class="button" href="https://github.com/mirumadev-jpg/langrisser3-ptbr">Ver no GitHub</a>
           <a class="button" href="https://ko-fi.com/X8X26XMAI" target="_blank" rel="noopener noreferrer">Apoie no Ko-fi</a>
         </div>
         <div class="statusline" aria-label="Resumo do projeto">
-          <span>36 cenários revisados e aprovados</span>
+          <span>36 de 125 lotes concluídos</span>
+          <span>89 lotes restantes na estimativa atual</span>
+          <span>Primeira versão planejada sem acentos</span>
           <span>Projeto não oficial</span>
           <span>Sem ROM ou ISO distribuída</span>
         </div>
@@ -214,13 +228,34 @@
       <div class="wrap">
         <div class="section-head">
           <div class="eyebrow">Andamento</div>
-          <h2>Passo a passo, com revisão.</h2>
-          <p class="section-intro">Os textos são traduzidos em ordem e revisados antes de avançar. A página vai mostrar apenas material aprovado.</p>
+          <h2>O jogo inteiro ainda está em tradução.</h2>
+          <p class="section-intro">O planejamento atual considera 125 lotes de texto. Os 36 já concluídos são somente das batalhas; menus, itens, magias, habilidades, textos de sistema e outros conteúdos ainda estão pendentes.</p>
         </div>
-        <div class="progress-overview" role="group" aria-label="Progresso da tradução, medido pelos cenários aprovados">
-          <div class="progress-ring" role="img" aria-label="100 por cento: 36 de 36 cenários aprovados"><span aria-hidden="true">100%</span></div>
-          <div class="progress-copy"><strong>36 de 36 cenários aprovados</strong><span>Tradução dos cenários concluída; a próxima fase é a ferramenta de patch PT-BR.</span></div>
+        <div class="progress-overview" role="group" aria-label="Progresso geral estimado da tradução">
+          <div class="progress-ring" style="--progress:28.8%" role="img" aria-label="29 por cento: 36 de 125 lotes de texto concluídos"><span aria-hidden="true">29%</span></div>
+          <div class="progress-copy"><strong>36 de 125 lotes concluídos</strong><span>Restam 89 lotes na estimativa atual. Os 36 concluídos são roteiros de batalha; o jogo inteiro ainda não foi traduzido.</span></div>
         </div>
+        <div class="progress-categories" role="group" aria-label="Progresso por frente de tradução">
+          <article class="progress-category">
+            <div class="progress-ring compact" style="--progress:100%" role="img" aria-label="36 roteiros de batalha aprovados"><span aria-hidden="true">36</span></div>
+            <div class="progress-copy"><strong>Batalhas</strong><span>36 lotes aprovados.</span></div>
+          </article>
+          <article class="progress-category">
+            <div class="progress-ring compact" style="--progress:0%" role="img" aria-label="Zero lotes de menus e interface traduzidos; total da categoria a inventariar"><span aria-hidden="true">0</span></div>
+            <div class="progress-copy"><strong>Menus e interface</strong><span>0 concluídos; total desta categoria a inventariar.</span></div>
+          </article>
+          <article class="progress-category">
+            <div class="progress-ring compact" style="--progress:0%" role="img" aria-label="Zero lotes de itens, magias e habilidades traduzidos; total da categoria a inventariar"><span aria-hidden="true">0</span></div>
+            <div class="progress-copy"><strong>Itens, magias e habilidades</strong><span>0 concluídos; total desta categoria a inventariar.</span></div>
+          </article>
+          <article class="progress-category">
+            <div class="progress-ring compact" style="--progress:0%" role="img" aria-label="Zero lotes de textos de sistema e outros conteúdos traduzidos; total da categoria a inventariar"><span aria-hidden="true">0</span></div>
+            <div class="progress-copy"><strong>Textos de sistema e outros</strong><span>0 concluídos; total desta categoria a inventariar.</span></div>
+          </article>
+        </div>
+        <p class="progress-note">A estimativa de 125 lotes ainda será validada contra o inventário das fontes japonesas. A divisão dos 89 restantes por categoria também será conferida; os contadores mostram lotes concluídos, sem inventar subtotais.</p>
+        <details class="scenario-details">
+          <summary>Ver a lista dos 36 roteiros de batalha aprovados</summary>
         <div class="grid">
           <article class="card">
             <span class="tag">Aprovado</span>
@@ -244,7 +279,7 @@
             <span class="tag">Aprovado</span>
             <span class="num">04</span>
             <h3>Cenário 4</h3>
-            <p>Texto revisado e aprovado.</p>
+            <p>Texto revisado e aprovado. <a href="https://github.com/mirumadev-jpg/langrisser3-ptbr/blob/main/scripts/pt-br/scen004E.txt">Abrir arquivo</a>.</p>
           </article>
           <article class="card">
             <span class="tag">Aprovado</span>
@@ -439,6 +474,7 @@
             <p>Texto revisado e aprovado. <a href="https://github.com/mirumadev-jpg/langrisser3-ptbr/blob/main/scripts/pt-br/scen036E.txt">Abrir arquivo</a>.</p>
           </article>
         </div>
+        </details>
       </div>
     </section>
 
@@ -504,8 +540,8 @@
       <div class="wrap">
         <div class="section-head">
           <div class="eyebrow">Notas técnicas</div>
-          <h2>Roteiros completos. Agora, o patcher.</h2>
-          <p class="section-intro">Os 36 cenários estão traduzidos e aprovados. A ferramenta PT-BR ainda precisa ser desenvolvida e testada antes de existir um patch aplicável.</p>
+          <h2>36 lotes concluídos; muito texto ainda falta.</h2>
+          <p class="section-intro">Os 36 roteiros publicados são apenas das batalhas. Ainda restam 89 lotes na estimativa do projeto, além da adaptação e validação da ferramenta PT-BR.</p>
         </div>
         <div class="grid">
           <article class="card">
@@ -514,9 +550,9 @@
             <p>O builder do <a href="https://github.com/hexerkat/langrisser3-english/releases/tag/v0.8.0">patch v0.8.0</a> é a base técnica. O roteiro japonês define linhas e marcadores; o inglês é apenas apoio de contexto.</p>
           </article>
           <article class="card">
-            <span class="num">Fonte e acentos</span>
-            <h3>Português precisa de glifos</h3>
-            <p>A fonte atual não cobre todas as letras acentuadas e cedilha usadas em português. O mapa de glifos e, se necessário, os pares comprimidos precisam ser estendidos antes da build.</p>
+            <span class="num">Escopo da primeira versão</span>
+            <h3>PT-BR inicialmente sem acentos</h3>
+            <p>A primeira versão do patch está planejada sem acentos para reduzir o escopo técnico. O suporte completo a acentos e cedilha fica para uma etapa futura, condicionada ao apoio e às doações. Os roteiros já aprovados não serão reescritos sem autorização.</p>
           </article>
           <article class="card">
             <span class="num">Layout e teste</span>
