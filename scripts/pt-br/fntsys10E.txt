@@ -1,0 +1,177 @@
+Nenhum<$FFFF>
+Espada Masayan<$FFFF>
+Espada Longa<$FFFF>
+Espada Grande<$FFFF>
+Espada Mithril<$FFFF>
+Lamina de Gelo<$FFFF>
+Raijin Ken<$FFFF>
+Hrunting<$FFFF>
+Gram<$FFFF>
+Kusanagi<$FFFF>
+Excalibur<$FFFF>
+Mata-Males<$FFFF>
+Langrisser<$FFFF>
+Alhazard<$FFFF>
+Machadinha<$FFFF>
+Machado Guerra<$FFFF>
+Machado Mithril<$FFFF>
+Machado Demonio<$FFFF>
+Machado Runico<$FFFF>
+Faca<$FFFF>
+Main Gauche<$FFFF>
+Gladius<$FFFF>
+Kris<$FFFF>
+Kunai<$FFFF>
+Lanca de Bambu<$FFFF>
+Lanca de Ferro<$FFFF>
+Tridente<$FFFF>
+Partisana<$FFFF>
+Lanca do Vento<$FFFF>
+Lanca Benkei<$FFFF>
+Gae Bolg<$FFFF>
+Gungnir<$FFFF>
+Clava<$FFFF>
+Mangual<$FFFF>
+Maca-Estrela<$FFFF>
+Haltere de Ferro<$FFFF>
+Martelo Mithril<$FFFF>
+Clava Dagda<$FFFF>
+Mjolnir<$FFFF>
+Cajado Cipreste<$FFFF>
+Cajado<$FFFF>
+Varinha<$FFFF>
+Bastao Cristal<$FFFF>
+Bastao do Mago<$FFFF>
+Cajado de Gelo<$FFFF>
+Cajado da Vida<$FFFF>
+Cajado do Dragao<$FFFF>
+Bastao Santo<$FFFF>
+Bastao Negro<$FFFF>
+Arco de Madeira<$FFFF>
+Arco Curto<$FFFF>
+Arco Longo<$FFFF>
+Besta<$FFFF>
+Arco Elfico<$FFFF>
+Arco do Sono<$FFFF>
+Hadding<$FFFF>
+Arco de Artemis<$FFFF>
+Izayoi<$FFFF>
+Kiku-ichimonji<$FFFF>
+Kotetsu<$FFFF>
+Masamune<$FFFF>
+Muramasa<$FFFF>
+Lanca<$FFFF>
+Lanca de Mithril<$FFFF>
+Lanca de Sangue<$FFFF>
+Lanca do Dragao<$FFFF>
+Lanca Fogo<$FFFF>
+Zuftaf<$FFFF>
+Armad. de Placas<$FFFF>
+Armad. de Prata<$FFFF>
+Placa Cavaleiro<$FFFF>
+Armad. Aura<$FFFF>
+Traje de Assalto<$FFFF>
+Cota de Malha<$FFFF>
+Armad. da Terra<$FFFF>
+Peitoral<$FFFF>
+Escama de Dragao<$FFFF>
+Armad. Guerreiro<$FFFF>
+Armad. de Eneias<$FFFF>
+Armad. de Couro<$FFFF>
+Couro Reforcado<$FFFF>
+Traje Negro<$FFFF>
+Roupa de Pano<$FFFF>
+Manto<$FFFF>
+Vaselina<$FFFF>
+Biquini Magico<$FFFF>
+Manto da Miragem<$FFFF>
+Manto Celeste<$FFFF>
+Manto Sombrio<$FFFF>
+Vestido da Deusa<$FFFF>
+Escudo Pequeno<$FFFF>
+Broquel<$FFFF>
+Bracelete Defesa<$FFFF>
+Bracelete Poder<$FFFF>
+Pulseira Milagre<$FFFF>
+Escudo Grande<$FFFF>
+Pata<$FFFF>
+Escudo Dragao<$FFFF>
+Escudo Magico<$FFFF>
+Escudo Aquiles<$FFFF>
+Faixa<$FFFF>
+Bone de Couro<$FFFF>
+Tiara<$FFFF>
+Coroa<$FFFF>
+Diadema<$FFFF>
+Veu de Luz<$FFFF>
+Capuz Ninja<$FFFF>
+Sallet<$FFFF>
+Armet<$FFFF>
+Elmo Mithril<$FFFF>
+Elmo Egil<$FFFF>
+Orbe<$FFFF>
+Circulo Magico<$FFFF>
+Talisma<$FFFF>
+Gjallarhorn<$FFFF>
+Brasao Imortal<$FFFF>
+Gleipnir<$FFFF>
+Pena de Anjo<$FFFF>
+Pacto de Sangue<$FFFF>
+Orbe de Fogo<$FFFF>
+Amuleto Real<$FFFF>
+Cruz<$FFFF>
+Colar<$FFFF>
+Amuleto<$FFFF>
+Anel de Protecao<$FFFF>
+Anel do Poder<$FFFF>
+Brinco Estelar<$FFFF>
+Anel do Anjo<$FFFF>
+Anel Espiritual<$FFFF>
+Megingjardar<$FFFF>
+Draupnir<$FFFF>
+Anel de Laurin<$FFFF>
+Colar Soberano<$FFFF>
+Ankh de Cristal<$FFFF>
+Liga<$FFFF>
+Grevas<$FFFF>
+Botas Rapidas<$FFFF>
+Erva Magica<$FFFF>
+Pedra Runica<$FFFF>
+Nectar<$FFFF>
+Ambrosia<$FFFF>
+Semente de Valor<$FFFF>
+Folha do Vigor<$FFFF>
+Fruto Sabio<$FFFF>
+Fruto da Forca<$FFFF>
+Fruto Vital<$FFFF>
+Fruto da Defesa<$FFFF>
+Pedra do Heroi<$FFFF>
+Brasao Cavaleiro<$FFFF>
+Ovo Antigo<$FFFF>
+Tomo de Scathach<$FFFF>
+Asas Celestiais<$FFFF>
+Manual Secreto<$FFFF>
+Coracao Morto<$FFFF>
+Agua do Demonio<$FFFF>
+Sangue Espectral<$FFFF>
+Pedra Draconica<$FFFF>
+Grimorio Branco<$FFFF>
+Simbolo Santo<$FFFF>
+Grimorio Negro<$FFFF>
+Simbolo Magico<$FFFF>
+Flecha de Apolo<$FFFF>
+Flecha Destino<$FFFF>
+Lagrima Sereia<$FFFF>
+Bencao Divina<$FFFF>
+Runa da Terra<$FFFF>
+Runa do Vento<$FFFF>
+Runa da Luz<$FFFF>
+Runa Celeste<$FFFF>
+Runa da Agua<$FFFF>
+Runa do Trovao<$FFFF>
+Runa da Floresta<$FFFF>
+Runa do Fogo<$FFFF>
+Runa Espectral<$FFFF>
+Runa do Dragao<$FFFF>
+Runa do Demonio<$FFFF>
+Runa do Demonio<$FFFF>

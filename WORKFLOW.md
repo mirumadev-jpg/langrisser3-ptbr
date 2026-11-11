@@ -28,7 +28,7 @@ Este documento registra o fluxo de trabalho para continuar o projeto com consist
 
 ## Estado aprovado registrado
 
-Os 36 roteiros aprovados e publicados até aqui são lotes de batalha, não a tradução do jogo inteiro. O escopo de acompanhamento é o conjunto de 144 arquivos `.txt` em `scripts/en` da base do patcher: 36 concluídos e 108 pendentes, contando um arquivo como um lote. Essa contagem mede arquivos, não volume de texto. Não apresentar 36/36 como conclusão geral do jogo.
+Há 40 arquivos PT-BR aprovados e publicados no inventário de 144 alvos: 36 roteiros de batalha, três lotes do prólogo (`scen122`–`scen124`) e a tabela de nomes de itens (`fntsys10`). Restam 104 arquivos pendentes. Um arquivo equivale a um lote; a contagem mede arquivos, não volume de texto. Não apresentar os 36 roteiros de batalha como conclusão geral do jogo.
 
 - Cenário 1: revisado, aprovado e publicado.
 - Cenário 2: revisado, aprovado e publicado.
@@ -66,6 +66,9 @@ Os 36 roteiros aprovados e publicados até aqui são lotes de batalha, não a tr
 - Cenário 34: aprovado e publicado conforme aprovação explícita de Miruma.
 - Cenário 35: aprovado e publicado conforme aprovação explícita de Miruma.
 - Cenário 36: revisado, aprovado e publicado conforme solicitação explícita de Miruma.
+- Cenários 122, 123 e 124: prólogo aprovado e publicado; usar os arquivos japoneses como referência estrutural e não reabrir a revisão de conteúdo já aprovado.
+- Cenário 124: Miruma autorizou correções somente de pontuação. O arquivo final mantém palavras, nomes e espaços; ajustes de layout são feitos apenas com marcadores `<$FFFC>`/`<$FFFD>`. O QA de layout PT-BR registra zero erros bloqueadores, mas o teste final no jogo ainda depende do patcher e de uma ISO japonesa legítima.
+- `fntsys10E.txt`: nomes de itens aprovados, 177 registros, sem acentos.
 
 ## Regras técnicas e de qualidade
 

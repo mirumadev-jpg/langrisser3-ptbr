@@ -6,7 +6,7 @@
 
 Projeto de fã para traduzir *Langrisser III* (Sega Saturn, Japão) para português brasileiro. Os 144 nomes de arquivos `.txt` da base inglesa delimitam o inventário de destinos; o conteúdo, as linhas e os marcadores são traduzidos e validados a partir do japonês. A meta é preservar o sentido e o tom de cada cena em uma fala que soe natural no Brasil.
 
-**Progresso geral:** o inventário fechado da base do patcher contém 144 arquivos `.txt` em `scripts/en`. Há 36 arquivos PT-BR traduzidos, revisados e publicados (25% por contagem de arquivos) e 108 pendentes. O percentual não mede volume de palavras. O jogo inteiro **não** está traduzido.
+**Progresso geral:** o inventário fechado da base do patcher contém 144 arquivos `.txt` em `scripts/en`. Há 40 arquivos PT-BR aprovados e publicados (27,8% por contagem de arquivos) e 104 pendentes: 36 roteiros de batalha, três lotes do prólogo (`scen122`–`scen124`) e os nomes de itens (`fntsys10`). O percentual não mede volume de palavras. O jogo inteiro **não** está traduzido.
 
 **Plano da primeira versão:** o texto dentro do jogo será inicialmente sem acentos. O suporte completo à acentuação fica para uma etapa futura, condicionada ao apoio e às doações. Os roteiros aprovados permanecem intactos.
 
@@ -22,10 +22,10 @@ Há milhões de anos (risos), a arte de Satoshi Urushihara me inspirou a desenha
 
 | Família de arquivos | Concluído | Situação |
 |---|---:|---|
-| Total de arquivos-alvo | 36 de 144 · 25% | 108 arquivos pendentes |
+| Total de arquivos-alvo | 40 de 144 · 27,8% | 104 arquivos pendentes |
 | Roteiros de batalha (`scen001`–`scen036`) | 36 de 36 | Traduzidos, revisados e aprovados |
-| Demais roteiros (`scen037`–`scen125`) | 0 de 89 | Pendentes de tradução e revisão |
-| Menus, sistema e itens (`fntsys1`–`fntsys15`) | 0 de 15 | Pendentes; `fntsys10` contém nomes e `fntsys13` descrições de itens |
+| Demais roteiros (`scen037`–`scen125`) | 3 de 89 | Prólogo `scen122`–`scen124` aprovado; 86 pendentes |
+| Menus, sistema e itens (`fntsys1`–`fntsys15`) | 1 de 15 | `fntsys10` (nomes de itens) aprovado; 14 pendentes, incluindo `fntsys13` (descrições) |
 | Progressão, magia, habilidade e janela (`plot`, `prog3_magic`, `prog3_skill`, `syswin`) | 0 de 4 | Pendentes |
 
 O escopo e os estados por arquivo estão no [inventário completo](docs/PTBR_TEXT_BACKLOG.md). A lista inglesa define somente os arquivos-alvo; as traduções e os marcadores são conferidos com as fontes japonesas. A contagem é por arquivo, não por volume de texto.
@@ -72,7 +72,16 @@ O escopo e os estados por arquivo estão no [inventário completo](docs/PTBR_TEX
 
 </details>
 
-Os 36 arquivos publicados em [`scripts/pt-br/`](scripts/pt-br/) são os roteiros das batalhas. Eles preservam a sequência de códigos de controle e placeholders do roteiro japonês; a versão inglesa é usada apenas para delimitar o inventário de destinos, nunca como fonte de tradução.
+<details>
+<summary>Ver os três roteiros do prólogo aprovados</summary>
+
+- [Prólogo — scen122E.txt](scripts/pt-br/scen122E.txt)
+- [Prólogo — scen123E.txt](scripts/pt-br/scen123E.txt)
+- [Prólogo — scen124E.txt](scripts/pt-br/scen124E.txt)
+
+</details>
+
+Os 39 roteiros publicados em [`scripts/pt-br/`](scripts/pt-br/) incluem as 36 batalhas e os três lotes do prólogo. O arquivo [`fntsys10E.txt`](scripts/pt-br/fntsys10E.txt) contém os nomes de itens aprovados. Os roteiros mantêm seus códigos de controle e placeholders; o japonês é a fonte de conteúdo.
 
 ## Nota de terminologia
 
@@ -84,13 +93,13 @@ Interjeições e onomatopeias também devem soar brasileiras: adaptar sons como 
 
 ## Notas técnicas
 
-A base técnica é o release [v0.8.0 do Langrisser III English Patch](https://github.com/hexerkat/langrisser3-english/releases/tag/v0.8.0), usado como referência para adaptar o builder. O inventário de trabalho contém seus 144 arquivos `.txt`; os 36 roteiros de batalha estão completos e 108 arquivos-alvo continuam pendentes. O japonês é a autoridade para conteúdo, estrutura e marcadores. Este repositório não contém um patch aplicável.
+A base técnica é o release [v0.8.0 do Langrisser III English Patch](https://github.com/hexerkat/langrisser3-english/releases/tag/v0.8.0), usado como referência para adaptar o builder. O inventário de trabalho contém seus 144 arquivos `.txt`; há 40 arquivos PT-BR aprovados e 104 ainda pendentes. O japonês é a autoridade para conteúdo, estrutura e marcadores. Este repositório não contém um patch aplicável.
 
 Antes de uma build PT-BR serão necessários, no mínimo:
 
 - adaptar o builder para localizar os roteiros PT-BR e validar sua estrutura e seus marcadores contra os arquivos japoneses;
 - adaptar o pipeline para que a primeira versão do texto dentro do jogo seja sem acentos, sem reescrever os roteiros aprovados; suporte completo a acentos e cedilha fica para uma etapa futura, condicionada às doações;
-- traduzir os 108 arquivos pendentes do inventário: 89 roteiros `scen`, 15 recursos `fntsys` e 4 arquivos de progressão/tabelas/janelas;
+- traduzir os 104 arquivos pendentes do inventário: 86 roteiros `scen`, 14 recursos `fntsys` e 4 arquivos de progressão/tabelas/janelas;
 - executar QA de layout da versão inicial sem acentos e testar o resultado no jogo;
 - validar o pipeline de build para PT-BR.
 
@@ -98,7 +107,7 @@ O patcher pronto do release é voltado à versão inglesa. Nenhum arquivo de jog
 
 ## Próxima fase: completar os textos e preparar o patcher
 
-O próximo foco é traduzir os 108 arquivos pendentes, começando por nomes e descrições de itens (`fntsys10` e `fntsys13`), seguindo pelos demais recursos de sistema/UI e, então, pelas outras famílias do [inventário](docs/PTBR_TEXT_BACKLOG.md). A primeira versão será planejada sem acentos; a versão acentuada fica para uma fase posterior, se houver apoio suficiente. Depois, o builder v0.8.0 será adaptado e testado localmente com uma cópia legítima e compatível do disco japonês. A ferramenta e o patch só serão considerados prontos após validar todos os textos, o layout e o funcionamento no jogo.
+O próximo foco é traduzir os 104 arquivos pendentes, começando pelas descrições de itens (`fntsys13`), já que os nomes (`fntsys10`) estão aprovados, e seguindo pelos demais recursos de sistema/UI e pelas outras famílias do [inventário](docs/PTBR_TEXT_BACKLOG.md). A primeira versão será planejada sem acentos; a versão acentuada fica para uma fase posterior, se houver apoio suficiente. Depois, o builder v0.8.0 será adaptado e testado localmente com uma cópia legítima e compatível do disco japonês. A ferramenta e o patch só serão considerados prontos após validar todos os textos, o layout e o funcionamento no jogo.
 
 ## Créditos
 
